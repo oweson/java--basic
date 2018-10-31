@@ -1,6 +1,5 @@
 package javas;
 
-import org.junit.experimental.categories.Categories;
 
 public class Cat {
 	private int age;
