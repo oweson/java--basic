@@ -1,6 +1,5 @@
 package classic.onehundred;
 
-import lombok.val;
 
 /**
  * the class is create by @Author:oweson

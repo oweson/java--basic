@@ -1,9 +1,7 @@
 package com.heima.day27.bean;
 
-import lombok.Data;
 
 
-@Data
 public class TestKeyMap {
    private  int age;
 

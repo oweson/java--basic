@@ -9,7 +9,16 @@ public class a {
     /**
      * hello,this a method just to test
      */
-    public void test() {
+    public void test(int ee) {
+
+        System.out.println("ee = [" + ee + "]");
+        Integer aa=9;
+        if (aa == null) {
+            if (aa != null) {
+
+            }
+        }
+        int a=0;
         System.out.println("hello");
     }
 
