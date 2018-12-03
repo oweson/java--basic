@@ -2,7 +2,23 @@ package chapter03;
 
 import java.util.Objects;
 
-public class Student {
+public class Student implements Comparable<Student> {
+    public static void main(String[] args) {
+        Student student = new Student();
+        Student student1 = new Student();
+        Student student2 = new Student();
+        student.setName("aaa");
+        student1.setName("aaa");
+        student2.setName("bbb");
+        System.out.println(student.compareTo(student1));
+        /**不等于*/
+        System.out.println(student.compareTo(student2));
+        System.out.println(student.compareTo(student));
+    }
+
+    public Student() {
+    }
+
     public int age;
     public String name, sno;
 
@@ -68,5 +84,15 @@ public class Student {
     public int hashCode() {
 
         return Objects.hash(getAge(), getName(), getSno());
+    }
+
+    @Override
+    public int compareTo(Student student) {
+        if (this.getName().compareTo(student.getName()) > 0) {
+            return 1;
+        } else if (this.getName().compareTo(student.getName()) < 0) {
+            return -1;
+        }
+        return 0;
     }
 }
