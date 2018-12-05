@@ -2,7 +2,7 @@ package eclipse.mar.book;
 
 import java.util.Scanner;
 
-public class a {
+public class SumTest {
     // public class SumOfHundred {
     public static void demo(int i) {
         int sum = 0;

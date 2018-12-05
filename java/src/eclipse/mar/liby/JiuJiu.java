@@ -1,6 +1,6 @@
 package eclipse.mar.liby;
 
-public class Jiu {
+public class JiuJiu {
     public static void demo1() {
         for (int a = 9; a > 0; a--) {
             for (int b = 1; b <= a; b++) {
@@ -14,7 +14,7 @@ public class Jiu {
      * @param args
      */
     public static void main(String[] args) {
-        Jiu.demo1();
+        JiuJiu.demo1();
         // TODO Auto-generated method stub
 
     }

@@ -7,7 +7,7 @@ package eclipse.mar.book;
 
 public class FanxingClass<T> {
     public static <T> T testSth(T... a) {
-        //System.out.println(T);
+
 
         return null;
 
@@ -16,8 +16,8 @@ public class FanxingClass<T> {
     public static void main(String[] args) {
         Integer testSth = testSth(1, 2, 3);
         String testSth2 = testSth("21,", "22");
-        System.out.println(testSth2);
-        System.out.println(testSth2);
+        System.out.println(testSth2.charAt(0));
+        System.out.println(testSth2.charAt(1));
 
     }
 

@@ -1,8 +1,8 @@
 package eclipse.mar.copy;
 
 public interface Girl {
-    public void pao();
+     void pao();
 
-    public void dosomething();
+     void dosomething();
 
 }

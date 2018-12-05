@@ -1,6 +1,6 @@
 package eclipse.mar.book;
 
-public class aa {
+public class InnerTest {
     public void demo1() {
         System.out.println(1001);
     }
@@ -9,7 +9,7 @@ public class aa {
      * @param args
      */
     public static void main(String[] args) {
-        new aa() {
+        new InnerTest() {
             @Override
             public void demo1() {
                 System.out.println(211);

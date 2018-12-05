@@ -10,6 +10,7 @@ import java.util.Random;
 public class TestRandom {
     public static void main(String[] args) {
         Random random = new Random();
+        /**一般用于生成订单*/
         int a = random.nextInt(100) + 10;
         /*生成随机的字符差是string 类型的*/
 

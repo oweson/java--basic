@@ -11,8 +11,8 @@ import java.util.List;
 public class TestArrayList {
     public static void main(String[] args) {
         List<String> asList = Arrays.asList("a");
-        // asList.add("21");
-        // 并不是真正的集合
+        asList.add("23");
+        /** 并不是真正的集合,是集合的内部类，注意！！！*/
         System.out.println(asList);
     }
 }
