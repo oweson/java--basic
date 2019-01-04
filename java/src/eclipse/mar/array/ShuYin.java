@@ -6,11 +6,10 @@ public class ShuYin {
      * @param args
      */
     public static void main(String[] args) {
-        //查找指定元素出现的的第一次诉因；
+        //查找指定元素出现的的第一次索引；
         int[] arr = {1, 2, 33, 44, 55, 66, 77, 88, 109};
         int index = getIndex(arr, 200);
         System.out.println(index);
-        // TODO Auto-generated method stub
 
     }
 
@@ -21,7 +20,6 @@ public class ShuYin {
             }
 
         }
-        // TODO Auto-generated method stub
         return -100;
     }
 

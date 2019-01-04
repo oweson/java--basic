@@ -6,8 +6,7 @@ public class Demo3 {
      * @param args
      */
     public static void main(String[] args) {
-        //demo1();
-        // TODO Auto-generated method stub
+        demo1();
 
     }
 

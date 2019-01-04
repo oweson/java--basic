@@ -20,7 +20,7 @@ public class ArrayMax {
                 max = arr[i];
             }
         }
-        // TODO Auto-generated method stub
+
         return max;
     }
 

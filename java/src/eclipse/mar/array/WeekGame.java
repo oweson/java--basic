@@ -25,13 +25,11 @@ public class WeekGame {
             }
             System.out.println("today is" + week(a));
         }
-        // TODO Auto-generated method stub
 
     }
 
     private static char week(int a) {
         char[] abc = {'一', '二'};
-        // TODO Auto-generated method stub
         return abc[a];
     }
 

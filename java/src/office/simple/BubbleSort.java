@@ -13,7 +13,7 @@ public class BubbleSort {
                     int tem = a[j];
                     a[j] = a[j + 1];
                     a[j + 1] = tem;
-                    /**道德往后放*/
+                    /**大的往后放*/
 
                 }
 

@@ -16,7 +16,6 @@ public class Demo2 {
         System.out.println(ff.length);
         ff[2] = 21;
         System.out.println(ff[2]);
-        // TODO Auto-generated method stub
 
     }
 
