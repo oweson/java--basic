@@ -24,7 +24,6 @@ public class ListDemo {
         list.removeAll(list);
         System.out.println(list.size());
         Random r = new Random();
-        // int nextInt = r.nextInt(100);
         Set s = new HashSet<Integer>();
         int count = 0;
         while (true) {

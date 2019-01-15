@@ -1,8 +1,6 @@
 package top.sea521.factory.simplefactory;
 
 
-import java.util.Calendar;
-
 /**
  * the class is create by @Author:oweson
  *
@@ -10,7 +8,6 @@ import java.util.Calendar;
  */
 public class TestMainVideo {
     public static void main(String[] args) {
-        Calendar c;
         VideoFactory videoFactory = new VideoFactory();
         Video video = videoFactory.getVideo(JavaVideo.class);
         Video video02 = videoFactory.getVideo(PythonVideo.class);
@@ -23,6 +20,6 @@ public class TestMainVideo {
             return;
         }
         java.open();
-        ;
+
     }
 }

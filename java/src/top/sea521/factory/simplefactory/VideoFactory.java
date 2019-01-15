@@ -8,7 +8,7 @@ package top.sea521.factory.simplefactory;
  */
 public class VideoFactory {
     /**
-     * 反射实现提高复用性
+     * 1 反射实现提高复用性
      */
     public Video getVideo(Class c) {
         Video video = null;

@@ -22,13 +22,10 @@ public class CaiPiao {
         System.out.println(sb.toString());
     }
 
-    /**
-     * @param args
-     */
+
     public static void main(String[] args) {
         demo1();
 
-        // TODO Auto-generated method stub
 
     }
 

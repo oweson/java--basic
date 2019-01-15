@@ -37,10 +37,6 @@ public class TestLambda01 {
         System.out.println(operate);
         int operate2 = testLambda01.operate(1, 1, addition1);
         System.out.println(operate2);
-        // int operate = testLambda01.operate(12, 100, addition1);
-        // System.out.println(operate);
-
-        // TODO Auto-generated method stub
 
     }
 

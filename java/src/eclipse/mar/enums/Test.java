@@ -1,1 +1,0 @@
-package eclipse.mar.enums;

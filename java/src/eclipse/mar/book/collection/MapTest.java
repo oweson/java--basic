@@ -13,7 +13,6 @@ public class MapTest {
         Set<String> keySet = map.keySet();
         Iterator<String> iterator = keySet.iterator();
 
-        // Iterator<String> iterator = map.keySet().iterator();
         while (iterator.hasNext()) {
             String next = iterator.next();
             System.out.println(next + map.get(next));

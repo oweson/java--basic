@@ -10,12 +10,8 @@ public class JiuJiu {
         }
     }
 
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
         JiuJiu.demo1();
-        // TODO Auto-generated method stub
 
     }
 

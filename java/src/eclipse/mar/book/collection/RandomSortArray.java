@@ -29,7 +29,6 @@ public class RandomSortArray {
             System.out.println(value);
         }
 
-        // TODO Auto-generated method stub
 
     }
 

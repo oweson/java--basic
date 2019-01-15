@@ -16,8 +16,11 @@ public class MyLambda {
         Set set = new HashSet<>();
         set.add(10);
         set.add(21);
+        /**这两种方法都是一样的！！！*/
         set.forEach(pp -> System.out.println(pp));
-        // set.add(e)
+        set.forEach(System.out::println);
+
+
     }
 
 }

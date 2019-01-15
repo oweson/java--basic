@@ -33,7 +33,6 @@ public class GeneralForDemo {
             System.out.print(a.get(i) + " ");
 
         }
-        // TODO Auto-generated method stub
 
     }
 

@@ -19,12 +19,12 @@ public class People {
     public static void main(String[] args) {
         People people = new People();
         Student student = new Student();
-        student.setId(22);
         student.setId(21);
         student.setName("asasas");
-        // 把student属性注入到people中；
+        /**把student属性注入到people中；*/
         people.setStudent(student);
         System.out.println(people.student.id);
+        System.out.println(people.student.name);
 
 
     }

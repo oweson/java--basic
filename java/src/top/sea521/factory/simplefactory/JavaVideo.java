@@ -1,7 +1,5 @@
 package top.sea521.factory.simplefactory;
 
-import java.util.Date;
-
 /**
  * the class is create by @Author:oweson
  *
@@ -10,7 +8,7 @@ import java.util.Date;
 
 
 public class JavaVideo extends Video {
-    Date date  = new Date();
+
     @Override
     public void open() {
         System.out.println("java video");

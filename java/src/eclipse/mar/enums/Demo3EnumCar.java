@@ -11,12 +11,10 @@ public enum Demo3EnumCar {
 
     Demo3EnumCar(int p) {
         this.price = p;
-        // TODO Auto-generated constructor stub
+
     }
 
-    /*
-     * Car(int p) { price = p; }
-     */
+
     int getPrice() {
         return price;
     }
