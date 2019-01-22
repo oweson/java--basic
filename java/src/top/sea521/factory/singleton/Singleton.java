@@ -43,10 +43,18 @@ public class Singleton {
 
     private Singleton() {
     }
-    /**不加锁可能new两次！*/
+
+    /**
+     * 不加锁可能new两次！
+     */
     public static Singleton getSingleton() {
         if (singleton == null) {
             synchronized (Singleton.class) {
+                //1.分配内存给这个对象
+//                  //3.设置lazyDoubleCheckSingleton 指向刚分配的内存地址
+                //2.初始化对象
+//                    intra-thread semantics
+//                    ---------------//3.设置lazyDoubleCheckSingleton 指向刚分配的内存地址
                 if (singleton == null) {
                     singleton = new Singleton();
                 }

@@ -11,6 +11,13 @@ public class Test {
         Thread thread02 = new Thread(new T());
         thread.start();
         thread02.start();
+        System.out.println("threadLocal test!");
+        MyThreadLocalTest instance = MyThreadLocalTest.getInstance();
+        MyThreadLocalTest instance02 = MyThreadLocalTest.getInstance();
+        System.out.println(instance);
+        System.out.println(instance02);
+        Runtime.getRuntime();
+
 
     }
 }

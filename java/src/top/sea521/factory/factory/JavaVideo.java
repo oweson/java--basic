@@ -10,7 +10,6 @@ import java.util.Date;
 
 
 public class JavaVideo extends Video {
-    Date date  = new Date();
     @Override
     public void open() {
         System.out.println("java video");

@@ -9,7 +9,7 @@ public class Hungry {
     /**
      * 1 饿汉模式！
      */
-    public static final Hungry hugry;
+    private static final Hungry hugry;
 
     static {
         hugry = new Hungry();

@@ -5,9 +5,9 @@ package top.sea521.factory.prototype;
  *
  * @Date：2018/11/27 0027 20:12
  */
-public class Mail implements Cloneable{
+public class Mail implements Cloneable {
     private String name;
-    private String  content;
+    private String content;
     private String emailAddress;
 
     @Override
@@ -25,6 +25,9 @@ public class Mail implements Cloneable{
                 '}';
     }
 
+    /**
+     * set and get fun;
+     */
     public String getName() {
         return name;
     }
