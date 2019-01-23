@@ -7,11 +7,9 @@ public class Xmq {
      */
     public static void main(String[] args) {
         Pjl p = new Pjl();
-        Zhaoyuqing z = new Zhaoyuqing();
-        Mp m = new Mp(z);
+        Mp m = new Mp(p);
         m.dosomething();
         m.pao();
-        // TODO Auto-generated method stub
 
     }
 

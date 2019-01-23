@@ -24,6 +24,7 @@ public class DeadLock {
         }.start();
 
         new Thread() {
+            @Override
             public void run() {
                 while (true) {
                     synchronized (s2) {

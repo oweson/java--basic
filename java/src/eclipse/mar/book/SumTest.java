@@ -30,9 +30,7 @@ public class SumTest {
 
         }
 
-        // TODO Auto-generated method stub
-        // TODO Auto-generated method stub
-        // System.out.println(10000);
+
 
     }
 

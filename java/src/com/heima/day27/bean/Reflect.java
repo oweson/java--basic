@@ -8,6 +8,7 @@ package com.heima.day27.bean;
 public class Reflect {
     public static void main(String[] args) throws Exception {
         Class<?> aClass = Class.forName("com.heima.day27.bean.Person");
+        /** 1 全类名*/
         System.out.println(aClass);
         Class<Person> personClass = Person.class;
         Person p = new Person();

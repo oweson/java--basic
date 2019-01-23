@@ -3,7 +3,7 @@ package chapter03;
 public class DuixiangArray {
 
     public static void main(String[] args) {
-        //存储学生对象
+        /** 1 存储学生对象*/
         Student[] arr = new Student[5];
         arr[0] = new Student("张三", 23);
         arr[1] = new Student("李四", 24);

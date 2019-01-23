@@ -10,9 +10,11 @@ public class Student implements Comparable<Student> {
         student.setName("aaa");
         student1.setName("aaa");
         student2.setName("bbb");
+        /**true--0*/
         System.out.println(student.compareTo(student1));
-        /**不等于*/
+        /**false----  -1*/
         System.out.println(student.compareTo(student2));
+        /**true 0*/
         System.out.println(student.compareTo(student));
     }
 
@@ -66,14 +68,17 @@ public class Student implements Comparable<Student> {
     }
 
     public int getAge1() {
-        // TODO Auto-generated method stub
         return 0;
     }
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Student)) return false;
+        if (this == o) {
+            return true;
+        }
+        if (!(o instanceof Student)) {
+            return false;
+        }
         Student student = (Student) o;
         return getAge() == student.getAge() &&
                 Objects.equals(getName(), student.getName()) &&

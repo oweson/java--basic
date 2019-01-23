@@ -1,25 +1,17 @@
 package com.thread;
 
 /**
- * the class is create by @Author:oweson
- *
- * @Date：2018/6/22 0022 21:56
+ * @Author:oweson
+ * @Date :2018/5/27 0027 21:40
+ * @色厉而胆薄，好谋而寡断
  */
 public class Thread01 {
     public static void main(String[] args) {
-        for (int i = 0; i < 1000; i++) {
-            System.out.println(i + "jaas");
-        }
-        for (int k = 0; k < 21000; k += 100) {
-            new Finals();
-        }
-    }
-}
-
-class Finals {
-    @Override
-    protected void finalize() throws Throwable {
-        // super.finalize();
-        System.out.println("垃圾被回收....");
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("我是一只猪！");
+            }
+        }).start();
     }
 }
