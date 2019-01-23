@@ -9,13 +9,13 @@ public class Mp implements Girl {
 
         // TODO Auto-generated constructor stub
     }
-
+       @Override
     public void dosomething() {
         g.dosomething();
         // TODO Auto-generated method stub
 
     }
-
+   @Override
     public void pao() {
         g.pao();
         // TODO Auto-generated method stub

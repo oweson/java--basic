@@ -9,9 +9,6 @@ package com.heima.day27.bean;
 public class Student {
 
 
-    /**
-     * name : ppx
-     */
 
     private String name;
 
