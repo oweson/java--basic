@@ -1,7 +1,6 @@
 package top.sea521.javamiddle.demo2;
 
-import com.sun.xml.internal.ws.api.pipe.NextAction;
-import com.thread.SellTicket;
+import eclipse.mar.thread.SellTicket;
 
 import java.util.*;
 
