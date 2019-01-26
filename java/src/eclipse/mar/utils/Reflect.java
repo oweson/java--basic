@@ -1,6 +1,5 @@
 package eclipse.mar.utils;
 
-import github.some.basic.my.utils.Person;
 
 /**
  * @Author:oweson
