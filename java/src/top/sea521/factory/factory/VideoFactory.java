@@ -8,7 +8,7 @@ package top.sea521.factory.factory;
  */
 public abstract class VideoFactory {
     /**
-     * 不确定用抽象类，确定可以接口
+     * 1 不确定用抽象类，确定可以接口
      */
     public abstract Video getVideo();
 

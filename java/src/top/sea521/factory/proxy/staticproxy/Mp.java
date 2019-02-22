@@ -1,4 +1,4 @@
-package eclipse.mar.staticproxy;
+package top.sea521.factory.proxy.staticproxy;
 
 public class Mp implements Girl {
     private Girl g;

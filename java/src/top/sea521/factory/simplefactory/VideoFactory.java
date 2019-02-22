@@ -24,6 +24,9 @@ public class VideoFactory {
         return video;
     }
 
+    /**
+     * 2 普通的工厂！
+     */
     public static Video generator(String type) {
         if ("java".equalsIgnoreCase(type)) {
             return new JavaVideo();

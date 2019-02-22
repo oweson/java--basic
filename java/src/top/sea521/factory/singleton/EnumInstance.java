@@ -8,6 +8,7 @@ import sun.security.jca.GetInstance;
  * @Date：2019/1/21 0021 11:47
  */
 public enum EnumInstance {
+
     INSTANCE{
         protected  void printTest(){
             System.out.println("Geely Print Test");
