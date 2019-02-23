@@ -11,7 +11,7 @@ public class Demo14Generic {
          泛型的用法是在容器后面添加<Type>
          Type可以是类，抽象类，接口
          泛型表示这种容器，只能存放APHero，ADHero就放不进去了。*/
-        /** 2 子类对象 顶 折 纠 问
+        /** 2 子类对象
          假设容器的泛型是Hero,那么Hero的子类APHero,ADHero都可以放进去
          和Hero无关的类型Item还是放不进去*/
         /**  3 设计一个支持泛型的栈MyStack

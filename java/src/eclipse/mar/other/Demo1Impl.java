@@ -3,7 +3,7 @@ package eclipse.mar.other;
 public class Demo1Impl implements Demo1 {
      @Override
     public int add() {
-        System.out.println(a);
+        System.out.println(A);
         return 0;
     }
 
