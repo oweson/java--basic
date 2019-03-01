@@ -51,6 +51,8 @@ public class Computer {
                 case "enter":
                     System.out.println("继续运算");
                     break;
+                    default:
+                        System.out.println();
             }
         }
     }

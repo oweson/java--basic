@@ -16,6 +16,7 @@ public class ThreadTest {
             }
         };
         Thread thread =  new Thread(runnable);
+        /** 调用的是自己没有重写的run()*/
         thread.run();
         System.out.println("bar");
         System.out.println("-----------------------");

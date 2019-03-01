@@ -1,7 +1,5 @@
 package top.sea521.javamiddle.demo2;
 
-import eclipse.mar.thread.SellTicket;
-
 import java.util.*;
 
 /**

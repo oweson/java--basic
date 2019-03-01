@@ -8,7 +8,7 @@ import java.util.Objects;
  * @色厉而胆薄，好谋而寡断
  */
 
-public class SleepTest {
+public class SleepTest extends Thread {
     int name;
 
     @Override
@@ -32,12 +32,26 @@ public class SleepTest {
     public SleepTest(int name) {
         this.name = name;
     }
+    public SleepTest() {
+    }
+
 
     public static void main(String[] args) throws InterruptedException {
+        new SleepTest().start();
+
         for (int i = 0; i < 10; i++) {
+            // 不释放对象锁；
             Thread.sleep(1000);
             System.out.println(i);
 
+
+        }
+    }
+
+    @Override
+    public void run() {
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
 
         }
     }

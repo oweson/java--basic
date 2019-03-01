@@ -11,8 +11,24 @@ public class Animal {
     private int age;
     private String name;
     private static int height = 21;
-
+    Bird bird;
+    public Animal(){
+        bird=new Bird();
+    }
+    public static final void demo1(){
+        System.out.println("static fun from parent!");
+    }
+    public void demo2(){
+        // 引用内部类的变量，需通过实例
+        int age = bird.age;
+        System.out.println("simple fun from parent!");
+    }
+    /** 1 成员内部类；
+     * 成员内部类中不能存在static关键字，即，不能声明静态属性、静态方法、静态代码块等。
+     * 【非静态内部类也可以定义静态成员但需要同时有final关键词修饰，
+     * 静态方法鉴于无法用final修饰，仍必须是在静态内部类 或者非内部类中定义。】*/
     class Bird {
+        // 成员内部类......相当于非静态方法
         private int age;
 
         public void demo1() {
@@ -35,8 +51,15 @@ public class Animal {
      * 那么内部类就只能访问外部类的静态成员变量，具有局限性
      */
     static class Dog {
+        // 可以这样理解：与外部类同级的类，或者叫做外部类的静态成员
         public void staticFun() {
             System.out.println(height);
+
+        }
+
+        public static void main(String[] args) {
+            demo1();
+            Animal.demo1();
 
         }
 

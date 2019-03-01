@@ -24,8 +24,9 @@ public class ListTest {
          它都是一个非常微小的优化，几乎没有什么区别。*/
         Set<Integer> collect = Stream.of(1, 2, 3, 4, 5, 6).collect(Collectors.toSet());
         System.out.println(collect);
-        long time = new Date().getTime();
-        Date time1 = Calendar.getInstance().getTime();
-        System.out.println(time1);
+        long count = Stream.of(1, 2, 3, 3, 1, 9).sorted().limit(2).count();
+        System.out.println(count);
+        Stream<String> sorted = Stream.of("a", "b", "v", "c").sorted();
+        System.out.println(sorted);
     }
 }

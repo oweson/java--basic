@@ -25,9 +25,9 @@ public class StringPropertyDemo2 {
          * +就有问题，需要手动的强制转换*/
         String a = "";
         System.out.println(a.length());
-        String ppx = "asa";
+        String ppx = "pig";
         System.out.println(ppx.length());
         System.gc();
-        System.out.println(ppx + "jashajshajshajshajshajshajshaj");
+        System.out.println(ppx + "eat");
     }
 }

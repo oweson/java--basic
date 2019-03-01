@@ -31,7 +31,6 @@ public class UsualTest {
 
         }
         System.out.println(sb);
-        new String();
         return 9;
     }
 }

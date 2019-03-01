@@ -1,8 +1,8 @@
 package top.sea521.factory.proxy.staticproxy;
 
 public interface Girl {
-    public void pao();
+     void pao();
 
-    public void dosomething();
+     void dosomething();
 
 }
