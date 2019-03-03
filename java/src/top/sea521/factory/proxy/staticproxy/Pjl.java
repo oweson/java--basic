@@ -3,7 +3,7 @@ package top.sea521.factory.proxy.staticproxy;
 public class Pjl implements Girl {
     @Override
     public void dosomething() {
-        System.out.println("do sth heihei//////..............");
+        System.out.println("do sth heihei..............");
         // TODO Auto-generated method stub
 
     }

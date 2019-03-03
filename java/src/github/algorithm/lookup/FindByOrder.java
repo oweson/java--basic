@@ -7,13 +7,9 @@ package github.algorithm.lookup;
  */
 public class FindByOrder {
     public static void main(String[] args) {
-        //int[] arr = {1, 2, 3, 9, 0, 12, 1000};
-        int[] arr=new int[10000000];
-        for (int i = 0; i < 1000000; i++) {
-            arr[i]=i;
+        int[] arr = {1, 2, 3, 9, 0, 12, 1000};
 
-        }
-        int i = find(arr, 8089899);
+        int i = find(arr, 8);
         System.out.println(i);
     }
 

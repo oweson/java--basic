@@ -1,6 +1,6 @@
 package eclipse.mar.interfaceandmanystate.demo06;
 
-/*
+/**
 如何才能知道一个父类引用的对象，本来是什么子类？
 格式：
 对象 instanceof 类名称

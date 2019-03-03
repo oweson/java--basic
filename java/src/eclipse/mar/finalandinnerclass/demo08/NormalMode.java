@@ -1,6 +1,7 @@
 package eclipse.mar.finalandinnerclass.demo08;
 
-import cn.itcast.day11.red.OpenMode;
+
+import eclipse.mar.finalandinnerclass.red.OpenMode;
 
 import java.util.ArrayList;
 

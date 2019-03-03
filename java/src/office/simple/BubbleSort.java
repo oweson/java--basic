@@ -6,6 +6,8 @@ package office.simple;
  * @Date：2018/7/4 0004 16:44
  */
 public class BubbleSort {
+
+
     public void bubbleSort(int[] a) {
         for (int i = 0; i < a.length - 1; i++) {
             for (int j = 0; j < a.length - i - 1; j++) {

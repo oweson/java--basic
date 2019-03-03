@@ -1,6 +1,7 @@
 package eclipse.mar.finalandinnerclass.demo08;
 
-import cn.itcast.day11.red.RedPacketFrame;
+
+import eclipse.mar.finalandinnerclass.red.RedPacketFrame;
 
 public class MyRed extends RedPacketFrame {
     /**
