@@ -6,8 +6,10 @@ package eclipse.mar.basic;
 public class Demo04OverloadPrint {
 
     public static void main(String[] args) {
-        myPrint(100); // int
-        myPrint("Hello"); // String
+        myPrint(100);
+        // int
+        myPrint("Hello");
+        // String
     }
 
     public static void myPrint(byte num) {

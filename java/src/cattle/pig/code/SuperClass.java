@@ -11,7 +11,7 @@ import java.util.Date;
  */
 public class SuperClass extends Date {
     /**
-     * TestSuper和Date的getClass都没有重写，他们都是调用Object的getClass，
+     * 1 TestSuper和Date的getClass都没有重写，他们都是调用Object的getClass，
      * 而Object的getClass作用是返回的是运行时的类的名字。
      * 这个运行时的类就是当前类，所以
      * super.getClass().getName()

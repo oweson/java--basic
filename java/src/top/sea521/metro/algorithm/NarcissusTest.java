@@ -9,6 +9,7 @@ import java.util.Scanner;
  */
 public class NarcissusTest {
     public static void main(String[] args) {
+        isWaterFlower();
         /**题目：打印出所有的 "水仙花数 "，所谓 "水仙花数 "是指一个三位数，
          * 其各位数字立方和等于该数本身。例如：153是一个 "水仙花数 "，
          * 因为153=1的三次方＋5的三次方＋3的三次方。*/
@@ -17,6 +18,7 @@ public class NarcissusTest {
             Scanner sc = new Scanner(System.in);
             int nextInt = sc.nextInt();
             /**提取个位和百位和千位的数字;
+             * m=898
              *   b3 = m / 100;
              *       b2 = m % 100 / 10;//得到9
              *       b1 = m %    10;//得到1*/
@@ -29,6 +31,19 @@ public class NarcissusTest {
                 break;
             }
 
+        }
+    }
+
+    private static void isWaterFlower() {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("请录入数据！");
+        while (true){
+            int tem=879;
+            int nextInt = sc.nextInt();
+            int bai = nextInt /100;
+            int shi = nextInt % 100 / 10;
+            int ge = nextInt % 10;
+            //if(){}
         }
     }
 }

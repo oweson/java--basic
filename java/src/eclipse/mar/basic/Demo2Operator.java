@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class Demo2Operator {
     public static void main(String[] args) {
-        /**如果有任何运算单元的长度超过int,那么运算结果就按照最长的长度计算
+        /** 1 如果有任何运算单元的长度超过int,那么运算结果就按照最长的长度计算
          比如
          int a = 5;
          long b = 6;

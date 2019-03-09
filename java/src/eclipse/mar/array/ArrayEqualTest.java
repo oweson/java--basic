@@ -11,7 +11,7 @@ public class ArrayEqualTest {
         int[] arr02 = {1, 2, 3, 4, 5, 6, 7};
         boolean b = demo1(arr, arr02);
         System.out.println(b);
-        /**比较两个数组是否相等，第一：长度，第二：每一个的元素；*/
+        /** 1 比较两个数组是否相等，第一：长度，第二：每一个的元素；*/
     }
 
     private static boolean demo1(int[] arr, int[] arr02) {

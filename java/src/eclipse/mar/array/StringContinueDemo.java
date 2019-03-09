@@ -13,7 +13,7 @@ class StringContinueDemo {
         int numPs = 0;
 
         for (int i = 0; i < max; i++) {
-            /**查找*/
+            /** 1 查找*/
             // interested only in p's
             if (searchMe.charAt(i) != 'p') {
                 continue;

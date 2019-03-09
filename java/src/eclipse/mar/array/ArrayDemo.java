@@ -1,24 +1,17 @@
-/**
- * 
- */
+
 package eclipse.mar.array;
 
-/**
- * @author <a href="http://www.waylau.com">waylau.com</a>
- * @date 2015年12月26日
- */
+
 class ArrayDemo {
-	/**
-	 * @param args
-	 */
+
 	public static void main(String[] args) {
-		// declares an array of integers
+		// 1 declares an array of integers
 		int[] anArray;
 
-		// allocates memory for 10 integers
+		// 2 allocates memory for 10 integers
 		anArray = new int[10];
 
-		// initialize first element
+		// 3 initialize first element
 		anArray[0] = 100;
 		// initialize second element
 		anArray[1] = 200;

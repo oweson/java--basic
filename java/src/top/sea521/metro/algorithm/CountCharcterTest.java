@@ -31,6 +31,7 @@ public class CountCharcterTest {
     }
 
     public static void main(String[] args) {
+        CountSth();
         /**题目：输入一行字符，分别统计出其中英文字母、空格、
          * 数字和其它字符的个数。*/
         System.out.println("输入一串字符串......");
@@ -59,6 +60,30 @@ public class CountCharcterTest {
         System.out.println("英文字母个数: " + character);
         System.out.println("空格个数: " + blank);
         System.out.println("其他字符个数:" + other);
+    }
+
+    private static void CountSth() {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("录入");
+        int letter=0;
+        int number=0;
+        int other=0;
+
+        char[] charArray = sc.nextLine().toCharArray();
+        for (int i = 0; i < charArray.length; i++) {
+            if(Character.isLetter(charArray[i])){
+                letter++;
+            }
+            else if(Character.isDigit(charArray[i])){
+                number++;
+
+            }
+            else {
+                other++;
+            }
+
+        }
+        System.out.println("letter:"+letter+"number:"+number+"other"+other);
     }
 
 }

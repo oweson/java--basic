@@ -6,6 +6,8 @@ package office.simple;
  * @Date：2019/3/3 0003 20:56
  */
 public class InsertSort {
+    /** 1 插入排序；
+     * 是稳定的排序方法*/
     public static void selectionSort(int[] a) {
         if (null == a || a.length < 2) {
             return;

@@ -7,7 +7,7 @@ package office.simple;
  */
 public class AlwaysCircle {
     /**
-     * 用友科技的面试题
+     * 1 用友科技的面试题
      */
     public static void main(String[] args) {
         /**死循环*/

@@ -15,9 +15,9 @@ public class AboutNull {
         System.out.println(integer);
         String s = null;
         // System.out.println(s.length());
-        /**空指针异常*/
+        /** 1 空指针异常*/
         System.out.println(s == null);
-        /**null可以和null进行比较*/
+        /** 2 null可以和null进行比较*/
         if (s != null && s.length() == 0) {
             /**具有短路的效果，左边为异常，右边就不会运行*/
             System.out.println(100);

@@ -2,18 +2,30 @@ package eclipse.mar.array;
 
 public class ArrayReverse {
 
-    /**
-     * @param args
-     */
+
     public static void main(String[] args) {
         int[] arr = {1, 2, 5, 6, 78, 90, 990};
         reverseArr(arr);
-        // 数组的反转。
-        // 数组的遍历；
+        // 1 数组的反转。
+        // 2 数组的遍历；
+demo1(arr);
+       // print(arr);
 
-        print(arr);
-        // TODO Auto-generated method stub
 
+    }
+
+    public static final void demo1(int[] arr) {
+        for (int i = arr.length; i > 0; i--) {
+            for (int j = 0; j < arr.length; j++) {
+                arr[j]=arr[i];
+
+            }
+
+        }
+        for (int i : arr) {
+            System.out.println(i);
+
+        }
     }
 
     private static void reverseArr(int[] arr) {
@@ -32,7 +44,6 @@ public class ArrayReverse {
 
         }
 
-        // TODO Auto-generated method stub
 
     }
 

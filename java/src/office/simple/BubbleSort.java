@@ -6,7 +6,15 @@ package office.simple;
  * @Date：2018/7/4 0004 16:44
  */
 public class BubbleSort {
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
 
     public void bubbleSort(int[] a) {
         for (int i = 0; i < a.length - 1; i++) {
@@ -22,9 +30,7 @@ public class BubbleSort {
             }
 
         }
-        for (Integer i :
-                a
-                ) {
+        for (Integer i : a) {
             System.out.print(i + " ,");
 
         }
