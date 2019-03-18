@@ -1,6 +1,6 @@
 package eclipse.mar.thread.Lock;
 
-/*
+/**
     模拟卖票案例
     创建3个线程,同时开启,对共享的票进行出售
  */

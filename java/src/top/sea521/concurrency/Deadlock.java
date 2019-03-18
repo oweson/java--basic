@@ -1,12 +1,7 @@
-/**
- *
- */
+
 package top.sea521.concurrency;
 
-/**
- * @author <a href="http://www.waylau.com">waylau.com</a>
- * @date 2016年1月21日
- */
+
 public class Deadlock {
     static class Friend {
         private final String name;

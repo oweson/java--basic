@@ -2,14 +2,11 @@ package eclipse.mar.array;
 
 public class ArrayMax {
 
-    /**
-     * @param args
-     */
+
     public static void main(String[] args) {
         int[] arr = {1, 2, 5, 7, 89, 100};
         int max = getMax(arr);
         System.out.println("最大的是:   " + max);
-        // TODO Auto-generated method stub
 
     }
 

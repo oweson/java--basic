@@ -2,9 +2,7 @@ package eclipse.mar.array;
 
 public class Demoyiwei {
 
-    /**
-     * @param args
-     */
+
     public static void main(String[] args) {
         int arr[] = new int[6];
         // 在内存中开辟了一开六个的空间；

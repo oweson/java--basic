@@ -26,10 +26,6 @@ public class TreeSetTest {
         } catch (Exception e) {
             System.out.println("error");
         }
-        /*1
-2
-3
-4
-error**/
+
     }
 }

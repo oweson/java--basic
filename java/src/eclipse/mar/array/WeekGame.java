@@ -2,13 +2,10 @@ package eclipse.mar.array;
 
 import java.util.Scanner;
 
-//import com.sun.java_cup.internal.runtime.Scanner;
 
 public class WeekGame {
 
-    /**
-     * @param args
-     */
+
     public static void main(String[] args) {
         while (true) {
             Scanner sc = new Scanner(System.in);

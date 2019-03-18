@@ -20,6 +20,7 @@ public class Demo1Collection {
          * */
         /** 3 ArrayList实现了接口List
          常见的写法会把引用声明为接口List类型*/
+
         /** 4 因为ArrayList实现了List接口，所以List接口的方法ArrayList都实现了。*/
         /** 5 不过JDK7提供了一个可以略微减少代码量的泛型简写方式
 
@@ -28,7 +29,6 @@ public class Demo1Collection {
 
          后面的泛型可以用<>来代替，聊胜于无吧*/
         /** 6 用增强型for循环可以非常方便的遍历ArrayList中的元素，这是很多开发人员的首选。
-
          不过增强型for循环也有不足：
          无法用来进行ArrayList的初始化
          无法得知当前是第几个元素了，当需要只打印单数元素的时候，就做不到了。 必须再自定下标变量。*/
