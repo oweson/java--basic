@@ -11,12 +11,10 @@ import java.lang.reflect.InvocationTargetException;
 public class ReflactToLover {
     int age = 21;
 
-    @SuppressWarnings("rawtypes")
     public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, SecurityException,
             InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException {
         Class<?> forName = Class.forName("com.how2java.reflect.ReflactToLover");
         Constructor constructor = forName.getConstructor();
-        // constructor.getI
         ReflactToLover newInstance = (ReflactToLover) constructor.newInstance();
         newInstance.age = 211;
         // 反射得到对象；

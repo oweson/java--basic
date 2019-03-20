@@ -12,7 +12,8 @@ public class ISumTest {
         int i = 0;
         inc.fermin(i);
         i = i++;
-        System.out.println(i);//0
+        System.out.println(i);
+        //0
 
     }
 

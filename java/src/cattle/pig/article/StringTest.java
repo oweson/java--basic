@@ -6,7 +6,8 @@ package cattle.pig.article;
  * @Date：2019/1/6 0006 11:53
  */
 public class StringTest {
-    /** 1 Java语言中，如果"xyz"没有被创建过，String s =new String(“xyz”);创建了几个string object？;
+    /** 1 Java语言中，如果"xyz"没有被创建过，String s =new String(“xyz”);
+     * 创建了几个string object？;
      *
      * 两个。第一个在堆中，第二个在字符串常量池中！如果在Java字符串常量池中已经存在，就只会创建一个;
      * 对于这句代码，可分为两个过程：
@@ -42,7 +43,8 @@ public class StringTest {
      解析：即是堆和字符串常量池中，当你new String("abc")时，
      其实会先在字符串常量区生成一个abc的对象，然后new String()时会在堆中分配空间，
      然后此时会把字符串常量区中abc复制一个给堆中的String，故abc应该在堆中和字符串常量区*/
-    /** 4 String类不可变，指的是String对象内容不可变，因为'String对象存在常量池中，而String的引用是可以可变，
+    /** 4 String类不可变，指的是String对象内容不可变，
+     * 因为'String对象存在常量池中，而String的引用是可以可变，
      * 可以为String引用赋予新的对象字符串。*/
 
 }

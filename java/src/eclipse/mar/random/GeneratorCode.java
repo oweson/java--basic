@@ -8,7 +8,7 @@ import java.util.Random;
  * @Date：2019/1/25 0025 10:01
  */
 public class GeneratorCode {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         /** 1 随机验证码。
 
          - 随机生成十组六位字符组成的验证码。
@@ -16,6 +16,7 @@ public class GeneratorCode {
          */
         for (int i = 0; i < 10; i++) {
             String s = verifyCode();
+            Thread.sleep(210);
             System.out.println("随机验证码:" + s);
 
         }

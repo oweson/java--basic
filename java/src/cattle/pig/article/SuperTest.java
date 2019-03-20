@@ -7,8 +7,6 @@ package cattle.pig.article;
  */
 public class SuperTest {
     /**  1 不考虑反射机制，一个子类显式调用父类的构造器必须用super关键字。（  ）
-     *
-     * 解析：夜静自然凉
      * java中的super关键词
      * super用于代表子类的直接父类的特征
      * super可以访问：

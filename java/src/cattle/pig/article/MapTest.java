@@ -6,6 +6,7 @@ package cattle.pig.article;
  * @Date：2019/1/6 0006 11:40
  */
 public class MapTest {
+
     /**1 线程安全的map在JDK 1.5及其更高版本环境 有哪几种方法可以实现?
      正确答案: C D   你的答案: C D
      Map map = new HashMap()

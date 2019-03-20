@@ -1,4 +1,4 @@
-package eclipse.mar.copy;
+package top.sea521.factory.proxy.dynamic;
 
 public class Mp implements Girl {
     private Girl g;

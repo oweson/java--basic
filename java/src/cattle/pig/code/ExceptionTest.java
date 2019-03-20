@@ -7,6 +7,8 @@ package cattle.pig.code;
  */
 public class ExceptionTest {
     public static void main(String[] args) {
+        args=new String[100];
+        System.out.println(args[0]);
         /**finally一定会在return之前执行，
          * 但是如果finally使用了return或者throw语句，
          * 将会使trycatch中的return或者throw失效*/

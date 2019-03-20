@@ -6,7 +6,7 @@ package cattle.pig.code;
  * @Date：2019/1/13 0013 18:39
  */
 public class DiguiTest {
-    /* public static final int demo1() {
+    /** public static final int demo1() {
          System.out.println("hello");
          demo1();
          return 1;

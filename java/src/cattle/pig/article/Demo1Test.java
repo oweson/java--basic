@@ -12,7 +12,8 @@ public class Demo1Test {
      SimpleDateFormat对象是线程不安全的
      D 对的；
      answer:hashMap在单线程中使用大大提高效率，在多线程的情况下使用hashTable来确保安全。
-     hashTable中使用synchronized关键字来实现安全机制，但是synchronized是对整张hash表进行锁定即让线程独享整张hash表，
+     hashTable中使用synchronized关键字来实现安全机制，
+     但是synchronized是对整张hash表进行锁定即让线程独享整张hash表，
      在安全同时造成了浪费。concurrentHashMap采用分段加锁的机制来确保安全;
 
      2 Arrays.asList()

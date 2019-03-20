@@ -1,4 +1,4 @@
-package eclipse.mar.copy;
+package top.sea521.factory.proxy.dynamic;
 
 public class Pjl implements Girl {
     @Override
