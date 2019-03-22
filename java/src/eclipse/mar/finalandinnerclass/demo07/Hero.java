@@ -2,8 +2,10 @@ package eclipse.mar.finalandinnerclass.demo07;
 
 public class Hero {
 
-    private String name; // 英雄的名称
-    private Skill skill; // 英雄的技能
+    private String name;
+    // 英雄的名称
+    private Skill skill;
+    // 英雄的技能
 
     public Hero() {
     }

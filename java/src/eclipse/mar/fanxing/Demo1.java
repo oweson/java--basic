@@ -11,14 +11,14 @@ import java.util.List;
 public class Demo1 {
     public void demoPutOnlyNumber() {
         /*
-         * 根据数字类的知识，设计一个集合，这个集合里即可以放整数，也可以放浮点数，但是不能放字符串
+         * 根据数字类的知识，设计一个集合，这个集合里即可以放整数，
+         * 也可以放浮点数，但是不能放字符串
          */
         List<Number> list = new ArrayList<Number>();
         list.add(1);
-        // answer;
+
         /*
-         * 泛型使用Number, 就可以放所有Number的子类，比如Integer,Float,Double
-         *
+         * 泛型使用Number, 就可以放所有Number的子类，比如Integer,Float,Doubl
          * 但是不能放String
          */
         list.add(2.00);
@@ -31,16 +31,16 @@ public class Demo1 {
 
     }
     /*
-     * 示例 2 : 使用泛型 顶 折 纠 问 使用泛型的好处： 泛型的用法是在容器后面添加<Type> Type可以是类，抽象类，接口
+     * 示例 2 : 使用泛型 顶 折 纠 问 使用泛型的好处： 泛型的用法是在容器后面添加<Type> Type可以是类，
+     * 抽象类，接口
      * 泛型表示这种容器，只能存放APHero，ADHero就放不进去了。
      */
 
-    @SuppressWarnings({"unchecked", "rawtypes"})
     public static void main(String[] args) {
         new Demo1().demoPutOnlyNumber();
         /*
          * 示例 4 : 泛型的简写 顶 折 纠 问 为了不使编译器出现警告，需要前后都使用泛型，像这样：
-         *
+
          * ArrayList<Hero> heros = new ArrayList<Hero>();
          *
          *
@@ -60,7 +60,6 @@ public class Demo1 {
         System.out.println(list.get(0));
         System.out.println(list.get(1));
 
-        // TODO Auto-generated method stub
 
     }
 

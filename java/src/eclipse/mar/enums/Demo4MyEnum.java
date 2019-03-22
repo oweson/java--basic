@@ -11,7 +11,6 @@ public enum Demo4MyEnum {
 
     private Demo4MyEnum(String name) {
         this.name = name;
-        // TODO Auto-generated constructor stub
     }
 
     String getName() {

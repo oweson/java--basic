@@ -3,8 +3,8 @@ package eclipse.mar.finalandinnerclass.demo07;
 import java.util.ArrayList;
 import java.util.List;
 
-/*
-java.util.List正是ArrayList所实现的接口。
+/**
+ * java.util.List正是ArrayList所实现的接口。
  */
 public class DemoInterface {
 

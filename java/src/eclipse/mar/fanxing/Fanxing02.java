@@ -35,7 +35,6 @@ public class Fanxing02<T> {
 
     public Fanxing02() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
     public static <T> Fanxing02<T> get() {
@@ -55,8 +54,5 @@ public class Fanxing02<T> {
 
     }
 
-//	public static <T> Fanxing02<T> get01(int a,String b) {
-//		return new Fanxing02<>(100,9)
-//
-//	}
+
 }

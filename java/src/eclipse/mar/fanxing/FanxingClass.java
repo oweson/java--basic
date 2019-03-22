@@ -17,7 +17,6 @@ public class FanxingClass<T> {
 
     public FanxingClass() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
     public T getaT() {
@@ -48,7 +47,6 @@ public class FanxingClass<T> {
         fanxingClass.getaT();
         System.out.println();
 
-        // TODO Auto-generated method stub
 
     }
 

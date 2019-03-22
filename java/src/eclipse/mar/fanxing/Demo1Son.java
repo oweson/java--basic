@@ -16,11 +16,11 @@ public class Demo1Son {
          * 表示这是一个Hero泛型或者其子类泛型 heroList 的泛型可能是Hero heroList 的泛型可能是APHero
          * heroList 的泛型可能是ADHero 所以 可以确凿的是，从heroList取出来的对象，一定是可以转型成Hero的
          *
-         * 但是，不能往里面放东西，因为 放APHero就不满足<ADHero> 放ADHero又不满足<APHero>
+         * 但是，不能往里面放其他的东西，因为 放APHero就不满足<ADHero> 放ADHero又不满足<APHero>
          */
         ArrayList<? extends Demo1> demo1s = new ArrayList<>();
         /*
-         * //但是，不能往里面放东西
+         * 但是，不能往里面放东西
          */
         ArrayList<Demo1Son2> aaa = new ArrayList<>();
         aaa.add(new Demo1Son2());
@@ -30,7 +30,6 @@ public class Demo1Son {
         Demo1 demo1 = demo1s.get(0);
         System.out.println(demo1);
 
-        // TODO Auto-generated method stub
 
     }
 

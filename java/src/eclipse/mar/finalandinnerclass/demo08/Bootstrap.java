@@ -3,7 +3,7 @@ package eclipse.mar.finalandinnerclass.demo08;
 
 import eclipse.mar.finalandinnerclass.red.OpenMode;
 
-/*
+/**
 场景说明：
     红包发出去之后，所有人都有红包，大家抢完了之后，最后一个红包给群主自己。
 大多数代码都是现成的，我们需要做的就是填空题。

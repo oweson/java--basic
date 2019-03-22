@@ -4,7 +4,8 @@ public class DemoGame {
 
     public static void main(String[] args) {
         Hero hero = new Hero();
-        hero.setName("艾希"); // 设置英雄的名称
+        hero.setName("艾希");
+        // 设置英雄的名称
 
         // 设置英雄技能
 //        hero.setSkill(new SkillImpl()); // 使用单独定义的实现类
