@@ -17,5 +17,8 @@ public class StringCacheTest {
         String ppx = new String("ppx");
         String ppg = "ppx";
         System.out.println(ppx == ppg);
+        // false false;
+        System.out.println(ppg == "ppx");
+        // true
     }
 }

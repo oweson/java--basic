@@ -14,7 +14,8 @@ public class Demo1 {
         int c=3;
         int y=(c++)+(++c)+(c++);
         //c++=3 ++c=
-        System.out.println(y);//y=13;
+        System.out.println(y);
+        //y=13;
 
     }
 }

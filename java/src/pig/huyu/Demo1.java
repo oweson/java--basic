@@ -11,5 +11,6 @@ public class Demo1 {
         String b=s;
         s="hello b";
         System.out.println(b);
+        // hello a
     }
 }

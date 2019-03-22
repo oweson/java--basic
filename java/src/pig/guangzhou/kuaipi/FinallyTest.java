@@ -9,10 +9,11 @@ public class FinallyTest {
     public static void main(String[] args) {
         int mabi = Mabi();
         System.out.println(mabi);
+        // finally 1
     }
 
     private static int Mabi() {
-        int a=1;
+        int a = 1;
         try {
             return a;
 

@@ -13,7 +13,8 @@ public class BasicTest {
     }
 
     private static void print() {
-        double x=2.0; int y=4;
+        double x=2.0;
+        int y=4;
         x/=++y;
         System.out.println(x);
         /** 0.4

@@ -1,4 +1,4 @@
-package pig.javase.math;
+package top.sea521.algorithm;
 
 import java.util.Scanner;
 

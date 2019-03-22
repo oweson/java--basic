@@ -13,6 +13,7 @@ public class StaticTest02 {
     }
 
     public static void main(String[] args) {
+        // 加载的顺序
         System.out.println("cnt =" + cnt);
         //5
     }
@@ -21,5 +22,5 @@ public class StaticTest02 {
         cnt /= 3;
     }
 
-    private static int a=100;
+    private static int a = 100;
 }

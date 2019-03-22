@@ -11,7 +11,6 @@ public class StaticNullTest02 {
     }
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
         StaticNullTest02 test = null;
         StaticNullTest02.hello();
     }

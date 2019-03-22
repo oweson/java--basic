@@ -6,8 +6,10 @@ package cattle.pig.code;
  * @Date：2019/1/14 0014 15:42
  */
 public class SwitchTest {
-    public static void main(String[] args) {//2
-        System.out.println("value=" + switchit(4));//3
+    public static void main(String[] args) {
+        //2
+        System.out.println("value=" + switchit(4));
+        //3
     }//4
 
     public static int switchit(int x) {

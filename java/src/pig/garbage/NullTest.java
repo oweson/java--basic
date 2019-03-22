@@ -16,6 +16,6 @@ public class NullTest {
 
     public static void main(String[] args) {
         demo1(null);
-        //nullstring 小的-object;
+        //nullstring 老将都是最后出马！
     }
 }

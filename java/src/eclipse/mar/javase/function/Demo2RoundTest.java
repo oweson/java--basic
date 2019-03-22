@@ -1,4 +1,4 @@
-package pig.javase.function;
+package eclipse.mar.javase.function;
 
 /**
  * the class is create by @Author:oweson

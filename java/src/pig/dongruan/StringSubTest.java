@@ -12,5 +12,7 @@ public class StringSubTest {
         // 1 截串，前闭后开
         System.out.println(s.substring(0, 2));
         // 2 前闭后开
+        //llo,world
+        //he
     }
 }

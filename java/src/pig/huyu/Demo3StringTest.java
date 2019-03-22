@@ -18,5 +18,7 @@ public class Demo3StringTest {
         /**局部变量必须初始化才能使用！！！*/
         String s = null;
         System.out.println(s + "Two");
+        // nullone
+        //nullTwo
     }
 }

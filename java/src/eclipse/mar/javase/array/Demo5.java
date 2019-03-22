@@ -1,4 +1,4 @@
-package pig.javase.array;
+package eclipse.mar.javase.array;
 
 /**
  * the class is create by @Author:oweson

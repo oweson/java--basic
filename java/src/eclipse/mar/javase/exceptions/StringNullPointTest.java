@@ -1,4 +1,4 @@
-package pig.javase.exceptions;
+package eclipse.mar.javase.exceptions;
 
 /**
  * the class is create by @Author:oweson

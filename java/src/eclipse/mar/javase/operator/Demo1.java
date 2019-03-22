@@ -1,4 +1,4 @@
-package pig.javase.operator;
+package eclipse.mar.javase.operator;
 
 /**
  * the class is create by @Author:oweson

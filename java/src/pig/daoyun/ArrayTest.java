@@ -6,6 +6,7 @@ package pig.daoyun;
  * @Date：2019/3/20 0020 8:48
  */
 public class ArrayTest {
+    // 构造函数可以修饰符不同；
     ArrayTest() {
     }
 

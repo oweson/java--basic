@@ -7,6 +7,7 @@ package pig.aikefa;
  */
 public class KichOneSingleNumber {
     public static void main(String[] args) {
+        //todo
         /**把单独的10去除！！！*/
         int[] arr = {1, 1, 2, 2, 10};
         getOne(arr);

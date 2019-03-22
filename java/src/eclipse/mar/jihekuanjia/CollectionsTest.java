@@ -1,4 +1,4 @@
-package pig.javase;
+package eclipse.mar.jihekuanjia;
 
 import java.util.ArrayList;
 import java.util.Collection;

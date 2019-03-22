@@ -1,4 +1,4 @@
-package pig.javase.lambda.thread;
+package eclipse.mar.javase.lambda.thread;
 
 /**
  * the class is create by @Author:oweson

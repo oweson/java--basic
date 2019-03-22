@@ -9,11 +9,11 @@ import java.util.*;
  * @Date：2019/3/18 0018 16:09
  */
 public class Demo1 {
-    // 1 哪些类不可继承？Integer，Double,ArrayList todo
+    // 1 哪些类不可继承？String,Integer，Double,ArrayList可被继！ todo
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
         list.add("A");
-        list.add(2,"b");
+        list.add(2, "b");
         String s = (String) list.get(1);
         // java.lang.IndexOutOfBoundsException: Index: 2, Size: 1
         System.out.println(s);
@@ -23,8 +23,17 @@ public class Demo1 {
     }
 
     private static void assertSth() {
-        List<Map<Integer,String>> list = new ArrayList<>(100);
+        List<Map<Integer, String>> list = new ArrayList<>(100);
 
     }
 
+}
+
+class ppc extends ArrayList {
+    public static void main(String[] args) {
+        ppc p = new ppc();
+        p.clear();
+
+///}    }
+    }
 }

@@ -14,6 +14,7 @@ public class LongTest {
     public static void main(String[] args) {
         long demo1 = demo1(12.3, 4.6);
         System.out.println(demo1);
+        // 16
 
 
     }

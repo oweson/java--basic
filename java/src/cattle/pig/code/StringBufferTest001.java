@@ -14,9 +14,11 @@ public class StringBufferTest001 {
     }
 
     public static void operator(StringBuffer x, StringBuffer y) {
-        x.append(y);//a=ab
+        x.append(y);
+        //a=ab
         //System.out.println(x);
-        y = x;//a
+        y = x;
+        //a
         //System.out.println(y);
 
     }
