@@ -1,4 +1,4 @@
-package eclipse.mar.chapter03;
+package eclipse.mar.basic.chapter03;
 
 public class DuixiangArray {
 

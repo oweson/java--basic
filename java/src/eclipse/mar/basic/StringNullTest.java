@@ -5,7 +5,7 @@ package eclipse.mar.basic;
  *
  * @Date：2018/7/13 0013 16:44
  */
-public class AboutNull {
+public class StringNullTest {
     public static Integer demo1() {
         return null;
     }
@@ -23,10 +23,10 @@ public class AboutNull {
             System.out.println(100);
         }
         /* if(s!=null & s.length()==0){
-         *//**及时左边的不成立，右边的还是会运行
+         *及时左边的不成立，右边的还是会运行
          * null的对象不可以调用方法和nullpointexception*//*
-        }*/
-        /* if(s!=null | s.length()==0){
+        }*
+        * if(s!=null | s.length()==0){
          *//**空指针异常*//*
 
 
