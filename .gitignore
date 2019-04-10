@@ -29,3 +29,6 @@ hs_err_pid*
 
 .idea/workspace.xml
 
+hutool/src/main/resources/
+hutool/src/test/
+java/src/top/mooc/playdataStructure/second/array/stack/
