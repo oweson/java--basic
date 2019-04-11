@@ -9,6 +9,7 @@ public class LowerCaseTest {
     public static boolean isAdmin(String userId) {
         //新的对象和常量池的对象比较；
         return userId.toLowerCase() == "admin";
+        //false
     }
 
     public static void main(String[] args) {

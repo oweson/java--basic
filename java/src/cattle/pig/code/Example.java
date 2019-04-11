@@ -18,7 +18,7 @@ public class Example extends Thread {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.print("run");
+        System.out.println("run");
     }
 
     public static void main(String[] args) {

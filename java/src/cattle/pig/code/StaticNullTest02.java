@@ -12,6 +12,7 @@ public class StaticNullTest02 {
 
     public static void main(String[] args) {
         StaticNullTest02 test = null;
+        // 静态属于类的！！！
         StaticNullTest02.hello();
     }
 }

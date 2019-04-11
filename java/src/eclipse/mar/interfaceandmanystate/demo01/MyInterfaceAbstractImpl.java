@@ -20,4 +20,13 @@ public class MyInterfaceAbstractImpl implements MyInterfaceAbstract {
     public void methodAbs4() {
         System.out.println("这是第四个方法！");
     }
+
+    @Override
+    public void eat() {
+        System.out.println("ovveriding");
+    }
+
+    public static void main(String[] args) {
+        MyInterfaceAbstract.sleep();
+    }
 }

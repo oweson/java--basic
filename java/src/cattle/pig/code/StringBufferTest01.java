@@ -5,7 +5,7 @@ package cattle.pig.code;
  *
  * @Date：2019/1/29 0029 15:08
  */
-public class StringBufferTest001 {
+public class StringBufferTest01 {
     public static void main(String[] args) {
         StringBuffer a = new StringBuffer("A");
         StringBuffer b = new StringBuffer("B");

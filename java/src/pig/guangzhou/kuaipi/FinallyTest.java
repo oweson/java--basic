@@ -21,8 +21,9 @@ public class FinallyTest {
             e.printStackTrace();
         } finally {
             ++a;
-            System.out.println("finally");
+            System.out.println(a + "  finally");
         }
+        // 外边的
         return 9;
     }
 }

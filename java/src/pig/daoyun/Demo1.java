@@ -13,7 +13,8 @@ public class Demo1 {
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
         list.add("A");
-        list.add(2, "b");
+        list.add(1, "b");
+        list.add(10,"1000");
         String s = (String) list.get(1);
         // java.lang.IndexOutOfBoundsException: Index: 2, Size: 1
         System.out.println(s);
@@ -34,6 +35,6 @@ class ppc extends ArrayList {
         ppc p = new ppc();
         p.clear();
 
-///}    }
+
     }
 }

@@ -12,15 +12,15 @@ public class StaticTest02 {
         cnt += 9;
     }
 
+    static {
+        cnt /= 3;
+    }
+
     public static void main(String[] args) {
         // 加载的顺序
         System.out.println("cnt =" + cnt);
         //5
     }
 
-    static {
-        cnt /= 3;
-    }
 
-    private static int a = 100;
 }

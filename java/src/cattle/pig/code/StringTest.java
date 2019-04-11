@@ -10,7 +10,7 @@ import java.io.UnsupportedEncodingException;
  */
 public class StringTest {
     public static void main(String[] args) throws UnsupportedEncodingException {
-        String s="asjaksj";
+        String s = "GBK";
         String gbk = new String(s.getBytes(), "GBK");
         System.out.println(gbk);
     }

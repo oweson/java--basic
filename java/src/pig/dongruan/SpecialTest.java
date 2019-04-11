@@ -9,7 +9,13 @@ public class SpecialTest {
     public static void main(String[] args) {
         System.out.println(1 | 9);
         // 9
-        System.out.println(1&9);
+        System.out.println(1 & 9);
         // 1 todo???
+        int a = 9;
+        if (a % 2 != 1) {
+            System.out.println("even");
+
+        }
+
     }
 }
