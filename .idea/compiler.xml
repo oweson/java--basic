@@ -7,10 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="concurrency" />
         <module name="hutool" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="concurrency" target="1.8" />
       <module name="hutool" target="1.5" />
     </bytecodeTargetLevel>
   </component>

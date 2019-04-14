@@ -6,11 +6,13 @@ package cattle.pig.code;
  * @Date：2019/1/13 0013 18:39
  */
 public class DiguiTest {
-    /** public static final int demo1() {
-         System.out.println("hello");
-         demo1();
-         return 1;
-     }*/
+    /**
+     * public static final int demo1() {
+     * System.out.println("hello");
+     * demo1();
+     * return 1;
+     * }
+     */
     public static void main(String[] args) {
         /*
          * 遍历文件夹以及其子目录
@@ -24,7 +26,7 @@ public class DiguiTest {
     }
 
     private static int jc(int n) {
-        if (n == 0 ) {
+        if (n == 0) {
             return 1;
             //数学规定0的阶乘为1
         } else {
