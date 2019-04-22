@@ -1,11 +1,13 @@
 package cattle.pig.code;
 
+import java.io.Serializable;
+
 /**
  * the class is create by @Author:oweson
  *
  * @Date：2019/1/13 0013 18:39
  */
-public class DiguiTest {
+public class DiguiTest implements Serializable {
     /**
      * public static final int demo1() {
      * System.out.println("hello");
@@ -14,12 +16,14 @@ public class DiguiTest {
      * }
      */
     public static void main(String[] args) {
+        // hjhj
         /*
          * 遍历文件夹以及其子目录
          * 递归 方法自己调用自己
          * 阶乘：一个正整数的阶乘（factorial）是所有小于及等于该数的正整数的积，
          * 并且0的阶乘为1。自然数n的阶乘写作n!
          */
+        // 21
         int jc = jc(5);
         System.out.println(jc);
 
