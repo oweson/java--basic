@@ -15,6 +15,7 @@ public class FinalTest {
     }
 
     public static void main(String[] args) {
+        System.out.println("he121212121212121221");
         // final修饰的局部不能赋值运算；
         new FinalTest().printStr("aa");
 
