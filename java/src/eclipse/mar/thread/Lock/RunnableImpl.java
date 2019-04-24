@@ -25,7 +25,7 @@ public class RunnableImpl implements Runnable {
     /**
      * 1 定义一个多个线程共享的票源
      */
-    private int ticket = 100;
+    private int ticket = 100000;
 
     /**
      * 2.在成员位置创建一个ReentrantLock对象;
