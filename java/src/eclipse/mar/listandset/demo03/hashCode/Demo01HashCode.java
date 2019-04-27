@@ -25,8 +25,8 @@ public class Demo01HashCode {
          * toString方法的源码:
          * return getClass().getName() + "@" + Integer.toHexString(hashCode());
          */
-        System.out.println(p1);//com.itheima.demo03.hashCode.Person@75412c2f
-        System.out.println(p2);//com.itheima.demo03.hashCode.Person@282ba1e
+        System.out.println(p1);//com.itheima.demo03static.hashCode.Person@75412c2f
+        System.out.println(p2);//com.itheima.demo03static.hashCode.Person@282ba1e
         System.out.println(p1==p2);//false
 
         /*

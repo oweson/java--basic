@@ -19,7 +19,7 @@ public class Syc {
     }
 
     /**
-     * 修饰方法
+     * 1 修饰方法
      */
     public synchronized void test02() {
         for (int i = 0; i < 10; i++) {

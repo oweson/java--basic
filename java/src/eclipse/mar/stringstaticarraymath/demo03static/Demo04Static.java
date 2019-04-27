@@ -1,4 +1,4 @@
-package eclipse.mar.stringstaticarraymath.demo03;
+package eclipse.mar.stringstaticarraymath.demo03static;
 
 /**
 静态代码块的格式是：

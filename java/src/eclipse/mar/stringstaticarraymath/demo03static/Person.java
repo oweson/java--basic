@@ -1,4 +1,4 @@
-package eclipse.mar.stringstaticarraymath.demo03;
+package eclipse.mar.stringstaticarraymath.demo03static;
 
 
 public class Person {

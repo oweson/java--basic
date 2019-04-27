@@ -9,9 +9,8 @@ public class ISumDemo2Test {
     public static int a = 1;
 
     public static void main(String[] args) {
-
-        int a = 10;
         /**局部变量*/
+        int a = 10;
         a++;
         /**成员变量*/
         ISumDemo2Test.a++;

@@ -1,4 +1,4 @@
-package eclipse.mar.stringstaticarraymath.demo03;
+package eclipse.mar.stringstaticarraymath.demo03static;
 
 /**
 如果一个成员变量使用了static关键字，

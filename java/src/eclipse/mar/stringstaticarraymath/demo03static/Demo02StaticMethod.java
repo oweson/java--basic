@@ -1,4 +1,4 @@
-package eclipse.mar.stringstaticarraymath.demo03;
+package eclipse.mar.stringstaticarraymath.demo03static;
 
 /**
 一旦使用static修饰成员方法，那么这就成为了静态方法。静态方法不属于对象，而是属于类的。

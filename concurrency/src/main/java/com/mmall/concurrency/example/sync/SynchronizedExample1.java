@@ -39,6 +39,8 @@ public class SynchronizedExample1 {
             @Override
             public void run() {
                 System.out.println("ppx");
+                System.out.println(Thread.currentThread().getName());
+
             }
         });
     }
