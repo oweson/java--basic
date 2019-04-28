@@ -1,6 +1,6 @@
 package eclipse.mar.jihekuanjia;
 
-public class Os {
+public class getOsNameTest {
 
     public static void main(String[] args) {
         String string = System.getProperty("os.name");
@@ -9,7 +9,6 @@ public class Os {
         String replace = an.replace('/', '*');
         System.out.println(an);
         System.out.println(replace);
-        // TODO Auto-generated method stub
 
     }
 

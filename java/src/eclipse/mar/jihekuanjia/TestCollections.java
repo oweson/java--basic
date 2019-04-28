@@ -5,11 +5,10 @@ import java.util.*;
 public class TestCollections {
 
     public static void main(String[] args) {
-        //demo1OfTestCollections();
+        demo1OfTestCollections();
 
     }
 
-    @SuppressWarnings("unused")
     private static void demo1OfTestCollections() {
         List<Integer> list = new ArrayList<>();
         for (int i = 0; i < 11; i++) {
@@ -23,7 +22,7 @@ public class TestCollections {
         System.out.println(list);
         Collections.sort(list);
         System.out.println(list);
-        // 对借进行排序；
+        // 交换进行排序；
         Collections.swap(list, 0, 8);
         System.out.println(list);
         // 交换制定数据的下标
@@ -44,7 +43,6 @@ public class TestCollections {
         Collections.synchronizedSet(set);
         System.out.println(set);
         System.out.println(set);
-        // TODO Auto-generated method stub
     }
 
 }

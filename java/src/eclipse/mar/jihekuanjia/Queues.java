@@ -6,22 +6,22 @@ import java.util.Queue;
 public class Queues {
 
     public static void main(String[] args) {
-        LinkedList<Studentss> lStudents = new LinkedList<>();
-        Queue<Studentss> q = new LinkedList<>();
-        q.offer(new Studentss(21));
-        q.offer(new Studentss(211));
-        q.offer(new Studentss(21111));
-        q.offer(new Studentss(21111));
-        q.offer(new Studentss(2111111));
-        //1因为是队列先进先出；
-        //2在末尾进行添加；
+        LinkedList<Student> lStudents = new LinkedList<>();
+        Queue<Student> q = new LinkedList<>();
+        q.offer(new Student(21));
+        q.offer(new Student(211));
+        q.offer(new Student(21111));
+        q.offer(new Student(21111));
+        q.offer(new Student(2111111));
+        //1 因为是队列先进先出；
+        //2 在末尾进行添加；
         //Studentss poll = q.poll();
-        //进行取之；
-        //弄出来就没有了；
+        // 进行取之；
+        // 弄出来就没有了；
         //System.out.println(poll);
         System.out.println(q);
         //只是查看；
-        Studentss peek = q.peek();
+        Student peek = q.peek();
         System.out.println(peek);
         System.out.println(q);
 		
@@ -37,7 +37,6 @@ public class Queues {
 		while (iterator.hasNext()) {
 			System.out.println(iterator.next());
 		}
-		// TODO Auto-generated method stub
 
 	}*/
     }

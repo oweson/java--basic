@@ -1,4 +1,4 @@
-package eclipse.mar.javase.lambda.thread;
+package eclipse.mar.thread;
 
 /**
  * the class is create by @Author:oweson

@@ -1,6 +1,6 @@
 package eclipse.mar.jihekuanjia;
 
-public class Studentss {
+public class Student {
     int age = 100;
 
     @Override
@@ -8,7 +8,7 @@ public class Studentss {
         return "Student [age=" + age + "]";
     }
 
-    public Studentss(int age) {
+    public Student(int age) {
         super();
         this.age = age;
     }
