@@ -2,7 +2,7 @@ package eclipse.mar.format;
 
 import java.util.Scanner;
 
-public class TestNumber {
+public class NumberTest {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("请输入人名字");

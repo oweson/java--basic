@@ -5,7 +5,7 @@ package eclipse.mar.array;
 class ArrayDemo {
 
 	public static void main(String[] args) {
-		// 1 declares an array of integers
+		// 1 declares an array02 of integers
 		int[] anArray;
 
 		// 2 allocates memory for 10 integers

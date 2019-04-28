@@ -37,7 +37,14 @@ public class Fanxing02<T> {
         super();
     }
 
-    public static <T> Fanxing02<T> get() {
+    /**
+     * 第一：声明自定义的泛型
+     * 第二：返回值的类型；
+     * 第三：数据类型变量
+     */
+    public static <T> Fanxing02<T> get(T t) {
+        System.out.println(t.toString());
+        System.out.println(t);
         return new Fanxing02<>();
 
     }
@@ -51,6 +58,8 @@ public class Fanxing02<T> {
         Fanxing02<String> fanxing02 = new Fanxing02<String>("hello", "world");
         System.out.println(asa.getKey() + "  " + asa.getValue());
         System.out.println(fanxing02.getKey() + " " + fanxing02.getValue());
+        Fanxing02<Integer> integerFanxing02 = get(210000);
+        System.out.println(integerFanxing02.key);
 
     }
 

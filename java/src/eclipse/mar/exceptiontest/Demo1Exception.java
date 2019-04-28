@@ -3,7 +3,6 @@ package eclipse.mar.exceptiontest;
 public class Demo1Exception {
 	public static void demo1(String name,int age){
 		if(name==null && name.length()<=0){
-			//return  new ShopStateEnum();
 			throw new RuntimeException("name is null");
 		}
 		else{

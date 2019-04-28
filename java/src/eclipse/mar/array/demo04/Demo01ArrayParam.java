@@ -25,7 +25,7 @@ public class Demo01ArrayParam {
     三要素
     返回值类型：只是进行打印而已，不需要进行计算，也没有结果，用void
     方法名称：printArray
-    参数列表：必须给我数组，我才能打印其中的元素。int[] array
+    参数列表：必须给我数组，我才能打印其中的元素。int[] array02
      */
     public static void printArray(int[] array) {
         System.out.println("printArray方法收到的参数是：");

@@ -1,4 +1,4 @@
-package eclipse.mar.javase.array;
+package eclipse.mar.array.array02;
 
 /**
  * the class is create by @Author:oweson

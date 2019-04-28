@@ -13,8 +13,8 @@ API当中说：Java 程序中的所有字符串字面值（如 "abc" ）都作�
 创建字符串的常见3+1种方式。
 三种构造方法：
 public String()：创建一个空白字符串，不含有任何内容。
-public String(char[] array)：根据字符数组的内容，来创建对应的字符串。
-public String(byte[] array)：根据字节数组的内容，来创建对应的字符串。
+public String(char[] array02)：根据字符数组的内容，来创建对应的字符串。
+public String(byte[] array02)：根据字节数组的内容，来创建对应的字符串。
 一种直接创建：
 String str = "Hello"; // 右边直接用双引号
 

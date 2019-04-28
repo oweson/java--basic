@@ -1,4 +1,4 @@
-package eclipse.mar.javase.exceptions;
+package eclipse.mar.exceptiontest;
 
 /**
  * the class is create by @Author:oweson

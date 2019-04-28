@@ -1,5 +1,5 @@
 package eclipse.mar.fanxing.demo03.Generic;
-/*
+/**
     测试含有泛型的接口
  */
 public class Demo04GenericInterface {

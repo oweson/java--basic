@@ -5,7 +5,7 @@ package eclipse.mar.fanxing;
  * @version 创建时间：2018年5月30日 下午8:36:03 类说明：侵权必究。。。。。。。
  */
 
-public class Fanxing<T> {
+public class Fanxing01<T> {
     private T key;
 
     public T getKey() {
@@ -16,12 +16,12 @@ public class Fanxing<T> {
         this.key = key;
     }
 
-    public Fanxing(T key) {
+    public Fanxing01(T key) {
         super();
         this.key = key;
     }
 
-    public Fanxing() {
+    public Fanxing01() {
         super();
     }
 
@@ -36,14 +36,13 @@ public class Fanxing<T> {
     }
 
     public static void main(String[] args) {
-        Fanxing<Integer> fanxing = new Fanxing<>(100);
-        Fanxing<String> fanxing1 = new Fanxing<>("100");
-        Fanxing<Long> fanxing2 = new Fanxing<>(100l);
+        Fanxing01<Integer> fanxing = new Fanxing01<>(100);
+        Fanxing01<String> fanxing1 = new Fanxing01<>("100");
+        Fanxing01<Long> fanxing2 = new Fanxing01<>(100l);
         System.out.println(fanxing);
         System.out.println(fanxing1);
         System.out.println(fanxing2);
-        Object object = new Fanxing<>().get(10, 100);
-        System.out.println(object);
+
 
     }
 
