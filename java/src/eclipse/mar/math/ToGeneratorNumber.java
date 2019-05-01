@@ -1,6 +1,5 @@
 package eclipse.mar.math;
 
-import eclipse.mar.book.collection.RandomSortArray;
 
 import java.util.Random;
 

@@ -1,6 +1,6 @@
 package eclipse.mar.array;
 
-public class Demo2 {
+public class LengthOfArray {
 
 
     public static void main(String[] args) {

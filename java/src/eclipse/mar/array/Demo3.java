@@ -8,8 +8,12 @@ public class Demo3 {
 
     }
 
+
+
+
     private static void demo1() {
         int arr[] = {1, 2, 3};
+
         /** 1 数组需要重写tosting();*/
         System.out.println(arr.toString());
     }

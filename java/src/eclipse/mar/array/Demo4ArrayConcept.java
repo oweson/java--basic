@@ -5,7 +5,7 @@ package eclipse.mar.array;
  *
  * @Date：2018/11/20 0020 17:21
  */
-public class Demo4Array {
+public class Demo4ArrayConcept {
     public static void main(String[] args) {
         /** 1 int[] a; 声明了一个数组变量。
          []表示该变量是一个数组
