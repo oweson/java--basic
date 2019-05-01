@@ -1,6 +1,6 @@
 package eclipse.mar.stringstaticarraymath.demo02;
 
-/*
+/**
 分割字符串的方法：
 public String[] split(String regex)：按照参数的规则，将字符串切分成为若干部分。
 
@@ -27,7 +27,8 @@ public class Demo05StringSplit {
 
         String str3 = "XXX.YYY.ZZZ";
         String[] array3 = str3.split("\\.");
-        System.out.println(array3.length); // 0
+        System.out.println(array3.length);
+        // 3
         for (int i = 0; i < array3.length; i++) {
             System.out.println(array3[i]);
         }
