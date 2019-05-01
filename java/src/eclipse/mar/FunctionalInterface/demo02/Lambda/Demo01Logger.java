@@ -1,5 +1,6 @@
 package eclipse.mar.FunctionalInterface.demo02.Lambda;
-/*
+
+/**
     日志案例
 
     发现以下代码存在的一些性能浪费的问题
@@ -11,9 +12,9 @@ package eclipse.mar.FunctionalInterface.demo02.Lambda;
  */
 public class Demo01Logger {
     //定义一个根据日志的级别,显示日志信息的方法
-    public static void showLog(int level, String message){
+    public static void showLog(int level, String message) {
         //对日志的等级进行判断,如果是1级别,那么输出日志信息
-        if(level==1){
+        if (level == 1) {
             System.out.println(message);
         }
     }
@@ -25,7 +26,7 @@ public class Demo01Logger {
         String msg3 = "Java";
 
         //调用showLog方法,传递日志级别和日志信息
-        showLog(2,msg1+msg2+msg3);
+        showLog(2, msg1 + msg2 + msg3);
 
     }
 }

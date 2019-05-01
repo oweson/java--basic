@@ -5,7 +5,7 @@ package eclipse.mar.lover;
  * @version 创建时间：2018年5月17日 上午8:37:21 类说明：侵权必究。。。。。。。
  */
 
-public class TestFunctionRefreencesOther {
+public class FunctionRefrencesOther {
     public void tests() {
         System.out.print("hello");
     }
@@ -17,7 +17,7 @@ public class TestFunctionRefreencesOther {
     }
 
     public static void main(String[] args) {
-        new TestFunctionRefreencesOther().testWorld();
+        new FunctionRefrencesOther().testWorld();
 
     }
 

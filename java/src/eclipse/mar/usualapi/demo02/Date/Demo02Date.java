@@ -4,6 +4,7 @@ import java.util.Date;
 
 public class Demo02Date {
     public static void main(String[] args) {
+        demo01();
         demo03();
     }
 
@@ -39,6 +40,5 @@ public class Demo02Date {
     private static void demo01() {
         Date date = new Date();
         System.out.println(date);
-        //Sun Aug 08 12:23:03 CST 2088
     }
 }

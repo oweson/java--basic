@@ -1,3 +1,4 @@
+/*
 package eclipse.mar.jihekuanjia;
 
 import java.util.LinkedList;
@@ -26,7 +27,8 @@ public class Queues {
         System.out.println(q);
 		
 		
-		/*lStudents.addFirst(new Studentss(21));
+		*/
+/*lStudents.addFirst(new Studentss(21));
 		lStudents.addFirst(new Studentss(22));
 		lStudents.addFirst(new Studentss(23));
 		lStudents.addFirst(new Studentss(24));
@@ -38,6 +40,8 @@ public class Queues {
 			System.out.println(iterator.next());
 		}
 
-	}*/
+	}*//*
+
     }
 }
+*/

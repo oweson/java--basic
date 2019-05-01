@@ -1,6 +1,6 @@
-package eclipse.mar.jihekuanjia;
+package eclipse.mar.string;
 
-public class TestSubString {
+public class SubStringTest {
 
     public static void main(String[] args) {
         String aString = "hello ppx,let's go!";
