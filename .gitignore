@@ -24,3 +24,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+/hutool/target/
+/target/
+
+.idea/workspace.xml
+
+hutool/src/main/resources/
+hutool/src/test/
+java/src/top/mooc/playdataStructure/second/array/stack/

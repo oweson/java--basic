@@ -19,12 +19,14 @@ public class TreeSetTest {
             map.put(4, 4);
             map.put(1, 1);
             for (Object a : map.keySet()) {
-                System.out.print(a);
+                System.out.println(a);
 
             }
+            // 越界异常
             System.out.println(s[4]);
         } catch (Exception e) {
             System.out.println("error");
+            System.out.println(e.getMessage().toLowerCase()+e.getCause());
         }
 
     }

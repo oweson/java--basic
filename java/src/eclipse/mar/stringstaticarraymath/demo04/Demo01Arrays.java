@@ -19,15 +19,18 @@ public class Demo01Arrays {
         int[] intArray = {10, 20, 30};
         // 将int[]数组按照默认格式变成字符串
         String intStr = Arrays.toString(intArray);
-        System.out.println(intStr); // [10, 20, 30]
+        System.out.println(intStr);
+        // [10, 20, 30]
 
         int[] array1 = {2, 1, 3, 10, 6};
         Arrays.sort(array1);
-        System.out.println(Arrays.toString(array1)); // [1, 2, 3, 6, 10]
+        System.out.println(Arrays.toString(array1));
+        // [1, 2, 3, 6, 10]
 
         String[] array2 = {"bbb", "aaa", "ccc"};
         Arrays.sort(array2);
-        System.out.println(Arrays.toString(array2)); // [aaa, bbb, ccc]
+        System.out.println(Arrays.toString(array2));
+        // [aaa, bbb, ccc]
     }
 
 }

@@ -10,6 +10,6 @@ public class InilazeCodeTest {
         int i;
 
         //i += 1;
-        /**局部变量不许初始化才能使用*/
+        /**局部变量初始化才能使用*/
     }
 }

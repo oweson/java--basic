@@ -29,7 +29,7 @@ public class Demo04Array {
         }
         System.out.println("=================");
 
-//        int len = array.length; // 长度
+//        int len = array02.length; // 长度
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
         }

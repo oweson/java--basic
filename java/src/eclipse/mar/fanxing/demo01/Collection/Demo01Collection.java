@@ -8,8 +8,6 @@ import java.util.HashSet;
     java.util.Collection接口
         所有单列集合的最顶层的接口,里边定义了所有单列集合共性的方法
         任意的单列集合都可以使用Collection接口中的方法
-
-
     共性的方法:
       public boolean add(E e)：  把给定的对象添加到当前集合中 。
       public void clear() :清空集合中所有的元素。

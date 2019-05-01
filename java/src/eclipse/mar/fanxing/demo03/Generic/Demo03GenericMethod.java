@@ -7,7 +7,7 @@ public class Demo03GenericMethod {
         //创建GenericMethod对象
         GenericMethod gm = new GenericMethod();
 
-        /*
+        /**
             调用含有泛型的方法method01
             传递什么类型,泛型就是什么类型
          */
@@ -21,5 +21,6 @@ public class Demo03GenericMethod {
         //静态方法,通过类名.方法名(参数)可以直接使用
         GenericMethod.method02("静态方法");
         GenericMethod.method02(1);
+        GenericMethod.method03("我很烦");
     }
 }

@@ -7,8 +7,9 @@ package pig.huoshikeji;
  */
 public class Fish {
     int a;
-    public static void change(Fish fish){
-        fish.a=3;
+
+    public static void change(Fish fish) {
+        fish.a = 3;
     }
 
     public static void main(String[] args) {
@@ -16,5 +17,6 @@ public class Fish {
         change(fish);
         System.out.println(fish.a);
         // 3
+        System.out.println(new Fish().a);
     }
 }

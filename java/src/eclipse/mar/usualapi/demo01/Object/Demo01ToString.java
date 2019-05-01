@@ -5,18 +5,18 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
-    java.lang.Object
-    类 Object 是类层次结构的根(父)类。
-    每个类(Person,Student...)都使用 Object 作为超(父)类。
-    所有对象（包括数组）都实现这个类的方法。
+ * java.lang.Object
+ * 类 Object 是类层次结构的根(父)类。
+ * 每个类(Person,Student...)都使用 Object 作为超(父)类。
+ * 所有对象（包括数组）都实现这个类的方法。
  */
-public class Demo01ToString{
+public class Demo01ToString {
     public static void main(String[] args) {
         /*
             Person类默认继承了Object类,所以可以使用Object类中的toString方法
             String toString() 返回该对象的字符串表示。
          */
-        Person p = new Person("张三",18);
+        Person p = new Person("张三", 18);
         String s = p.toString();
         System.out.println(s);
         //com.itheima.demo01.Object.Person@75412c2f | abc | Person{name=张三 ,age=18}
@@ -25,7 +25,8 @@ public class Demo01ToString{
         System.out.println(p);
         //com.itheima.demo01.Object.Person@5f150435 | abc | Person{name=张三 ,age=18}
 
-        //看一个类是否重写了toString,直接打印这个类的对象即可,如果没有重写toString方法那么打印的是对象的地址值
+        /**看一个类是否重写了toString,直接打印这个类的对象即可,
+         * 如果没有重写toString方法那么打印的是对象的地址值*/
         Random r = new Random();
         System.out.println(r);
         //java.util.Random@3f3afe78  没有重写toString方法

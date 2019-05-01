@@ -20,7 +20,7 @@ public class People {
         People people = new People();
         Student student = new Student();
         student.setId(21);
-        student.setName("asasas");
+        student.setName("ppx");
         /**把student属性注入到people中；*/
         people.setStudent(student);
         System.out.println(people.student.id);

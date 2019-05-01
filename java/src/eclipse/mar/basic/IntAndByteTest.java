@@ -7,8 +7,12 @@ package eclipse.mar.basic;
  */
 public class IntAndByteTest {
     public static void main(String[] args) {
-        char a='p';
+        char a = 'p';
         int i = a + 90;
         System.out.println(i);
+        char b = 'y';
+        int i1 = b + a;
+        System.out.println(i1);
+        // 自动的类型转换
     }
 }

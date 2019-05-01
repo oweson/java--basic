@@ -27,7 +27,8 @@ public class LuckyDoubleBall {
         Random r = new Random();
         TreeSet<String> ts = new TreeSet<String>();
         while (true) {
-            /**得到随机的索引；*/
+            /**
+             * 得到随机的索引；*/
             int nextInt = r.nextInt(poll.length);
             ts.add(poll[nextInt]);
             if (ts.size() == 6) {

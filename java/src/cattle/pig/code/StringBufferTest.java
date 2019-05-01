@@ -12,13 +12,17 @@ public class StringBufferTest {
         StringBuffer b = new StringBuffer("B");
         operator(a, b);
         System.out.println(a + "," + b);
+        // AB B
     }
 
     public static void operator(StringBuffer x, StringBuffer y) {
-        x.append(y);//ab
-        y = x;//ab
+        x.append(y);
+        //ab
+        y = x;
+        //ab
         /**解析：a,b是对象的引用，指向堆内存，将a，b两个引用传给x，y，
          * 执行x.append(y)，改变了x引用指向的堆内存的存储内容，变为AB，
-         *  y = x，表示引用y,指向引用x指向的存储区域，没有改变引用b，指向的存储空间的内容*/
+         *  y = x，表示引用y,指向引用x指向的存储区域，没有改变引用b，指向的存储空间的内容;
+         *  y是形参，清空！*/
     }
 }

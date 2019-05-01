@@ -15,8 +15,10 @@ public class PigExtendsTest extends Animal {
         System.out.println("im say");
         super.say();
     }
-    public void demo(){
+
+    public void demo() {
         final int height = super.height;
+        System.out.println(height);
     }
 
     public static void main(String[] args) {
@@ -43,8 +45,6 @@ public class PigExtendsTest extends Animal {
         System.out.println(PigExtendsTest.look);
         /**继承的静态属性可以直接使用*/
         String s = look + "";
-
-
 
 
     }

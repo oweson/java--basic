@@ -1,6 +1,5 @@
 package eclipse.mar.math;
 
-
 import java.util.Random;
 
 /**

@@ -7,6 +7,7 @@ package cattle.pig.code;
  */
 public class Animal {
     int weight = 100;
+    int a=100;
     protected int height = 172;
     public static final String look = "beautiful";
 

@@ -3,7 +3,7 @@ package eclipse.mar.jihekuanjia;
 public class PracticeSeason {
     public static void main(String[] args) {
         Season season = Season.AUTM;
-        // 1遍历enum;
+        // 1 遍历enum;
         for (Season s : Season.values()) {
             System.out.println(s);
         }

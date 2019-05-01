@@ -16,6 +16,10 @@ public class EmailValidator {
         System.out.println(Validator.isCitizenId("412724199503284411"));
         System.out.println("邮编校验如下：");
         System.out.println(Validator.isZipCode("461400"));
+        //至少多长的
+        System.out.println(Validator.isGeneral("100",2));
+        //至少多长的
+        System.out.println(Validator.isGeneral("999999",2,15));
 
         /** 1 为空判断
          isNull

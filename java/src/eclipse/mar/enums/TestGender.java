@@ -6,9 +6,6 @@ package eclipse.mar.enums;
  */
 
 public class TestGender {
-    public static void main(String[] args) {
-        System.out.println(Gender.CODE.getCode());
-        System.out.println(Gender.GENDER.getCode());
-    }
+
 
 }

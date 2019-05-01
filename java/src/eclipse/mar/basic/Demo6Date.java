@@ -39,7 +39,7 @@ public class Demo6Date {
        /* SimpleDateFormat sdf =new SimpleDateFormat("yyyy-MM-dd HH:mm:ss SSS" );
         String format = sdf.format(new Date());
         System.out.println(format);*/
-        /** 4 字符串转日期 顶 折 纠 问
+        /** 4 字符串转日期
          模式（yyyy/MM/dd HH:mm:ss）需要和字符串格式保持一致，
          如果不一样就会抛出解析异常ParseException*/
         SimpleDateFormat sdf =new SimpleDateFormat("yyyy/MM/dd HH:mm:ss" );

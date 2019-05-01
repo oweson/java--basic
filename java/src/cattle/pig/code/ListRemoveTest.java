@@ -16,6 +16,12 @@ public class ListRemoveTest {
         NumberList.add(1);
         NumberList.add(3);
         NumberList.add(5);
+        // 怎么放，怎么取；
+        for (Integer integer : NumberList) {
+            System.out.println(integer);
+
+        }
+        //todo???
         for (int i = 0; i < NumberList.size(); ++i) {
             int v = NumberList.get(i);
             if (v % 2 == 0) {

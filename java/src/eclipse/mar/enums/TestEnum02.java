@@ -10,7 +10,7 @@ public class TestEnum02 {
         Demo2FourSeasonEnum spring = Demo2FourSeasonEnum.SPRING;
         switch (spring) {
             case SPRING:
-                System.out.println("sspring is comming ");
+                System.out.println("spring is comming ");
 
                 break;
 

@@ -16,13 +16,9 @@
 16 **morning_parent:猫宁商城，ssm架构，复杂，有bug,搁置......**
 17 **weixin:最大的代码中心，redis+poi+captcha+jpa+ssm硅谷整合+ssp硅谷jpa整合**
 18 **concurrentcy:并发练习**
-19 **mmall:二期happymmall**
-20 **oasys:oa系统，挺复杂......**
 21 **lucence:搜索工具**
-22 **springwind   //todo**
 23 **summer:诞生夏季，sqlpractice:mybatis多条件查询，------ssm_ajax:json和ajax练习**
 24 **AAA_TMALL：二期seashop:jpa+vue+ajax+html**
-25 **cjrjob:多人协同的ssm项目**
 26 **guns:后端boot+文档+代码生成（弱！！！）+shiro**
 27 **spring-boot-api-project-seed:快速的boot模版，快速搭建和逆向工程**
 28 **My_Mybatis_plus:mybatisplus生成器**
