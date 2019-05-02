@@ -1,6 +1,8 @@
 package eclipse.mar.map;
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ConcurrentSkipListMap;
 
 /**
  * the class is create by @Author:oweson
@@ -26,5 +28,8 @@ public class SafeMap {
             Map.Entry<Integer, Integer> integerEntry = entryIterator.next();
             System.out.println(integerEntry.getKey() + " :" + integerEntry.getValue());
         }
+        // 2 并发集合
+        Map map1 = new ConcurrentHashMap();
+        map1 = new ConcurrentSkipListMap();
     }
 }

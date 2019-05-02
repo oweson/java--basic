@@ -47,8 +47,8 @@ public class DeleteDateFromArrayList {
 
         }
         System.err.println(list.size());
+        System.out.println(list.size());
 
-        // TODO Auto-generated method stub
 
     }
 
