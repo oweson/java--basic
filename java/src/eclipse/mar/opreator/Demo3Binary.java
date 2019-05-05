@@ -9,15 +9,13 @@ package eclipse.mar.opreator;
 public class Demo3Binary {
 
     public static void main(String[] args) {
-		/*示例 1 : 一个整数的二进制表达 顶 折 纠 问
+		/*示例 1 : 一个整数的二进制表达
 位操作都是对二进制而言的，但是我们平常使用的都是十进制比如5。
 而5的二进制是101。
 所以在开始学习之前，需要掌握一个整数的二进制表达是多少。
 通过Integer.toBinaryString() 方法，将一个十进制整数转换为一个二进制字符串*/
-        // TODO Auto-generated method stub
         String binaryString = Integer.toBinaryString(100).substring(0, 5);
         //前闭后开；
-        String binaryString1 = Integer.toBinaryString(101).substring(0, 5);
         System.out.println(binaryString);
         System.out.println(6 | 7);
         System.out.println(1 & 2);

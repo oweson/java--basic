@@ -48,9 +48,10 @@ public class Demo01VarArgs {
         add(10,20,30,40,50,60,70,80,90,100); 就会创建一个长度为2的数组,存储传递来过的参数 new int[]{10,20,30,40,50,60,70,80,90,100};
      */
     public static int add(int...arr){
-        //System.out.println(arr);//[I@2ac1fdc4 底层是一个数组
+        //System.out.println(arr);
+        // [I@2ac1fdc4 底层是一个数组
         //System.out.println(arr.length);//0,1,2,10
-        //定义一个初始化的变量,记录累加求和
+        // 定义一个初始化的变量,记录累加求和
         int sum = 0;
         //遍历数组,获取数组中的每一个元素
         for (int i : arr) {
@@ -61,13 +62,4 @@ public class Demo01VarArgs {
         return sum;
     }
 
-    //定义一个方法,计算三个int类型整数的和
-    /*public static int add(int a,int b,int c){
-        return a+b+c;
-    }*/
-
-    //定义一个方法,计算两个int类型整数的和
-    /*public static int add(int a,int b){
-        return a+b;
-    }*/
 }

@@ -6,14 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b81020d-5778-46c9-a378-66cad74e4f6a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/apigson/threadsafe/AtomicIntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/apigson/threadsafe/Demo1CreateThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/apigson/threadsafe/Demo2ThreadPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/apigson/threadsafe/HowThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/apigson/threadsafe/LockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/apigson/threadsafe/SafeMapAndList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/production/java--basic/eclipse/mar/jihekuanjia/DeleteDateFromArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/production/java--basic/eclipse/mar/jihekuanjia/DeleteDateFromArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo01Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo01Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo04LinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo04LinkedHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo03/hashCode/Demo01HashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo03/hashCode/Demo01HashCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo04/VarArgs/Demo01VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo04/VarArgs/Demo01VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/opreator/Demo3Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/opreator/Demo3Binary.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/hutool/target/" />
     <ignored path="$PROJECT_DIR$/concurrency/target/" />
@@ -52,7 +50,146 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Demo03HashSetSavePerson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo03HashSetSavePerson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding>
+                <element signature="e#719#732#0" expanded="true" />
+                <element signature="e#719#732#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo04LinkedHashSet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo04LinkedHashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <element signature="e#326#364#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDulplicateChar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/RemoveDulplicateChar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+              <folding>
+                <element signature="e#410#452#1" expanded="true" />
+                <element signature="e#588#670#0" expanded="true" />
+                <element signature="e#588#670#0" expanded="true" />
+                <element signature="e#801#827#0" expanded="true" />
+                <element signature="e#801#827#0" expanded="true" />
+                <element signature="e#859#885#0" expanded="true" />
+                <element signature="e#859#885#0" expanded="true" />
+                <element signature="e#1197#1238#1" expanded="true" />
+                <element signature="e#1287#1341#1" expanded="true" />
+                <element signature="e#1322#1340#0" expanded="true" />
+                <element signature="e#1322#1340#0" expanded="true" />
+                <element signature="e#1350#1387#1" expanded="true" />
+                <element signature="e#1396#1440#1" expanded="true" />
+                <element signature="e#1449#1519#0" expanded="true" />
+                <element signature="e#1454#1460#0" expanded="true" />
+                <element signature="e#1449#1519#0" expanded="true" />
+                <element signature="e#1490#1507#0" expanded="true" />
+                <element signature="e#1564#1662#0" expanded="true" />
+                <element signature="e#1569#1588#0" expanded="true" />
+                <element signature="e#1564#1662#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo01HashCode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo03/hashCode/Demo01HashCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+              <folding>
+                <element signature="e#447#470#1" expanded="true" />
+                <element signature="e#538#563#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo01VarArgs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo04/VarArgs/Demo01VarArgs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+              <folding>
+                <element signature="e#425#444#1" expanded="true" />
+                <element signature="e#1522#1592#0" expanded="true" />
+                <element signature="e#1516#1521#0" expanded="true" />
+                <element signature="e#1522#1592#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo01Collections.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo01Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-352">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo02Sort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo02Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-716">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionRefrencesOther.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/lover/FunctionRefrencesOther.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo3Binary.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/opreator/Demo3Binary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <folding>
+                <element signature="e#412#478#1" expanded="true" />
+                <element signature="e#383#426#0" expanded="true" />
+                <element signature="e#383#426#0" expanded="true" />
+                <element signature="e#383#426#0" expanded="true" />
+                <element signature="e#475#518#0" expanded="true" />
+                <element signature="e#475#518#0" expanded="true" />
+                <element signature="e#475#518#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,12 +214,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/collection/FindIndex.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/collection/Card.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/collection/PlayCard.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/jihekuanjia/LinkedListTest.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/jihekuanjia/Queues.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/jihekuanjia/TestCollections.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/jihekuanjia/CollectionsTest.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/collections/PropertiesTest.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/collections/LuckyDoubleBall.java" />
@@ -128,6 +259,12 @@
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/apigson/threadsafe/Demo1CreateThread.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/apigson/threadsafe/demo2ThreadPoolTest.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/apigson/threadsafe/Demo2ThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo01Set.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo02HashSetSaveString.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo04LinkedHashSet.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo03/hashCode/Demo01HashCode.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo04/VarArgs/Demo01VarArgs.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/opreator/Demo3Binary.java" />
       </list>
     </option>
   </component>
@@ -166,6 +303,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,13 +327,6 @@
               <item name="java--basic" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pig" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -204,7 +335,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mar" type="462c0819:PsiDirectoryNode" />
-              <item name="apigson" type="462c0819:PsiDirectoryNode" />
+              <item name="opreator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
@@ -245,7 +376,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -267,13 +397,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo2ThreadPoolTest">
-    <configuration name="AtomicIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eclipse.mar.apigson.threadsafe.AtomicIntegerTest" />
+  <component name="RunManager" selected="Application.Demo3Binary">
+    <configuration name="Demo03HashSetSavePerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eclipse.mar.listandset.demo02.Set.Demo03HashSetSavePerson" />
       <module name="java--basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="eclipse.mar.apigson.threadsafe.*" />
+          <option name="PATTERN" value="eclipse.mar.listandset.demo02.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,40 +428,40 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FiveDayHappy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pig.FiveDayHappy" />
+    <configuration name="Demo3Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eclipse.mar.opreator.Demo3Binary" />
       <module name="java--basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pig.*" />
+          <option name="PATTERN" value="eclipse.mar.opreator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ToStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eclipse.mar.array.demo5.tostring.ToStringTest" />
+    <configuration name="RemoveDulplicateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eclipse.mar.listandset.demo02.Set.RemoveDulplicateChar" />
       <module name="java--basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="eclipse.mar.array.demo5.tostring.*" />
+          <option name="PATTERN" value="eclipse.mar.listandset.demo02.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.FiveDayHappy" />
-      <item itemvalue="Application.ToStringTest" />
-      <item itemvalue="Application.AtomicIntegerTest" />
       <item itemvalue="Application.Demo1CreateThread" />
       <item itemvalue="Application.Demo2ThreadPoolTest" />
+      <item itemvalue="Application.Demo03HashSetSavePerson" />
+      <item itemvalue="Application.RemoveDulplicateChar" />
+      <item itemvalue="Application.Demo3Binary" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo3Binary" />
+        <item itemvalue="Application.RemoveDulplicateChar" />
+        <item itemvalue="Application.Demo03HashSetSavePerson" />
         <item itemvalue="Application.Demo2ThreadPoolTest" />
         <item itemvalue="Application.Demo1CreateThread" />
-        <item itemvalue="Application.AtomicIntegerTest" />
-        <item itemvalue="Application.FiveDayHappy" />
-        <item itemvalue="Application.ToStringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +581,8 @@
       <workItem from="1556626149039" duration="724000" />
       <workItem from="1556628757847" duration="3856000" />
       <workItem from="1556687752303" duration="10138000" />
-      <workItem from="1556962724471" duration="4877000" />
+      <workItem from="1556962724471" duration="5633000" />
+      <workItem from="1557066446133" duration="628000" />
     </task>
     <task id="LOCAL-00001" summary="javase的练习">
       <created>1540980826275</created>
@@ -733,19 +864,27 @@
       <option name="project" value="LOCAL" />
       <updated>1556787591557</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="添加多线陈的最新的demo,多线陈是核心，要勤加练习，">
+      <created>1556973145603</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1556973145603</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="502400000" />
+    <option name="totallyTimeSpent" value="503784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="14" />
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="29" />
-      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.25132474" side_tool="true" weight="0.067736186" />
+      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.25208175" side_tool="true" visible="true" weight="0.071301244" />
       <window_info anchor="bottom" id="JRebel Console" order="29" sideWeight="0.24526873" side_tool="true" weight="0.10142349" />
       <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="29" show_stripe_button="false" />
@@ -763,12 +902,12 @@
       <window_info anchor="right" id="Palette&#9;" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="Version Control" order="29" sideWeight="0.49735048" weight="0.07118055" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7486752" visible="true" weight="0.055555556" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74791825" visible="true" weight="0.071301244" />
       <window_info anchor="bottom" id="Spring" order="25" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="CheckStyle" order="29" />
       <window_info anchor="bottom" id="Terminal" order="29" weight="0.09548611" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="26" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18773656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19076458" />
       <window_info anchor="bottom" id="Run with VisualVM" order="29" />
       <window_info anchor="bottom" id="Problems" order="28" sideWeight="0.49924356" weight="0.32931036" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -779,42 +918,41 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="29" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="RestServices" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.034822103" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4996215" weight="0.34375" />
+      <window_info id="Capture Tool" order="4" />
       <window_info anchor="bottom" id="Inspection Results" order="30" weight="0.33105803" />
       <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="RestServices" order="7" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Redis Servers" order="8" />
       <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="right" id="Redis Servers" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.034822103" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" visible="true" weight="0.031013615" />
       <window_info anchor="bottom" id="JProfiler" order="16" />
       <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
       <window_info anchor="bottom" id="SmartIM" order="17" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4996215" weight="0.34375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="23" />
       <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
+      <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="30" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="15" />
       <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49962035" weight="0.3281787" />
       <window_info id="Designer" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="12" />
-      <window_info anchor="bottom" id="Tail" order="28" />
       <window_info anchor="right" id="Palette" order="10" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="21" />
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="12" sideWeight="0.49924356" weight="0.32931036" />
       <window_info id="Image Layers" order="3" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.74943227" visible="true" weight="0.21527778" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Redis Servers" order="8" />
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Profiler" order="16" />
       <window_info id="Favorites" order="8" side_tool="true" />
@@ -825,38 +963,39 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="CheckStyle" order="18" />
       <window_info anchor="bottom" id="Event Log" order="19" sideWeight="0.25056776" side_tool="true" visible="true" weight="0.21527778" />
-      <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="26" sideWeight="0.48033282" weight="0.33103448" />
+      <window_info anchor="right" id="RestServices" order="7" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" visible="true" weight="0.031013615" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71902657" visible="true" weight="0.17789553" />
-      <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="21" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Problems" order="14" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="JProfiler" order="8" />
       <window_info anchor="bottom" id="SmartIM" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="22" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="23" sideWeight="0.49848714" weight="0.085178874" />
-      <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
-      <window_info anchor="bottom" id="Alibaba Cloud View" order="30" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="JRebel Executor" order="25" />
+      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="10" />
       <window_info id="Alibaba Cloud Explorer" order="9" sideWeight="0.28097346" side_tool="true" visible="true" weight="0.17789553" />
+      <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.34412265" />
+      <window_info anchor="bottom" id="JRebel Executor" order="25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71902657" visible="true" weight="0.17789553" />
       <window_info anchor="bottom" id="JRebel Console" order="24" sideWeight="0.22239032" side_tool="true" weight="0.18228279" />
-      <window_info anchor="bottom" id="Messages" order="26" sideWeight="0.48033282" weight="0.33103448" />
+      <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="27" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="12" />
       <window_info anchor="bottom" id="Statistic" order="20" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="RestServices" order="7" />
-      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="10" />
-      <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.34412265" />
+      <window_info anchor="right" id="Redis Servers" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="bottom" id="Tail" order="28" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4950795" weight="0.17534722" />
     </layout-to-restore>
   </component>
@@ -895,7 +1034,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="练习设计模式原型（克隆）和抽象工厂模式；" />
     <MESSAGE value="一些调整和优化；" />
     <MESSAGE value="设计模式优化" />
     <MESSAGE value="添加玛瑙湾的练习" />
@@ -920,7 +1058,8 @@
     <MESSAGE value="五一快乐；生日快乐；" />
     <MESSAGE value="职责明确，面试和基础项目交由ide2019维护；" />
     <MESSAGE value="未来是什么？何去何从？" />
-    <option name="LAST_COMMIT_MESSAGE" value="未来是什么？何去何从？" />
+    <MESSAGE value="添加多线陈的最新的demo,多线陈是核心，要勤加练习，" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加多线陈的最新的demo,多线陈是核心，要勤加练习，" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -931,104 +1070,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo02/Date/Demo02Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/lover/FunctionRefrencesOther.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/map/demo01/Map/Demo01Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="129" column="8" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/map/demo01/Map/Demo02KeySet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/map/demo01/Map/Demo03EntrySet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/map/demo02/Map/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
-          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/map/demo02/Map/Demo01HashMapSavePerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/easyfalse/RunTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/reflect/Fish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/easyfalse/FinalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo06StringBuilder/Demo01StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo06StringBuilder/Demo02StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo06StringBuilder/Demo03StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo05/System/Demo01System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1077">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo07Integer/Demo01Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1250,10 +1291,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="569">
           <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#466#479#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1261,19 +1298,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#410#1" expanded="true" />
-            <element signature="e#442#522#0" expanded="true" />
-            <element signature="e#384#394#1" expanded="true" />
-            <element signature="e#442#522#0" expanded="true" />
-            <element signature="e#442#522#0" expanded="true" />
-            <element signature="e#442#522#0" expanded="true" />
-            <element signature="e#442#522#0" expanded="true" />
-            <element signature="e#1089#1121#1" expanded="true" />
-            <element signature="e#1174#1216#1" expanded="true" />
-            <element signature="e#1304#1381#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1281,12 +1305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#259#292#1" expanded="true" />
-            <element signature="e#318#358#1" expanded="true" />
-            <element signature="e#402#453#1" expanded="true" />
-            <element signature="e#421#452#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1301,19 +1319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#356#433#0" expanded="true" />
-            <element signature="e#308#340#0" expanded="true" />
-            <element signature="e#356#433#0" expanded="true" />
-            <element signature="e#478#509#1" expanded="true" />
-            <element signature="e#537#555#0" expanded="true" />
-            <element signature="e#663#681#0" expanded="true" />
-            <element signature="e#665#684#1" expanded="true" />
-            <element signature="e#768#828#0" expanded="true" />
-            <element signature="e#732#764#0" expanded="true" />
-            <element signature="e#768#828#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1321,20 +1326,166 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo01/List/Demo01List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="80" column="29" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#316#384#1" expanded="true" />
-            <element signature="e#456#684#0" expanded="true" />
-            <element signature="e#398#408#1" expanded="true" />
-            <element signature="e#456#684#0" expanded="true" />
-            <element signature="e#456#684#0" expanded="true" />
-            <element signature="e#456#684#0" expanded="true" />
-            <element signature="e#456#684#0" expanded="true" />
-            <element signature="e#437#483#1" expanded="true" />
-            <element signature="e#581#644#1" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#296#328#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#2433#2456#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo01/List/Demo02LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo01Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="e#517#552#1" expanded="true" />
+            <element signature="e#702#824#0" expanded="true" />
+            <element signature="e#702#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo02HashSetSaveString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#217#255#1" expanded="true" />
+            <element signature="e#264#294#1" expanded="true" />
+            <element signature="e#315#332#0" expanded="true" />
+            <element signature="e#342#353#0" expanded="true" />
+            <element signature="e#342#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo03HashSetSavePerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="e#719#732#0" expanded="true" />
+            <element signature="e#719#732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/Demo04LinkedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="e#326#364#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo02/Set/RemoveDulplicateChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+          <folding>
+            <element signature="e#410#452#1" expanded="true" />
+            <element signature="e#588#670#0" expanded="true" />
+            <element signature="e#588#670#0" expanded="true" />
+            <element signature="e#801#827#0" expanded="true" />
+            <element signature="e#801#827#0" expanded="true" />
+            <element signature="e#859#885#0" expanded="true" />
+            <element signature="e#859#885#0" expanded="true" />
+            <element signature="e#1197#1238#1" expanded="true" />
+            <element signature="e#1287#1341#1" expanded="true" />
+            <element signature="e#1322#1340#0" expanded="true" />
+            <element signature="e#1322#1340#0" expanded="true" />
+            <element signature="e#1350#1387#1" expanded="true" />
+            <element signature="e#1396#1440#1" expanded="true" />
+            <element signature="e#1449#1519#0" expanded="true" />
+            <element signature="e#1454#1460#0" expanded="true" />
+            <element signature="e#1449#1519#0" expanded="true" />
+            <element signature="e#1490#1507#0" expanded="true" />
+            <element signature="e#1564#1662#0" expanded="true" />
+            <element signature="e#1569#1588#0" expanded="true" />
+            <element signature="e#1564#1662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo03/hashCode/Demo01HashCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <element signature="e#447#470#1" expanded="true" />
+            <element signature="e#538#563#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo04/VarArgs/Demo01VarArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding>
+            <element signature="e#425#444#1" expanded="true" />
+            <element signature="e#1522#1592#0" expanded="true" />
+            <element signature="e#1516#1521#0" expanded="true" />
+            <element signature="e#1522#1592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo01Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo02Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-716">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/lover/FunctionRefrencesOther.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/opreator/Demo3Binary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="e#412#478#1" expanded="true" />
+            <element signature="e#383#426#0" expanded="true" />
+            <element signature="e#383#426#0" expanded="true" />
+            <element signature="e#383#426#0" expanded="true" />
+            <element signature="e#475#518#0" expanded="true" />
+            <element signature="e#475#518#0" expanded="true" />
+            <element signature="e#475#518#0" expanded="true" />
           </folding>
         </state>
       </provider>

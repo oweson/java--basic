@@ -4,9 +4,9 @@ import java.util.HashSet;
 import java.util.LinkedHashSet;
 
 /**
-    java.util.LinkedHashSet集合 extends HashSet集合
-    LinkedHashSet集合特点:
-        底层是一个哈希表(数组+链表/红黑树)+链表:多了一条链表(记录元素的存储顺序),保证元素有序
+ * java.util.LinkedHashSet集合 extends HashSet集合
+ * LinkedHashSet集合特点:
+ * 底层是一个哈希表(数组+链表/红黑树)+链表:多了一条链表(记录元素的存储顺序),保证元素有序
  */
 public class Demo04LinkedHashSet {
     public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class Demo04LinkedHashSet {
         set.add("abc");
         set.add("itcast");
         System.out.println(set);
-        //[abc, www, itcast] 无序,不允许重复
+        // 1 [abc, www, itcast] 无序,不允许重复
 
         LinkedHashSet<String> linked = new LinkedHashSet<>();
         linked.add("www");
@@ -24,6 +24,6 @@ public class Demo04LinkedHashSet {
         linked.add("abc");
         linked.add("itcast");
         System.out.println(linked);
-        //[www, abc, itcast] 有序,不允许重复
+        // 2 [www, abc, itcast] 有序,不允许重复
     }
 }

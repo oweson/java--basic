@@ -13,7 +13,6 @@ public class Demo1Sanyuan {
         int c;
         c = a > b ? a : b;
         System.out.println(c);
-        // TODO Auto-generated method stub
 
     }
 
