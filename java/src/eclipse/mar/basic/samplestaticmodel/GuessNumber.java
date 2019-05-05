@@ -1,7 +1,7 @@
-package eclipse.mar.samplestaticmodel;
+package eclipse.mar.basic.samplestaticmodel;
 
 
-public class as {
+public class GuessNumber {
     public static void main(String[] args) {
         int max = 100;
         int min = 1;

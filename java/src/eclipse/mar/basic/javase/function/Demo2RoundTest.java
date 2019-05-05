@@ -1,4 +1,4 @@
-package eclipse.mar.javase.function;
+package eclipse.mar.basic.javase.function;
 
 /**
  * the class is create by @Author:oweson

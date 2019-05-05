@@ -19,12 +19,12 @@ public class StringNullTest {
         System.out.println(s == null);
         /** 2 null可以和null进行比较*/
         if (s != null && s.length() == 0) {
-            /**具有短路的效果，左边为异常，右边就不会运行*/
+            /** 3 具有短路的效果，左边为异常，右边就不会运行*/
             System.out.println(100);
         }
-        /* if(s!=null & s.length()==0){
+        /* 4 if(s!=null & s.length()==0){
          *及时左边的不成立，右边的还是会运行
-         * null的对象不可以调用方法和nullpointexception*//*
+         * null的对象不可以调用方法nullpointexception*//*
         }*
         * if(s!=null | s.length()==0){
          *//**空指针异常*//*
@@ -32,7 +32,7 @@ public class StringNullTest {
 
         }*/
         if (s == null || s.length() == 0) {
-            /**左边运行满足，右面直接越过返回true
+            /** 5 左边运行满足，右面直接越过返回true
              * ||任意一个满足都会运行的，
              * |必须两个都得满足才可以
              * */

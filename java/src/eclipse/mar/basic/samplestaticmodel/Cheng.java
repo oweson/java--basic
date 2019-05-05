@@ -1,4 +1,4 @@
-package eclipse.mar.samplestaticmodel;
+package eclipse.mar.basic.samplestaticmodel;
 
 import org.junit.Test;
 
@@ -22,7 +22,6 @@ public class Cheng {
 
     public Cheng() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
     public String getName() {

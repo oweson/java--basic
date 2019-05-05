@@ -1,9 +1,8 @@
-package eclipse.mar.samplestaticmodel;
+package eclipse.mar.basic.samplestaticmodel;
 
 import org.junit.Test;
 
 public class TestFactory {
-    //public static void main(String[] args) {
     @Test
 
     public void test() {
@@ -18,7 +17,6 @@ public class TestFactory {
 
         System.out.println(wanli == wanli2);
         System.out.println(wanli.equals(wanli2));
-        //ÿ�εĵ��ö������һ������;
 
     }
 

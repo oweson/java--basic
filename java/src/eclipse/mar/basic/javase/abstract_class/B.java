@@ -1,4 +1,4 @@
-package eclipse.mar.javase.abstract_class;
+package eclipse.mar.basic.javase.abstract_class;
 
 /**
  * the class is create by @Author:oweson
