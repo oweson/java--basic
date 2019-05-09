@@ -7,7 +7,7 @@ import java.io.Serializable;
  */
 public class HungrySingleton implements Serializable, Cloneable {
 
-    private final static HungrySingleton hungrySingleton;
+    private  static HungrySingleton hungrySingleton;
 
     /**类加载的时候就生成对象；
      * 反射调用抛出异常；*/

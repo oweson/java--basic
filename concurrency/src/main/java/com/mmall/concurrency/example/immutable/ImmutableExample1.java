@@ -21,14 +21,14 @@ public class ImmutableExample1 {
     }
 
     public static void main(String[] args) {
-//        a = 2;
-//        b = "3";
-//        map = Maps.newHashMap();
+     // a = 2;
+    //   b = "3";
+     //  map = Maps.newHashMap();
         map.put(1, 3);
         log.info("{}", map.get(1));
     }
 
     private void test(final int a) {
-//        a = 1;
+        //  a = 1;
     }
 }

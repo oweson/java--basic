@@ -9,13 +9,13 @@ public class Hungry {
     /**
      * 1 饿汉模式！
      */
-    private static final Hungry hugry;
+    private static Hungry hugry;
 
     static {
         hugry = new Hungry();
     }
 
-    public static final Hungry genInstance() {
+    public static Hungry genInstance() {
         return hugry;
     }
 }
