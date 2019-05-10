@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/hutool/hutool.iml" filepath="$PROJECT_DIR$/hutool/hutool.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java--basic.iml" filepath="$PROJECT_DIR$/.idea/java--basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc/juc.iml" filepath="$PROJECT_DIR$/juc/juc.iml" />
       <module fileurl="file://$PROJECT_DIR$/offerjavabasic2019/offerjavabasic2019.iml" filepath="$PROJECT_DIR$/offerjavabasic2019/offerjavabasic2019.iml" />
     </modules>
   </component>
