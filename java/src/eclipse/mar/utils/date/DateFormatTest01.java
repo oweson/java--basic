@@ -1,9 +1,9 @@
-package eclipse.mar.utils;
+package eclipse.mar.utils.date;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class demo1 {
+public class DateFormatTest01 {
 	/**
 	 * 日期格式yyyy-MM-dd
 	 */
@@ -44,7 +44,6 @@ public class demo1 {
 		String formatDate2 = formatDate(new Date(), pattern_date);
 		System.err.println(formatDate2);
 		System.out.println(formatDate);
-		// TODO Auto-generated method stub
 
 	}
 

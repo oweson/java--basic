@@ -33,9 +33,9 @@ public class Demo01HashCode {
         System.out.println(p1 == p2);
         //false
 
-        /*
-            String类的哈希值
-                String类重写Obejct类的hashCode方法
+        /**
+         String类的哈希值
+         String类重写Obejct类的hashCode方法
          */
         String s1 = new String("abc");
         String s2 = new String("abc");

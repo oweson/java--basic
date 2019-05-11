@@ -1,5 +1,7 @@
-package eclipse.mar.utils;
+package eclipse.mar.reflect;
 
+
+import eclipse.mar.utils.Person;
 
 import java.lang.reflect.Constructor;
 
@@ -8,7 +10,7 @@ import java.lang.reflect.Constructor;
  * @Date :2018/5/23 0023 22:22
  * @色厉而胆薄，好谋而寡断
  */
-public class Constrocos {
+public class ReflectByConstroctorTest {
     public static void main(String[] args) throws Exception {
         /**通过无参数的构造函数创建对象*/
         Class<Person> personClass = Person.class;

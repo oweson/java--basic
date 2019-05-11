@@ -1,8 +1,9 @@
 package eclipse.mar.usualapi.demo06StringBuilder;
+
 /**
-    StringBuilder的常用方法:
-        public StringBuilder append(...)：
- 添加任意类型数据的字符串形式，并返回当前对象自身。
+ * StringBuilder的常用方法:
+ * public StringBuilder append(...)：
+ * 添加任意类型数据的字符串形式，并返回当前对象自身。
  */
 public class Demo02StringBuilder {
     public static void main(String[] args) {

@@ -9,5 +9,11 @@ public class Fu {
     public void method() {
         System.out.println("父类重名方法执行！");
     }
+    public static final void demo1(){
+        System.out.println("hahahhahhaha!");
+    }
+    public static final void demo2(){
+        System.out.println("2222222222222222222222!");
+    }
 
 }

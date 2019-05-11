@@ -8,17 +8,17 @@ import java.util.ArrayList;
  */
 public class Demo02Ineger {
     public static void main(String[] args) {
-        /*
+        /**
          自动装箱:直接把int类型的整数赋值包装类
          Integer in = 1;
          就相当于 Integer in = new Integer(1);
          */
         Integer in = 1;
 
-        /*
-            自动拆箱:in是包装类,无法直接参与运算,可以自动转换为基本数据类型,在进行计算
-            in+2;就相当于 in.intVale() + 2 = 3
-            in = in.intVale() + 2 = 3 又是一个自动装箱
+        /**
+         自动拆箱:in是包装类,无法直接参与运算,可以自动转换为基本数据类型,在进行计算
+         in+2;就相当于 in.intVale() + 2 = 3
+         in = in.intVale() + 2 = 3 又是一个自动装箱
          */
         in = in + 2;
 

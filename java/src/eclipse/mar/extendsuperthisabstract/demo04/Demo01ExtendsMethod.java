@@ -25,6 +25,11 @@ public class Demo01ExtendsMethod {
 
         // 创建的是new了子类对象，所以优先用子类方法
         zi.method();
+        //子类可以继承父类的静态方法！但是不能覆盖。
+        // 因为静态方法是在编译时确定了，不能多态，也就是不能运行时绑定
+        Zi.demo1();
+        Zi.demo2();
+
     }
 
 }

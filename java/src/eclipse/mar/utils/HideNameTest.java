@@ -24,7 +24,7 @@ public class HideNameTest {
 
         char[] cs = name.toCharArray();
         for (int i = 1; i < cs.length - 1; i++) {
-            // 隐藏除了首字母和未字母的所有字符；
+            // 隐藏除了首字母和尾部字母的所有字符；
             cs[i] = '*';
         }
         return new String(cs);
