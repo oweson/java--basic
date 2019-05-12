@@ -6,30 +6,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b81020d-5778-46c9-a378-66cad74e4f6a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/innerclass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/innerclass/AnimalSpecial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/innerclass/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/innerclass/Fly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo02/Demo01ExtendsField.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo02/Demo01ExtendsField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo02/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo02/Fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo04/Demo01ExtendsMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo04/Demo01ExtendsMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo04/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo04/Fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/file/TestMaxFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/file/TestMaxFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo03/hashCode/Demo01HashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo03/hashCode/Demo01HashCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo01Collections.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo01Collections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo03Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo03Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo06StringBuilder/Demo02StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo06StringBuilder/Demo02StringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo07Integer/Demo02Ineger.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo07Integer/Demo02Ineger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/utils/Constrocos.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/reflect/ReflectByConstroctorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/utils/HideNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/utils/HideNameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/utils/TestList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/utils/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/utils/date/DateFormatTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/ReferenceCounterProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/ReferenceCounterProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/production/java--basic/eclipse/mar/file/TestMaxFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/production/java--basic/eclipse/mar/file/TestMaxFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/production/java--basic/eclipse/mar/utils/Constrocos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/production/java--basic/eclipse/mar/utils/TestList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/production/java--basic/eclipse/mar/utils/demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo06/NewPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo06/NewPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Demo01Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Demo01Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Zi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo08/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo08/Zi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo09/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo09/Zi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Zi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/DemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/DemoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Fu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/MyAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/MyAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Zi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/hutool/target/" />
     <ignored path="$PROJECT_DIR$/concurrency/target/" />
@@ -69,118 +59,117 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Demo01ExtendsField.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo02/Demo01ExtendsField.java">
+      <file leaf-file-name="Fu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo09/Fu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-              <folding>
-                <element signature="e#271#288#1" expanded="true" />
-                <element signature="e#427#444#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo03/Zi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding>
-                <element signature="e#137#150#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Fu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo04/Fu.java">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Fu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-              <folding>
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Zi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo04/Zi.java">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Zi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo01ExtendsMethod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo04/Demo01ExtendsMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#396#413#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="286">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/innerclass/Animal.java">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="198">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <folding>
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bird.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/innerclass/Bird.java">
+      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="263">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fly.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/innerclass/Fly.java">
+      <file leaf-file-name="DemoMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/DemoMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnimalSpecial.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/innerclass/AnimalSpecial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="497">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+              <folding>
+                <element signature="e#206#226#1" expanded="true" />
+                <element signature="e#254#280#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Fu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo03/Fu.java">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Fu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#273#286#0" expanded="true" />
+                <element signature="e#273#286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Zi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyAbstract.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/MyAbstract.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="e#131#148#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -211,19 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/opreator/Demo3Binary.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/opreator/Demo1Sanyuan.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/random/GeneratorCode.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/samplestaticmodel/GuessNumber.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/samplestaticmodel/Cheng.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/samplestaticmodel/Factory.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/samplestaticmodel/TestFactory.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/basic/samplestaticmodel/TestFactory.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/basic/javase/operator/Demo1.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/basic/StringNullTest.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/basic/CoreCodeSegmentTest.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/thread/Synchronized/Demo01Ticket.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/thread/Synchronized/RunnableImpl.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/thread/synchronzied/Demo01Ticket.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/mmall/concurrency/example/atomic/AtomicExample1.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/mmall/concurrency/example/immutable/ImmutableExample1.java" />
@@ -262,6 +238,19 @@
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/innerclass/AnimalSpecial.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/innerclass/Bird.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/innerclass/Fly.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo06/NewPhone.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Zi.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Demo01Constructor.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo08/Zi.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo09/Zi.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Zi.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Animal.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Cat.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/DemoMain.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/MyAbstract.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Zi.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Fu.java" />
+        <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java" />
       </list>
     </option>
   </component>
@@ -331,7 +320,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mar" type="462c0819:PsiDirectoryNode" />
-              <item name="usualapi" type="462c0819:PsiDirectoryNode" />
+              <item name="extendsuperthisabstract" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
@@ -339,16 +328,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mar" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mar" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="date" type="462c0819:PsiDirectoryNode" />
+              <item name="extendsuperthisabstract" type="462c0819:PsiDirectoryNode" />
+              <item name="demo12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
@@ -394,13 +375,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HideNameTest">
+  <component name="RunManager" selected="Application.DemoMain">
     <configuration name="BreakAndContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eclipse.mar.easyfalse.BreakAndContinueTest" />
       <module name="java--basic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="eclipse.mar.easyfalse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eclipse.mar.extendsuperthisabstract.demo11.Cat" />
+      <module name="java--basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eclipse.mar.extendsuperthisabstract.demo11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,6 +406,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eclipse.mar.extendsuperthisabstract.demo12.DemoMain" />
+      <module name="java--basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eclipse.mar.extendsuperthisabstract.demo12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="HideNameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eclipse.mar.utils.HideNameTest" />
       <module name="java--basic" />
@@ -425,40 +426,20 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestCopyOnWriteArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.juc.TestCopyOnWriteArrayList" />
-      <module name="juc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestVolatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.juc.TestVolatile" />
-      <module name="juc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
-      <item itemvalue="Application.TestCopyOnWriteArrayList" />
-      <item itemvalue="Application.TestVolatile" />
       <item itemvalue="Application.BreakAndContinueTest" />
       <item itemvalue="Application.Demo01HashCode" />
       <item itemvalue="Application.HideNameTest" />
+      <item itemvalue="Application.Cat" />
+      <item itemvalue="Application.DemoMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoMain" />
+        <item itemvalue="Application.Cat" />
         <item itemvalue="Application.HideNameTest" />
         <item itemvalue="Application.Demo01HashCode" />
         <item itemvalue="Application.BreakAndContinueTest" />
-        <item itemvalue="Application.TestVolatile" />
-        <item itemvalue="Application.TestCopyOnWriteArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -584,7 +565,7 @@
       <workItem from="1557383995679" duration="2902000" />
       <workItem from="1557402418605" duration="4030000" />
       <workItem from="1557453294005" duration="3276000" />
-      <workItem from="1557490805853" duration="4740000" />
+      <workItem from="1557490805853" duration="6976000" />
     </task>
     <task id="LOCAL-00001" summary="javase的练习">
       <created>1540980826275</created>
@@ -901,7 +882,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557456917856</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="学无止境；">
+      <created>1557595198110</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1557595198110</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -910,7 +898,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="522334000" />
+    <option name="totallyTimeSpent" value="524570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -919,7 +907,7 @@
       <window_info anchor="right" id="Key Promoter X" order="14" />
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="29" />
-      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.25586677" side_tool="true" visible="true" weight="0.18402778" />
+      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.25586677" side_tool="true" visible="true" weight="0.27083334" />
       <window_info anchor="bottom" id="JRebel Console" order="29" sideWeight="0.24526873" side_tool="true" weight="0.10142349" />
       <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="29" show_stripe_button="false" />
@@ -929,7 +917,7 @@
       <window_info anchor="bottom" id="Profiler" order="29" />
       <window_info anchor="bottom" id="Tail" order="29" />
       <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
-      <window_info id="Structure" order="1" sideWeight="0.19148937" side_tool="true" visible="true" weight="0.20590462" />
+      <window_info id="Structure" order="1" sideWeight="0.1952381" side_tool="true" visible="true" weight="0.20590462" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49356547" weight="0.2829861" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -937,12 +925,12 @@
       <window_info anchor="right" id="Palette&#9;" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="Version Control" order="29" sideWeight="0.49735048" weight="0.07118055" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74413323" visible="true" weight="0.18402778" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74413323" visible="true" weight="0.27083334" />
       <window_info anchor="bottom" id="Spring" order="25" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="CheckStyle" order="29" />
       <window_info anchor="bottom" id="Terminal" order="29" weight="0.09548611" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="26" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80851066" visible="true" weight="0.20590462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8047619" visible="true" weight="0.20590462" />
       <window_info anchor="bottom" id="Run with VisualVM" order="29" />
       <window_info anchor="bottom" id="Problems" order="28" sideWeight="0.49924356" weight="0.32931036" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -1069,7 +1057,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="null" />
     <MESSAGE value="你不用慌，你想要的" />
     <MESSAGE value="顺其自然吧" />
     <MESSAGE value="活在当下" />
@@ -1094,7 +1081,8 @@
     <MESSAGE value="不要辜负每一天！" />
     <MESSAGE value="添加面试模块即可时间的，希望自己强大起来；" />
     <MESSAGE value="添加jui并发模块；" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加jui并发模块；" />
+    <MESSAGE value="学无止境；" />
+    <option name="LAST_COMMIT_MESSAGE" value="学无止境；" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1105,173 +1093,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestProductorAndConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestProductorAndConsumerForLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestForkJoinPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/easyfalse/IntegerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/easyfalse/IntegerDemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc/TestAtomicDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc/TestCompareAndSwap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc/TestCopyOnWriteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc/TestCountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-855">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="6" selection-start-line="11" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/easyfalse/BreakAndContinueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/MyObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/ReferenceQueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/ReferenceCounterProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#147#181#1" expanded="true" />
-            <element signature="e#190#224#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/jihekuanjia/getOsNameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo01/List/Demo01List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-598">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo03/hashCode/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo03/hashCode/Demo01HashCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
-          <folding>
-            <element signature="e#402#427#1" expanded="true" />
-            <element signature="e#436#459#1" expanded="true" />
-            <element signature="e#527#552#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo04/VarArgs/Demo01VarArgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo01Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo02Sort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-234">
@@ -1542,8 +1363,197 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/innerclass/Fly.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="-39">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo05/Fu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo05/Zi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo05/Demo01Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo06/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo06/NewPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo06/Demo01Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#134#160#1" expanded="true" />
+            <element signature="e#278#313#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Fu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Zi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Demo01Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo08/Fu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo08/Zi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo09/Zi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+          <folding>
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo09/Fu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Fu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Zi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="e#206#226#1" expanded="true" />
+            <element signature="e#254#280#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/MyAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Zi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Fu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#273#286#0" expanded="true" />
+            <element signature="e#273#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#131#148#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
