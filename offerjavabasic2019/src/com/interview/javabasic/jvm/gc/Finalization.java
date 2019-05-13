@@ -7,6 +7,7 @@ public class Finalization {
     @Override
     protected void finalize(){
         System.out.println("Finalized");
+        // 重生！
         finalization = this;
     }
 
@@ -22,6 +23,7 @@ public class Finalization {
             e.printStackTrace();
         }
         System.out.println("Second print: " + f);
+        // 同一个对象是咧；
         System.out.println(f.finalization);
     }
 }

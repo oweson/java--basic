@@ -9,20 +9,13 @@ package com.atguigu.juc;
  * 2. volatile 不能保证变量的“原子性”
  */
 public class TestVolatile {
-    public static void forTest() {
-        for (int i = 0; i < 10; i++) {
-            System.out.println(i);
-            if (i == 6) {
-                break;
-            }
 
-        }
-    }
 
     public static void main(String[] args) {
-        forTest();
+
         ThreadDemo td = new ThreadDemo();
         new Thread(td).start();
+        // 两个线程
 
         while (true) {
             if (td.isFlag()) {
@@ -37,6 +30,7 @@ public class TestVolatile {
 }
 
 class ThreadDemo implements Runnable {
+    // 共享数据，一个读一个写；
 
     private volatile boolean flag = false;
 

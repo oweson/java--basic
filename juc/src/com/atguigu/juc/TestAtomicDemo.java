@@ -6,11 +6,9 @@ import java.util.concurrent.atomic.AtomicInteger;
  * 一、i++ 的原子性问题：i++ 的操作实际上分为三个步骤“读-改-写”
  * int i = 10;
  * i = i++; //10
- * <p>
  * int temp = i;
  * i = i + 1;
  * i = temp;
- * <p>
  * 二、原子变量：在 java.util.concurrent.atomic 包下提供了一些原子变量。
  * 1. volatile 保证内存可见性
  * 2. CAS（Compare-And-Swap） 算法保证数据变量的原子性
@@ -20,6 +18,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * ②预估值  A
  * ③更新值  B
  * 当且仅当 V == A 时， V = B; 否则，不会执行任何操作。
+ * 一次一个进程操作，多线程操作，只有一个线程成功！效率高于同步锁，费事的是需要判断错误如何处理；
  */
 public class TestAtomicDemo {
 
@@ -27,10 +26,14 @@ public class TestAtomicDemo {
 
         AtomicDemo ad = new AtomicDemo();
         int serialNumber = ad.getSerialNumber();
-        System.out.println(serialNumber);
-        System.out.println(ad.serialNumber);
+        System.out.println(serialNumber + "a");
+        System.out.println(ad.serialNumber + "b");
 
         for (int i = 0; i < 10; i++) {
+            // 多线程安全问题，出现重复的数字；写的时候被别人读！产生问题；原子性不能保证
+            // i++不安全，volatile也不能保证
+            // 包装的值被volatile修饰
+            // 原子性：cas算法
             new Thread(ad).start();
         }
     }

@@ -5,21 +5,12 @@
     <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b81020d-5778-46c9-a378-66cad74e4f6a" name="Default" comment="">
+    <list default="true" id="9b81020d-5778-46c9-a378-66cad74e4f6a" name="Default" comment="今天去租的房子去；希望不要太坑，感觉还是有点坑；">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo06/NewPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo06/NewPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Demo01Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Demo01Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo07/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo08/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo08/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo09/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo09/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/DemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/DemoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/MyAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/MyAbstract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Zi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestAtomicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestAtomicDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/Finalization.java" beforeDir="false" afterPath="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/Finalization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/MyObject.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/hutool/target/" />
     <ignored path="$PROJECT_DIR$/concurrency/target/" />
@@ -58,123 +49,7 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Fu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo09/Fu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Fu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo10/Zi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-              <folding>
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo11/DemoMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-              <folding>
-                <element signature="e#206#226#1" expanded="true" />
-                <element signature="e#254#280#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Fu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding>
-                <element signature="e#97#98#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#273#286#0" expanded="true" />
-                <element signature="e#273#286#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Zi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyAbstract.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/MyAbstract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding>
-                <element signature="e#131#148#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -200,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/thread/synchronzied/Demo01Ticket.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/mmall/concurrency/example/atomic/AtomicExample1.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/mmall/concurrency/example/immutable/ImmutableExample1.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/mmall/concurrency/example/singleton/SingletonExample5.java" />
@@ -208,15 +82,12 @@
         <option value="$PROJECT_DIR$/java/src/top/sea521/factory/singleton/Hungry.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/factory/singleton/SingletonExample5.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/mmall/concurrency/example/threadPool/LogTest.java" />
-        <option value="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/Finalization.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestForkJoinPool.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/easyfalse/IntegerTest.java" />
-        <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestAtomicDemo.java" />
         <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestCompareAndSwap.java" />
         <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestCopyOnWriteArrayList.java" />
         <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestCountDownLatch.java" />
-        <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/easyfalse/BreakAndContinueTest.java" />
         <option value="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/ReferenceCounterProblem.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo03/hashCode/Demo01HashCode.java" />
@@ -251,6 +122,10 @@
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Zi.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Fu.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java" />
+        <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java" />
+        <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestAtomicDemo.java" />
+        <option value="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/Finalization.java" />
+        <option value="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/MyObject.java" />
       </list>
     </option>
   </component>
@@ -299,49 +174,50 @@
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mar" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mar" type="462c0819:PsiDirectoryNode" />
-              <item name="extendsuperthisabstract" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mar" type="462c0819:PsiDirectoryNode" />
-              <item name="extendsuperthisabstract" type="462c0819:PsiDirectoryNode" />
-              <item name="demo12" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,71 +251,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoMain">
-    <configuration name="BreakAndContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eclipse.mar.easyfalse.BreakAndContinueTest" />
-      <module name="java--basic" />
+  <component name="RunManager" selected="Application.ThreadDemo">
+    <configuration name="Finalization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.javabasic.jvm.gc.Finalization" />
+      <module name="offerjavabasic2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="eclipse.mar.easyfalse.*" />
+          <option name="PATTERN" value="com.interview.javabasic.jvm.gc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eclipse.mar.extendsuperthisabstract.demo11.Cat" />
-      <module name="java--basic" />
+    <configuration name="MyObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.javabasic.jvm.gc.MyObject" />
+      <module name="offerjavabasic2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="eclipse.mar.extendsuperthisabstract.demo11.*" />
+          <option name="PATTERN" value="com.interview.javabasic.jvm.gc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Demo01HashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eclipse.mar.listandset.demo03.hashCode.Demo01HashCode" />
-      <module name="java--basic" />
+    <configuration name="TestAtomicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.juc.TestAtomicDemo" />
+      <module name="juc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="eclipse.mar.listandset.demo03.hashCode.*" />
+          <option name="PATTERN" value="com.atguigu.juc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eclipse.mar.extendsuperthisabstract.demo12.DemoMain" />
-      <module name="java--basic" />
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.javabasic.thread.ThreadDemo" />
+      <module name="offerjavabasic2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="eclipse.mar.extendsuperthisabstract.demo12.*" />
+          <option name="PATTERN" value="com.interview.javabasic.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="HideNameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eclipse.mar.utils.HideNameTest" />
-      <module name="java--basic" />
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.javabasic.thread.ThreadTest" />
+      <module name="offerjavabasic2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="eclipse.mar.utils.date.*" />
+          <option name="PATTERN" value="com.interview.javabasic.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.BreakAndContinueTest" />
-      <item itemvalue="Application.Demo01HashCode" />
-      <item itemvalue="Application.HideNameTest" />
-      <item itemvalue="Application.Cat" />
-      <item itemvalue="Application.DemoMain" />
+      <item itemvalue="Application.TestAtomicDemo" />
+      <item itemvalue="Application.Finalization" />
+      <item itemvalue="Application.MyObject" />
+      <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Application.ThreadDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoMain" />
-        <item itemvalue="Application.Cat" />
-        <item itemvalue="Application.HideNameTest" />
-        <item itemvalue="Application.Demo01HashCode" />
-        <item itemvalue="Application.BreakAndContinueTest" />
+        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.MyObject" />
+        <item itemvalue="Application.Finalization" />
+        <item itemvalue="Application.TestAtomicDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -565,7 +441,8 @@
       <workItem from="1557383995679" duration="2902000" />
       <workItem from="1557402418605" duration="4030000" />
       <workItem from="1557453294005" duration="3276000" />
-      <workItem from="1557490805853" duration="6976000" />
+      <workItem from="1557490805853" duration="16681000" />
+      <workItem from="1557755302595" duration="3308000" />
     </task>
     <task id="LOCAL-00001" summary="javase的练习">
       <created>1540980826275</created>
@@ -889,7 +766,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557595198110</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="今天去租的房子去；希望不要太坑，感觉还是有点坑；">
+      <created>1557623669918</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1557623669918</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -898,16 +782,15 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="524570000" />
+    <option name="totallyTimeSpent" value="537583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="14" />
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="29" />
-      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.25586677" side_tool="true" visible="true" weight="0.27083334" />
+      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.25662377" side_tool="true" visible="true" weight="0.30729166" />
       <window_info anchor="bottom" id="JRebel Console" order="29" sideWeight="0.24526873" side_tool="true" weight="0.10142349" />
       <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="29" show_stripe_button="false" />
@@ -917,7 +800,7 @@
       <window_info anchor="bottom" id="Profiler" order="29" />
       <window_info anchor="bottom" id="Tail" order="29" />
       <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
-      <window_info id="Structure" order="1" sideWeight="0.1952381" side_tool="true" visible="true" weight="0.20590462" />
+      <window_info id="Structure" order="1" sideWeight="0.19548872" side_tool="true" visible="true" weight="0.20666163" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49356547" weight="0.2829861" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -925,12 +808,12 @@
       <window_info anchor="right" id="Palette&#9;" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="Version Control" order="29" sideWeight="0.49735048" weight="0.07118055" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74413323" visible="true" weight="0.27083334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74337626" visible="true" weight="0.30729166" />
       <window_info anchor="bottom" id="Spring" order="25" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="CheckStyle" order="29" />
       <window_info anchor="bottom" id="Terminal" order="29" weight="0.09548611" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="26" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8047619" visible="true" weight="0.20590462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80451125" visible="true" weight="0.20666163" />
       <window_info anchor="bottom" id="Run with VisualVM" order="29" />
       <window_info anchor="bottom" id="Problems" order="28" sideWeight="0.49924356" weight="0.32931036" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -941,34 +824,33 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="29" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.034822103" />
+      <window_info anchor="right" id="RestServices" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
-      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4996215" weight="0.34375" />
       <window_info anchor="bottom" id="Inspection Results" order="30" weight="0.33105803" />
       <window_info anchor="right" id="SciView" order="5" />
-      <window_info anchor="right" id="RestServices" order="7" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Redis Servers" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.034822103" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" visible="true" weight="0.031013615" />
       <window_info anchor="bottom" id="JProfiler" order="16" />
       <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
       <window_info anchor="bottom" id="SmartIM" order="17" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4996215" weight="0.34375" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="23" />
       <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="SciView" order="5" />
+      <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="15" />
       <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49962035" weight="0.3281787" />
       <window_info id="Designer" order="5" />
-      <window_info anchor="bottom" id="Tail" order="28" />
       <window_info anchor="right" id="Palette" order="10" />
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="12" sideWeight="0.49924356" weight="0.32931036" />
@@ -976,49 +858,50 @@
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.74943227" visible="true" weight="0.21527778" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Redis Servers" order="8" />
+      <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Profiler" order="16" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="17" />
-      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="21" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Inspection Results" order="29" weight="0.33105803" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="CheckStyle" order="18" />
       <window_info anchor="bottom" id="Event Log" order="19" sideWeight="0.25056776" side_tool="true" visible="true" weight="0.21527778" />
-      <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="26" sideWeight="0.48033282" weight="0.33103448" />
+      <window_info anchor="right" id="RestServices" order="7" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" visible="true" weight="0.031013615" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71902657" visible="true" weight="0.17789553" />
-      <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="21" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.34412265" />
+      <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Problems" order="14" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="JProfiler" order="8" />
       <window_info anchor="bottom" id="SmartIM" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="22" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="23" sideWeight="0.49848714" weight="0.085178874" />
-      <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
-      <window_info anchor="bottom" id="Alibaba Cloud View" order="30" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="JRebel Executor" order="25" />
+      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="10" />
       <window_info id="Alibaba Cloud Explorer" order="9" sideWeight="0.28097346" side_tool="true" visible="true" weight="0.17789553" />
+      <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="30" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="JRebel Console" order="24" sideWeight="0.22239032" side_tool="true" weight="0.18228279" />
-      <window_info anchor="bottom" id="Messages" order="26" sideWeight="0.48033282" weight="0.33103448" />
+      <window_info anchor="bottom" id="JRebel Executor" order="25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71902657" visible="true" weight="0.17789553" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="27" />
-      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="12" />
       <window_info anchor="bottom" id="Statistic" order="20" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
-      <window_info anchor="right" id="RestServices" order="7" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="10" />
-      <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.34412265" />
+      <window_info anchor="right" id="Redis Servers" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
+      <window_info anchor="bottom" id="Tail" order="28" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4950795" weight="0.17534722" />
     </layout-to-restore>
   </component>
@@ -1057,7 +940,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="你不用慌，你想要的" />
     <MESSAGE value="顺其自然吧" />
     <MESSAGE value="活在当下" />
     <MESSAGE value="it is a pity to give up her" />
@@ -1082,7 +964,8 @@
     <MESSAGE value="添加面试模块即可时间的，希望自己强大起来；" />
     <MESSAGE value="添加jui并发模块；" />
     <MESSAGE value="学无止境；" />
-    <option name="LAST_COMMIT_MESSAGE" value="学无止境；" />
+    <MESSAGE value="今天去租的房子去；希望不要太坑，感觉还是有点坑；" />
+    <option name="LAST_COMMIT_MESSAGE" value="今天去租的房子去；希望不要太坑，感觉还是有点坑；" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1093,129 +976,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo02Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/listandset/demo05/Collections/Demo03Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-737">
-          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding>
-            <element signature="e#1946#2060#0" expanded="true" />
-            <element signature="e#1946#2060#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo08StringBuffer/Demo1StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo06StringBuilder/Demo01StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="e#334#374#1" expanded="true" />
-            <element signature="e#466#511#1" expanded="true" />
-            <element signature="e#486#510#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo06StringBuilder/Demo02StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-          <folding>
-            <element signature="e#267#306#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo06StringBuilder/Demo03StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo07Integer/Demo01Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-416">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo07Integer/Demo02Ineger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="e#339#354#1" expanded="true" />
-            <element signature="e#530#541#0" expanded="true" />
-            <element signature="e#578#595#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/usualapi/demo07Integer/Demo03Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/utils/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/utils/HideNameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="e#242#296#0" expanded="true" />
-            <element signature="e#242#296#0" expanded="true" />
-            <element signature="e#306#365#0" expanded="true" />
-            <element signature="e#306#365#0" expanded="true" />
-            <element signature="e#375#457#0" expanded="true" />
-            <element signature="e#375#457#0" expanded="true" />
-            <element signature="e#420#446#0" expanded="true" />
-            <element signature="e#420#446#0" expanded="true" />
-            <element signature="e#507#617#0" expanded="true" />
-            <element signature="e#507#617#0" expanded="true" />
-            <element signature="e#507#617#0" expanded="true" />
-            <element signature="e#507#617#0" expanded="true" />
-            <element signature="e#507#617#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/utils/Jdk17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/utils/Reflect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="e#370#394#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1230,9 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <element signature="e#337#441#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1240,14 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#265#306#1" expanded="true" />
-            <element signature="e#315#357#1" expanded="true" />
-            <element signature="e#416#433#0" expanded="true" />
-            <element signature="e#416#433#0" expanded="true" />
-            <element signature="e#438#524#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1276,10 +1029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="e#271#288#1" expanded="true" />
-            <element signature="e#427#444#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1294,9 +1043,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
           <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#137#150#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1304,12 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1317,16 +1057,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1334,9 +1064,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="565">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#396#413#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1407,10 +1134,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding>
-            <element signature="e#134#160#1" expanded="true" />
-            <element signature="e#278#313#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1453,12 +1176,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
           <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
-          <folding>
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1487,10 +1204,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1498,10 +1211,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1509,10 +1218,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
           <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding>
-            <element signature="e#206#226#1" expanded="true" />
-            <element signature="e#254#280#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1527,10 +1232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1538,21 +1239,125 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#273#286#0" expanded="true" />
-            <element signature="e#273#286#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="122">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc/TestAtomicDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/Finalization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding>
-            <element signature="e#131#148#1" expanded="true" />
+            <element signature="e#327#363#1" expanded="true" />
+            <element signature="e#678#698#0" expanded="true" />
+            <element signature="e#678#698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/NormalObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/NormalObjectWeakReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/ReferenceCounterProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#150#179#1" expanded="true" />
+            <element signature="e#304#345#1" expanded="true" />
+            <element signature="e#359#367#0" expanded="true" />
+            <element signature="e#420#462#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/thread/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="e#166#223#0" expanded="true" />
+            <element signature="e#166#223#0" expanded="true" />
+            <element signature="e#314#420#1" expanded="true" />
+            <element signature="e#325#419#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/thread/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="e#168#207#1" expanded="true" />
+            <element signature="e#216#255#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/thread/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <element signature="e#216#333#0" expanded="true" />
+            <element signature="e#216#333#0" expanded="true" />
+            <element signature="e#216#333#0" expanded="true" />
           </folding>
         </state>
       </provider>
