@@ -1,5 +1,6 @@
 package com.interview.javabasic.jvm.gc;
 
+import java.beans.Transient;
 import java.lang.ref.Reference;
 import java.lang.ref.ReferenceQueue;
 import java.lang.ref.WeakReference;
@@ -19,6 +20,7 @@ public class ReferenceQueueTest {
     }
 
     public static void main(String[] args) {
+
         ArrayList<WeakReference<NormalObject>> weakList = new ArrayList<WeakReference<NormalObject>>();
         for (int i =0; i < 3 ; i++){
             weakList.add(new NormalObjectWeakReference(new NormalObject("Weak " + i),rq));
