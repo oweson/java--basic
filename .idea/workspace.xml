@@ -6,11 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b81020d-5778-46c9-a378-66cad74e4f6a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/apigson/FastKeyProterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eclipse/mar/easyfalse/CanChangeParamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/TransientTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/ReferenceQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/ReferenceQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestReadWriteLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestReadWriteLock.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/hutool/target/" />
     <ignored path="$PROJECT_DIR$/concurrency/target/" />
@@ -59,6 +59,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ceil</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -75,9 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/top/sea521/factory/singleton/Hungry.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/factory/singleton/SingletonExample5.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/mmall/concurrency/example/threadPool/LogTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestForkJoinPool.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/easyfalse/IntegerTest.java" />
@@ -118,7 +120,6 @@
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Zi.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/Fu.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo12/DemoMain.java" />
-        <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java" />
         <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestAtomicDemo.java" />
         <option value="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/Finalization.java" />
         <option value="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/MyObject.java" />
@@ -126,6 +127,10 @@
         <option value="$PROJECT_DIR$/offerjavabasic2019/src/com/interview/javabasic/jvm/gc/TransientTest.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/easyfalse/CanChangeParamTest.java" />
         <option value="$PROJECT_DIR$/java/src/eclipse/mar/apigson/FastKeyProterTest.java" />
+        <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java" />
+        <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestCallable.java" />
+        <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestLock.java" />
+        <option value="$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestReadWriteLock.java" />
       </list>
     </option>
   </component>
@@ -164,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -194,26 +198,116 @@
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="java--basic" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="TestVolatile.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="juc02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="juc02" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCallable.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="juc02" type="462c0819:PsiDirectoryNode" />
+              <item name="TestReadWriteLock.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mar" type="462c0819:PsiDirectoryNode" />
-              <item name="apigson" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,7 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CanChangeParamTest">
+  <component name="RunManager" selected="Application.TestLock">
     <configuration name="CanChangeParamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eclipse.mar.easyfalse.CanChangeParamTest" />
       <module name="java--basic" />
@@ -258,8 +352,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Finalization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interview.javabasic.jvm.gc.Finalization" />
+    <configuration name="MyObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.javabasic.jvm.gc.MyObject" />
       <module name="offerjavabasic2019" />
       <extension name="coverage">
         <pattern>
@@ -268,12 +362,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MyObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interview.javabasic.jvm.gc.MyObject" />
-      <module name="offerjavabasic2019" />
+    <configuration name="TestLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.juc02.TestLock" />
+      <module name="juc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interview.javabasic.jvm.gc.*" />
+          <option name="PATTERN" value="com.atguigu.juc02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,19 +393,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Finalization" />
       <item itemvalue="Application.MyObject" />
       <item itemvalue="Application.ThreadTest" />
       <item itemvalue="Application.ThreadDemo" />
       <item itemvalue="Application.CanChangeParamTest" />
+      <item itemvalue="Application.TestLock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestLock" />
         <item itemvalue="Application.CanChangeParamTest" />
         <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.ThreadTest" />
         <item itemvalue="Application.MyObject" />
-        <item itemvalue="Application.Finalization" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +533,9 @@
       <workItem from="1557453294005" duration="3276000" />
       <workItem from="1557490805853" duration="16681000" />
       <workItem from="1557755302595" duration="3884000" />
-      <workItem from="1557839124142" duration="4424000" />
+      <workItem from="1557839124142" duration="5157000" />
+      <workItem from="1557925765579" duration="5309000" />
+      <workItem from="1558013419057" duration="577000" />
     </task>
     <task id="LOCAL-00001" summary="javase的练习">
       <created>1540980826275</created>
@@ -777,7 +873,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557789992826</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="just commit!">
+      <created>1557895600968</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1557895600968</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -786,7 +889,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="542583000" />
+    <option name="totallyTimeSpent" value="549202000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -794,7 +897,7 @@
       <window_info anchor="right" id="Key Promoter X" order="14" />
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="29" />
-      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.25738078" side_tool="true" visible="true" weight="0.09375" />
+      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.25813776" side_tool="true" visible="true" weight="0.06944445" />
       <window_info anchor="bottom" id="JRebel Console" order="29" sideWeight="0.24526873" side_tool="true" weight="0.10142349" />
       <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="29" show_stripe_button="false" />
@@ -808,16 +911,15 @@
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49356547" weight="0.2829861" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="29" sideWeight="0.4723694" weight="0.2951389" />
       <window_info anchor="right" id="Palette&#9;" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="Version Control" order="29" sideWeight="0.49735048" weight="0.07118055" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7426192" visible="true" weight="0.09375" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74186224" weight="0.072916664" />
       <window_info anchor="bottom" id="Spring" order="25" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="CheckStyle" order="29" />
       <window_info anchor="bottom" id="Terminal" order="29" weight="0.09548611" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="26" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.802682" visible="true" weight="0.20968963" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.802682" visible="true" weight="0.21574564" />
       <window_info anchor="bottom" id="Run with VisualVM" order="29" />
       <window_info anchor="bottom" id="Problems" order="28" sideWeight="0.49924356" weight="0.32931036" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -843,6 +945,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" visible="true" weight="0.031013615" />
       <window_info anchor="bottom" id="JProfiler" order="16" />
+      <window_info anchor="bottom" id="Messages" order="29" sideWeight="0.4723694" weight="0.2951389" />
       <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
       <window_info anchor="bottom" id="SmartIM" order="17" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4996215" weight="0.34375" />
@@ -851,10 +954,10 @@
       <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="right" id="SciView" order="5" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="15" />
       <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49962035" weight="0.3281787" />
       <window_info id="Designer" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="12" />
       <window_info anchor="bottom" id="Tail" order="28" />
       <window_info anchor="right" id="Palette" order="10" />
       <window_info id="JRebel" order="7" side_tool="true" />
@@ -878,7 +981,6 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" visible="true" weight="0.031013615" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71902657" visible="true" weight="0.17789553" />
       <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
       <window_info anchor="bottom" id="Run with VisualVM" order="21" />
@@ -899,10 +1001,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="27" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="12" />
       <window_info anchor="bottom" id="Statistic" order="20" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
       <window_info anchor="right" id="RestServices" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="10" />
       <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.34412265" />
@@ -944,7 +1047,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="活在当下" />
     <MESSAGE value="it is a pity to give up her" />
     <MESSAGE value="一眨眼就入职4day了，一点都不顺，今天上午还在搞环境；&#10;公司的框架很垃圾，部门太垃圾，没人带，学不到东西，自己的选择后悔了吧；&#10;走一步看一步；" />
     <MESSAGE value="入职第二周，很烦，哪里有对错" />
@@ -969,7 +1071,8 @@
     <MESSAGE value="学无止境；" />
     <MESSAGE value="今天去租的房子去；希望不要太坑，感觉还是有点坑；" />
     <MESSAGE value="step by step!" />
-    <option name="LAST_COMMIT_MESSAGE" value="step by step!" />
+    <MESSAGE value="just commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="just commit!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -980,62 +1083,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/file/TestMaxFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo02/Fu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo02/Zi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo02/Demo01ExtendsField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo03/Fu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo03/Zi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo04/Zi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo04/Fu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eclipse/mar/extendsuperthisabstract/demo04/Demo01ExtendsMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="565">
@@ -1233,13 +1280,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc/TestAtomicDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -1293,12 +1333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1313,10 +1347,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1345,14 +1375,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="18" column="17" selection-start-line="9" selection-start-column="6" selection-end-line="22" />
-          <folding>
-            <element signature="e#198#217#1" expanded="true" />
-            <element signature="e#247#278#0" expanded="true" />
-            <element signature="e#247#278#0" expanded="true" />
-            <element signature="e#363#374#1" expanded="true" />
-            <element signature="e#388#411#1" expanded="true" />
-            <element signature="e#400#410#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc/TestVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="124" column="9" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="901" column="26" lean-forward="true" selection-start-line="901" selection-start-column="26" selection-end-line="901" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="441" column="20" lean-forward="true" selection-start-line="441" selection-start-column="20" selection-end-line="441" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="708" column="71" selection-start-line="708" selection-start-column="71" selection-end-line="708" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="307" column="17" selection-start-line="307" selection-start-column="17" selection-end-line="307" selection-end-column="17" />
         </state>
       </provider>
     </entry>
