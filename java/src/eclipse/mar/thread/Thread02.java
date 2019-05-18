@@ -6,21 +6,16 @@ package eclipse.mar.thread;
  * @Date：2018/6/22 0022 22:01
  */
 public class Thread02 {
-    public static void sth() {
-        System.out.println();
-    }
+
 
     public static void main(String[] args) throws InterruptedException {
-        int a = 1000;
+        /**
+         * 主线程和二另一个线程交互运行！取决于其他的*/
         // FIXME: 2018/6/22 0022
-        for (int i = 0; i < 100; i++) {
-            System.out.println(i);
-            System.out.println();
 
-        }
 
         new Pig().start();
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 1000; i++) {
             Thread.sleep(1);
             System.out.println("hello");
         }

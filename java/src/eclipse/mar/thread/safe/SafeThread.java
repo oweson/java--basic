@@ -1,4 +1,4 @@
-package eclipse.mar.thread;
+package eclipse.mar.thread.safe;
 
 import java.util.*;
 

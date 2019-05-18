@@ -12,6 +12,7 @@ public class WaitSleepDemo {
                         System.out.println("thread A get lock");
                         Thread.sleep(20);
                         System.out.println("thread A do wait method");
+                        // 等待，2开始运行；
                         lock.wait();
                         System.out.println("thread A is done");
                     } catch (InterruptedException e){

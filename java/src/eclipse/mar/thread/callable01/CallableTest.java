@@ -1,4 +1,4 @@
-package eclipse.mar.thread;
+package eclipse.mar.thread.callable01;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

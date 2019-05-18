@@ -1,5 +1,7 @@
 package eclipse.mar.thread;
 
+import java.util.Date;
+
 /**
  * the class is create by @Author:oweson
  *
@@ -32,10 +34,11 @@ public class ThreadLock {
 }
 
 class Printer {
-    Demo d = new Demo();
+    Date d = new Date();
 
     public void print1() {
-        //synchronized(new Demo()) {							//同步代码块,锁机制,锁对象可以是任意的
+        //synchronized(new Demo()) {
+        // 同步代码块,锁机制,锁对象可以是任意的
         synchronized (d) {
             System.out.print("黑");
             System.out.print("马");
@@ -47,7 +50,8 @@ class Printer {
     }
 
     public void print2() {
-        //synchronized(new Demo()) {							//锁对象不能用匿名对象,因为匿名对象不是同一个对象
+        //synchronized(new Demo()) {
+        // 锁对象不能用匿名对象,因为匿名对象不是同一个对象
         synchronized (d) {
             System.out.print("传");
             System.out.print("智");
@@ -58,5 +62,3 @@ class Printer {
     }
 }
 
-class Demo {
-}

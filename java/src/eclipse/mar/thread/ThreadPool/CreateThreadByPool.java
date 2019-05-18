@@ -1,4 +1,4 @@
-package eclipse.mar.thread;
+package eclipse.mar.thread.ThreadPool;
 
 import java.util.concurrent.ExecutorService;
 

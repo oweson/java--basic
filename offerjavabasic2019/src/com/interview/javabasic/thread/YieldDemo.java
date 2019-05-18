@@ -7,6 +7,8 @@ public class YieldDemo {
             public void run() {
                 for (int i = 1; i <= 10; i++) {
                     System.out.println(Thread.currentThread().getName() + i);
+                    // a 线程运行到5的时候就让出线程给b运行
+                    // 只是暗示不一定让出！；
                     if (i == 5) {
                         Thread.yield();
                     }

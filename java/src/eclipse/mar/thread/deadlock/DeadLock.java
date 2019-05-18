@@ -1,4 +1,4 @@
-package eclipse.mar.thread;
+package eclipse.mar.thread.deadlock;
 
 /**
  * the class is create by @Author:oweson

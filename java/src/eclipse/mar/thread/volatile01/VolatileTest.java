@@ -1,4 +1,4 @@
-package eclipse.mar.thread;
+package eclipse.mar.thread.volatile01;
 
 /**
  * the class is create by @Author:oweson

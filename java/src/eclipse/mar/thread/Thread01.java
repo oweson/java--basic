@@ -28,6 +28,7 @@ public class Thread01 extends Thread {
 
         }
         new Thread01().start();
+
         new Thread(new Runnable() {
             @Override
             public void run() {

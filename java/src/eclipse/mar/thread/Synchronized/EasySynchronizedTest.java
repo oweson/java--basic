@@ -1,4 +1,4 @@
-package eclipse.mar.thread;
+package eclipse.mar.thread.Synchronized;
 
 import java.util.Date;
 
@@ -7,7 +7,7 @@ import java.util.Date;
  * @Date :2018/5/27 0027 22:08
  * @色厉而胆薄，好谋而寡断
  */
-public class SynchronizedTest {
+public class EasySynchronizedTest {
     Date date = new Date();
 
     public void testSth() {
@@ -19,6 +19,6 @@ public class SynchronizedTest {
     }
 
     public static void main(String[] args) {
-        new SynchronizedTest().testSth();
+        new EasySynchronizedTest().testSth();
     }
 }

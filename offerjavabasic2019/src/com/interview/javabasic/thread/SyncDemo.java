@@ -2,6 +2,7 @@ package com.interview.javabasic.thread;
 
 public class SyncDemo {
     public static void main(String... args) {
+        // 共享；都是异步的
         SyncThread syncThread = new SyncThread();
         Thread A_thread1 = new Thread(syncThread, "A_thread1");
         Thread A_thread2 = new Thread(syncThread, "A_thread2");

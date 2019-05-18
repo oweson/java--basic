@@ -9,10 +9,10 @@ public class NotificationDemo {
     public static void main(String args[]) throws InterruptedException {
         final NotificationDemo test = new NotificationDemo();
 
-        Runnable waitTask = new Runnable(){
+        Runnable waitTask = new Runnable() {
 
             @Override
-            public void run(){
+            public void run() {
                 try {
                     test.shouldGo();
                 } catch (InterruptedException e) {
@@ -22,19 +22,23 @@ public class NotificationDemo {
             }
         };
 
-        Runnable notifyTask = new Runnable(){
+        Runnable notifyTask = new Runnable() {
 
             @Override
-            public void run(){
+            public void run() {
                 test.go();
                 System.out.println(Thread.currentThread().getName() + " finished Execution");
             }
         };
 
-        Thread t1 = new Thread(waitTask, "WT1"); //will wait
-        Thread t2 = new Thread(waitTask, "WT2"); //will wait
-        Thread t3 = new Thread(waitTask, "WT3"); //will wait
-        Thread t4 = new Thread(notifyTask,"NT1"); //will notify
+        Thread t1 = new Thread(waitTask, "WT1");
+        //will wait
+        Thread t2 = new Thread(waitTask, "WT2");
+        //will wait
+        Thread t3 = new Thread(waitTask, "WT3");
+        //will wait
+        Thread t4 = new Thread(notifyTask, "NT1");
+        //will notify
 
         //starting all waiting thread
         t1.start();
@@ -48,24 +52,26 @@ public class NotificationDemo {
         t4.start();
 
     }
-    /*
+
+    /**
      * wait and notify can only be called from synchronized method or bock
      */
     private synchronized void shouldGo() throws InterruptedException {
-        while(go != true){
+        while (go != true) {
             System.out.println(Thread.currentThread()
                     + " is going to wait on this object");
             wait(); //release lock and reacquires on wakeup
             System.out.println(Thread.currentThread() + " is woken up");
         }
-        go = false; //resetting condition
+        go = false;
+        //resetting condition
     }
 
-    /*
+    /**
      * both shouldGo() and go() are locked on current object referenced by "this" keyword
      */
     private synchronized void go() {
-        while (go == false){
+        while (go == false) {
             System.out.println(Thread.currentThread()
                     + " is going to notify all or one thread waiting on this object");
 
