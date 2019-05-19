@@ -11,7 +11,7 @@ public class Hopeless {
     // 1 int和Integer的区别？
     // 2 String,stringbuffer,stringbuilder的区别？
     // 3 hashmap和hashtable的区别？
-    // 4 冲摘和重写的区别？
+    // 4 重载和重写的区别？
     // 5 四中修饰符的作用？
     // 6 String x=new String("a")?创建几个对象？
     // 7 json和xml的解析方式有哪些？

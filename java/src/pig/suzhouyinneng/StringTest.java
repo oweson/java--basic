@@ -10,7 +10,7 @@ public class StringTest {
         String a = new String("abc");
         String b = new String("abc");
         System.out.println(a == b);
-        //比较的是地址
+        //比较的是地址 false
         Integer c = new Integer(100);
         Integer d = new Integer(100);
         // 缓存池
