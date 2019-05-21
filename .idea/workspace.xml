@@ -6,275 +6,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b81020d-5778-46c9-a378-66cad74e4f6a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/resources/data-building.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/resources/data-lambda.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/resources/infile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/CachedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/CloseResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/CountDownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/DaemonFromFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/DaemonThreadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/DaemonsDontRunFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/FixedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/Interrupting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/InterruptingIdiom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/Joining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/LiftOff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/MoreBasicThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/SimpleDaemons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/SingleThreadExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/SleepingTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example1/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example1/Run1_TwoThreadTransData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example1/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example1/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example10/C_Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example10/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example10/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example10/P_Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example10/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example10/Run10_oneP_manyC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example11/C_Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example11/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example11/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example11/P_Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example11/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example11/Run11_manyP_manyC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example11/Run11_manyP_oneC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example11/Run11_oneP_manyC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example12/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example12/Run12_pipeInputOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example12/ThreadRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example12/ThreadWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example12/WriteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example13/BackupA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example13/BackupB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example13/DBTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example13/Run13_wait_notify_insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example14/Run14_join.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example14/Run14_joinExption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example14/Run14_joinLong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example14/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example14/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example14/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example15/Run15_joinMore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example15/Run15_join_sleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example15/Run15_join_sleep_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example15/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example15/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example15/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example16/InheritableThreadLocalExt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example16/InheritableThreadLocalExt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example16/Run16_InheritableThreadLocalExt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example16/Run16_InheritableThreadLocalExt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example16/Run16_ThreadLocal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example16/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example16/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example16/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example16/ThreadLocalExt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example16/Tools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example2/Run2_noObjectLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example2/Run2_notify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example2/Run2_sleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example2/Run2_wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example2/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example2/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example3/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example3/NotifyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example3/NotifyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example3/NotifyThread3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example3/Run3_notifyAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example3/Run3_notifyMany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example3/Run3_notifyOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example3/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example4/Run4_waitHasParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example4/Run4_waitHasParam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example5/MyRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example5/Run5_notify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example5/Run5_notifyEarly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example6/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example6/Run6_waitOld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example6/Subtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example6/ThreadAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example6/ThreadSubtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example6/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example8/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example8/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example8/Run8_allWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example8/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example8/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example8/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example9/C_Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example9/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example9/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example9/P_Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example9/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example9/Run9_oneP_manyC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example9/Run9_oneP_oneC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example1/Run1_UseConditionWaitNotify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example1/Run1_UseConditionWaitNotifyError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example1/Run1_UseConditionWaitNotifyOk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example1/ServiceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example1/ServiceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example1/ServiceC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example1/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example1/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example1/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example10/Run10_ReadWriteLockBegin1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example10/Run10_ReadWriteLockBegin2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example10/Run10_ReadWriteLockBegin3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example10/Run10_condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example10/Service1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example10/Service2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example10/Service3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example2/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example2/Run2_MustUseMoreCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example2/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example2/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example3/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example3/Run3_ConditionManyToMany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example3/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example3/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example4/Run4_Fair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example4/Run4_notFair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example4/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example5/Run5_getHoldCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example5/Run5_getQueueLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example5/Run5_getWaitQueueLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example5/Service1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example5/Service2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example5/Service3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example6/Run6_hasQueueThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example6/Run6_hasWaiters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example6/Service1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example6/Service2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example7/Run7_isFair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example7/Run7_isHeldByCurrentThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example7/Run7_isLocked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example7/Service1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example7/Service2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example7/Service3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example8/Run8_lockInterruptibly1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example8/Run8_lockInterruptibly2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example8/Run8_tryLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example8/Run8_tryLock_param.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example8/Service1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example8/Service2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example8/Service3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example8/Service4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/Run9_awaitUniterruptibly1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/Run9_awaitUniterruptibly2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/Run9_awaitUntil1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/Run9_awaitUntil2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/Service1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/Service2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example9/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run10_isInterrupted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run11_sleepAndinterrupt01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run12_sleepAndinterrupt02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run13_suspendAndresume01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run14_suspendAndresume02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run15_suspendAndresume03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run16_yield.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run17_priority01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run18_priority02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run2_StartVsRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run3_getName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run4_isAlive01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run5_isAlive02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run6_StartVsRun02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run7_interrupt01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run8_interrupted01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run9_interrupted02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/printMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example2/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example2/Run2_autoAddGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example2/Run2_getGroupParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example2/Run2_groupAddThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example2/Run2_groupAddThreadMoreLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example2/Run2_threadRunSyn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example2/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example2/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example4/Run4_threadCreateException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example4/Run4_threadCreateException2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example4/Run4_threadCreateException3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example4/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/HasLocalNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/Run1_local.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example12/DealThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example12/Run12_deadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example14/Run14_setNewStringTwoLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example14/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example15/Run15_synchronized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example15/Run15_volatile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example15/RunThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example15/RunThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example16/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example16/Run16_volatile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/Run3_synchronized01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example4/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example4/Run4_synchronized01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example4/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example4/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example5/Run5_lockRein.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example5/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example6/Run6_exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example6/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example6/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example6/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/timer/example1/MyTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/timer/example1/Run1_timer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/timer/example1/Run1_timer4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/timer/example1/TaskA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/timer/example1/TaskB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/io/BufferedInputFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/io/DirList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/io/Echo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/io/FileOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/io/MakeDirectories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/io/MemoryInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/io/TextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/nio/BufferToText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/nio/ChannelCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/nio/Endians.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/nio/GetChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/river/fromgithub/nio/ViewBuffers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/classloading/ClassLoaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/classloading/ClinitOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/classloading/ConstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/classloading/DeadLoopClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/classloading/FieldResolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/classloading/NoInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/classloading/SimpleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/classloading/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/classloading/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/dynamictype/GrandFatherCaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/dynamictype/InvokeDynamicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/dynamictype/MethodHandleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/gc/FinalizeEscapeGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/gc/ReferenceCountingGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/memory/DirectMemoryOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/memory/HeapOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/memory/JavaVMStackOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/memory/JavaVMStackSOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/memory/RuntimeConstantPoolOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/methodinvoke/Dispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/methodinvoke/DynamicDispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/methodinvoke/StaticDispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/sea/fromgithub/methodinvoke/StaticResolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/basic/TemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/basic/lake/collections/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListRemoveByFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/ArrayToList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/DeleteStrInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collections/DeleteStrInList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/ListReplaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/ListToArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/ListTransgerArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/MapDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collections/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/TestDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collections/DistinctTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/TestDistinct02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/BianliDuiXiang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/DeleteDateFromArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/DeleteDateFromArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/Queues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/TestAddTwoOnly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/getOsNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/sea/system/getOsNameTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/hutool/target/" />
     <ignored path="$PROJECT_DIR$/concurrency/target/" />
@@ -303,6 +54,9 @@
     <SUITE FILE_PATH="coverage/java__basic$ToGeneratorNumber.ic" NAME="ToGeneratorNumber Coverage Results" MODIFIED="1546759819459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>eclipse.mar.math.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/java__basic$TemTest.ic" NAME="TemTest Coverage Results" MODIFIED="1558361834767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>basic.*</FILTER>
+    </SUITE>
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -313,7 +67,7 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -348,21 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/a_tem/java8/core/constructorYinyong/FunctionRefrence.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/a_tem/java8/FunctionRefrence.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/a_tem/java8/IEmployee.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/string/handlestring/HanderAble.java" />
-        <option value="$PROJECT_DIR$/java/src/eclipse/mar/string/handlestring/HandleStringNumber.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/string/handlestring/HandleStringNumber.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/reflect/ReflectByConstroctorTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/atguigu/exer/TestLambda.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/finalandinnerclass/demo02/sub/MySon.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/atguigu/exer/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/interfaceandmanystate/demo01/MyInterfaceAbstractImpl.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/a_tem/java8/FunctionRefrence.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/a_tem/java8/streams/LambdaMapReflectTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/a_tem/java8/streams/SelectLambdaAndSelectAndCutTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/a_tem/java8/streams/StreamTest.java" />
         <option value="$PROJECT_DIR$/java/src/basic/map/demo04/JDK9/Demo01JDK9.java" />
         <option value="$PROJECT_DIR$/java/src/basic/finalandinnerclass/demo02/MySon.java" />
         <option value="$PROJECT_DIR$/java/src/basic/finalandinnerclass/demo02/sub/Stranger.java" />
@@ -399,6 +138,21 @@
         <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run3_getName.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run5_isAlive02.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example1/Run1_TwoThreadTransData.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/java/src/basic/TemTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/TestDistinct02.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/DistinctTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/MapDemo1.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/MapTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/ListTransgerArrays.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/ListReplaceTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/ListToArray.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListRemoveByFor.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/DeleteStrInList.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/sea/system/getOsNameTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/DeleteDateFromArrayList.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/BianliDuiXiang.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListTest.java" />
       </list>
     </option>
   </component>
@@ -437,6 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -462,11 +217,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lake" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -474,6 +236,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (1)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -506,23 +269,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run4_isAlive01">
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.fromgithub.multithread.meet.Run" />
+  <component name="RunManager" selected="Application.ArrayListTest">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.lake.collections.ArrayListTest" />
       <module name="java--basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ocean.fromgithub.multithread.meet.*" />
+          <option name="PATTERN" value="basic.lake.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Run2_StartVsRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.fromgithub.multithread.meet.Run2_StartVsRun" />
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.lake.collections.MapTest" />
       <module name="java--basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ocean.fromgithub.multithread.meet.*" />
+          <option name="PATTERN" value="basic.lake.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -547,30 +310,30 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="printMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.fromgithub.multithread.meet.printMain" />
+    <configuration name="TemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.TemTest" />
       <module name="java--basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ocean.fromgithub.multithread.meet.*" />
+          <option name="PATTERN" value="basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.printMain" />
-      <item itemvalue="Application.Run" />
-      <item itemvalue="Application.Run2_StartVsRun" />
       <item itemvalue="Application.Run3_getName" />
       <item itemvalue="Application.Run4_isAlive01" />
+      <item itemvalue="Application.TemTest" />
+      <item itemvalue="Application.MapTest" />
+      <item itemvalue="Application.ArrayListTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.MapTest" />
+        <item itemvalue="Application.TemTest" />
         <item itemvalue="Application.Run4_isAlive01" />
         <item itemvalue="Application.Run3_getName" />
-        <item itemvalue="Application.Run2_StartVsRun" />
-        <item itemvalue="Application.Run" />
-        <item itemvalue="Application.printMain" />
       </list>
     </recent_temporary>
   </component>
@@ -701,14 +464,9 @@
       <workItem from="1557839124142" duration="5157000" />
       <workItem from="1557925765579" duration="5309000" />
       <workItem from="1558013419057" duration="2072000" />
-      <workItem from="1558101677207" duration="28678000" />
-    </task>
-    <task id="LOCAL-00008" summary="一些调整和优化；">
-      <created>1548250093838</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1548250093838</updated>
+      <workItem from="1558101677207" duration="32427000" />
+      <workItem from="1558360582189" duration="1264000" />
+      <workItem from="1558448984673" duration="1906000" />
     </task>
     <task id="LOCAL-00009" summary="一些调整和优化；">
       <created>1548330622273</created>
@@ -1046,7 +804,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558241179741</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="我错了；">
+      <created>1558252227542</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1558252227542</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1055,7 +820,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="579375000" />
+    <option name="totallyTimeSpent" value="586294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1063,7 +828,7 @@
       <window_info anchor="right" id="Key Promoter X" order="14" />
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="29" />
-      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.2641938" side_tool="true" visible="true" weight="0.112847224" />
+      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.2657078" side_tool="true" visible="true" weight="0.21180555" />
       <window_info anchor="bottom" id="JRebel Console" order="29" sideWeight="0.24526873" side_tool="true" weight="0.10142349" />
       <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="29" show_stripe_button="false" />
@@ -1081,18 +846,17 @@
       <window_info anchor="right" id="Palette&#9;" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="Version Control" order="29" sideWeight="0.49659348" weight="0.07118055" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7358062" visible="true" weight="0.112847224" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7342922" visible="true" weight="0.21180555" />
       <window_info anchor="bottom" id="Spring" order="25" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="CheckStyle" order="29" />
       <window_info anchor="bottom" id="Terminal" order="29" weight="0.09548611" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="26" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.802682" visible="true" weight="0.21877366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.802682" visible="true" weight="0.22634368" />
       <window_info anchor="bottom" id="Run with VisualVM" order="29" />
       <window_info anchor="bottom" id="Problems" order="28" sideWeight="0.49924356" weight="0.32931036" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="30" weight="0.3628472" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4981075" weight="0.14583333" />
       <window_info id="Learn" order="7" />
       <window_info id="Alibaba Cloud Explorer" order="9" sideWeight="0.28097346" side_tool="true" weight="0.17789553" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -1100,7 +864,8 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="RestServices" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
+      <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.026495079" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4981075" weight="0.14583333" />
       <window_info anchor="bottom" id="Inspection Results" order="30" weight="0.33105803" />
       <window_info anchor="right" id="SciView" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1120,23 +885,23 @@
       <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
     </layout>
     <layout-to-restore>
-      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="30" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="15" />
       <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49962035" weight="0.3281787" />
       <window_info id="Designer" order="5" />
       <window_info anchor="right" id="Palette" order="10" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="21" />
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="12" sideWeight="0.49924356" weight="0.32931036" />
       <window_info id="Image Layers" order="3" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.74943227" visible="true" weight="0.21527778" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Profiler" order="16" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="17" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="21" />
+      <window_info id="Capture Tool" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Inspection Results" order="29" weight="0.33105803" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1146,7 +911,7 @@
       <window_info anchor="right" id="RestServices" order="7" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" visible="true" weight="0.031013615" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.34412265" />
+      <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Problems" order="14" sideWeight="0.49924356" weight="0.32931036" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" sideWeight="0.49924356" weight="0.32931036" />
@@ -1158,12 +923,12 @@
       <window_info id="Alibaba Cloud Explorer" order="9" sideWeight="0.28097346" side_tool="true" visible="true" weight="0.17789553" />
       <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
       <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
-      <window_info anchor="bottom" id="Alibaba Cloud View" order="30" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="JRebel Console" order="24" sideWeight="0.22239032" side_tool="true" weight="0.18228279" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.34412265" />
       <window_info anchor="bottom" id="JRebel Executor" order="25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71902657" visible="true" weight="0.17789553" />
-      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="bottom" id="JRebel Console" order="24" sideWeight="0.22239032" side_tool="true" weight="0.18228279" />
       <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="27" />
@@ -1173,7 +938,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Redis Servers" order="8" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
+      <window_info anchor="right" id="SciView" order="5" />
       <window_info anchor="bottom" id="Tail" order="28" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4950795" weight="0.17534722" />
     </layout-to-restore>
@@ -1213,7 +978,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add concurrency module!" />
     <MESSAGE value="add concurrency module!  and other;" />
     <MESSAGE value="sth todo waiting for you;" />
     <MESSAGE value="廉颇老矣......" />
@@ -1238,7 +1002,8 @@
     <MESSAGE value="添加新的东西；" />
     <MESSAGE value="变换包名很麻烦！" />
     <MESSAGE value="整理文件夹；" />
-    <option name="LAST_COMMIT_MESSAGE" value="整理文件夹；" />
+    <MESSAGE value="我错了；" />
+    <option name="LAST_COMMIT_MESSAGE" value="我错了；" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1249,217 +1014,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/timer/example1/Run1_timer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="e#371#392#0" expanded="true" />
-            <element signature="e#371#392#0" expanded="true" />
-            <element signature="e#403#446#1" expanded="true" />
-            <element signature="e#497#531#1" expanded="true" />
-            <element signature="e#541#568#1" expanded="true" />
-            <element signature="e#577#603#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/timer/example1/Run1_timer5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/timer/example1/Run1_timer4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/timer/example2/Run2_period2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example1/Run1_singleton0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example1/Run1_singleton1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example1/MyObject0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example1/MyObject1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example2/MyObject1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example2/MyObject2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#373#517#0" expanded="true" />
-            <element signature="e#373#517#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example2/Thread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#209#275#0" expanded="true" />
-            <element signature="e#209#232#0" expanded="true" />
-            <element signature="e#209#275#0" expanded="true" />
-            <element signature="e#209#275#0" expanded="true" />
-            <element signature="e#252#275#0" expanded="true" />
-            <element signature="e#209#275#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example2/Run2_singleton1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example3/MyObject1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example3/MyObject2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-194">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/timer/example1/TaskA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example1/Run1_state1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-          <folding>
-            <element signature="e#482#534#0" expanded="true" />
-            <element signature="e#482#534#0" expanded="true" />
-            <element signature="e#482#534#0" expanded="true" />
-            <element signature="e#482#534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/ToastOMatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/TestBlockingQueues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/SleepingTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-467">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#316#449#0" expanded="true" />
-            <element signature="e#316#449#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/SimpleDaemons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-312">
-          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-          <folding>
-            <element signature="e#627#675#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/Joining.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/CachedThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="e#255#310#1" expanded="true" />
-            <element signature="e#319#399#0" expanded="true" />
-            <element signature="e#319#399#0" expanded="true" />
-            <element signature="e#319#399#0" expanded="true" />
-            <element signature="e#319#399#0" expanded="true" />
-            <element signature="e#319#399#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/CallableDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-476">
           <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding>
-            <element signature="e#401#456#1" expanded="true" />
-            <element signature="e#465#519#1" expanded="true" />
-            <element signature="e#501#518#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1474,40 +1032,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#394#459#0" expanded="true" />
-            <element signature="e#394#459#0" expanded="true" />
-            <element signature="e#394#459#0" expanded="true" />
-            <element signature="e#394#459#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#514#617#0" expanded="true" />
-            <element signature="e#514#617#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/OrnamentalGarden.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-366">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/OrnamentalGarden.java" />
     <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/MoreBasicThreads.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="e#170#256#0" expanded="true" />
-            <element signature="e#175#185#1" expanded="true" />
-            <element signature="e#170#256#0" expanded="true" />
-            <element signature="e#170#256#0" expanded="true" />
-            <element signature="e#170#256#0" expanded="true" />
-            <element signature="e#170#256#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1536,9 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#191#214#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1546,50 +1075,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="e#230#256#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example3/Run3_formatOK1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example5/Thread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-          <folding>
-            <element signature="e#384#484#0" expanded="true" />
-            <element signature="e#384#484#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example5/Run5_threadGroup1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example3/Run3_formatOK1.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example5/Thread1.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example5/Run5_threadGroup1.java" />
     <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example4/Run4_threadCreateException2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding>
-            <element signature="e#234#261#1" expanded="true" />
-            <element signature="e#270#293#0" expanded="true" />
-            <element signature="e#270#293#0" expanded="true" />
-            <element signature="e#303#593#0" expanded="true" />
-            <element signature="e#476#507#0" expanded="true" />
-            <element signature="e#476#507#0" expanded="true" />
-            <element signature="e#303#593#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1597,10 +1092,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1608,13 +1099,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-260">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#234#294#0" expanded="true" />
-            <element signature="e#285#315#0" expanded="true" />
-            <element signature="e#234#294#0" expanded="true" />
-            <element signature="e#234#294#0" expanded="true" />
-            <element signature="e#234#294#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1622,12 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1635,14 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding>
-            <element signature="e#400#434#0" expanded="true" />
-            <element signature="e#400#434#0" expanded="true" />
-            <element signature="e#884#920#1" expanded="true" />
-            <element signature="e#929#955#1" expanded="true" />
-            <element signature="e#950#965#0" expanded="true" />
-            <element signature="e#950#965#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1650,13 +1120,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#365#403#1" expanded="true" />
-            <element signature="e#431#464#0" expanded="true" />
-            <element signature="e#431#464#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1685,11 +1148,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding>
-            <element signature="e#230#269#1" expanded="true" />
-            <element signature="e#278#316#1" expanded="true" />
-            <element signature="e#350#388#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1697,9 +1155,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-78">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#202#214#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1714,13 +1169,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#208#223#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1728,13 +1176,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="e#304#576#0" expanded="true" />
-            <element signature="e#304#576#0" expanded="true" />
-            <element signature="e#304#576#0" expanded="true" />
-            <element signature="e#304#576#0" expanded="true" />
-            <element signature="e#304#576#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1749,6 +1190,351 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/TemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/TestDistinct02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/DistinctTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#274#320#1" expanded="true" />
+            <element signature="e#308#317#0" expanded="true" />
+            <element signature="e#329#353#1" expanded="true" />
+            <element signature="e#388#415#1" expanded="true" />
+            <element signature="e#453#463#0" expanded="true" />
+            <element signature="e#453#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/NoRealArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/MapDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#370#416#1" expanded="true" />
+            <element signature="e#536#549#0" expanded="true" />
+            <element signature="e#536#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+          <folding>
+            <element signature="e#346#394#1" expanded="true" />
+            <element signature="e#403#445#1" expanded="true" />
+            <element signature="e#454#607#0" expanded="true" />
+            <element signature="e#454#607#0" expanded="true" />
+            <element signature="e#506#527#1" expanded="true" />
+            <element signature="e#454#607#0" expanded="true" />
+            <element signature="e#454#607#0" expanded="true" />
+            <element signature="e#540#563#1" expanded="true" />
+            <element signature="e#581#600#0" expanded="true" />
+            <element signature="e#581#600#0" expanded="true" />
+            <element signature="e#581#600#0" expanded="true" />
+            <element signature="e#635#713#1" expanded="true" />
+            <element signature="e#727#930#0" expanded="true" />
+            <element signature="e#727#930#0" expanded="true" />
+            <element signature="e#768#822#1" expanded="true" />
+            <element signature="e#859#918#0" expanded="true" />
+            <element signature="e#867#880#0" expanded="true" />
+            <element signature="e#859#918#0" expanded="true" />
+            <element signature="e#859#918#0" expanded="true" />
+            <element signature="e#898#913#0" expanded="true" />
+            <element signature="e#859#918#0" expanded="true" />
+            <element signature="e#958#1016#1" expanded="true" />
+            <element signature="e#1071#1107#1" expanded="true" />
+            <element signature="e#1217#1259#0" expanded="true" />
+            <element signature="e#1217#1259#0" expanded="true" />
+            <element signature="e#1217#1259#0" expanded="true" />
+            <element signature="e#1246#1259#0" expanded="true" />
+            <element signature="e#1246#1259#0" expanded="true" />
+            <element signature="e#1217#1259#0" expanded="true" />
+            <element signature="e#1400#1407#0" expanded="true" />
+            <element signature="e#1400#1407#0" expanded="true" />
+            <element signature="e#1400#1407#0" expanded="true" />
+            <element signature="e#1400#1407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/ListTransgerArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#279#321#1" expanded="true" />
+            <element signature="e#405#443#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/ListReplaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/ArrayToList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#277#299#1" expanded="true" />
+            <element signature="e#390#429#1" expanded="true" />
+            <element signature="e#411#428#0" expanded="true" />
+            <element signature="e#438#517#0" expanded="true" />
+            <element signature="e#443#453#1" expanded="true" />
+            <element signature="e#438#517#0" expanded="true" />
+            <element signature="e#438#517#0" expanded="true" />
+            <element signature="e#438#517#0" expanded="true" />
+            <element signature="e#438#517#0" expanded="true" />
+            <element signature="e#489#505#0" expanded="true" />
+            <element signature="e#489#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListRemoveByFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/CountOneInList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="e#279#323#1" expanded="true" />
+            <element signature="e#561#575#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/DeleteStrInList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/TestAddTwoOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/Queues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <folding>
+            <element signature="e#0#1172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/sea/system/getOsNameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/DeleteDateFromArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#497#518#0" expanded="true" />
+            <element signature="e#468#575#0" expanded="true" />
+            <element signature="e#468#575#0" expanded="true" />
+            <element signature="e#468#575#0" expanded="true" />
+            <element signature="e#468#575#0" expanded="true" />
+            <element signature="e#468#575#0" expanded="true" />
+            <element signature="e#534#564#0" expanded="true" />
+            <element signature="e#552#562#0" expanded="true" />
+            <element signature="e#552#562#0" expanded="true" />
+            <element signature="e#534#564#0" expanded="true" />
+            <element signature="e#660#695#1" expanded="true" />
+            <element signature="e#677#694#0" expanded="true" />
+            <element signature="e#646#876#0" expanded="true" />
+            <element signature="e#646#876#0" expanded="true" />
+            <element signature="e#738#769#1" expanded="true" />
+            <element signature="e#691#710#0" expanded="true" />
+            <element signature="e#691#710#0" expanded="true" />
+            <element signature="e#765#824#0" expanded="true" />
+            <element signature="e#765#824#0" expanded="true" />
+            <element signature="e#799#809#0" expanded="true" />
+            <element signature="e#799#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/Students.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/BianliDuiXiang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#271#311#1" expanded="true" />
+            <element signature="e#293#310#0" expanded="true" />
+            <element signature="e#319#401#0" expanded="true" />
+            <element signature="e#319#401#0" expanded="true" />
+            <element signature="e#319#401#0" expanded="true" />
+            <element signature="e#319#401#0" expanded="true" />
+            <element signature="e#319#401#0" expanded="true" />
+            <element signature="e#433#503#0" expanded="true" />
+            <element signature="e#439#449#0" expanded="true" />
+            <element signature="e#433#503#0" expanded="true" />
+            <element signature="e#531#654#0" expanded="true" />
+            <element signature="e#537#547#1" expanded="true" />
+            <element signature="e#531#654#0" expanded="true" />
+            <element signature="e#584#609#1" expanded="true" />
+            <element signature="e#531#654#0" expanded="true" />
+            <element signature="e#596#607#0" expanded="true" />
+            <element signature="e#531#654#0" expanded="true" />
+            <element signature="e#596#607#0" expanded="true" />
+            <element signature="e#466#548#1" expanded="true" />
+            <element signature="e#527#530#0" expanded="true" />
+            <element signature="e#961#1038#0" expanded="true" />
+            <element signature="e#562#572#1" expanded="true" />
+            <element signature="e#961#1038#0" expanded="true" />
+            <element signature="e#961#1038#0" expanded="true" />
+            <element signature="e#961#1038#0" expanded="true" />
+            <element signature="e#961#1038#0" expanded="true" />
+            <element signature="e#736#764#1" expanded="true" />
+            <element signature="e#748#763#0" expanded="true" />
+            <element signature="e#1176#1255#0" expanded="true" />
+            <element signature="e#778#788#1" expanded="true" />
+            <element signature="e#1176#1255#0" expanded="true" />
+            <element signature="e#1176#1255#0" expanded="true" />
+            <element signature="e#1176#1255#0" expanded="true" />
+            <element signature="e#1176#1255#0" expanded="true" />
+            <element signature="e#1227#1243#0" expanded="true" />
+            <element signature="e#1227#1243#0" expanded="true" />
+            <element signature="e#1283#1293#0" expanded="true" />
+            <element signature="e#1283#1293#0" expanded="true" />
+            <element signature="e#971#1009#1" expanded="true" />
+            <element signature="e#991#1008#0" expanded="true" />
+            <element signature="e#1438#1452#0" expanded="true" />
+            <element signature="e#1438#1452#0" expanded="true" />
+            <element signature="e#1462#1476#0" expanded="true" />
+            <element signature="e#1462#1476#0" expanded="true" />
+            <element signature="e#1486#1500#0" expanded="true" />
+            <element signature="e#1486#1500#0" expanded="true" />
+            <element signature="e#1510#1524#0" expanded="true" />
+            <element signature="e#1510#1524#0" expanded="true" />
+            <element signature="e#1534#1548#0" expanded="true" />
+            <element signature="e#1534#1548#0" expanded="true" />
+            <element signature="e#1558#1572#0" expanded="true" />
+            <element signature="e#1558#1572#0" expanded="true" />
+            <element signature="e#1582#1736#0" expanded="true" />
+            <element signature="e#1184#1194#1" expanded="true" />
+            <element signature="e#1582#1736#0" expanded="true" />
+            <element signature="e#1582#1736#0" expanded="true" />
+            <element signature="e#1582#1736#0" expanded="true" />
+            <element signature="e#1582#1736#0" expanded="true" />
+            <element signature="e#1634#1725#0" expanded="true" />
+            <element signature="e#1660#1671#0" expanded="true" />
+            <element signature="e#1660#1671#0" expanded="true" />
+            <element signature="e#1634#1725#0" expanded="true" />
+            <element signature="e#1692#1710#0" expanded="true" />
+            <element signature="e#1692#1710#0" expanded="true" />
+            <element signature="e#1692#1710#0" expanded="true" />
+            <element signature="e#1490#1523#1" expanded="true" />
+            <element signature="e#1580#1619#1" expanded="true" />
+            <element signature="e#1601#1618#0" expanded="true" />
+            <element signature="e#2031#2096#0" expanded="true" />
+            <element signature="e#1633#1643#1" expanded="true" />
+            <element signature="e#2031#2096#0" expanded="true" />
+            <element signature="e#2031#2096#0" expanded="true" />
+            <element signature="e#2031#2096#0" expanded="true" />
+            <element signature="e#2031#2096#0" expanded="true" />
+            <element signature="e#2074#2085#0" expanded="true" />
+            <element signature="e#2074#2085#0" expanded="true" />
+            <element signature="e#1702#1736#1" expanded="true" />
+            <element signature="e#2148#2230#0" expanded="true" />
+            <element signature="e#1750#1763#0" expanded="true" />
+            <element signature="e#2148#2230#0" expanded="true" />
+            <element signature="e#1836#1881#1" expanded="true" />
+            <element signature="e#2280#2303#0" expanded="true" />
+            <element signature="e#1871#1874#0" expanded="true" />
+            <element signature="e#1876#1879#0" expanded="true" />
+            <element signature="e#2280#2303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/PracticeSeason.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/CollectionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>

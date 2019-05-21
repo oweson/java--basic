@@ -1,4 +1,4 @@
-package basic.lake.jihekuanjia;
+package basic.sea.system;
 
 public class getOsNameTest {
 

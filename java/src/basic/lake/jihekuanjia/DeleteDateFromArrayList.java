@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Bird {
-    // int name=21;
+
     String name;
 
     public Bird(String name) {
-        // super();
+        super();
         this.name = name;
     }
 
@@ -22,12 +22,11 @@ class Bird {
 }
 
 public class DeleteDateFromArrayList {
-    private static final int a = 100;
 
     public static void main(String[] args) {
         int count = 0;
         List<Bird> list = new ArrayList<Bird>();
-        for (int i = 1; i <= a; i++) {
+        for (int i = 1; i <= 100; i++) {
             count++;
             list.add(new Bird("hero" + i));
         }

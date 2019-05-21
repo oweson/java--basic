@@ -16,7 +16,7 @@ public class DeleteStrInList {
          - 定义ArrayList集合，存入多个字符串。
          - 长度大于5的字符串，打印删除后的集合。
          */
-        /**解决思路： //遍历原集合对象
+        /**解决思路： 遍历原集合对象
          for(int i = 0;i<list.size();i++) {
          //获取当前元素
          String str = list.get(i);
