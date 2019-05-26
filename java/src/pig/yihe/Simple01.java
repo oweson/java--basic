@@ -26,6 +26,6 @@ public class Simple01 {
 abstract class A {
     // 1 抽象类可以有private属性；
     private int a=100;
-   // 2private abstract void demo3();两个修饰符号冲突；
+   // 2 private abstract void demo3();两个修饰符号冲突；
 
 }

@@ -22,11 +22,12 @@ public class TreeSetTest {
                 System.out.println(a);
 
             }
-            // 越界异常
-            System.out.println(s[4]);
+            // 越界异常,下面的被捕获不会运行！
+            System.out.println(s[4] + "问题出现！");
         } catch (Exception e) {
             System.out.println("error");
-            System.out.println(e.getMessage().toLowerCase()+e.getCause());
+            System.out.println("=============================================");
+            System.out.println(e.getMessage().toLowerCase() + "  :" + e.getCause());
         }
 
     }

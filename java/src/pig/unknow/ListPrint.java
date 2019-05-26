@@ -22,6 +22,7 @@ public class ListPrint {
 
         }
         // 2
+
         Iterator<Integer> integerIterator = list.iterator();
         while (integerIterator.hasNext()){
             Integer next = integerIterator.next();

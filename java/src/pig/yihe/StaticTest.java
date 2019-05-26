@@ -7,6 +7,12 @@ package pig.yihe;
  */
 public class StaticTest {
     public static void main(String[] args) {
+        new HelloB();
+        /**
+         * static A
+         * static B
+         * HelloA
+         * helloB*/
 
     }
 }
@@ -27,12 +33,6 @@ class HelloB extends  HelloA{
         System.out.println("static B");
     }
 
-    public static void main(String[] args) {
-        new HelloB();
-    }
-    /**
-     * static A
-     * static B
-     * HelloA
-     * helloB*/
+
+
 }

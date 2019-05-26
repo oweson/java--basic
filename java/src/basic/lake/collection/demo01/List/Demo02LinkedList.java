@@ -99,6 +99,7 @@ public class Demo02LinkedList {
 
         //public void addLast(E e):将指定元素添加到此列表的结尾。此方法等效于 add()
         linked.addLast("com");
-        System.out.println(linked);//[www, a, b, c, com]
+        System.out.println(linked);
+        //[www, a, b, c, com]
     }
 }

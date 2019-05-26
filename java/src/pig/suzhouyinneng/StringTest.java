@@ -18,6 +18,8 @@ public class StringTest {
         Integer y = 100;
 
         System.out.println(c == d);
+        // false
         System.out.println(x == y);
+        // true
     }
 }
