@@ -4,17 +4,16 @@ import java.security.SecureRandom;
 
 /**
  * 自定义 ID 生成器
- * Twitter Snowflake
-snowflake是twitter开源的分布式ID生成算法，其核心思想是：产生一个long型的ID，使用其中41bit作为毫秒数，10bit作为机器编号，12bit作为毫秒内序列号。这个算法单机每秒内理论上最多可以生成1000*(2^12)个，也就是大约400W的ID，完全能满足业务的需求。
-文／whthomas（简书作者）
-原文链接：http://www.jianshu.com/p/61817cf48cc3
+snowflake是twitter开源的分布式ID生成算法，其核心思想是：产生一个long型的ID，
+ 使用其中41bit作为毫秒数，10bit作为机器编号，12bit作为毫秒内序列号。这个算法单机每秒内理论上最多可以生成1000*(2^12)个
+ 也就是大约400W的ID，完全能满足业务的需求。
  * ID 生成规则: ID长达 64 bits
- * 
  * | 41 bits: Timestamp (毫秒) | 3 bits: 区域（机房） | 10 bits: 机器编号 | 10 bits: 序列号 |
  */
 public class CustomUUID {
     // 基准时间
-    private long twepoch = 1288834974657L; //Thu, 04 Nov 2010 01:42:54 GMT
+    private long twepoch = 1288834974657L;
+    //Thu, 04 Nov 2010 01:42:54 GMT
     // 区域标志位数
     private final static long regionIdBits = 3L;
     // 机器标识位数

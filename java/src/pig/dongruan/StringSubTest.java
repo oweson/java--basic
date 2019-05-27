@@ -9,10 +9,9 @@ public class StringSubTest {
     public static void main(String[] args) {
         String s = "hello,world";
         System.out.println(s.substring(2));
-        // 1 截串，前闭后开
+        // 1 截串，前闭后开==,llo,world
         System.out.println(s.substring(0, 2));
-        // 2 前闭后开
-        //llo,world
-        //he
+        // 2 前闭后开==he
+
     }
 }

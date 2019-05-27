@@ -17,9 +17,10 @@ public class Demo1 {
     }
 
     public static void main(String[] args) {
+        /** new两个对象*/
         Demo1 demo1 = new Demo1();
         Demo1 demo2 = new Demo1();
-        System.out.println(demo1==demo2);
+        System.out.println(demo1 == demo2);
         System.out.println(demo1.equals(demo2));
         System.out.println(demo1.getClass().getName().equals(demo2.getClass().getName()));
         //false false true

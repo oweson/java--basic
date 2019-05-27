@@ -8,7 +8,8 @@ public class Demo01Person {
         person.name = "王健林";
         person.sayHello("王思聪");
 
-        System.out.println(person); // 地址值
+        System.out.println(person);
+        // 地址值
     }
 
 }

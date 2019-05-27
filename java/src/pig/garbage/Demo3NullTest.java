@@ -5,7 +5,7 @@ package pig.garbage;
  *
  * @Date：2019/3/5 0005 17:44
  */
-public class NullTest {
+public class Demo3NullTest {
     public static final void demo1(Object object) {
         System.out.println(object + "object");
     }
@@ -16,6 +16,7 @@ public class NullTest {
 
     public static void main(String[] args) {
         demo1(null);
-        //nullstring 老将都是最后出马！
+        /**
+         * nullstring 老将都是最后出马！*/
     }
 }

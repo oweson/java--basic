@@ -15,7 +15,8 @@ public class Demo3StringTest {
     }
 
     private static void printString() {
-        /**局部变量必须初始化才能使用！！！*/
+        /**局部变量必须初始化才能使用！！！
+         * 赋值为null也是初始化啊！*/
         String s = null;
         System.out.println(s + "Two");
         // nullone

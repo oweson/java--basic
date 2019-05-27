@@ -15,5 +15,6 @@ class ExtendsTest extends Demo4ExtendTest {
 
     public static void main(String[] args) {
         System.out.println(new ExtendsTest().a);
+        System.out.println();
     }
 }

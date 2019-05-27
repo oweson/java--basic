@@ -22,8 +22,9 @@ public class FinallyTest {
         } finally {
             ++a;
             System.out.println(a + "  finally");
+            // 2
         }
-        // 外边的
+        // 外边的!!!
         return 9;
     }
 }

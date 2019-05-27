@@ -12,7 +12,7 @@ public class IntegerTest {
         // true
         System.out.println(c == d);
         // false
-        System.out.println("11111111111111111111");
+        System.out.println("=========================================");
         String s1 = "hello";
         String s2 = new String("hello");
         String s3 = "hel" + "lo";
