@@ -1,13 +1,15 @@
 package basic.latest.StreamAndMethodReference.demo04.MethodReference;
 
 public class Demo01Printable {
-    //定义一个方法,参数传递Printable接口,对字符串进行打印
+    /**
+     * 定义一个方法,参数传递Printable接口,对字符串进行打印
+     */
     public static void printString(Printable p) {
         p.print("HelloWorld");
     }
 
     public static void main(String[] args) {
-        //调用printString方法,方法的参数Printable是一个函数式接口,所以可以传递Lambda
+        /**调用printString方法,方法的参数Printable是一个函数式接口,所以可以传递Lambda*/
         printString((s) -> {
             System.out.println(s);
         });

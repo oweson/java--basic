@@ -18,8 +18,11 @@ public class Demo1CreateThread<Object> implements Callable<Object> {
     }
 
     public static void main(String[] args) {
+        /** 1 引用指向实现类*/
         Callable<java.lang.Object> callable = new Demo1CreateThread<java.lang.Object>();
+        /** 2 */
         FutureTask<java.lang.Object> futureTask = new FutureTask<java.lang.Object>(callable);
+        /** 3 作为参数传递个thread*/
         Thread thread = new Thread(futureTask);
         System.out.println(Thread.currentThread().getName() + ".......................");
         thread.start();

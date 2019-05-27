@@ -5,17 +5,17 @@ import java.util.Date;
 
 public class DateFormatTest01 {
 	/**
-	 * 日期格式yyyy-MM-dd
+	 * 1 日期格式yyyy-MM-dd
 	 */
 	public static final String pattern_date = "yyyy-MM-dd";
 
 	/**
-	 * 日期时间格式yyyy-MM-dd HH:mm:ss
+	 * 2 日期时间格式yyyy-MM-dd HH:mm:ss
 	 */
 	public static final String pattern_time = "yyyy-MM-dd HH:mm:ss";
 
 	/**
-	 * 描述：日期格式化
+	 * 1 描述：日期格式化
 	 * 
 	 * @param date
 	 *            日期
@@ -26,7 +26,7 @@ public class DateFormatTest01 {
 	}
 
 	/**
-	 * 描述：日期格式化
+	 * 2 描述：日期格式化
 	 * 
 	 * @param date
 	 *            日期

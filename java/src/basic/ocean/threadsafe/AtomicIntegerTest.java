@@ -13,7 +13,7 @@ public class AtomicIntegerTest {
         int i = atomicInteger.incrementAndGet();
         System.out.println(i);
         atomicInteger.set(2015);
-        // 得到然后加一！
+        // 1 得到然后加一！
         int andIncrement = atomicInteger.getAndIncrement();
         System.out.println(andIncrement);
         System.out.println(atomicInteger);

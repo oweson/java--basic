@@ -19,7 +19,7 @@ public class VolatileTest {
     public static volatile int a = 100;
 
     /**
-     *  1 保证在内存的可见性，第二：防止指令的重排；
+     *  1 第一：保证在内存的可见性，第二：防止指令的重排；
      *
      */
     /** 2 有序性;

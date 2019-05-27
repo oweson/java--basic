@@ -20,9 +20,9 @@ public class LambdaMapReflectTest {
                 new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"),
                 new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"),
                 new Student(15, "lo")));
-        /**通过map函数把集合中的每一个value都映射出来；l*/
+        /** 1 通过map函数把集合中的每一个value都映射出来；l*/
         students.stream().map((s) -> s.getName()).forEach(System.out::println);
-        /**去除重复的时候student对象必须重写equal()和hashcode();*/
+        /** 2 去除重复的时候student对象必须重写equal()和hashcode();*/
 
     }
 
@@ -35,9 +35,8 @@ public class LambdaMapReflectTest {
     }
 
     @Test
-
     public void test2() {
-        /**把集合中的str转换成charracter*/
+        /** 1 集合中的str转换成charracter*/
         List<String> list = Arrays.asList("aaa", "bbb");
         Stream<Character> characterStream = list.stream().flatMap(LambdaMapReflectTest::changeStrToCharcter);
         characterStream.forEach(System.out::println);

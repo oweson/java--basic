@@ -6,11 +6,11 @@ import java.util.Comparator;
 
 /**
  * - java.utils.Collections是集合工具类，用来对集合进行操作。部分方法如下：
- * public static <T> void sort(List<T> list，Comparator<? super T> ):将集合中元素按照指定规则排序。
+ * public static <T> void sort(List<T> list，Demo1ComparatorTest<? super T> ):将集合中元素按照指定规则排序。
  * <p>
  * Comparator和Comparable的区别
  * Comparable:自己(this)和别人(参数)比较,自己需要实现Comparable接口,重写比较的规则compareTo方法
- * Comparator:相当于找一个第三方的裁判,比较两个
+ * Demo1ComparatorTest:相当于找一个第三方的裁判,比较两个
  * <p>
  * Comparator的排序规则:
  * o1-o2:升序
@@ -45,7 +45,7 @@ public class Demo03Sort {
         list02.add(new Student("b杨幂", 18));
         System.out.println(list02);
 
-        /*Collections.sort(list02, new Comparator<Student>() {
+        /*Collections.sort(list02, new Demo1ComparatorTest<Student>() {
             @Override
             public int compare(Student o1, Student o2) {
                 //按照年龄升序排序

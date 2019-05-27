@@ -11,7 +11,7 @@ public class Demo02Comparator {
     //定义一个方法,方法的返回值类型使用函数式接口Comparator
     public static Comparator<String> getComparator(){
         //方法的返回值类型是一个接口,那么我们可以返回这个接口的匿名内部类
-        /*return new Comparator<String>() {
+        /*return new Demo1ComparatorTest<String>() {
             @Override
             public int compare(String o1, String o2) {
                 //按照字符串的降序排序

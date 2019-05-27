@@ -18,7 +18,7 @@ public class Demo01Arrays {
         };
 
         // 2 对数组中的Person对象使用Arrays的sort方法通过年龄进行升序(前边-后边)排序
-        /*Arrays.sort(arr, new Comparator<Person>() {
+        /*Arrays.sort(arr, new Demo1ComparatorTest<Person>() {
             @Override
             public int compare(Person o1, Person o2) {
                 return o1.getAge()-o2.getAge();

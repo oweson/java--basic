@@ -10,7 +10,7 @@ import java.io.IOException;
 public class RuntimeExceptionTest {
     public static void main(String[] args) throws IOException, InterruptedException {
         Runtime runtime = Runtime.getRuntime();
-        Process ppx = runtime.exec("Ppx.java");
+        Process ppx = runtime.exec("Pig.java");
         // //运行指定的程序
         Thread.sleep(1200);
         ppx.destroy();

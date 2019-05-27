@@ -15,12 +15,12 @@ import java.util.stream.Stream;
 public class SelectLambdaAndSelectAndCutTest {
     @Test
     public void test1() {
-        /**lambda的切片和筛选*/
+        /** 1 lambda的切片和筛选*/
         ArrayList<Student> students = new ArrayList<>(Arrays.asList(new Student(21, "ppx"), new Student(31, "op"),
                 new Student(12, "oweson"), new Student(15, "lo")));
         Stream<Student> studentStream = students.stream().filter((s) -> s.getAge() > 21);
         studentStream.forEach(System.out::println);
-        /**是内部遍历的*/
+        /** 2 是内部遍历的*/
 
     }
 

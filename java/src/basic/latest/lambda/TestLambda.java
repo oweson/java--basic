@@ -15,13 +15,13 @@ public class TestLambda {
         /*
          * Runnable r2 = () -> System.out.println("Hello Lambda!!"); r2.run();
          * Runnable pRunnable = () -> System.out.println("hello,world");
-         * pRunnable.run(); Comparator<Integer> comparator = (x, y) -> {
+         * pRunnable.run(); Demo1ComparatorTest<Integer> comparator = (x, y) -> {
          * System.out.println("lambda的输出........."); return Integer.compare(x,
          * y); }; System.out.println(comparator.compare(10, 21));
          */
         // 2语法格式四：若 Lambda 体中只有一条语句， return 和 大括号都可以省略不写
         /*
-         * Comparator<Integer> comparator = (x, y) -> Integer.compare(x, y);
+         * Demo1ComparatorTest<Integer> comparator = (x, y) -> Integer.compare(x, y);
          * System.out.println(comparator.compare(1, 2));
          */
         /*

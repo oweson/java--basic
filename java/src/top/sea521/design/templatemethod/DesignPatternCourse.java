@@ -3,7 +3,7 @@ package top.sea521.design.templatemethod;
 /**
  * Created by geely
  */
-public class DesignPatternCourse extends ACourse {
+public class DesignPatternCourse extends AbstractCourse {
     @Override
     void packageCourse() {
         System.out.println("提供课程Java源代码");
