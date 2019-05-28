@@ -21,11 +21,11 @@ public class ScanXan {
 		Scanner s = null;
 
         try {
-            s = new Scanner(new BufferedReader(new FileReader("resources/xanadu.txt")));
+            s = new Scanner(new BufferedReader(new FileReader("e:/test.sql")));
 
             //s.useDelimiter(",\\s*");
             
-            while (s.hasNext()) {
+            while (s.hasNextLine()) {
                 System.out.println(s.next());
             }
         } finally {

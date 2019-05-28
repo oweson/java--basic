@@ -14,7 +14,8 @@ package basic.river.finalandinnerclass.demo04;
 public class MyOuter {
 
     public void methodOuter() {
-        int num = 10; // 所在方法的局部变量
+        int num = 10;
+        // 所在方法的局部变量
 
         class MyInner {
             public void methodInner() {

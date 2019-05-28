@@ -10,14 +10,16 @@ public class Demo01Main {
 
     public static void main(String[] args) {
         // 对象的向上转型，就是：父类引用指向之类对象。
-        Animal animal = new Cat(); // 本来创建的时候是一只猫
+        Animal animal = new Cat();
+        // 本来创建的时候是一只猫
         animal.eat(); // 猫吃鱼
 
-//        animal.catchMouse(); // 错误写法！
+//  animal.catchMouse(); // 错误写法！
 
         // 向下转型，进行“还原”动作
         Cat cat = (Cat) animal;
-        cat.catchMouse(); // 猫抓老鼠
+        cat.catchMouse();
+        // 猫抓老鼠
 
         // 下面是错误的向下转型
         // 本来new的时候是一只猫，现在非要当做狗

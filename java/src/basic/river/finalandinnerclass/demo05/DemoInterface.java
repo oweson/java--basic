@@ -1,4 +1,4 @@
-package basic.river.finalandinnerclass.demo07;
+package basic.river.finalandinnerclass.demo05;
 
 import java.util.ArrayList;
 import java.util.List;
