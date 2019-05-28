@@ -28,8 +28,7 @@ public class Demo01ExtendsField {
         // 等号左边是谁，就优先用谁
         System.out.println(zi.num);
         // 优先子类，200
-// System.out.println(zi.abc);
-// 到处都没有，编译报错！
+// System.out.println(zi.abc);到处都没有，编译报错！
         System.out.println("===========");
 
         // 这个方法是子类的，优先用子类的，没有再向上找

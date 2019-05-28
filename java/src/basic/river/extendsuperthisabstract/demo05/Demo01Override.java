@@ -8,7 +8,8 @@ package basic.river.extendsuperthisabstract.demo05;
 这个注解就算不写，只要满足要求，也是正确的方法覆盖重写。
 
 2. 子类方法的返回值必须【小于等于】父类方法的返回值范围。
-小扩展提示：java.lang.Object类是所有类的公共最高父类（祖宗类），java.lang.String就是Object的子类。
+小扩展提示：java.lang.Object类是所有类的公共最高父类（祖宗类），
+java.lang.String就是Object的子类。
 
 3. 子类方法的权限必须【大于等于】父类方法的权限修饰符。
 小扩展提示：public > protected > (default) > private

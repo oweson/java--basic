@@ -11,6 +11,7 @@ public class Zi extends Fu {
     int num = 20;
 
     public Zi() {
+        // 不写也是默认调用！
         super();
     }
 
@@ -23,6 +24,10 @@ public class Zi extends Fu {
         super.method();
         // 访问父类中的method
         System.out.println("子类方法");
+    }
+
+    public static void main(String[] args) {
+        new Zi().method();
     }
 
 }

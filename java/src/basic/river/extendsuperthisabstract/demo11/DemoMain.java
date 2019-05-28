@@ -19,7 +19,7 @@ public class DemoMain {
          *             无论编译和运行，都参考左边（引用型变量所属的类，）
          *             在多态中，静态成员函数的特点：
          *             无论编译和运行，都参考做左边*/
-//        Animal animal = new Animal();
+// Animal animal = new Animal();
 // 错误写法！不能直接创建抽象类对象
 
         Cat cat = new Cat();
