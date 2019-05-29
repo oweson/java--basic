@@ -33,7 +33,8 @@ class Train implements Runnable {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-                System.out.println(Thread.currentThread().getName() + "这是第" + ticket + "票" + "还有" + --ticket + ".............");
+                System.out.println(Thread.currentThread().getName() + "这是第" + ticket + "票"
+                        + "还有" + --ticket + ".............");
 
 
             }

@@ -1,11 +1,11 @@
-package basic.ocean.thread;
+package basic.ocean.thread.thread;
 
 /**
  * the class is create by @Author:oweson
  *
  * @Date：2018/12/15 0015 9:39
  */
-public class ThreadTest {
+public class Demo4Thread {
 
 
     public static void main(String[] args) {

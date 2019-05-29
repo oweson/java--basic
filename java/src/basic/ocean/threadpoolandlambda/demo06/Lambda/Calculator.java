@@ -4,6 +4,5 @@ package basic.ocean.threadpoolandlambda.demo06.Lambda;
  */
 @FunctionalInterface
 public interface Calculator {
-    //定义一个计算两个int整数和的方法并返回结果
     int calc(int a, int b);
 }

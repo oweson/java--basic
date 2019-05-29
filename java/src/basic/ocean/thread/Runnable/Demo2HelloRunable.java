@@ -5,7 +5,7 @@ package basic.ocean.thread.Runnable;
  *
  * @Date：2019/2/28 0028 19:45
  */
-public class HelloRunable implements Runnable {
+public class Demo2HelloRunable implements Runnable {
     @Override
     public void run() {
         for (int i = 0; i < 10; i++) {
@@ -20,7 +20,7 @@ public class HelloRunable implements Runnable {
     }
 
     public static void main(String[] args) {
-        new Thread(new HelloRunable()).start();
-        new Thread(new HelloRunable()).start();
+        new Thread(new Demo2HelloRunable()).start();
+        new Thread(new Demo2HelloRunable()).start();
     }
 }

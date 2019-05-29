@@ -31,7 +31,7 @@ public class Demo01Arrays {
         });
 
         // 4 优化省略Lambda
-        Arrays.sort(arr, (o1, o2) -> o1.getAge() - o2.getAge());
+        Arrays.sort(arr, (a, b) -> a.getAge() - b.getAge());
 
         //遍历数组
         for (Person p : arr) {

@@ -1,4 +1,4 @@
-package basic.ocean.thread.sellticket;
+package basic.ocean.thread.unsafesellticket;
 
 /**
  * the class is create by @Author:oweson

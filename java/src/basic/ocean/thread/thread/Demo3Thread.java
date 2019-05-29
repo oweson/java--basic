@@ -1,11 +1,11 @@
-package basic.ocean.thread;
+package basic.ocean.thread.thread;
 
 /**
  * the class is create by @Author:oweson
  *
  * @Date：2018/6/22 0022 22:01
  */
-public class Thread02 {
+public class Demo3Thread {
 
 
     public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package basic.ocean.thread;
+package basic.ocean.thread.thread;
 
 /**
  * @Author:oweson

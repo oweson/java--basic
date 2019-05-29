@@ -7,28 +7,20 @@ import java.util.concurrent.FutureTask;
 /**
  * the class is create by @Author:oweson
  *
- * @Date：2019/3/17 0017 17:50
+ * @Date：2019/5/29 0029 14:56
  */
-public class CallableTest implements Callable<Integer> {
-
-
+public class Demo02Callable implements Callable<Integer> {
     @Override
     public Integer call() throws Exception {
-        int sum = 0;
-        for (int i = 0; i < 100; i++) {
-            sum += i;
-
-        }
-        return sum;
+        System.out.println(Thread.currentThread().getName());
+        return 100;
     }
 
     public static void main(String[] args) throws ExecutionException, InterruptedException {
-        // 1 传入实现类的匿名对象
-        FutureTask<Integer> futureTask = new FutureTask<>(new CallableTest());
-        // 2 FutureTask作为参数传递给线程；
+        Demo02Callable demo02Callable = new Demo02Callable();
+        FutureTask<Integer> futureTask = new FutureTask<Integer>(demo02Callable);
         new Thread(futureTask).start();
         Integer integer = futureTask.get();
-        System.out.println(integer);
-
+        System.out.println("返回值是：   " + integer);
     }
 }

@@ -8,7 +8,7 @@ import java.util.concurrent.Executors;
  *
  * @Date：2019/3/1 0001 10:40
  */
-public class ThreadPoolTest {
+public class Demo02ThreadPoolTest {
     public static void main(String[] args) {
         ExecutorService executorService = Executors.newFixedThreadPool(10);
         for (int i = 0; i < 10; i++) {

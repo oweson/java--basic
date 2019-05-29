@@ -1,11 +1,11 @@
-package basic.ocean.thread;
+package basic.ocean.thread.thread;
 
 /**
  * the class is create by @Author:oweson
  *
  * @Date：2018/11/20 0020 19:01
  */
-public class Demo15Thread {
+public class Demo2Thread {
     public static void main(String[] args) {
         /** 1 ，分别是继承线程类,实现Runnable接口,匿名类*/
         /** 2 Thread.sleep(1000); 表示当前线程暂停1000毫秒 ，其他线程不受影响

@@ -5,16 +5,14 @@ package basic.ocean.thread.Runnable;
  * java.lang.Runnable
  * Runnable 接口应该由那些打算通过某一线程执行其实例的类来实现。类必须定义一个称为 run 的无参数方法。
  * java.lang.Thread类的构造方法
- * Thread(Runnable target) 分配新的 Thread 对象。
- * Thread(Runnable target, String name) 分配新的 Thread 对象。
- * <p>
+ * 1 Thread(Runnable target) 分配新的 Thread 对象。
+ * 2 Thread(Runnable target, String name) 分配新的 Thread 对象。
  * 实现步骤:
  * 1.创建一个Runnable接口的实现类
  * 2.在实现类中重写Runnable接口的run方法,设置线程任务
  * 3.创建一个Runnable接口的实现类对象
  * 4.创建Thread类对象,构造方法中传递Runnable接口的实现类对象
  * 5.调用Thread类中的start方法,开启新的线程执行run方法
- * <p>
  * 实现Runnable接口创建多线程程序的好处:
  * 1.避免了单继承的局限性
  * 一个类只能继承一个类(一个人只能有一个亲爹),类继承了Thread类就不能继承其他的类
@@ -26,15 +24,16 @@ package basic.ocean.thread.Runnable;
  */
 public class RunnableTest {
     public static void main(String[] args) {
-        //3.创建一个Runnable接口的实现类对象
+        //1 .创建一个Runnable接口的实现类对象
         RunnableImpl1 run = new RunnableImpl1();
-        //4.创建Thread类对象,构造方法中传递Runnable接口的实现类对象
-        //Thread t = new Thread(run);
-        // 打印线程名称
-        Thread t = new Thread(new RunnableImpl2());
-        //打印HelloWorld
+        //2 .创建Thread类对象,构造方法中传递Runnable接口的实现类对象
+        Thread t1 = new Thread(run);
+        t1.start();
+        // 3 打印线程名称
+        Thread t2 = new Thread(new RunnableImpl2());
+        // 4 打印HelloWorld
         //5.调用Thread类中的start方法,开启新的线程执行run方法
-        t.start();
+        t2.start();
 
         for (int i = 0; i < 20; i++) {
             System.out.println(Thread.currentThread().getName() + "-->" + i);

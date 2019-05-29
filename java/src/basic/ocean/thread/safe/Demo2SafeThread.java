@@ -9,8 +9,9 @@ import java.util.concurrent.CopyOnWriteArrayList;
  *
  * @Date：2018/11/30 0030 15:18
  */
-public class SafeThread02 {
+public class Demo2SafeThread {
     public static void main(String[] args) {
+        // 读多写少的并发场景；
         List list = new CopyOnWriteArrayList();
         for (int i = 0; i < 100; i++) {
             list.add(i);
@@ -19,7 +20,7 @@ public class SafeThread02 {
         System.out.println(list.size());
         ConcurrentSkipListMap concurrentSkipListMap = new ConcurrentSkipListMap();
         for (int i = 0; i < 100; i++) {
-            concurrentSkipListMap.put(i,i+1);
+            concurrentSkipListMap.put(i, i + 1);
 
         }
 

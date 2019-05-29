@@ -7,7 +7,7 @@ import java.util.Date;
  *
  * @Date：2019/5/18 0018 9:33
  */
-public class Fish {
+public class Demo01Fish {
     Date d = new Date();
 
     public void say() {

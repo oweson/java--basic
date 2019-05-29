@@ -7,10 +7,10 @@ import java.util.Date;
  *
  * @Date：2018/6/22 0022 22:17
  */
-public class LockAnimal {
+public class Demo01LockFish {
     public static void main(String[] args) {
         Date date = new Date();
-        final Fish fish = new Fish();
+        final Demo01Fish fish = new Demo01Fish();
         new Thread() {
             @Override
             public void run() {

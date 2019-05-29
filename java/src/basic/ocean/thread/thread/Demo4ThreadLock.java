@@ -1,4 +1,4 @@
-package basic.ocean.thread;
+package basic.ocean.thread.thread;
 
 import java.util.Date;
 
@@ -7,7 +7,7 @@ import java.util.Date;
  *
  * @Date：2018/6/22 0022 22:14
  */
-public class ThreadLock {
+public class Demo4ThreadLock {
     /**
      * @param args 同步代码块
      */

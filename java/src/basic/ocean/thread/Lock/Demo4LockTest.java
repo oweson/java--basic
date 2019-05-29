@@ -1,4 +1,4 @@
-package basic.ocean.threadsafe;
+package basic.ocean.thread.Lock;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
@@ -10,7 +10,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  *
  * @Date：2019/5/4 0004 19:45
  */
-public class LockTest {
+public class Demo4LockTest {
     public static void demo1() {
         Lock lock = new ReentrantLock();
         lock.lock();

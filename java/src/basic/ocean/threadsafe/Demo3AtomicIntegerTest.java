@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  *
  * @Date：2019/5/4 0004 20:07
  */
-public class AtomicIntegerTest {
+public class Demo3AtomicIntegerTest {
     public static void main(String[] args) {
         AtomicInteger atomicInteger = new AtomicInteger(2019);
         int i = atomicInteger.incrementAndGet();

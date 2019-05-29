@@ -5,7 +5,7 @@ package basic.ocean.threadsafe;
  *
  * @Date：2019/5/4 0004 20:03
  */
-public class HowThreadSafe {
+public class Demo4HowThreadSafe {
     /** 1 可以通过volatile、synchronized、lock保证有序性。
      * volatile不是原子性的，进行++操作不是安全的
      * */
