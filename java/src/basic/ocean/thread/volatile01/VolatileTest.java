@@ -6,6 +6,7 @@ package basic.ocean.thread.volatile01;
  * @Date：2019/1/10 0010 14:25
  */
 public class VolatileTest {
+
     /**
      * 在多线程环境下，某个共享变量如果被其中一个线程给修改了，
      * 其他线程能够立即知道这个共享变量已经被修改了，当其他线程要读取这个变量的时候，
@@ -47,6 +48,7 @@ public class VolatileTest {
      * 4 volatile保证变量可见性的原理
      */
     public static void main(String[] args) {
+        System.out.println(3900/24);;
         a++;
         ++a;
         System.out.println(a);

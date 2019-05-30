@@ -39,7 +39,6 @@ public class DeleteDateFromArrayList {
                 tem.add(b);
             }
 
-            // System.out.println(bird);
         }
         for (Bird c : tem) {
             list.remove(c);
