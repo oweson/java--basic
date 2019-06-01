@@ -10,7 +10,7 @@ public class TestSwitch {
         int sum = 0;
         int a = 0;
         int b = 0;
-        for (int i = 0; i < 7; i++) {
+        for (int i = 0; i < 12; i++) {
             switch (i) {
                 case 1:
                 case 3:
@@ -21,7 +21,7 @@ public class TestSwitch {
                 case 2:
                 case 4:
                 case 6:
-                    a = 100;
+                    a = 30;
                     break;
             }
             sum += a;
