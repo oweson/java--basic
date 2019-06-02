@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hutool/hutool.iml" filepath="$PROJECT_DIR$/hutool/hutool.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/java--basic.iml" filepath="$PROJECT_DIR$/.idea/java--basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/juc/juc.iml" filepath="$PROJECT_DIR$/juc/juc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/java--basic.iml" filepath="$PROJECT_DIR$/java/java--basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hutool/src/main/main.iml" filepath="$PROJECT_DIR$/hutool/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrency/src/main/main1.iml" filepath="$PROJECT_DIR$/concurrency/src/main/main1.iml" />
       <module fileurl="file://$PROJECT_DIR$/offerjavabasic2019/offerjavabasic2019.iml" filepath="$PROJECT_DIR$/offerjavabasic2019/offerjavabasic2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrency/src/test/test.iml" filepath="$PROJECT_DIR$/concurrency/src/test/test.iml" />
     </modules>
   </component>
 </project>

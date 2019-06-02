@@ -2,35 +2,214 @@
 <project version="4">
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
-    <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b81020d-5778-46c9-a378-66cad74e4f6a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/basic/TemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/lake/collections/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="35a69769-f988-457e-ae6c-67ef37da6287" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/src/main/main1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hutool/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/META-INF/java--basic.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/basic/latest/java8/password.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/basic/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/basic/river/interfaceandmanystate/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/basic/river/nio/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/basic/utils/testMarkDowm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/characteroutput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/data-building.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/data-lambda.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/infile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/invoicedata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/outagain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/pig/offier/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/top/sea521/algorithm/simple/必考.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/top/sea521/algorithm/simple/面试题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/top/sea521/design/Composite/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/top/sea521/design/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/top/sea521/design/singleton/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/usnumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java--basic/xanadu.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/concurrency_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/concurrency_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java--basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_4_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3__3_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListRemoveByFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/ArrayToList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/DeleteStrInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collections/DeleteStrInList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/ListReplaceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/ListToArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/ListTransgerArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/MapDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collections/MapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/TestDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collections/DistinctTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collections/TestDistinct02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/BianliDuiXiang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/DeleteDateFromArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/DeleteDateFromArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/Queues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/TestAddTwoOnly.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/getOsNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/sea/system/getOsNameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc/juc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/BasicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/CollectionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/CompileErrorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/Demo1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/FaceLover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/FanXingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/FinalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/FinallyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/GBKTOUTF_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/InterfaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/ManyShapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/MathTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/MemoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/NumberLose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/StaticBlockTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/SuperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/ThisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/ValidVariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/WhitchIsTrue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/english/YuanMa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/frond/LinkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/frond/UTF8Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/web/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/web/Demo2ServletTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/web/SessionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/article/whichCollectionIsSafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/Alpha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/BasicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/CharArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/DiguiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/ExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/ExtendsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/HasStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/ISumDemo2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/ISumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/InilazeCodeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/InstanceOfTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/IntegerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/ListRemoveTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/LowerCaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/NoThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/Passo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/PigExtendsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/Spike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/StaticNullTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/StaticTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/StringBufferTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/StringCacheTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/SuperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/SwitchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/Two.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/Y.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/cattle/pig/code/Z.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/aikefa/AirPlane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/aikefa/IMovable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/aikefa/KichOneSingleNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/aikefa/SeaPlane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/aikefa/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/huyu/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/huyu/Demo2IntegerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/huyu/Demo3StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/huyu/Demo4ExtendTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/huyu/Demo5ExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/huyu/ExtendsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/pig/zhanshu/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/mooc/playdataStructure/second/array/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/mooc/playdataStructure/second/array/Demo1Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/mooc/playdataStructure/second/array/Link/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/mooc/playdataStructure/second/array/Link/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/algorithm/AddAAndB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/algorithm/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/algorithm/Demo2InputNumberToSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/algorithm/ErWeiArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/algorithm/FindMaxNumberInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/algorithm/FindNumberByErFen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/algorithm/Gc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/algorithm/JieCheng.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/algorithm/ShuiXianHua.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/algorithm/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/concurrency/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/concurrency/Deadlock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/concurrency/Deadlock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/concurrency/Deadlock$Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/concurrency/Deadlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/concurrency/MsLunch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/java--basic/top/sea521/concurrency/SynchronizedCounter.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/hutool/target/" />
-    <ignored path="$PROJECT_DIR$/concurrency/target/" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,31 +222,14 @@
       </map>
     </option>
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-    <option name="PARALLEL_COMPILATION" value="true" />
-  </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/java__basic$Demo15Thread.ic" NAME="Demo15Thread Coverage Results" MODIFIED="1542724489745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>top.sea521.javase.demo01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/java__basic$ToGeneratorNumber.ic" NAME="ToGeneratorNumber Coverage Results" MODIFIED="1546759819459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>eclipse.mar.math.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/java__basic$TemTest.ic" NAME="TemTest Coverage Results" MODIFIED="1558361834767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>basic.*</FILTER>
-    </SUITE>
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="01-枚举类的经典">
-      <favorite_root url="file://$PROJECT_DIR$/java/src/eclipse/mar/enums/CompanyEnum.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-    </favorites_list>
+    <favorites_list name="java--basic" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,103 +239,68 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>ceil</find>
-      <find>items</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>itemsList</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="E:/BaiduNetdiskDownload/AAAAAA---最新的代码解压湖/B---boot代码中心/SSMGenerator" value="PREVIEW" />
-        <entry key="E:/BaiduNetdiskDownload/AAAAAAAAAAAAAAAAA/Spring Boot技术栈博客企业前后端/source/blog-search" value="PREVIEW" />
-        <entry key="E:/BaiduNetdiskDownload/AAAAAAAAAAAAAAAAA/Spring Boot技术栈博客企业前后端/source/blog-user" value="PREVIEW" />
-        <entry key="E:/Git/AAAA---blog/FS-Blog" value="PREVIEW" />
-      </map>
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/basic/map/demo04/JDK9/Demo01JDK9.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/finalandinnerclass/demo02/MySon.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/finalandinnerclass/demo02/sub/Stranger.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/finalandinnerclass/demo08/MyRed.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/finalandinnerclass/demo08/NormalMode.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/finalandinnerclass/demo08/RandomMode.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/finalandinnerclass/demo08/Bootstrap.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lambda/LambdaCollectionTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/utils/date/SimpleDateFormateTest.java" />
-        <option value="$PROJECT_DIR$/java/src/pig/shangyangkeji/Hopeless.java" />
-        <option value="$PROJECT_DIR$/java/src/pig/suzhouyinneng/StringTest.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/javamiddle/demo2/compariable/Fish.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/typeinfo/BoundedClassReferences.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/innerclass/innerclass/AnimalInnerClassTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/innerclass/innerclass/Animal02.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/innerclass/innerclass/Bird.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/innerclass/innerclass/Fly.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collection/Demo01Collection.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/offier/Demo1CountSth.java" />
-        <option value="$PROJECT_DIR$/java/src/pig/offier/Demo1CountSth.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/nangchang/demo1.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/apigson/HasMoney.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/readme.md" />
-        <option value="$PROJECT_DIR$/java/src/basic/sea/fromgithub/classloading/ClassLoaderTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example13/Run13_inner01.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example5/Run5_lockRein.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example16/Run16_volatile.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/singleton/example2/MyObject1.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example4/Run4_threadCreateException2.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/printMain.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run2_StartVsRun.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run3_getName.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run5_isAlive02.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example1/Run1_TwoThreadTransData.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/java/src/basic/TemTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/TestDistinct02.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/DistinctTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/MapDemo1.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/MapTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/ListTransgerArrays.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/ListReplaceTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/ListToArray.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListRemoveByFor.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/DeleteStrInList.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/sea/system/getOsNameTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/DeleteDateFromArrayList.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/BianliDuiXiang.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo06Map.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/EqualsTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/TransferToNumber.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/ShuiXianHua.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/FindMaxNumberInArray.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/PrimeNumberTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/pond/array/ErWeiArray.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/Demo1AlwaysCircle.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/FindNumberByErFen.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/NarcissusTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/Demo10PrimeNumberTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/Demo11PrintSomeStar.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/Demo13ReverString.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/Demo14ScoreTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/search/SequenceSearch.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/Demo15SomeDayInOneYeayInputByUser.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/TestArray.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/TestSwitch.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/Demo16TransferToNumber.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/Demo9NarcissusTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/readme.md" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo8IInnerClassInstance.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/Source.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/TargetAble.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/AdapterTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/adapter/interfaceadapter/Fish.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/Test.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Sourceable.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Source.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Decorator.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/DecoratorTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/Test.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/CPU.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/Memory.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/Disk.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/Computer.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/User.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Composite/Tree.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Composite/TreeNode.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Composite/readme.md" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/readme.md" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo01List.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo02LinkedList.java" />
+        <option value="$PROJECT_DIR$/java/src/top/mooc/playdataStructure/second/array/Array.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc/TestAtomicDemo.java" />
       </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8 (1)" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-3" />
@@ -181,55 +308,18 @@
     <option name="width" value="1366" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <showMembers ProjectPane="true" />
-      <autoscrollFromSource ProjectPane="true" />
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java--basic" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="lake" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,24 +327,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8 (1)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/lib" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="basic" />
-      <recent name="basic.atguigu.exer" />
-      <recent name="eclipse.mar" />
+      <recent name="basic.lake.collection.demo01.List" />
+      <recent name="basic.ocean.thread.Lock" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\AAiDEL\java--basic\java\src\basic\ocean\fromgithub" />
+      <recent name="E:\AAiDEL\java--basic\java\lib" />
       <recent name="E:\AAiDEL\java--basic\java\resources" />
-      <recent name="E:\AAiDEL\java--basic\java\src\basic\sea\fromgithub" />
-      <recent name="E:\AAiDEL\java--basic\java\src\basic\river\fromgithub" />
-      <recent name="E:\AAiDEL\java--basic\java\src\basic\pond" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,71 +357,105 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListTest">
-    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.lake.collections.ArrayListTest" />
+  <component name="RunManager" selected="Application.Tree">
+    <configuration name="DecoratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.sea521.design.decorator.v3.DecoratorTest" />
       <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.lake.collections.*" />
+          <option name="PATTERN" value="top.sea521.design.decorator.v3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.lake.collections.MapTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.sea521.design.decorator.v1.Test" />
       <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.lake.collections.*" />
+          <option name="PATTERN" value="top.sea521.design.decorator.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Run3_getName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.fromgithub.multithread.meet.Run3_getName" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.sea521.design.facade.v1.Test" />
       <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ocean.fromgithub.multithread.meet.*" />
+          <option name="PATTERN" value="top.sea521.design.facade.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Run4_isAlive01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.fromgithub.multithread.meet.Run4_isAlive01" />
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.sea521.design.Composite.Tree" />
       <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ocean.fromgithub.multithread.meet.*" />
+          <option name="PATTERN" value="top.sea521.design.Composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="TemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.TemTest" />
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.sea521.design.facade.v2.User" />
       <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="top.sea521.design.facade.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Run3_getName" />
-      <item itemvalue="Application.Run4_isAlive01" />
-      <item itemvalue="Application.TemTest" />
-      <item itemvalue="Application.MapTest" />
-      <item itemvalue="Application.ArrayListTest" />
-    </list>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListTest" />
-        <item itemvalue="Application.MapTest" />
-        <item itemvalue="Application.TemTest" />
-        <item itemvalue="Application.Run4_isAlive01" />
-        <item itemvalue="Application.Run3_getName" />
+        <item itemvalue="Application.Tree" />
+        <item itemvalue="Application.User" />
+        <item itemvalue="Application.DecoratorTest" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -342,1234 +464,608 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b81020d-5778-46c9-a378-66cad74e4f6a" name="Default" comment="" />
-      <created>1540980022338</created>
+      <changelist id="35a69769-f988-457e-ae6c-67ef37da6287" name="Default Changelist" comment="" />
+      <created>1558834465887</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540980022338</updated>
-      <workItem from="1540980024464" duration="782000" />
-      <workItem from="1541806527903" duration="455000" />
-      <workItem from="1542239676843" duration="771000" />
-      <workItem from="1542339199598" duration="1973000" />
-      <workItem from="1542458266764" duration="911000" />
-      <workItem from="1542637984985" duration="1856000" />
-      <workItem from="1542675974859" duration="4615000" />
-      <workItem from="1542698124986" duration="7228000" />
-      <workItem from="1542724436160" duration="2859000" />
-      <workItem from="1542801870524" duration="103000" />
-      <workItem from="1542806933014" duration="1483000" />
-      <workItem from="1542847920102" duration="2766000" />
-      <workItem from="1542853396185" duration="1973000" />
-      <workItem from="1543029997859" duration="2147000" />
-      <workItem from="1543113066840" duration="6763000" />
-      <workItem from="1543193644943" duration="11974000" />
-      <workItem from="1543319023993" duration="4379000" />
-      <workItem from="1543365652900" duration="3829000" />
-      <workItem from="1543451474039" duration="244000" />
-      <workItem from="1543452735405" duration="22000" />
-      <workItem from="1543473832610" duration="807000" />
-      <workItem from="1543558709073" duration="4213000" />
-      <workItem from="1543650954805" duration="1441000" />
-      <workItem from="1543754296977" duration="768000" />
-      <workItem from="1543821899794" duration="16675000" />
-      <workItem from="1543993659157" duration="751000" />
-      <workItem from="1544061241961" duration="1205000" />
-      <workItem from="1544576652697" duration="771000" />
-      <workItem from="1544837919616" duration="1661000" />
-      <workItem from="1545359481898" duration="3538000" />
-      <workItem from="1546092556880" duration="738000" />
-      <workItem from="1546150370305" duration="6904000" />
-      <workItem from="1546226063111" duration="2901000" />
-      <workItem from="1546327339920" duration="2478000" />
-      <workItem from="1546526138037" duration="30045000" />
-      <workItem from="1546778623171" duration="510000" />
-      <workItem from="1546918590400" duration="4382000" />
-      <workItem from="1546926572768" duration="2122000" />
-      <workItem from="1547033668072" duration="11768000" />
-      <workItem from="1547270168850" duration="2927000" />
-      <workItem from="1547360328262" duration="12365000" />
-      <workItem from="1547636911481" duration="1190000" />
-      <workItem from="1548041413086" duration="10460000" />
-      <workItem from="1548210334019" duration="3263000" />
-      <workItem from="1548240278975" duration="9909000" />
-      <workItem from="1548294569937" duration="8321000" />
-      <workItem from="1548381629687" duration="9096000" />
-      <workItem from="1548414715783" duration="584000" />
-      <workItem from="1548487542707" duration="11192000" />
-      <workItem from="1548739555544" duration="15257000" />
-      <workItem from="1549161997836" duration="1054000" />
-      <workItem from="1549949120363" duration="4043000" />
-      <workItem from="1550391933299" duration="4712000" />
-      <workItem from="1550572193947" duration="1368000" />
-      <workItem from="1550583207650" duration="1879000" />
-      <workItem from="1550624457074" duration="731000" />
-      <workItem from="1550752098808" duration="5629000" />
-      <workItem from="1550761661368" duration="6663000" />
-      <workItem from="1550887218933" duration="1132000" />
-      <workItem from="1551105278833" duration="2232000" />
-      <workItem from="1551321989058" duration="2943000" />
-      <workItem from="1551342480748" duration="27249000" />
-      <workItem from="1551437246527" duration="4372000" />
-      <workItem from="1551445111189" duration="7000" />
-      <workItem from="1551445189551" duration="5493000" />
-      <workItem from="1551524450843" duration="25100000" />
-      <workItem from="1551944980262" duration="8295000" />
-      <workItem from="1552040849706" duration="3158000" />
-      <workItem from="1552222838790" duration="1651000" />
-      <workItem from="1552289036152" duration="4119000" />
-      <workItem from="1552342094397" duration="884000" />
-      <workItem from="1552402065704" duration="5191000" />
-      <workItem from="1552489562416" duration="9837000" />
-      <workItem from="1552816039215" duration="3972000" />
-      <workItem from="1552895923481" duration="2872000" />
-      <workItem from="1553042791594" duration="8048000" />
-      <workItem from="1553168301877" duration="1344000" />
-      <workItem from="1553217457203" duration="3920000" />
-      <workItem from="1553242104477" duration="8510000" />
-      <workItem from="1554390030613" duration="6735000" />
-      <workItem from="1554477976541" duration="3922000" />
-      <workItem from="1554557835260" duration="7255000" />
-      <workItem from="1554647764710" duration="715000" />
-      <workItem from="1554689304142" duration="608000" />
-      <workItem from="1554705272162" duration="3251000" />
-      <workItem from="1554772516459" duration="3202000" />
-      <workItem from="1554882283930" duration="2167000" />
-      <workItem from="1554899472180" duration="1179000" />
-      <workItem from="1554902230049" duration="10268000" />
-      <workItem from="1554986207212" duration="1991000" />
-      <workItem from="1555251338369" duration="2284000" />
-      <workItem from="1555859224536" duration="11809000" />
-      <workItem from="1556031791032" duration="1254000" />
-      <workItem from="1556094502645" duration="5179000" />
-      <workItem from="1556110489952" duration="774000" />
-      <workItem from="1556331047594" duration="2956000" />
-      <workItem from="1556354458970" duration="2394000" />
-      <workItem from="1556359300584" duration="3502000" />
-      <workItem from="1556419685838" duration="984000" />
-      <workItem from="1556443738230" duration="3990000" />
-      <workItem from="1556452775421" duration="1936000" />
-      <workItem from="1556537118117" duration="10849000" />
-      <workItem from="1556605442953" duration="1818000" />
-      <workItem from="1556626149039" duration="724000" />
-      <workItem from="1556628757847" duration="3856000" />
-      <workItem from="1556687752303" duration="10138000" />
-      <workItem from="1556962724471" duration="5633000" />
-      <workItem from="1557066446133" duration="4109000" />
-      <workItem from="1557186656172" duration="121000" />
-      <workItem from="1557383995679" duration="2902000" />
-      <workItem from="1557402418605" duration="4030000" />
-      <workItem from="1557453294005" duration="3276000" />
-      <workItem from="1557490805853" duration="16681000" />
-      <workItem from="1557755302595" duration="3884000" />
-      <workItem from="1557839124142" duration="5157000" />
-      <workItem from="1557925765579" duration="5309000" />
-      <workItem from="1558013419057" duration="2072000" />
-      <workItem from="1558101677207" duration="32427000" />
-      <workItem from="1558360582189" duration="1264000" />
-      <workItem from="1558448984673" duration="1906000" />
+      <updated>1558834465887</updated>
+      <workItem from="1558834467521" duration="18401000" />
+      <workItem from="1558873044528" duration="2469000" />
+      <workItem from="1558938958649" duration="2537000" />
+      <workItem from="1558961528822" duration="21311000" />
+      <workItem from="1559174409105" duration="11869000" />
+      <workItem from="1559372353380" duration="10782000" />
+      <workItem from="1559446744489" duration="4884000" />
     </task>
-    <task id="LOCAL-00009" summary="一些调整和优化；">
-      <created>1548330622273</created>
+    <task id="LOCAL-00001" summary="年轻就是资本，怕个锤子！遵循自己内心的选择！">
+      <created>1558856923290</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558856923291</updated>
+    </task>
+    <task id="LOCAL-00002" summary="年轻就是资本，怕个锤子！遵循自己内心的选择！">
+      <created>1558964724179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558964724179</updated>
+    </task>
+    <task id="LOCAL-00003" summary="相信自己！">
+      <created>1558999072750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558999072750</updated>
+    </task>
+    <task id="LOCAL-00004" summary="何为对错？？？">
+      <created>1559043700367</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559043700367</updated>
+    </task>
+    <task id="LOCAL-00005" summary="走一步，算一步；">
+      <created>1559057504143</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559057504143</updated>
+    </task>
+    <task id="LOCAL-00006" summary="练习了多线程的知识！">
+      <created>1559125027408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559125027408</updated>
+    </task>
+    <task id="LOCAL-00007" summary="我该去哪里？">
+      <created>1559224096010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559224096010</updated>
+    </task>
+    <task id="LOCAL-00008" summary="不知道怎么办？">
+      <created>1559381880156</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559381880156</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit!">
+      <created>1559488601282</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1548330622274</updated>
+      <updated>1559488601288</updated>
     </task>
-    <task id="LOCAL-00010" summary="一些调整和优化；">
-      <created>1548413126101</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1548413126101</updated>
-    </task>
-    <task id="LOCAL-00011" summary="一些调整和优化；">
-      <created>1548490664025</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1548490664025</updated>
-    </task>
-    <task id="LOCAL-00012" summary="一些调整和优化；">
-      <created>1548768820538</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1548768820538</updated>
-    </task>
-    <task id="LOCAL-00013" summary="一些调整和优化；">
-      <created>1549031978340</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1549031978340</updated>
-    </task>
-    <task id="LOCAL-00014" summary="设计模式优化">
-      <created>1550828927955</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1550828927955</updated>
-    </task>
-    <task id="LOCAL-00015" summary="添加玛瑙湾的练习">
-      <created>1550887740155</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1550887740155</updated>
-    </task>
-    <task id="LOCAL-00016" summary="基础很薄弱，练习；无论如何，开心，准备打持久战！">
-      <created>1551409782613</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1551409782613</updated>
-    </task>
-    <task id="LOCAL-00017" summary="基础很薄弱，练习；无论如何，开心，准备打持久战！">
-      <created>1551449964972</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1551449964973</updated>
-    </task>
-    <task id="LOCAL-00018" summary="基础很薄弱，练习；无论如何，开心，准备打持久战！">
-      <created>1551623419190</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1551623419190</updated>
-    </task>
-    <task id="LOCAL-00019" summary="null">
-      <created>1552099899175</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1552099899176</updated>
-    </task>
-    <task id="LOCAL-00020" summary="你不用慌，你想要的">
-      <created>1552898570798</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1552898570798</updated>
-    </task>
-    <task id="LOCAL-00021" summary="顺其自然吧">
-      <created>1553067689701</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1553067689701</updated>
-    </task>
-    <task id="LOCAL-00022" summary="活在当下">
-      <created>1553228143597</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1553228143598</updated>
-    </task>
-    <task id="LOCAL-00023" summary="it is a pity to give up her">
-      <created>1553245291925</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1553245291925</updated>
-    </task>
-    <task id="LOCAL-00024" summary="一眨眼就入职4day了，一点都不顺，今天上午还在搞环境；&#10;公司的框架很垃圾，部门太垃圾，没人带，学不到东西，自己的选择后悔了吧；&#10;走一步看一步；">
-      <created>1554392244846</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1554392244846</updated>
-    </task>
-    <task id="LOCAL-00025" summary="入职第二周，很烦，哪里有对错">
-      <created>1554729402655</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1554729402655</updated>
-    </task>
-    <task id="LOCAL-00026" summary="忽略文件测试">
-      <created>1554779595979</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1554779595979</updated>
-    </task>
-    <task id="LOCAL-00027" summary="忽略文件测试">
-      <created>1554882375975</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1554882375975</updated>
-    </task>
-    <task id="LOCAL-00028" summary="基础练习！">
-      <created>1554947392372</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1554947392372</updated>
-    </task>
-    <task id="LOCAL-00029" summary="add concurrency module!">
-      <created>1555252315469</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1555252315469</updated>
-    </task>
-    <task id="LOCAL-00030" summary="add concurrency module!  and other;">
-      <created>1555894068153</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1555894068153</updated>
-    </task>
-    <task id="LOCAL-00031" summary="sth todo waiting for you;">
-      <created>1555949679653</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1555949679653</updated>
-    </task>
-    <task id="LOCAL-00032" summary="廉颇老矣......">
-      <created>1556032538919</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1556032538919</updated>
-    </task>
-    <task id="LOCAL-00033" summary="step by step;">
-      <created>1556096744617</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1556096744617</updated>
-    </task>
-    <task id="LOCAL-00034" summary="愿你越来越优秀；">
-      <created>1556368327845</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1556368327845</updated>
-    </task>
-    <task id="LOCAL-00035" summary="愿你越来越优秀；">
-      <created>1556446996196</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1556446996196</updated>
-    </task>
-    <task id="LOCAL-00036" summary="南昌这座城市没有什么可以留念的；走吧，走了就不要回来；">
-      <created>1556457576241</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1556457576241</updated>
-    </task>
-    <task id="LOCAL-00037" summary="我和她；">
-      <created>1556549553301</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1556549553301</updated>
-    </task>
-    <task id="LOCAL-00038" summary="五一快乐；生日快乐；">
-      <created>1556694920998</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1556694920998</updated>
-    </task>
-    <task id="LOCAL-00039" summary="职责明确，面试和基础项目交由ide2019维护；">
-      <created>1556722720986</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1556722720986</updated>
-    </task>
-    <task id="LOCAL-00040" summary="未来是什么？何去何从？">
-      <created>1556787591557</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1556787591557</updated>
-    </task>
-    <task id="LOCAL-00041" summary="添加多线陈的最新的demo,多线陈是核心，要勤加练习，">
-      <created>1556973145603</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1556973145603</updated>
-    </task>
-    <task id="LOCAL-00042" summary="你会越来越强；">
-      <created>1557067238837</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1557067238837</updated>
-    </task>
-    <task id="LOCAL-00043" summary="不要辜负每一天！">
-      <created>1557098127412</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1557098127412</updated>
-    </task>
-    <task id="LOCAL-00044" summary="添加面试模块即可时间的，希望自己强大起来；">
-      <created>1557415951767</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1557415951767</updated>
-    </task>
-    <task id="LOCAL-00045" summary="添加jui并发模块；">
-      <created>1557456917856</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1557456917856</updated>
-    </task>
-    <task id="LOCAL-00046" summary="学无止境；">
-      <created>1557595198110</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1557595198110</updated>
-    </task>
-    <task id="LOCAL-00047" summary="今天去租的房子去；希望不要太坑，感觉还是有点坑；">
-      <created>1557623669918</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1557623669918</updated>
-    </task>
-    <task id="LOCAL-00048" summary="step by step!">
-      <created>1557789992826</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1557789992826</updated>
-    </task>
-    <task id="LOCAL-00049" summary="just commit!">
-      <created>1557895600968</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1557895600968</updated>
-    </task>
-    <task id="LOCAL-00050" summary="summer is comming!">
-      <created>1558047430670</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1558047430671</updated>
-    </task>
-    <task id="LOCAL-00051" summary="练习了多线程的知识！">
-      <created>1558144411162</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1558144411163</updated>
-    </task>
-    <task id="LOCAL-00052" summary="添加新的东西；">
-      <created>1558172095587</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1558172095587</updated>
-    </task>
-    <task id="LOCAL-00053" summary="变换包名很麻烦！">
-      <created>1558174672351</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1558174672351</updated>
-    </task>
-    <task id="LOCAL-00054" summary="变换包名很麻烦！">
-      <created>1558174818793</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1558174818793</updated>
-    </task>
-    <task id="LOCAL-00055" summary="变换包名很麻烦！">
-      <created>1558174996037</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1558174996037</updated>
-    </task>
-    <task id="LOCAL-00056" summary="整理文件夹；">
-      <created>1558241179740</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1558241179741</updated>
-    </task>
-    <task id="LOCAL-00057" summary="我错了；">
-      <created>1558252227542</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1558252227542</updated>
-    </task>
-    <option name="localTasksCounter" value="58" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestFactory_test - 2019.05.06 at 06h 45m 17s.xml">
-      <configuration name="TestFactory.test" configurationId="JUnit" />
+    <history-entry file="StreamTest_testDemo1 - 2019.05.27 at 21h 09m 56s.xml">
+      <configuration name="StreamTest.testDemo1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="586294000" />
+    <option name="totallyTimeSpent" value="72253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Key Promoter X" order="14" />
-      <window_info anchor="right" id="Palette" order="10" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="29" />
-      <window_info anchor="bottom" id="Event Log" order="29" sideWeight="0.2657078" side_tool="true" visible="true" weight="0.21180555" />
-      <window_info anchor="bottom" id="JRebel Console" order="29" sideWeight="0.24526873" side_tool="true" weight="0.10142349" />
-      <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
-      <window_info anchor="bottom" id="Database Changes" order="29" show_stripe_button="false" />
-      <window_info anchor="bottom" id="JRebel Executor" order="29" sideWeight="0.4996215" weight="0.15277778" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Statistic" order="29" />
-      <window_info anchor="bottom" id="Profiler" order="29" />
-      <window_info anchor="bottom" id="Tail" order="29" />
-      <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
-      <window_info id="Structure" order="1" sideWeight="0.197318" side_tool="true" weight="0.20968963" />
-      <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49356547" weight="0.2829861" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="29" sideWeight="0.46858442" weight="0.16666667" />
-      <window_info anchor="right" id="Palette&#9;" order="12" />
-      <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49924356" weight="0.32931036" />
-      <window_info anchor="bottom" id="Version Control" order="29" sideWeight="0.49659348" weight="0.07118055" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7342922" visible="true" weight="0.21180555" />
-      <window_info anchor="bottom" id="Spring" order="25" sideWeight="0.49924356" weight="0.32931036" />
-      <window_info anchor="bottom" id="CheckStyle" order="29" />
-      <window_info anchor="bottom" id="Terminal" order="29" weight="0.09548611" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="26" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.802682" visible="true" weight="0.22634368" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="29" />
-      <window_info anchor="bottom" id="Problems" order="28" sideWeight="0.49924356" weight="0.32931036" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info id="JRebel" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Alibaba Cloud View" order="30" weight="0.3628472" />
-      <window_info id="Learn" order="7" />
-      <window_info id="Alibaba Cloud Explorer" order="9" sideWeight="0.28097346" side_tool="true" weight="0.17789553" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="29" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="RestServices" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.026495079" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4981075" weight="0.14583333" />
-      <window_info anchor="bottom" id="Inspection Results" order="30" weight="0.33105803" />
-      <window_info anchor="right" id="SciView" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Redis Servers" order="8" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.034822103" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" visible="true" weight="0.031013615" />
-      <window_info anchor="bottom" id="JProfiler" order="16" />
-      <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="SmartIM" order="17" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="23" />
-      <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="Alibaba Cloud View" order="30" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="15" />
-      <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49962035" weight="0.3281787" />
-      <window_info id="Designer" order="5" />
-      <window_info anchor="right" id="Palette" order="10" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="21" />
-      <window_info id="JRebel" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" order="12" sideWeight="0.49924356" weight="0.32931036" />
-      <window_info id="Image Layers" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.74943227" visible="true" weight="0.21527778" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Profiler" order="16" />
-      <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="17" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Inspection Results" order="29" weight="0.33105803" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="CheckStyle" order="18" />
-      <window_info anchor="bottom" id="Event Log" order="19" sideWeight="0.25056776" side_tool="true" visible="true" weight="0.21527778" />
-      <window_info anchor="bottom" id="Messages" order="26" sideWeight="0.48033282" weight="0.33103448" />
-      <window_info anchor="right" id="RestServices" order="7" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" visible="true" weight="0.031013615" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Problems" order="14" sideWeight="0.49924356" weight="0.32931036" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" sideWeight="0.49924356" weight="0.32931036" />
-      <window_info anchor="bottom" id="JProfiler" order="8" />
-      <window_info anchor="bottom" id="SmartIM" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="22" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="23" sideWeight="0.49848714" weight="0.085178874" />
-      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="10" />
-      <window_info id="Alibaba Cloud Explorer" order="9" sideWeight="0.28097346" side_tool="true" visible="true" weight="0.17789553" />
-      <window_info anchor="right" id="Maven Projects" order="14" weight="0.32980332" />
-      <window_info anchor="right" id="Coverage" order="13" side_tool="true" visible="true" weight="0.027231468" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
+      <window_info id="Alibaba Cloud Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19015151" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.34412265" />
-      <window_info anchor="bottom" id="JRebel Executor" order="25" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71902657" visible="true" weight="0.17789553" />
-      <window_info anchor="bottom" id="JRebel Console" order="24" sideWeight="0.22239032" side_tool="true" weight="0.18228279" />
-      <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Learn" order="5" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.07468124" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="27" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="12" />
-      <window_info anchor="bottom" id="Statistic" order="20" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Redis Servers" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.10746812" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41530055" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="SciView" order="5" />
-      <window_info anchor="bottom" id="Tail" order="28" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4950795" weight="0.17534722" />
-    </layout-to-restore>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32969034" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007576" side_tool="true" weight="0.05464481" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" sideWeight="0.49924242" visible="true" weight="0.05464481" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="15" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="16" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="17" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="18" />
+      <window_info anchor="bottom" id="JRebel Executor" order="19" />
+      <window_info anchor="bottom" id="JRebel Console" order="20" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="21" />
+      <window_info anchor="bottom" id="Tail" order="22" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="RestServices" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Redis Servers" order="8" />
+      <window_info anchor="right" id="Mybatis datasource" order="9" side_tool="true" />
+      <window_info anchor="right" id="Graphical Navigator" order="10" type="SLIDING" />
+      <window_info anchor="right" id="UML Diagrams" order="11" type="SLIDING" />
+      <window_info anchor="right" id="Key Promoter X" order="12" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add concurrency module!  and other;" />
-    <MESSAGE value="sth todo waiting for you;" />
-    <MESSAGE value="廉颇老矣......" />
-    <MESSAGE value="step by step;" />
-    <MESSAGE value="愿你越来越优秀；" />
-    <MESSAGE value="南昌这座城市没有什么可以留念的；走吧，走了就不要回来；" />
-    <MESSAGE value="我和她；" />
-    <MESSAGE value="五一快乐；生日快乐；" />
-    <MESSAGE value="职责明确，面试和基础项目交由ide2019维护；" />
-    <MESSAGE value="未来是什么？何去何从？" />
-    <MESSAGE value="添加多线陈的最新的demo,多线陈是核心，要勤加练习，" />
-    <MESSAGE value="你会越来越强；" />
-    <MESSAGE value="不要辜负每一天！" />
-    <MESSAGE value="添加面试模块即可时间的，希望自己强大起来；" />
-    <MESSAGE value="添加jui并发模块；" />
-    <MESSAGE value="学无止境；" />
-    <MESSAGE value="今天去租的房子去；希望不要太坑，感觉还是有点坑；" />
-    <MESSAGE value="step by step!" />
-    <MESSAGE value="just commit!" />
-    <MESSAGE value="summer is comming!" />
+    <MESSAGE value="年轻就是资本，怕个锤子！遵循自己内心的选择！" />
+    <MESSAGE value="相信自己！" />
+    <MESSAGE value="何为对错？？？" />
+    <MESSAGE value="走一步，算一步；" />
     <MESSAGE value="练习了多线程的知识！" />
-    <MESSAGE value="添加新的东西；" />
-    <MESSAGE value="变换包名很麻烦！" />
-    <MESSAGE value="整理文件夹；" />
-    <MESSAGE value="我错了；" />
-    <option name="LAST_COMMIT_MESSAGE" value="我错了；" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="35" />
-    </breakpoint-manager>
+    <MESSAGE value="我该去哪里？" />
+    <MESSAGE value="不知道怎么办？" />
+    <MESSAGE value="commit!" />
+    <MESSAGE value="you can do it!" />
+    <option name="LAST_COMMIT_MESSAGE" value="you can do it!" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/CallableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/ThreadTest.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/必考.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/CloseResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-246">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/LiftOff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/OrnamentalGarden.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/concurrent/MoreBasicThreads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example2/Run2_groupAddThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example2/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-106">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example4/Run4_threadCreateException3.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/simple/Demo9NarcissusTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example4/Thread1.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/string/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="131">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example4/Run4_threadCreateException.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/factory/TestMainVideo.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/factory/JavaVideoFactory.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/factorymethod/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example3/Run3_formatOK1.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example5/Thread1.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example5/Run5_threadGroup1.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/supplement/example4/Run4_threadCreateException2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/printMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run2_StartVsRun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run3_getName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run4_isAlive01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/meet/Run5_isAlive02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
+        <state relative-caret-position="-67">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/ThreadB.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/MainVideoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="230">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/Run1_local.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/HasLocalNum.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo8IInnerClassInstance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/lock/example1/ServiceA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example1/MyList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example1/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/communication/example1/Run1_TwoThreadTransData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/apigson/FastKeyProterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-147">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/TemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="263">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/TestDistinct02.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/Source.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="230">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
+            <element signature="e#178#179#0" expanded="true" />
             <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/DistinctTest.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/Targetable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="65">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="e#274#320#1" expanded="true" />
-            <element signature="e#308#317#0" expanded="true" />
-            <element signature="e#329#353#1" expanded="true" />
-            <element signature="e#388#415#1" expanded="true" />
-            <element signature="e#453#463#0" expanded="true" />
-            <element signature="e#453#463#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/NoRealArrayList.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/AdapterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="197">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/MapDemo1.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/adapter/interfaceadapter/Fish.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="181">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/BatterCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding>
-            <element signature="e#370#416#1" expanded="true" />
-            <element signature="e#536#549#0" expanded="true" />
-            <element signature="e#536#549#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/MapTest.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/BatteCakeWithEggAndSausce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        <state relative-caret-position="137">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/BatterCakeWithEge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding>
-            <element signature="e#346#394#1" expanded="true" />
-            <element signature="e#403#445#1" expanded="true" />
-            <element signature="e#454#607#0" expanded="true" />
-            <element signature="e#454#607#0" expanded="true" />
-            <element signature="e#506#527#1" expanded="true" />
-            <element signature="e#454#607#0" expanded="true" />
-            <element signature="e#454#607#0" expanded="true" />
-            <element signature="e#540#563#1" expanded="true" />
-            <element signature="e#581#600#0" expanded="true" />
-            <element signature="e#581#600#0" expanded="true" />
-            <element signature="e#581#600#0" expanded="true" />
-            <element signature="e#635#713#1" expanded="true" />
-            <element signature="e#727#930#0" expanded="true" />
-            <element signature="e#727#930#0" expanded="true" />
-            <element signature="e#768#822#1" expanded="true" />
-            <element signature="e#859#918#0" expanded="true" />
-            <element signature="e#867#880#0" expanded="true" />
-            <element signature="e#859#918#0" expanded="true" />
-            <element signature="e#859#918#0" expanded="true" />
-            <element signature="e#898#913#0" expanded="true" />
-            <element signature="e#859#918#0" expanded="true" />
-            <element signature="e#958#1016#1" expanded="true" />
-            <element signature="e#1071#1107#1" expanded="true" />
-            <element signature="e#1217#1259#0" expanded="true" />
-            <element signature="e#1217#1259#0" expanded="true" />
-            <element signature="e#1217#1259#0" expanded="true" />
-            <element signature="e#1246#1259#0" expanded="true" />
-            <element signature="e#1246#1259#0" expanded="true" />
-            <element signature="e#1217#1259#0" expanded="true" />
-            <element signature="e#1400#1407#0" expanded="true" />
-            <element signature="e#1400#1407#0" expanded="true" />
-            <element signature="e#1400#1407#0" expanded="true" />
-            <element signature="e#1400#1407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/ListTransgerArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#279#321#1" expanded="true" />
-            <element signature="e#405#443#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/ListReplaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/ArrayToList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="e#277#299#1" expanded="true" />
-            <element signature="e#390#429#1" expanded="true" />
-            <element signature="e#411#428#0" expanded="true" />
-            <element signature="e#438#517#0" expanded="true" />
-            <element signature="e#443#453#1" expanded="true" />
-            <element signature="e#438#517#0" expanded="true" />
-            <element signature="e#438#517#0" expanded="true" />
-            <element signature="e#438#517#0" expanded="true" />
-            <element signature="e#438#517#0" expanded="true" />
-            <element signature="e#489#505#0" expanded="true" />
-            <element signature="e#489#505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListRemoveByFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/CountOneInList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding>
-            <element signature="e#279#323#1" expanded="true" />
-            <element signature="e#561#575#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/DeleteStrInList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/TestAddTwoOnly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/Queues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-780">
-          <folding>
-            <element signature="e#0#1172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/sea/system/getOsNameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/DeleteDateFromArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-          <folding>
+            <element signature="e#217#218#0" expanded="true" />
             <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#497#518#0" expanded="true" />
-            <element signature="e#468#575#0" expanded="true" />
-            <element signature="e#468#575#0" expanded="true" />
-            <element signature="e#468#575#0" expanded="true" />
-            <element signature="e#468#575#0" expanded="true" />
-            <element signature="e#468#575#0" expanded="true" />
-            <element signature="e#534#564#0" expanded="true" />
-            <element signature="e#552#562#0" expanded="true" />
-            <element signature="e#552#562#0" expanded="true" />
-            <element signature="e#534#564#0" expanded="true" />
-            <element signature="e#660#695#1" expanded="true" />
-            <element signature="e#677#694#0" expanded="true" />
-            <element signature="e#646#876#0" expanded="true" />
-            <element signature="e#646#876#0" expanded="true" />
-            <element signature="e#738#769#1" expanded="true" />
-            <element signature="e#691#710#0" expanded="true" />
-            <element signature="e#691#710#0" expanded="true" />
-            <element signature="e#765#824#0" expanded="true" />
-            <element signature="e#765#824#0" expanded="true" />
-            <element signature="e#799#809#0" expanded="true" />
-            <element signature="e#799#809#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/Students.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="77">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/BianliDuiXiang.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v2/ABatterCake.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="135">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collections/ArrayListTest.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v2/BatterCake.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="135">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v2/ABstractDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Sourceable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Source.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/DecoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/GiftExchangeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/PointGifts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/PointPayMentServvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/QulafyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/ShippingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/CPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/Memory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/Disk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="108" selection-start-line="14" selection-start-column="108" selection-end-line="14" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Composite/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#271#311#1" expanded="true" />
-            <element signature="e#293#310#0" expanded="true" />
-            <element signature="e#319#401#0" expanded="true" />
-            <element signature="e#319#401#0" expanded="true" />
-            <element signature="e#319#401#0" expanded="true" />
-            <element signature="e#319#401#0" expanded="true" />
-            <element signature="e#319#401#0" expanded="true" />
-            <element signature="e#433#503#0" expanded="true" />
-            <element signature="e#439#449#0" expanded="true" />
-            <element signature="e#433#503#0" expanded="true" />
-            <element signature="e#531#654#0" expanded="true" />
-            <element signature="e#537#547#1" expanded="true" />
-            <element signature="e#531#654#0" expanded="true" />
-            <element signature="e#584#609#1" expanded="true" />
-            <element signature="e#531#654#0" expanded="true" />
-            <element signature="e#596#607#0" expanded="true" />
-            <element signature="e#531#654#0" expanded="true" />
-            <element signature="e#596#607#0" expanded="true" />
-            <element signature="e#466#548#1" expanded="true" />
-            <element signature="e#527#530#0" expanded="true" />
-            <element signature="e#961#1038#0" expanded="true" />
-            <element signature="e#562#572#1" expanded="true" />
-            <element signature="e#961#1038#0" expanded="true" />
-            <element signature="e#961#1038#0" expanded="true" />
-            <element signature="e#961#1038#0" expanded="true" />
-            <element signature="e#961#1038#0" expanded="true" />
-            <element signature="e#736#764#1" expanded="true" />
-            <element signature="e#748#763#0" expanded="true" />
-            <element signature="e#1176#1255#0" expanded="true" />
-            <element signature="e#778#788#1" expanded="true" />
-            <element signature="e#1176#1255#0" expanded="true" />
-            <element signature="e#1176#1255#0" expanded="true" />
-            <element signature="e#1176#1255#0" expanded="true" />
-            <element signature="e#1176#1255#0" expanded="true" />
-            <element signature="e#1227#1243#0" expanded="true" />
-            <element signature="e#1227#1243#0" expanded="true" />
-            <element signature="e#1283#1293#0" expanded="true" />
-            <element signature="e#1283#1293#0" expanded="true" />
-            <element signature="e#971#1009#1" expanded="true" />
-            <element signature="e#991#1008#0" expanded="true" />
-            <element signature="e#1438#1452#0" expanded="true" />
-            <element signature="e#1438#1452#0" expanded="true" />
-            <element signature="e#1462#1476#0" expanded="true" />
-            <element signature="e#1462#1476#0" expanded="true" />
-            <element signature="e#1486#1500#0" expanded="true" />
-            <element signature="e#1486#1500#0" expanded="true" />
-            <element signature="e#1510#1524#0" expanded="true" />
-            <element signature="e#1510#1524#0" expanded="true" />
-            <element signature="e#1534#1548#0" expanded="true" />
-            <element signature="e#1534#1548#0" expanded="true" />
-            <element signature="e#1558#1572#0" expanded="true" />
-            <element signature="e#1558#1572#0" expanded="true" />
-            <element signature="e#1582#1736#0" expanded="true" />
-            <element signature="e#1184#1194#1" expanded="true" />
-            <element signature="e#1582#1736#0" expanded="true" />
-            <element signature="e#1582#1736#0" expanded="true" />
-            <element signature="e#1582#1736#0" expanded="true" />
-            <element signature="e#1582#1736#0" expanded="true" />
-            <element signature="e#1634#1725#0" expanded="true" />
-            <element signature="e#1660#1671#0" expanded="true" />
-            <element signature="e#1660#1671#0" expanded="true" />
-            <element signature="e#1634#1725#0" expanded="true" />
-            <element signature="e#1692#1710#0" expanded="true" />
-            <element signature="e#1692#1710#0" expanded="true" />
-            <element signature="e#1692#1710#0" expanded="true" />
-            <element signature="e#1490#1523#1" expanded="true" />
-            <element signature="e#1580#1619#1" expanded="true" />
-            <element signature="e#1601#1618#0" expanded="true" />
-            <element signature="e#2031#2096#0" expanded="true" />
-            <element signature="e#1633#1643#1" expanded="true" />
-            <element signature="e#2031#2096#0" expanded="true" />
-            <element signature="e#2031#2096#0" expanded="true" />
-            <element signature="e#2031#2096#0" expanded="true" />
-            <element signature="e#2031#2096#0" expanded="true" />
-            <element signature="e#2074#2085#0" expanded="true" />
-            <element signature="e#2074#2085#0" expanded="true" />
-            <element signature="e#1702#1736#1" expanded="true" />
-            <element signature="e#2148#2230#0" expanded="true" />
-            <element signature="e#1750#1763#0" expanded="true" />
-            <element signature="e#2148#2230#0" expanded="true" />
-            <element signature="e#1836#1881#1" expanded="true" />
-            <element signature="e#2280#2303#0" expanded="true" />
-            <element signature="e#1871#1874#0" expanded="true" />
-            <element signature="e#1876#1879#0" expanded="true" />
-            <element signature="e#2280#2303#0" expanded="true" />
+            <element signature="e#247#257#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/PracticeSeason.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Composite/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="165">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/jihekuanjia/CollectionsTest.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Composite/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="66">
+            <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/ConnectionPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="1159">
+          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="99">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/dobbo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo01List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo02LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo03FindIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="e#697#823#0" expanded="true" />
+            <element signature="e#697#823#0" expanded="true" />
+            <element signature="e#697#823#0" expanded="true" />
+            <element signature="e#697#823#0" expanded="true" />
+            <element signature="e#747#813#0" expanded="true" />
+            <element signature="e#751#760#0" expanded="true" />
+            <element signature="e#751#760#0" expanded="true" />
+            <element signature="e#751#770#0" expanded="true" />
+            <element signature="e#751#770#0" expanded="true" />
+            <element signature="e#747#813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/sorts/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/search/FindByHalf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/search/FindByOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/mooc/playdataStructure/second/array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/juc/atguigu/juc/TestAtomicDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>concurrency:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>groovy-2.5.2</last-edited>
+          <last-edited>Python 3.6 interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1591,9 +1087,9 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ModuleStructureConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>juc</last-edited>
+          <last-edited>1.8 (1)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1605,7 +1101,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>hamcrest-core-1.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
