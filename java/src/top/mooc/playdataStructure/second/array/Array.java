@@ -15,7 +15,7 @@ public class Array {
     }
 
     /**
-     * 2默认的构造函数，不传入也初始化10；
+     * 2 默认的构造函数，不传入也初始化10；
      */
     public Array() {
         this(10);
