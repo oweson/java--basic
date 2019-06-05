@@ -54,7 +54,7 @@ public class AnimalInnerClassTest {
              外部类.this.成员方法*/
 
             // 直接访问外部类的普通方法
-            demo2();
+
             AnimalInnerClassTest.this.demo2();
             // 同上
             System.out.println("demo2" + this.age);
@@ -77,6 +77,9 @@ public class AnimalInnerClassTest {
             System.out.println(height);
 
         }
+        public static final void demo1(){
+            System.out.println("我是静态内部类的函数！");
+        }
 
         public static void main(String[] args) {
             // 访问外部类的静态方法
@@ -88,9 +91,10 @@ public class AnimalInnerClassTest {
     }
 
     public static void main(String[] args) {
-        /** //第一种方式：
+        /** 第一种方式：
          Outter outter = new Outter();
-         Outter.Inner inner = outter.new Inner();  //必须通过Outter对象来创建
+         Outter.Inner inner = outter.new Inner();
+         //必须通过Outter对象来创建
 
          //第二种方式：
          Outter.Inner inner1 = outter.getInnerInstance();*/
@@ -101,6 +105,13 @@ public class AnimalInnerClassTest {
         bird.demo1();
         bird.demo2();
         System.out.println("==================");
+        // 2 访问静态内部类的静态函数
+        AnimalInnerClassTest.Dog.demo1();
+        Dog dog = new Dog();
+        AnimalInnerClassTest.Dog dog1 = new AnimalInnerClassTest.Dog();
+        System.out.println(dog.equals(dog1));
+        System.out.println("--------------------------------");
+       dog1.staticFun();
 
 
     }

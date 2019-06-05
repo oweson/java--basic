@@ -65,8 +65,8 @@ public class Demo01Map {
         //v1:165
 
         Integer v2 = map.get("迪丽热巴");
-        System.out.println("v2:" + v2);
-        //v2:null
+        System.out.println("v1:" + v2);
+        //v1:null
     }
 
     /**
@@ -92,11 +92,11 @@ public class Demo01Map {
         System.out.println(map);
         //{赵丽颖=168, 杨颖=165}
 
-        //int v2 = map.remove("林志颖");
+        //int v1 = map.remove("林志颖");
         //自动拆箱  NullPointerException
         Integer v2 = map.remove("林志颖");
-        System.out.println("v2:" + v2);
-        //v2:null
+        System.out.println("v1:" + v2);
+        //v1:null
 
         System.out.println(map);
         //{赵丽颖=168, 杨颖=165}
@@ -117,8 +117,8 @@ public class Demo01Map {
         //v1:null
 
         String v2 = map.put("李晨", "范冰冰2");
-        System.out.println("v2:" + v2);
-        //v2:范冰冰1
+        System.out.println("v1:" + v2);
+        //v1:范冰冰1
 
         System.out.println(map);
         //{李晨=范冰冰2}
