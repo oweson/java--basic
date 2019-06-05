@@ -20,7 +20,8 @@ public class SimpleDaemons implements Runnable {
     public static void main(String[] args) throws Exception {
         for (int i = 0; i < 10; i++) {
             Thread daemon = new Thread(new SimpleDaemons());
-            daemon.setDaemon(true); // Must call before start()
+            daemon.setDaemon(true);
+            // Must call before start()
             daemon.start();
         }
         System.out.println("All daemons started");
