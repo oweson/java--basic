@@ -1,4 +1,4 @@
-package basic.lake.jihekuanjia;
+package basic.swimmingpool.enums;
 
 public class PracticeSeason {
     public static void main(String[] args) {
@@ -22,5 +22,6 @@ public class PracticeSeason {
                 break;
         }
     }
+
 
 }

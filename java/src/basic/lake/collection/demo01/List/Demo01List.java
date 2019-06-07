@@ -58,7 +58,7 @@ public class Demo01List {/**
         //把最后一个a,替换为A
         String setE = list.set(4, "A");
         System.out.println("被替换的元素:" + setE);
-        //被替换的元素:a
+        //被替换的元素:a 99999999
         System.out.println(list);
         //[a, b, itheima, d, A]
 

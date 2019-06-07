@@ -1,4 +1,4 @@
-package basic.lake.jihekuanjia;
+package basic.lake.collection.demo05.Collections;
 
 import java.util.*;
 
@@ -7,7 +7,7 @@ import java.util.*;
  *
  * @Date：2019/1/3 0003 22:36
  */
-public class CollectionsTest {
+public class Demo06CollectionutilsTest {
     public static void main(String[] args) {
         Collection c = new ArrayList(100);
         demo1OfTestCollections();
@@ -44,8 +44,11 @@ public class CollectionsTest {
                 set.add(i * 10);
             }
         }
-        Collections.synchronizedSet(set);
+        // 返回值才是安全的；
+        Set<Integer> integers = Collections.synchronizedSet(set);
         System.out.println(set);
-        System.out.println(set);
+        System.out.println(set==integers);
+        System.out.println(set.equals(integers));
+
     }
 }
