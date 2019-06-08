@@ -1,4 +1,4 @@
-package basic.lake.collection;
+package basic.lake.collection.demo05.Collections;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -19,6 +19,7 @@ import java.util.HashSet;
  */
 public class Demo01Collection {
     public static void main(String[] args) {
+
         //创建集合对象,可以使用多态
         //Collection<String> coll = new ArrayList<>();
         Collection<String> coll = new HashSet<>();
