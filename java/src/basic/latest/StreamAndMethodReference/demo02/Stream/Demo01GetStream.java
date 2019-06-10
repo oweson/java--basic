@@ -41,5 +41,6 @@ public class Demo01GetStream {
         Stream<Integer> stream7 = Stream.of(arr);
         String[] arr2 = {"a","bb","ccc"};
         Stream<String> stream8 = Stream.of(arr2);
+        stream8.limit(2).forEach(System.out::println);
     }
 }

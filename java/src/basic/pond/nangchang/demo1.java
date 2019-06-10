@@ -12,21 +12,28 @@ public class demo1 {
     public void fun() {
         System.out.println("---A---");
     }
+
+    public void fun02() {
+        System.out.println("fun02......................................");
+    }
 }
 
-class B extends demo1 {
+class SonOfDemo1 extends demo1 {
     public int num = 1;
+
     @Override
     public void fun() {
-        System.out.println("---B---");
+        System.out.println("---SonOfDemo1---");
     }
 
     public static void main(String[] args) {
-        demo1 demo1 = new B();
-        System.out.println(((B) demo1).num);
+        demo1 demo1 = new SonOfDemo1();
+        System.out.println(((SonOfDemo1) demo1).num);
         // 1 子类优先，又叫做覆盖！
+        // SonOfDemo1  先在本地找，然后向上查找；
         demo1.fun();
-        // B  先在本地找，然后向上查找；
+        // 2 子类没有重写，向上找！
+        demo1.fun02();
 
 
     }

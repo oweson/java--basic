@@ -10,7 +10,7 @@ import java.util.Map;
  *
  * @Date：2019/5/19 0019 8:52
  */
-public class LambdaCollectionTest {
+public class Demo4LambdaCollectionTest {
     public static void main(String[] args) {
         // 1 正常遍历map
         Map<String, Integer> items = new HashMap<>();
@@ -23,16 +23,17 @@ public class LambdaCollectionTest {
         for (Map.Entry<String, Integer> integerEntry : items.entrySet()) {
             System.out.println(integerEntry.getKey() + integerEntry.getValue());
         }
-        // foreach遍历
+        // 2 foreach遍历
         items.forEach((k, v) -> System.out.println("key is :" + k + "value is :" + v));
         System.out.println("===================================================");
+        // foreach遍历
         items.forEach((k, v) -> {
             System.out.println("key is ：" + k + " " + "value is :" + v);
             if ("E".equals(k)) {
                 System.out.println("E is exists!");
             }
         });
-        // 2 普通方式遍历list
+        // 1  普通方式遍历list
         List<String> itemsList = new ArrayList<>();
         itemsList.add("A");
         itemsList.add("B");

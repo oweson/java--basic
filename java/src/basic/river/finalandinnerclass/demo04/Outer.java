@@ -23,7 +23,8 @@ package basic.river.finalandinnerclass.demo04;
 class Outer {
 
     public void methodOuter() {
-        class Inner { // 局部内部类
+        class Inner {
+            // 局部内部类
             int num = 10;
 
             public void methodInner() {

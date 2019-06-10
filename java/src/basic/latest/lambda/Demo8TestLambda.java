@@ -7,11 +7,11 @@ import java.util.Comparator;
  * @version 创建时间：2018年5月16日 上午7:24:27 类说明：侵权必究。。。。。。。
  */
 
-public class TestLambda {
+public class Demo8TestLambda {
 
     public static void main(String[] args) {
 
-        /* jdk1.8新特性lambda的简单使用 */
+        /* 1 jdk1.8新特性lambda的简单使用 */
         /*
          * Runnable r2 = () -> System.out.println("Hello Lambda!!"); r2.run();
          * Runnable pRunnable = () -> System.out.println("hello,world");

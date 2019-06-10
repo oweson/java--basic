@@ -11,7 +11,7 @@ import java.util.Set;
  * @version 创建时间：2018年5月22日 下午9:15:52 类说明：侵权必究。。。。。。。
  */
 
-public class ForeachListAndSet {
+public class Demo3ForeachListAndSet {
     public static void main(String[] args) {
         List<String> asList = Arrays.asList("Lambdas", "Default Method", "Stream API");
 

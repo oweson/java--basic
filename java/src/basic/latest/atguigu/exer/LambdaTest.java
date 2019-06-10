@@ -23,6 +23,7 @@ public class LambdaTest {
 			if(e1.getAge() == e2.getAge()){
 					return e1.getName().compareTo(e2.getName());
 			}else{
+				// 默认是升序，负号在前表示降序，大的上升！
 				return -Integer.compare(e1.getAge(), e2.getAge());
 			}
 		});

@@ -8,11 +8,11 @@ import java.util.List;
  *
  * @Date：2019/2/12 0012 14:21
  */
-public class ListSizeTest {
+public class Demo5ListSizeTest {
     public static void main(String[] args) {
         List<Integer> list = Arrays.asList(1, 2, 3, 4);
         System.out.println(list.size());
         System.out.println(list.contains("ppx"));
-        //4
+
     }
 }

@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java/java--basic.iml" filepath="$PROJECT_DIR$/java/java--basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hutool/src/main/main.iml" filepath="$PROJECT_DIR$/hutool/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hutool/src/hutool/main.iml" filepath="$PROJECT_DIR$/hutool/src/hutool/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrency/src/main/main1.iml" filepath="$PROJECT_DIR$/concurrency/src/main/main1.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrency/src/test/test.iml" filepath="$PROJECT_DIR$/concurrency/src/test/test.iml" />
     </modules>

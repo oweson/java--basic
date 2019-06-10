@@ -7,6 +7,8 @@ package basic.juc.atguigu.concollections;
  */
 public class CopyOnWriteArrayList {
     public static void main(String[] args) {
+        if (1 == 1) {
+        }
         // 适合读多写少的并发场景；
 
         java.util.concurrent.CopyOnWriteArrayList<Integer> copyOnWriteArrayList = new java.util.concurrent.CopyOnWriteArrayList<>();
