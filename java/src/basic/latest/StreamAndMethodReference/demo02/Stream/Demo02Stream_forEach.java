@@ -21,6 +21,6 @@ public class Demo02Stream_forEach {
             System.out.println(name);
         });*/
 
-        stream.forEach(name->System.out.println(name));
+        stream.forEach(name01->System.out.println(name01));
     }
 }

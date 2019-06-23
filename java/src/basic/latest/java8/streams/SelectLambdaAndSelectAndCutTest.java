@@ -1,6 +1,5 @@
 package basic.latest.java8.streams;
 
-import basic.latest.java8.Student;
 import org.junit.Test;
 
 import java.util.ArrayList;

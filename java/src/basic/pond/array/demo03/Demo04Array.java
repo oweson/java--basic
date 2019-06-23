@@ -23,13 +23,13 @@ public class Demo04Array {
         // 50
         System.out.println("=================");
 
-        // 使用循环，次数其实就是数组的长度。
+        // 1 使用循环，次数其实就是数组的长度。
         for (int i = 0; i < 6; i++) {
             System.out.println(array[i]);
         }
         System.out.println("=================");
 
-//        int len = array02.length; // 长度
+//        2 int len = array02.length; // 长度
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
         }

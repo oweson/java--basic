@@ -25,7 +25,7 @@ public class Demo1 {
 
     private static void demo1() throws ClassNotFoundException {
         // 获得对象的三种方法；
-        Class<?> forName = Class.forName("com.how2java.reflect.Demo1");
+        Class<?> forName = Class.forName("com.how2java.reflect.Demo6Array");
         Class aClass = Demo1.class;
         Class<? extends Demo1> class1 = new Demo1().getClass();
         System.out.println(forName == aClass);

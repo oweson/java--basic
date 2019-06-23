@@ -11,10 +11,10 @@ public class Demo01ArrayParam {
         int[] array = { 10, 20, 30, 40, 50 };
 
         System.out.println(array);
-        // 地址值
+        // 1 地址值
 
         printArray(array);
-        // 传递进去的就是array当中保存的地址值
+        // 2 传递进去的就是array当中保存的地址值
         System.out.println("==========AAA==========");
         printArray(array);
         System.out.println("==========BBB==========");

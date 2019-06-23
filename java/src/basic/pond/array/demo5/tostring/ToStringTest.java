@@ -7,8 +7,11 @@ package basic.pond.array.demo5.tostring;
  */
 public class ToStringTest {
     public static void main(String[] args) {
-        int[] arr={1,2};
+        int[] arr = {1, 2};
         System.out.println(arr);
         System.out.println(arr.toString());
     }
+    // [I@2cfb4a64
+//[I@2cfb4a64
+
 }

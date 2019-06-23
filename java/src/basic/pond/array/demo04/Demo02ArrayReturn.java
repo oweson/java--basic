@@ -17,7 +17,7 @@ public class Demo02ArrayReturn {
 
         System.out.println("main方法接收到的返回值数组是：");
         System.out.println(result);
-        // 地址值
+        // 1 地址值
 
         System.out.println("总和：" + result[0]);
         System.out.println("平均数：" + result[1]);
@@ -40,7 +40,7 @@ public class Demo02ArrayReturn {
         int[] array = { sum, avg };
         System.out.println("calculate方法内部数组是：");
         System.out.println(array);
-        // 地址值
+        // 1 地址值
         return array;
     }
 
