@@ -32,12 +32,12 @@ public class Demo03MapTest {
         HashMap<Character,Integer> map = new HashMap<>();
         //3.遍历字符串,获取每一个字符
         for(char c :str.toCharArray()){
-            //4.使用获取到的字符,去Map集合判断key是否存在
+            //4.使用获取到的字符,去Map集合判断key是否存在，v就是出现的次数！
             if(map.containsKey(c)){
                 //key存在
                 Integer value = map.get(c);
                 value++;
-                // 新的值入容器
+                // 新的值放入容器
                 map.put(c,value);
             }else{
                 //key不存在

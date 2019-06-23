@@ -24,6 +24,11 @@ public class Demo04ConcurrentHashMapDemo1 {
             String next = iterator.next();
             System.out.println("key is" + next + "value is" + map.get(next));
         }
+        // 遍历2
+        for (Map.Entry<String, String> stringStringEntry : map.entrySet()) {
+            System.out.println("key is :"+stringStringEntry.getKey()+"value is :"+stringStringEntry.getValue());
+
+        }
 
 
     }

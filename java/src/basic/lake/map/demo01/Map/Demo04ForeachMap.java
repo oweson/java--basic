@@ -21,7 +21,7 @@ public class Demo04ForeachMap {
             map.put(key, value);
 
         }
-        /** 1 遍历*/
+        /** 1 遍历entryset*/
         Iterator<Map.Entry<String, String>> entryIterator = map.entrySet().iterator();
         while (entryIterator.hasNext()) {
             Map.Entry<String, String> next = entryIterator.next();

@@ -1,4 +1,4 @@
-package top.mooc.playdataStructure.second.array;
+package top.mooc.playdataStructure.second.array.array;
 
 /**
  * the class is create by @Author:oweson
