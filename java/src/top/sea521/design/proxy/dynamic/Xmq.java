@@ -11,7 +11,8 @@ public class Xmq {
      */
     public static void main(String[] args) {
         final Girl p = new Pjl();
-        Girl proxy = (Girl) Proxy.newProxyInstance(p.getClass().getClassLoader(), p.getClass().getInterfaces(), new InvocationHandler() {
+        Girl proxy = (Girl) Proxy.newProxyInstance(p.getClass().getClassLoader(),
+                p.getClass().getInterfaces(), new InvocationHandler() {
             @Override
             public Object invoke(Object proxy, Method method, Object[] args)
                     throws Throwable {

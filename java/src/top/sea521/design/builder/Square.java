@@ -22,19 +22,24 @@ public class Square {
 
 
         public Builder setColor(int color) {
+            this.color=color;
             return this;
         }
 
         public Builder setBorderSize(int size) {
+            this.borderSize=size;
             return this;
-        }    //边框大小
+        }
+        //边框大小
         public Builder setSize(int size) {
             return this;
-        }    //边框大小
+        }
+        //边框大小
 
         public Builder setBorderColor(int color) {
             return this;
-        }    //边框颜色
+        }
+        //边框颜色
 
         public Builder setPadding(int left, int top, int right, int bottom) {
             return this;
@@ -43,7 +48,8 @@ public class Square {
 
         public Square build() {
             // ...检查参数之间的关系是否设置正确...
-            return new Square(this);
+            Square square = new Square(this);
+            return square;
         }
     }
 
@@ -56,8 +62,8 @@ public class Square {
     }
 
     public static void main(String[] args) {
-        Square square = new Square.Builder().setSize(50).setColor(210).setBorderSize(5)
-                .setBorderColor(100).build();
+        Square square = new Builder().setSize(50).setColor(210).setBorderSize(5).setBorderSize(210)
+                .setBorderColor(100).setPadding(1,2,3,4).build();
         System.out.println(square);
     }
 }
