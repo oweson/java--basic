@@ -10,7 +10,7 @@ public class VideoFactory {
     /**
      * 1 反射实现提高复用性
      */
-    public Video getVideo(Class c) {
+    public static Video getVideo(Class c) {
         Video video = null;
         try {
             video = (Video) Class.forName(c.getName()).newInstance();

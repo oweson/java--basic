@@ -1,4 +1,4 @@
-package top.sea521.design.templatemethod;
+package top.sea521.design.templatemethod.v3;
 
 /**
  * Created by geely

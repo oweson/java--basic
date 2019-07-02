@@ -10,7 +10,8 @@ public enum Demo1EnumMain {
      *  继承java.lang.enum不是object,
      *  第二：枚举类默认被final修饰；
      *  第三：private构造器；
-     *  他的实质就是包含固定的数量是咧，而且是咧的值也是固定的，假如有public的构造器，外面就可以创建很多，就没有用了；
+     *  他的实质就是包含固定的数量是咧，而且是咧的值也是固定的，假如有public的构造器，
+     *  外面就可以创建很多，就没有用了；
      *  */
     /**
      * 修饰符默认public static final;

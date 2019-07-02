@@ -13,8 +13,24 @@ public class TreeNode {
     private TreeNode parent;
     private Vector<TreeNode> children = new Vector<TreeNode>();
 
-    public TreeNode(String name){
+    public TreeNode(String name) {
         this.name = name;
+    }
+
+
+    // 1 添加孩子节点
+    public void add(TreeNode node) {
+        children.add(node);
+    }
+
+    // 2 删除孩子节点
+    public void remove(TreeNode node) {
+        children.remove(node);
+    }
+
+    // 3 取得孩子节点
+    public Enumeration<TreeNode> getChildren() {
+        return children.elements();
     }
 
     public String getName() {
@@ -33,20 +49,6 @@ public class TreeNode {
         this.parent = parent;
     }
 
-    //添加孩子节点
-    public void add(TreeNode node){
-        children.add(node);
-    }
-
-    //删除孩子节点
-    public void remove(TreeNode node){
-        children.remove(node);
-    }
-
-    //取得孩子节点
-    public Enumeration<TreeNode> getChildren(){
-        return children.elements();
-    }
 
     @Override
     public String toString() {

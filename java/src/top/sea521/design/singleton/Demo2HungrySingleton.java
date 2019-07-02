@@ -26,9 +26,6 @@ public class Demo2HungrySingleton implements Serializable, Cloneable {
         return hungrySingleton;
     }
 
-    private Object readResolve() {
-        return hungrySingleton;
-    }
 
     @Override
     protected Object clone() throws CloneNotSupportedException {

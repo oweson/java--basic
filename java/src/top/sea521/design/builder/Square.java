@@ -18,28 +18,37 @@ public class Square {
 
     public static class Builder {
         private int color;
+        private int size;
+
         private int borderSize;
+        private int borderColor;
 
-
+        // 颜色
         public Builder setColor(int color) {
-            this.color=color;
+            this.color = color;
             return this;
         }
 
-        public Builder setBorderSize(int size) {
-            this.borderSize=size;
-            return this;
-        }
-        //边框大小
+        //大小
         public Builder setSize(int size) {
+            this.size = size;
             return this;
         }
-        //边框大小
 
-        public Builder setBorderColor(int color) {
+        //边框大小
+        public Builder setBorderSize(int borderSize) {
+            this.borderSize = borderSize;
             return this;
         }
+
+
         //边框颜色
+
+
+        public Builder setBorderColor(int borderColor) {
+            this.borderColor = borderColor;
+            return this;
+        }
 
         public Builder setPadding(int left, int top, int right, int bottom) {
             return this;
@@ -63,7 +72,7 @@ public class Square {
 
     public static void main(String[] args) {
         Square square = new Builder().setSize(50).setColor(210).setBorderSize(5).setBorderSize(210)
-                .setBorderColor(100).setPadding(1,2,3,4).build();
+                .setBorderColor(100).setPadding(1, 2, 3, 4).build();
         System.out.println(square);
     }
 }

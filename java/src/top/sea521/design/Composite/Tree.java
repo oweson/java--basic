@@ -30,5 +30,6 @@ public class Tree {
         tree.root.add(nodeB);
         System.out.println("build the tree finished!");
         System.out.println(tree);
+        // 树形结构！！！
     }
 }

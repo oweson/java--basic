@@ -1,10 +1,10 @@
-package top.sea521.design.templatemethod;
+package top.sea521.design.templatemethod.v3;
 
 /**
  * Created by geely
  */
 public class WebCourse extends AbstractCourse {
-    // 默认值
+    // 1 默认值
     private boolean needWriteArticleFlag = false;
 
     @Override
@@ -14,14 +14,14 @@ public class WebCourse extends AbstractCourse {
     }
 
     /**
-     * 通过有参数的构造，改变布尔的默认值；
+     * 2 通过有参数的构造，改变布尔的默认值；
      */
     public WebCourse(boolean needWriteArticleFlag) {
         this.needWriteArticleFlag = needWriteArticleFlag;
     }
 
     /**
-     * 布尔标识符号设置
+     * 3 布尔标识符号设置
      */
     @Override
     protected boolean needWriteArticle() {

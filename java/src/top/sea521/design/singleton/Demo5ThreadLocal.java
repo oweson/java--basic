@@ -22,4 +22,12 @@ public class Demo5ThreadLocal {
         return threadInsance.get();
     }
 
+    public static void main(String[] args) {
+        Demo5ThreadLocal instance = Demo5ThreadLocal.getInstance();
+        Demo5ThreadLocal instance02 = Demo5ThreadLocal.getInstance();
+        System.out.println(instance);
+        System.out.println(instance02);
+
+    }
+
 }

@@ -1,4 +1,4 @@
-package top.sea521.design.templatemethod;
+package top.sea521.design.templatemethod.v3;
 
 /**
  * Created by geely
@@ -26,12 +26,12 @@ public abstract class AbstractCourse {
         System.out.println("编写手记");
     }
 
-    //钩子方法
+    // 1 钩子方法，子类有选择的重写！！！
     protected boolean needWriteArticle() {
         return false;
     }
 
-    // 打包课程，每个实现类的打包不同，需要每个具体的类去实现！
+    // 2 打包课程，每个实现类的打包不同，需要每个具体的类去实现！
     abstract void packageCourse();
 
 
