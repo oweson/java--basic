@@ -6,6 +6,7 @@ package basic.ocean.threadlocal;
  * @Date：2019/6/27 22:05
  */
 public class ThreadLocalTest {
+
     public static void main(String[] args) {
 
     }

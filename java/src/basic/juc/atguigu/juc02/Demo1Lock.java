@@ -12,7 +12,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 3. 同步锁 Lock
  * 注意：是一个显示锁，需要通过 lock() 方法上锁，必须通过 unlock() 方法进行释放锁
  */
-public class TestLock {
+public class Demo1Lock {
 
     public static void main(String[] args) {
         Ticket ticket = new Ticket();
@@ -27,7 +27,6 @@ public class TestLock {
 class Ticket implements Runnable {
 
     private int tick = 1000;
-    Lock ll = new ReentrantLock();
 
     private Lock lock = new ReentrantLock();
 
@@ -36,7 +35,7 @@ class Ticket implements Runnable {
         while (true) {
 
             lock.lock();
-            //上锁
+            // 1 上锁
 
             try {
                 if (tick > 0) {
@@ -49,7 +48,7 @@ class Ticket implements Runnable {
                 }
             } finally {
                 lock.unlock();
-                //释放锁
+                // 2 释放锁
             }
         }
     }
