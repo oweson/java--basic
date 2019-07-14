@@ -9,7 +9,8 @@ public class InterruptDemo {
                 try {
                     //在正常运行任务时，经常检查本线程的中断标志位，如果被设置了中断标志就自行停止线程
                     while (!Thread.currentThread().isInterrupted()) {
-                        Thread.sleep(100); // 休眠100ms
+                        Thread.sleep(100);
+                        // 休眠100ms
                         i++;
                         System.out.println(Thread.currentThread().getName() + " (" + Thread.currentThread().getState() + ") loop " + i);
                     }
