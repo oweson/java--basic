@@ -5,7 +5,7 @@ package cattle.pig.code;
  *
  * @Date：2019/1/12 0012 13:43
  */
-public class LoginTest {
+public class Demo4LoginTest {
     public static void main(String[] args) {
         int i = 0;
         int j = 0;
@@ -19,7 +19,7 @@ public class LoginTest {
         for (i2 = 2; i2 <= 10; i2++) {
             System.out.println("循环：   " + i2);
         }
-        //todo?
+
         /**看清题目的所问！！！*/
         System.out.println(i2 + "   ");
     }

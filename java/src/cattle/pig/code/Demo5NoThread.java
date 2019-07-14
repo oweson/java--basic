@@ -5,7 +5,7 @@ package cattle.pig.code;
  *
  * @Date：2019/1/29 0029 14:47
  */
-public class NoThread extends Thread {
+public class Demo5NoThread extends Thread {
     /**
      * 1 这个类虽然继承了Thread类，但是并没有真正创建一个线程。
      * 创建一个线程需要覆盖Thread类的run方法，然后调用Thread类的start()方法启动
@@ -22,7 +22,7 @@ public class NoThread extends Thread {
     }
 
     public static void main(String[] args) {
-        NoThread example = new NoThread();
+        Demo5NoThread example = new Demo5NoThread();
         example.run();
         System.out.print("main");
     }

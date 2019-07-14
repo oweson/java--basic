@@ -5,7 +5,7 @@ package cattle.pig.code;
  *
  * @Date：2019/1/29 0029 19:47
  */
-public class LowerCaseTest {
+public class Demo6LowerCaseTest {
     public static boolean isAdmin(String userId) {
         //新的对象和常量池的对象比较；
         return userId.toLowerCase() == "admin";

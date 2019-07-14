@@ -1,8 +1,6 @@
 package basic.ocean.fromgithub.multithread.synchronize.example15;
 
-/**
- * Created by Brian on 2016/4/13.
- */
+
 public class RunThread extends Thread {
     private boolean isRunning = true;
     //volatile private boolean isRunning  = true;

@@ -5,10 +5,10 @@ package cattle.pig.code;
  *
  * @Date：2019/1/6 0006 12:10
  */
-public class ISumTest {
+public class Demo3ISumTest {
     /**基本类型和String是值传递，对象则是信用传递*/
     public static void main(String[] args) {
-        ISumTest inc = new ISumTest();
+        Demo3ISumTest inc = new Demo3ISumTest();
         int i = 0;
         inc.fermin(i);
         i = i++;
