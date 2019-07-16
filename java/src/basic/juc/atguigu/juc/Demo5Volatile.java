@@ -7,7 +7,7 @@ package basic.juc.atguigu.juc;
  * 1. volatile 不具备“互斥性”
  * 2. volatile 不能保证变量的“原子性”
  */
-public class TestVolatile {
+public class Demo5Volatile {
 
 
     public static void main(String[] args) {

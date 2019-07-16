@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 每个线程将自己的 ID 在屏幕上打印 10 遍，要求输出的结果必须按顺序显示。
  *	如：ABCABCABC…… 依次递归
  */
-public class TestABCAlternate {
+public class Demo4ABCAlternate {
 	
 	public static void main(String[] args) {
 		AlternateDemo ad = new AlternateDemo();

@@ -3,7 +3,7 @@ package basic.juc.atguigu.juc;
 /**
  * 模拟 CAS 算法
  */
-public class TestCompareAndSwap {
+public class Demo2CompareAndSwap {
 
     public static void main(String[] args) {
         final CompareAndSwap cas = new CompareAndSwap();
@@ -27,12 +27,12 @@ public class TestCompareAndSwap {
 class CompareAndSwap {
     private int value;
 
-    //获取内存值
+    // 1  获取内存值
     public synchronized int get() {
         return value;
     }
 
-    //比较
+    // 2 比较
     public synchronized int compareAndSwap(int expectedValue, int newValue) {
         int oldValue = value;
 
@@ -43,7 +43,7 @@ class CompareAndSwap {
         return oldValue;
     }
 
-    //设置
+    // 3 设置
     public synchronized boolean compareAndSet(int expectedValue, int newValue) {
         return expectedValue == compareAndSwap(expectedValue, newValue);
     }

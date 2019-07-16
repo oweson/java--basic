@@ -20,7 +20,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * 当且仅当 V == A 时， V = B; 否则，不会执行任何操作。
  * 一次一个进程操作，多线程操作，只有一个线程成功！效率高于同步锁，费事的是需要判断错误如何处理；
  */
-public class TestAtomicDemo {
+public class Demo1AtomicDemo {
 
     public static void main(String[] args) {
 
@@ -59,7 +59,7 @@ class AtomicDemo implements Runnable {
     }
 
     /**
-     * 得到然后自增1；
+     * 1 得到然后自增1；
      */
     public int getSerialNumber() {
         return serialNumber.getAndIncrement();

@@ -26,8 +26,7 @@ public class Demo1Sort {
         list.add(123);
         System.out.println("没有去重的集合:" + list);
         HashSet<Integer> set = new HashSet<Integer>();
-        for (Integer i : list
-                ) {
+        for (Integer i : list) {
             set.add(i);
 
         }
@@ -50,7 +49,7 @@ public class Demo1Sort {
 
         List<Integer> list1 = new ArrayList<Integer>();
         for (Integer i : list
-                ) {
+        ) {
             if (!list1.contains(i)) {
                 list1.add(i);
             }
