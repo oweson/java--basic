@@ -5,8 +5,9 @@ package pig.easyfalse;
  *
  * @Date：2019/5/10 0010 10:51
  */
-public class BreakAndContinueTest {
+public class Demo1BreakAndContinueTest {
     public static void breakTest() {
+        // 等于6就终止！！！
         for (int i = 0; i < 10; i++) {
             if (i == 6) {
                 break;
@@ -18,6 +19,7 @@ public class BreakAndContinueTest {
     }
 
     public static void continueTest() {
+        // 6 跳过，继续！！！
         for (int i = 0; i < 10; i++) {
             if (i == 6) {
                 continue;

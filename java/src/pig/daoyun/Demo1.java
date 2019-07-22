@@ -9,7 +9,7 @@ import java.util.*;
  * @Date：2019/3/18 0018 16:09
  */
 public class Demo1 {
-    // 1 哪些类不可继承？String,Integer，Double,ArrayList可被继！ todo
+    // 1 哪些类不可继承？String,Integer，Double!!!ArrayList可被继！ todo
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
         list.add("A");

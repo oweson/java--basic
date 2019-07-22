@@ -5,10 +5,10 @@ package pig.easyfalse;
  *
  * @Date：2019/5/15 0015 9:32
  */
-public class CanChangeParamTest {
+public class Demo2CanChangeParamTest {
     public static void main(String[] args) {
         demo1Test(1, 2, 3);
-       // demo1Test(null);
+       // demo1Test(null); java.lang.NullPointerException
     }
 
     private static void demo1Test(Integer... integers) {

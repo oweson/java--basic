@@ -5,7 +5,7 @@ package pig.easyfalse;
  * @author chengwanli
  * @time 2019年5月10日上午9:24:50
  */
-public class IntegerTest {
+public class Demo7IntegerTest {
 
     /**
      * @param args
@@ -15,11 +15,11 @@ public class IntegerTest {
         Integer aInteger = 121;
         Integer aInteger2 = 121;
         System.out.println(aInteger == aInteger2);
-        // true;
+        // 1 true;
         Integer aInteger3 = 211;
         Integer aInteger4 = 211;
         System.out.println(aInteger3 == aInteger4);
-        // TODO Auto-generated method stub
+        //  2 false
 
     }
 

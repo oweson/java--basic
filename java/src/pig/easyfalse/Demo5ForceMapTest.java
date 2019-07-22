@@ -8,7 +8,7 @@ import java.util.Map;
  *
  * @Date：2019/4/23 0023 23:08
  */
-public class ForceMapTest {
+public class Demo5ForceMapTest {
     public static void main(String[] args) {
         Map map = new HashMap<>();
         map.put("a",1);
@@ -19,7 +19,7 @@ public class ForceMapTest {
         boolean b = map.containsValue("b");
         int d = (int) map.get("d");
         Object d02 = map.get("d");
-        // 没有声明泛型，取出的是object需要强制转换；int 接受是不行的；
+        // 没有声明泛型，取出的是object需要强制转换；int 接受是不行的!!!
 
 
     }

@@ -1,6 +1,6 @@
 package pig.easyfalse;
 
-public class TypeTranfer {
+public class Demo11TypeTranfer {
     public static final byte A = 100;
     public static final byte B = 100;
     static byte c;
