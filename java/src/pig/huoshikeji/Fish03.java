@@ -9,6 +9,7 @@ import java.util.ArrayList;
  */
 public class Fish03 {
     int a;
+    // 0;
 
     public static void main(String[] args) {
         Fish03 fish03 = new Fish03();

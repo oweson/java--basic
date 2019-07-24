@@ -9,7 +9,7 @@ import java.util.List;
  * @Date：2019/3/6 0006 22:48
  */
 public class ArrayAsListTest {
-    public static final void demo1(List<Number> list) {
+    public static void demo1(List<Number> list) {
     }
 
     public static void main(String[] args) {

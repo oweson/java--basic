@@ -16,9 +16,9 @@ public class CharTest {
         ch2[0] = 'a';
         ch2[1] = 'b';
         System.out.println(ch1.equals(ch2));
-        // false
+        // 1 false
         System.out.println(Arrays.equals(ch1, ch2));
-        // true
+        // 2 rue
         /**数组的比较！！！是这样的！*/
         String s = new String("abc");
         String ss = new String("abc");

@@ -7,6 +7,9 @@ package pig.suzhouyinneng;
  */
 public class Pig {
     private Pig() {
+        if (pig != null) {
+            throw new RuntimeException("禁止反射调用！！！");
+        }
     }
 
     private volatile static Pig pig = null;

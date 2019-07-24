@@ -1,6 +1,5 @@
 package pig.daoyun;
 
-import com.sun.deploy.util.StringUtils;
 
 import java.util.Scanner;
 

@@ -10,16 +10,16 @@ public class StringTest {
         String a = new String("abc");
         String b = new String("abc");
         System.out.println(a == b);
-        //比较的是地址 false
+        // 1 比较的是地址 false,调用了new生成了对象！！！
         Integer c = new Integer(100);
         Integer d = new Integer(100);
-        // 缓存池
+        // 2 缓存池
         Integer x = 100;
         Integer y = 100;
 
         System.out.println(c == d);
-        // false
+        // 3 false
         System.out.println(x == y);
-        // true
+        // 4 true
     }
 }

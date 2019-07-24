@@ -1,6 +1,5 @@
 package pig.yihe;
 
-import org.junit.Test;
 
 /**
  * the class is create by @Author:oweson

@@ -7,6 +7,7 @@ package pig.huoshikeji;
  */
 public class Fish02 {
     int a;
+    // 0;
 
     public static void change(Fish02 fish02) {
         // 地址指向一个新的堆，方法里面的，会弹栈
