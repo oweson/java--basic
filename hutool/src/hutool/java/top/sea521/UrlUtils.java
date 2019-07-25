@@ -9,7 +9,7 @@ import cn.hutool.core.util.URLUtil;
  */
 public class UrlUtils {
     public static void main(String[] args) {
-        String s="http://how2j.cn/k/hutool/hutool-url/1952.html";
+        String s = "http://how2j.cn/k/hutool/hutool-url/1952.html";
         String encode = URLUtil.encode(s);
         System.out.println(encode);
         String decode = URLUtil.decode(encode);
