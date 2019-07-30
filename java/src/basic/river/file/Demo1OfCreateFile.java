@@ -48,7 +48,6 @@ public class Demo1OfCreateFile {
 		System.out.println(file2.getAbsolutePath());
 		File file3 = new File(file, "tio.txt");
 		System.err.println(file3.getAbsolutePath());*/
-        // TODO Auto-generated method stub
 
     }
 

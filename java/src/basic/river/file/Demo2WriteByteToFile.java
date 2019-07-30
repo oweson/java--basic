@@ -16,7 +16,6 @@ public class Demo2WriteByteToFile {
             System.out.println(a);
         }
 
-        // TODO Auto-generated method stub
 
     }
 
