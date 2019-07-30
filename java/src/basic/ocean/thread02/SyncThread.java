@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class SyncThread implements Runnable {
-    // 修饰方法和同步代码快
+    // 修饰方法和同步代码快；
 
     @Override
     public void run() {
