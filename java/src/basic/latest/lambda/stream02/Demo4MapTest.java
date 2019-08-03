@@ -7,7 +7,7 @@ import java.util.stream.Stream;
  *
  * @Date：2019/5/26 0026 11:33
  */
-public class MapTest {
+public class Demo4MapTest {
     /**
      * 映射：map、逐一消费：forEach
      */

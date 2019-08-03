@@ -9,7 +9,7 @@ import java.util.function.Predicate;
  *
  * @Date：2019/1/24 0024 10:31
  */
-public class PredicatTest {
+public class Demo5PredicatTest {
     @Test
     public void demo1() {
         Integer[] arr = {-12345, 9999, 520, 0, -38, -7758520, 941213};

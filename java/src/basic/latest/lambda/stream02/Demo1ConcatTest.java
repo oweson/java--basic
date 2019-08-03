@@ -9,7 +9,7 @@ import java.util.stream.Stream;
  *
  * @Date：2019/5/26 0026 11:36
  */
-public class ConcatTest {
+public class Demo1ConcatTest {
 
     /**
      * 组合：concat、结果收集(list)
@@ -23,5 +23,9 @@ public class ConcatTest {
         Stream<String> streamA = Stream.of("郭靖", "杨康");
         Stream<String> streamB = Stream.of("黄蓉", "穆念慈");
         List<String> strList = Stream.concat(streamA, streamB).collect(Collectors.toList());
+        for (String s : strList) {
+            System.out.println(s);
+
+        }
     }
 }

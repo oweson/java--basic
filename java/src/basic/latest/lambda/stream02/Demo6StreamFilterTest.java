@@ -1,7 +1,11 @@
 package basic.latest.lambda.stream02;
 
+import com.sun.deploy.nativesandbox.IntegrityProcess;
+
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
@@ -9,7 +13,7 @@ import java.util.stream.Stream;
  *
  * @Date：2019/1/24 0024 10:38
  */
-public class StreamFilterTest {
+public class Demo6StreamFilterTest {
     public static void main(String[] args) {
         /** 1 有如下7个元素黄药师，冯蘅，郭靖，黄蓉，郭芙，郭襄，郭破虏，
          * 使用Stream将以郭字开头的元素存入新数组*/
@@ -23,12 +27,20 @@ public class StreamFilterTest {
         List<Integer> list = new ArrayList(10);
         for (int i = 0; i < 10; i++) {
             list.add(i);
+            list.add(i);
 
         }
         list.stream().limit(2).forEach(System.out::println);
         /** 3 取出后两个*/
         System.out.println("--------------------------------------------");
         list.stream().skip(list.size() - 2).forEach(System.out::println);
+        /** 4 去除重复*/
+        System.out.println("元素的个数："+list.size());
+        Set<Integer> integerSet = list.parallelStream().collect(Collectors.toSet());
+        for (Integer integer : integerSet) {
+            System.out.println("去除重复后：" + integer);
+
+        }
 
     }
 }

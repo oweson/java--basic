@@ -7,7 +7,7 @@ import java.util.ArrayList;
  *
  * @Date：2019/5/26 0026 11:11
  */
-public class LimitTest {
+public class Demo3LimitTest {
     /**
      * 取用前几个：limit、跳过前几个：skip
      */
