@@ -30,7 +30,7 @@ public class ComparatorMainTest {
         list.add(new Bird(210, "honor"));
         list.add(new Bird(99, "pps"));
         Collections.sort(list, new Demo1ComparatorTest());
-        //传入list和比较器排序
+        //传入list和比较器排序---外部排序！！！
         for (Bird bird : list) {
             System.out.println(bird);
 

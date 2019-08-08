@@ -9,7 +9,7 @@ import java.util.Comparator;
  */
 public class Demo1ComparatorTest implements Comparator<Bird> {
 
-    /*
+    /**
      * 先按年龄排，次要按名字排
      * 根据第一个参数小于、等于或大于第二个参数分别返回负整数、零或正整数
      */

@@ -113,15 +113,15 @@ public class Demo2Collections {
          3. 统计每一次的查询消耗的时间
          可以观察到，几乎不花时间，花费的时间在1毫秒以内
          */
-     /*   List<FishCompariableTest> total = new ArrayList<>();
+     /*   List<Demo2FishCompariableTest> total = new ArrayList<>();
         for (int i = 0; i < 1000000; i++) {
-            FishCompariableTest fish = new FishCompariableTest("hero" + i);
+            Demo2FishCompariableTest fish = new Demo2FishCompariableTest("hero" + i);
             total.add(fish);
 
         }
         long start = System.currentTimeMillis();
 
-        for (FishCompariableTest fish : total) {
+        for (Demo2FishCompariableTest fish : total) {
             if(fish.getName().equalsIgnoreCase("hero100000")){
                 break;
             }
@@ -131,7 +131,7 @@ public class Demo2Collections {
         System.out.println(end-start);*/
     /* Map<String,Object> map = new HashMap<>();
         for (int i = 0; i < 100000; i++) {
-            FishCompariableTest fish = new FishCompariableTest("hero" + i);
+            Demo2FishCompariableTest fish = new Demo2FishCompariableTest("hero" + i);
             map.put(fish.getName(),fish);
 
         }

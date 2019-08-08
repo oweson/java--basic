@@ -8,16 +8,16 @@ import java.util.TreeSet;
  *
  * @Date：2018/11/21 0025 18:29
  */
-public class FishCompariableTest implements Comparable<FishCompariableTest> {
+public class Demo2FishCompariableTest implements Comparable<Demo2FishCompariableTest> {
     public static void main(String[] args) {
-        TreeSet<FishCompariableTest> set = new TreeSet<FishCompariableTest>();
-        set.add(new FishCompariableTest(121, "apx"));
-        set.add(new FishCompariableTest(210, "px"));
-        set.add(new FishCompariableTest(2110, "apx"));
-        set.add(new FishCompariableTest(921, "nubia"));
-        set.add(new FishCompariableTest(2121, "honor"));
-        set.add(new FishCompariableTest(211, "oppo"));
-        for (FishCompariableTest fish : set) {
+        TreeSet<Demo2FishCompariableTest> set = new TreeSet<Demo2FishCompariableTest>();
+        set.add(new Demo2FishCompariableTest(121, "apx"));
+        set.add(new Demo2FishCompariableTest(210, "px"));
+        set.add(new Demo2FishCompariableTest(2110, "apx"));
+        set.add(new Demo2FishCompariableTest(921, "nubia"));
+        set.add(new Demo2FishCompariableTest(2121, "honor"));
+        set.add(new Demo2FishCompariableTest(211, "oppo"));
+        for (Demo2FishCompariableTest fish : set) {
             System.out.println(fish);
 
         }
@@ -33,12 +33,12 @@ public class FishCompariableTest implements Comparable<FishCompariableTest> {
     private Integer age;
     private String name;
 
-    public FishCompariableTest(Integer age, String name) {
+    public Demo2FishCompariableTest(Integer age, String name) {
         this.age = age;
         this.name = name;
     }
 
-    public FishCompariableTest(String name) {
+    public Demo2FishCompariableTest(String name) {
         this.name = name;
     }
 
@@ -60,14 +60,14 @@ public class FishCompariableTest implements Comparable<FishCompariableTest> {
 
     @Override
     public String toString() {
-        return "FishCompariableTest{" +
+        return "Demo2FishCompariableTest{" +
                 "age=" + age +
                 ", name='" + name + '\'' +
                 '}';
     }
 
     @Override
-    public int compareTo(FishCompariableTest o) {
+    public int compareTo(Demo2FishCompariableTest o) {
         int age = this.getAge() - o.getAge();
         if (age == 0) {
             this.getName().compareTo(o.getName());
