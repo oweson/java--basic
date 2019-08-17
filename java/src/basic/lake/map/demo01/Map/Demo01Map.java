@@ -2,6 +2,7 @@ package basic.lake.map.demo01.Map;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.UUID;
 
 /**
  * 1 java.util.Map<k,v>集合
@@ -23,6 +24,7 @@ import java.util.Map;
  */
 public class Demo01Map {
     public static void main(String[] args) {
+        System.out.println(UUID.randomUUID().toString().replace("-","").substring(0,15));
         show04();
     }
 

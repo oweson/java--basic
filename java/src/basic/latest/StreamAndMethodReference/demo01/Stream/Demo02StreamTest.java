@@ -2,6 +2,7 @@ package basic.latest.StreamAndMethodReference.demo01.Stream;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 /**
  * 使用Stream流的方式,遍历集合,对集合中的数据进行过滤
@@ -25,5 +26,11 @@ public class Demo02StreamTest {
         list.stream().filter(name -> name.startsWith("刘"))
                 .filter(name -> name.length() == 3)
                 .forEach(name -> System.out.println(name));
+
+        System.out.println("====================================");
+
+        List<String> stringList = list.stream().filter(name -> name.startsWith("刘"))
+                .filter(name -> name.length() == 3).collect(Collectors.toList());
+        stringList.forEach(System.out::println);
     }
 }

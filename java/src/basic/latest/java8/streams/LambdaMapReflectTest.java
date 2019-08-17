@@ -35,7 +35,7 @@ public class LambdaMapReflectTest {
 
     @Test
     public void test2() {
-        /** 1 集合中的str转换成charracter*/
+        /** 1 集合中的str转换成character*/
         List<String> list = Arrays.asList("aaa", "bbb");
         Stream<Character> characterStream = list.stream().flatMap(LambdaMapReflectTest::changeStrToCharcter);
         characterStream.forEach(System.out::println);
@@ -46,7 +46,7 @@ public class LambdaMapReflectTest {
 
         List<Student> students = Arrays.asList(new Student(21, "aaa"), new Student(22, "bbb"));
         students.stream().sorted((s1, s2) -> {
-            if (s1.getAge() == s2.getAge()) {
+            if (s1.getAge().equals(s2.getAge())) {
                 return s1.getName().compareTo(s2.getName());
             } else {
                 return s1.getName().compareTo(s2.getName());

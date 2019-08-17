@@ -60,6 +60,7 @@ public class Demo01List {/**
         System.out.println("被替换的元素:" + setE);
         //被替换的元素:a 99999999
         System.out.println(list);
+        System.out.println(list);
         //[a, b, itheima, d, A]
 
         //List集合遍历有3种方式

@@ -15,7 +15,7 @@ import java.util.function.Supplier;
  */
 public class FourInterfaceTest {
     /**
-     * consumer接口的测试
+     * 1 consumer接口的测试
      */
     public void happy(Double d, Consumer<Double> c) {
         c.accept(d);
@@ -28,7 +28,7 @@ public class FourInterfaceTest {
     }
 
     /**
-     * 供给行接口
+     * 2 供给行接口
      */
     @Test
     public void testSupplier() {
