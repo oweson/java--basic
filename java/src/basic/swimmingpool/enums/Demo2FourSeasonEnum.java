@@ -9,4 +9,5 @@ package basic.swimmingpool.enums;
 public enum Demo2FourSeasonEnum {
     SPRING, AUTUMN, WINTER, SUMMER;
 
+
 }

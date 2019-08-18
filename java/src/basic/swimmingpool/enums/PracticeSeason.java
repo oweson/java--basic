@@ -20,6 +20,9 @@ public class PracticeSeason {
             case WIDTER:
                 System.out.println("冬天");
                 break;
+            default:
+                System.out.println("what so what...f");
+                break;
         }
     }
 
