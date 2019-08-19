@@ -45,7 +45,6 @@ public class FanxingClass<T> {
         fanxingClass.setaT("hello");
         System.out.println(fanxingClass.getaT());
         fanxingClass.getaT();
-        System.out.println();
 
 
     }

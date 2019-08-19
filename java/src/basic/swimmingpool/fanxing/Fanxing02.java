@@ -11,22 +11,6 @@ public class Fanxing02<T> {
     private T key;
     private T value;
 
-    public T getKey() {
-        return key;
-    }
-
-    public void setKey(T key) {
-        this.key = key;
-    }
-
-    public T getValue() {
-        return value;
-    }
-
-    public void setValue(T value) {
-        this.value = value;
-    }
-
     public Fanxing02(T key, T value) {
         super();
         this.key = key;
@@ -51,6 +35,22 @@ public class Fanxing02<T> {
 
     public <T> String Getas() {
         return toString();
+    }
+
+    public T getKey() {
+        return key;
+    }
+
+    public void setKey(T key) {
+        this.key = key;
+    }
+
+    public T getValue() {
+        return value;
+    }
+
+    public void setValue(T value) {
+        this.value = value;
     }
 
     public static void main(String[] args) {

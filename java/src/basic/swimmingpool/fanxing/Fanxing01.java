@@ -38,7 +38,7 @@ public class Fanxing01<T> {
     public static void main(String[] args) {
         Fanxing01<Integer> fanxing = new Fanxing01<>(100);
         Fanxing01<String> fanxing1 = new Fanxing01<>("100");
-        Fanxing01<Long> fanxing2 = new Fanxing01<>(100l);
+        Fanxing01<Long> fanxing2 = new Fanxing01<>(100L);
         System.out.println(fanxing);
         System.out.println(fanxing1);
         System.out.println(fanxing2);
