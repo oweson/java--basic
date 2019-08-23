@@ -8,7 +8,7 @@ public class ArrayReverse {
         reverseArr(arr);
         // 1 数组的反转。
         // 2 数组的遍历；
-demo1(arr);
+        demo1(arr);
        // print(arr);
 
 

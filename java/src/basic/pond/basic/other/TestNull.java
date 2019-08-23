@@ -10,8 +10,10 @@ public class TestNull {
     static String b;
 
     public static void main(String[] args) {
-        System.out.println(a + b);//null
+        System.out.println(a + b);
+        //null
 
-        //System.out.println(null);//报错
+        //System.out.println(null);
+        // 报错
     }
 }

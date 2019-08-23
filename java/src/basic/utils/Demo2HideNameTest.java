@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Demo2HideNameTest {
 
-    private String getAnonymousName(String name) {
+    public static String getAnonymousName(String name) {
         if (null == name) {
             return null;
         }
@@ -32,11 +32,10 @@ public class Demo2HideNameTest {
     }
 
     public static void main(String[] args) {
-        Demo2HideNameTest testHideName = new Demo2HideNameTest();
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入名字......");
         String nextLine = sc.nextLine();
-        String anonymousName = testHideName.getAnonymousName(nextLine);
+        String anonymousName = getAnonymousName(nextLine);
         System.out.println(anonymousName);
 
     }

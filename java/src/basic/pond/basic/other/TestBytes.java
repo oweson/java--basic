@@ -8,7 +8,8 @@ package basic.pond.basic.other;
 public class TestBytes {
     public static void testByte() {
         byte a = 1, b = 2, c;
-        /**声明三个byte类型的数据，c=a+b进行运算，换转化为int类型，会变异失败*/
+        /**声明三个byte类型的数据，c=a+b进行运算
+         * ，换转化为int类型，会变异失败*/
         // c=a+b;
     }
 

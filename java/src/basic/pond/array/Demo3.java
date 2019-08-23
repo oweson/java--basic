@@ -7,10 +7,6 @@ public class Demo3 {
         demo1();
 
     }
-
-
-
-
     private static void demo1() {
         int arr[] = {1, 2, 3};
 

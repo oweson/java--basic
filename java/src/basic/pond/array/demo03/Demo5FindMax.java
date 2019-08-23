@@ -5,7 +5,7 @@ package basic.pond.array.demo03;
  *
  * @Date：2019/3/1 0001 15:51
  */
-public class FindMax {
+public class Demo5FindMax {
     public static void main(String[] args) {
         int[] arr={1,2,3};
         int max=arr[0];

@@ -1,4 +1,4 @@
-package basic.pond.array.demo04;
+package basic.pond.array.demo03;
 
 /**
 数组可以作为方法的参数。

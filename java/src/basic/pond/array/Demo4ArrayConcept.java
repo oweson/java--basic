@@ -22,7 +22,7 @@ public class Demo4ArrayConcept {
          让a这个引用，指向数组*/
         /*int[] a = new int[10];
         for (int i = 0; i < 10; i++) {
-            *//**注意加上括号在强制转换*//*
+            **注意加上括号在强制转换**
             a[i] = (int) (Math.random() * 100);
 
         }
@@ -31,6 +31,7 @@ public class Demo4ArrayConcept {
 
         }*/
         //todo 找出数组的最小值；
+
         /** 2 */
         //写法一： 分配空间同时赋值
        /* int[] a = new int[]{100,102,444,836,3236};
