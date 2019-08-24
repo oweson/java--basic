@@ -26,6 +26,10 @@ public class Demo05DistinctBySet {
         System.out.println(set);
     }
 
+
+    /**
+     * 利用set特性去除重复
+     */
     public static final void demo1() {
         List list = new ArrayList();
         list.add(11);

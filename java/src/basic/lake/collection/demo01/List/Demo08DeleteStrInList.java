@@ -12,16 +12,17 @@ import java.util.*;
 public class Demo08DeleteStrInList {
     public static void main(String[] args) {
         /** 1 筛选字符串。
-
-         - 定义ArrayList集合，存入多个字符串。
-         - 长度大于5的字符串，打印删除后的集合。
+         定义ArrayList集合，存入多个字符串。
+         - 长度大于5的字符串，打印删除后的集合。*/
+        /**
          解决思路： 遍历原集合对象
          for(int i = 0;i<list.size();i++) {
          //获取当前元素
          String str = list.get(i);
          //如果str的长度大于等于5
          if(str.length()>5) {
-         newList.add(str);//将str添加到新集合中
+         newList.add(str);
+         //将str添加到新集合中
          }
          }
          //遍历新集合
@@ -30,6 +31,8 @@ public class Demo08DeleteStrInList {
          list.remove(str);
          }
          把复合的放到新的集合，删除新的集合的元素！*/
+
+
         List<String> list = new ArrayList<>(10);
         list.add("hello");
         list.add("hell");

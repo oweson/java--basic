@@ -25,7 +25,7 @@ import java.util.List;
  */
 public class Demo02LinkedList {
     private static void deleteInLinkedList() {
-        /**大量的增加删除用linkedList会提高效率*/
+        /**1 大量的增加删除用linkedList会提高效率*/
         List<Integer> linkedList = new LinkedList();
         linkedList.add(21);
         linkedList.add(22);
@@ -33,7 +33,10 @@ public class Demo02LinkedList {
         System.out.println(linkedList);
     }
     public static void main(String[] args) {
+        deleteInLinkedList();
         show03();
+        show01();
+        show02();
     }
 
     /**
@@ -42,16 +45,16 @@ public class Demo02LinkedList {
      * - public E pop():从此列表所表示的堆栈处弹出一个元素。此方法相当于 removeFirst
      */
     private static void show03() {
-        //创建LinkedList集合对象
+        // 1 创建LinkedList集合对象
         LinkedList<String> linked = new LinkedList<>();
-        //使用add方法往集合中添加元素
+        // 2 使用add方法往集合中添加元素
         linked.add("a");
         linked.add("b");
         linked.add("c");
         System.out.println(linked);
         //[a, b, c]
 
-        //String first = linked.removeFirst();
+        // 3 String first = linked.removeFirst();
         String first = linked.pop();
         System.out.println("被移除的第一个元素:" + first);
         String last = linked.removeLast();
@@ -65,14 +68,15 @@ public class Demo02LinkedList {
      * - public E getLast():返回此列表的最后一个元素。
      */
     private static void show02() {
-        //创建LinkedList集合对象
+        //1 创建LinkedList集合对象
         LinkedList<String> linked = new LinkedList<>();
-        //使用add方法往集合中添加元素
+        // 2 使用add方法往集合中添加元素
         linked.add("a");
         linked.add("b");
         linked.add("c");
 
-        //linked.clear();//清空集合中的元素 在获取集合中的元素会抛出NoSuchElementException
+        // 3 linked.clear();
+        // 清空集合中的元素 在获取集合中的元素会抛出NoSuchElementException
 
         //public boolean isEmpty()：如果列表不包含元素，则返回true。
         if (!linked.isEmpty()) {
@@ -92,9 +96,9 @@ public class Demo02LinkedList {
      * - public void push(E e):将元素推入此列表所表示的堆栈。此方法等效于 addFirst(E)。
      */
     private static void show01() {
-        //创建LinkedList集合对象
+        // 1 创建LinkedList集合对象
         LinkedList<String> linked = new LinkedList<>();
-        //使用add方法往集合中添加元素
+        // 2 使用add方法往集合中添加元素
         linked.add("a");
         linked.add("b");
         linked.add("c");
@@ -102,12 +106,12 @@ public class Demo02LinkedList {
         //[a, b, c]
 
         //public void addFirst(E e):将指定元素插入此列表的开头。
-        //linked.addFirst("www");
+        // linked.addFirst("www");
         linked.push("www");
         System.out.println(linked);
         //[www, a, b, c]
 
-        //public void addLast(E e):将指定元素添加到此列表的结尾。此方法等效于 add()
+        // 3 public void addLast(E e):将指定元素添加到此列表的结尾。此方法等效于 add()
         linked.addLast("com");
         System.out.println(linked);
         //[www, a, b, c, com]
