@@ -20,18 +20,18 @@ public class Demo01VarArgs {
     }
 
     /**
-        可变参数的注意事项
-            1.一个方法的参数列表,只能有一个可变参数
-            2.如果方法的参数有多个,那么可变参数必须写在参数列表的末尾
+     * 可变参数的注意事项
+     * 1.一个方法的参数列表,只能有一个可变参数
+     * 2.如果方法的参数有多个,那么可变参数必须写在参数列表的末尾
      */
-    public static void method01(String b,int...a){
+    public static void method01(String b, int... a) {
 
     }
 
     /*public static void method(String b,double c,int d,int...a){
     }*/
 
-    // 1 可变参数的特殊(终极)写法
+    /* 1 可变参数的特殊(终极)写法*/
     public static void method02(Object... obj) {
 
     }
@@ -48,7 +48,8 @@ public class Demo01VarArgs {
     public static int add(int... arr) {
         //  1 System.out.println(arr);
         // [I@2ac1fdc4 底层是一个数组
-        //  2 System.out.println(arr.length);//0,1,2,10
+        //  2 System.out.println(arr.length);
+        // 0,1,2,10
         // 定义一个初始化的变量,记录累加求和
         int sum = 0;
         // 3 遍历数组,获取数组中的每一个元素

@@ -23,34 +23,9 @@ import java.util.Scanner;
  * 5.遍历Map集合,输出结果
  */
 public class Demo03MapTest {
-    public static final void demo1() {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("请输入.......");
-        char[] toCharArray = sc.nextLine().toCharArray();
-        Map<Character, Integer> map = new HashMap<>();
-        for (char c : toCharArray) {
-            if (map.containsKey(c)) {
-                // 拿到value
-                Integer value = map.get(c);
-                value++;
-                map.put(c,value);
-            } else {
-                // 不存在！
-                map.put(c, 1);
 
-            }
-
-
-        }
-        for (Map.Entry<Character, Integer> characterIntegerEntry : map.entrySet()) {
-            System.out.println(characterIntegerEntry.getKey()+"    :"+characterIntegerEntry.getValue()+"");
-
-        }
-
-    }
 
     public static void main(String[] args) {
-        demo1();
         //1.使Scanner获取用户输入的字符串
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入一个字符串:");

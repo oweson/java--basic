@@ -67,9 +67,9 @@ public class Demo04CollectionTest {
         while (it.hasNext()) {
             String s = it.next();
             it.remove();
-           /* if (s.indexOf('c') != -1) {
-                it.remove();
-            }*/
+            /**if (s.indexOf('c') != -1) {
+             it.remove();
+             }*/
         }
         System.out.println(collection);
     }

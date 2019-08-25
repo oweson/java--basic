@@ -26,9 +26,14 @@ public class Demo04ConcurrentHashMapDemo1 {
         }
         // 遍历2
         for (Map.Entry<String, String> stringStringEntry : map.entrySet()) {
-            System.out.println("key is :"+stringStringEntry.getKey()+"value is :"+stringStringEntry.getValue());
+            System.out.println("key is :" + stringStringEntry.getKey() + "value is :" + stringStringEntry.getValue());
 
         }
+        // 遍历 3
+        System.out.println("lambda遍历---------------------------------------------");
+        map.forEach((k, v) -> {
+            System.out.println(k + "   :" + v);
+        });
 
 
     }

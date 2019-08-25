@@ -18,7 +18,7 @@ public class Demo01Collections {
         list.add("d");
         list.add("e");*/
 
-        /**
+        /*
          *public static <T> boolean addAll(Collection<T> c, T... elements):
          * 往集合中添加一些元素。
          */

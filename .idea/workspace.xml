@@ -3,17 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="c506d30d-0dfa-4411-9a52-a1bda7775ee2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo01List.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo01List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo02LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo02LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo08DeleteStrInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo08DeleteStrInList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/dobbo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo01Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo01Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo02HashSetSaveString.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo02HashSetSaveString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo03HashSetSavePerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo03HashSetSavePerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo04LinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo04LinkedHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo05DistinctBySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo05DistinctBySet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo06RandomSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo06RandomSortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/idea/sea/interface01/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/idea/sea/interface01/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo04/VarArgs/Demo01VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo04/VarArgs/Demo01VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo01Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo01Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo01Collections.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo01Collections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo02Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo02Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo04CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo04CollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo02KeySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo02KeySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo04ForeachMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo04ForeachMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/map/demo02/Map/Demo01HashMapSavePerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/map/demo02/Map/Demo01HashMapSavePerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo02Hashtable.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo02Hashtable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo03MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo03MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo04ConcurrentHashMapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo04ConcurrentHashMapDemo1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/hutool/src/hutool/target/" />
@@ -87,7 +87,7 @@
     <session id="-1446250737">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -95,7 +95,7 @@
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.29" value="3" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.34" value="2" />
@@ -108,13 +108,13 @@
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.69" value="1" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="246" />
+          <entry key="java" value="269" />
           <entry key="md" value="7" />
           <entry key="xml" value="2" />
         </counts>
@@ -122,7 +122,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="246" />
+          <entry key="JAVA" value="269" />
           <entry key="Markdown" value="7" />
           <entry key="XML" value="2" />
         </counts>
@@ -130,16 +130,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="104" />
-          <entry key="java" value="2834" />
+          <entry key="java" value="3197" />
           <entry key="md" value="48" />
-          <entry key="txt" value="270" />
+          <entry key="txt" value="282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2834" />
+          <entry key="JAVA" value="3197" />
           <entry key="Markdown" value="48" />
-          <entry key="PLAIN_TEXT" value="374" />
+          <entry key="PLAIN_TEXT" value="386" />
         </counts>
       </usages-collector>
     </session>
@@ -149,57 +149,48 @@
     <fileColor scope="Android Instrumented Tests" color="0c3118" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo01Set.java">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo02/Map/Demo01HashMapSavePerson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+            <state relative-caret-position="-553">
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo02HashSetSaveString.java">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo01LinkedHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="-117">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo03HashSetSavePerson.java">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo02Hashtable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="157">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo04LinkedHashSet.java">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo03MapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo05DistinctBySet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state>
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo06RandomSortArray.java">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo04ConcurrentHashMapDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            <state relative-caret-position="262">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -252,17 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/LambdaMapReflectTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo01/Stream/Demo02StreamTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo01Map.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/utils/DateTest.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/annotation/Dog.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/utils/ConstTest.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/utils/ConstMainTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/lake/collection/thinking/injava/Demo1CollectionsTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo2FourSeasonEnum.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/CompanyEnum.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/GenderEnumTest.java" />
         <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo4MyEnum.java" />
         <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/PracticeSeason.java" />
         <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/TestEnum04.java" />
@@ -303,6 +283,17 @@
         <option value="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo04LinkedHashSet.java" />
         <option value="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo05DistinctBySet.java" />
         <option value="$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo06RandomSortArray.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collection/demo04/VarArgs/Demo01VarArgs.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo01Collection.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo01Collections.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo02Sort.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo04CollectionTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo02KeySet.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo04ForeachMap.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/map/demo02/Map/Demo01HashMapSavePerson.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo02Hashtable.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo03MapTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo04ConcurrentHashMapDemo1.java" />
       </list>
     </option>
   </component>
@@ -345,6 +336,52 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lake" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lake" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+              <item name="Map" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -399,52 +436,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="lake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="lake" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="lake" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Set" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -485,14 +476,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDulplicateChar">
-    <configuration name="Demo02HashSetSaveString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.lake.collection.demo02.Set.Demo02HashSetSaveString" />
+  <component name="RunManager" selected="Application.Demo04ConcurrentHashMapDemo1">
+    <configuration name="Demo02Hashtable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.lake.map.demo03.Map.Demo02Hashtable" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.lake.collection.demo02.Set.*" />
+          <option name="PATTERN" value="basic.lake.map.demo03.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -500,13 +491,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03HashSetSavePerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.lake.collection.demo02.Set.Demo03HashSetSavePerson" />
+    <configuration name="Demo04ConcurrentHashMapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.lake.map.demo03.Map.Demo04ConcurrentHashMapDemo1" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.lake.collection.demo02.Set.*" />
+          <option name="PATTERN" value="basic.lake.map.demo03.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -514,13 +505,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04LinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.lake.collection.demo02.Set.Demo04LinkedHashSet" />
+    <configuration name="Demo04ForeachMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.lake.map.demo01.Map.Demo04ForeachMap" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.lake.collection.demo02.Set.*" />
+          <option name="PATTERN" value="basic.lake.map.demo01.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -577,19 +568,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo02HashSetSaveString" />
-      <item itemvalue="Application.Demo03HashSetSavePerson" />
-      <item itemvalue="Application.Demo04LinkedHashSet" />
       <item itemvalue="Application.Demo06RandomSortArray" />
       <item itemvalue="Application.RemoveDulplicateChar" />
+      <item itemvalue="Application.Demo04ForeachMap" />
+      <item itemvalue="Application.Demo02Hashtable" />
+      <item itemvalue="Application.Demo04ConcurrentHashMapDemo1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo04ConcurrentHashMapDemo1" />
+        <item itemvalue="Application.Demo02Hashtable" />
+        <item itemvalue="Application.Demo04ForeachMap" />
         <item itemvalue="Application.RemoveDulplicateChar" />
         <item itemvalue="Application.Demo06RandomSortArray" />
-        <item itemvalue="Application.Demo04LinkedHashSet" />
-        <item itemvalue="Application.Demo03HashSetSavePerson" />
-        <item itemvalue="Application.Demo02HashSetSaveString" />
       </list>
     </recent_temporary>
   </component>
@@ -655,7 +646,8 @@
       <workItem from="1566224328569" duration="2310000" />
       <workItem from="1566298323912" duration="3635000" />
       <workItem from="1566475169109" duration="3416000" />
-      <workItem from="1566567791063" duration="8317000" />
+      <workItem from="1566567791063" duration="9228000" />
+      <workItem from="1566708113716" duration="2192000" />
     </task>
     <task id="LOCAL-00001" summary="总算弄好啦git!">
       <created>1560003552299</created>
@@ -853,7 +845,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566569538682</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="复习list和set">
+      <created>1566651386368</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1566651386368</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -874,13 +873,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170329000" />
+    <option name="totallyTimeSpent" value="173432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.20167428" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.22754946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -893,8 +892,8 @@
       <window_info id="Alibaba Cloud Explorer" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49773413" weight="0.32874355" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.80745816" visible="true" weight="0.15196998" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49467275" weight="0.17448406" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8059361" visible="true" weight="0.07317073" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4939117" weight="0.4052533" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -912,7 +911,7 @@
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="19" show_stripe_button="false" sideWeight="0.4969743" weight="0.0952381" />
       <window_info anchor="bottom" id="JRebel Executor" order="20" sideWeight="0.85779124" weight="0.47068965" />
-      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.19254185" side_tool="true" visible="true" weight="0.15196998" />
+      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.19406393" side_tool="true" visible="true" weight="0.07317073" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="22" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="23" />
       <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
@@ -998,170 +997,10 @@
     <MESSAGE value="泛型，有待消除魔法值！" />
     <MESSAGE value="plan vs nowdays" />
     <MESSAGE value="数据结构好好学" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据结构好好学" />
+    <MESSAGE value="复习list和set" />
+    <option name="LAST_COMMIT_MESSAGE" value="复习list和set" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/CountChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/Demo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/Demo4ArrayConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/Demoyiwei.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/core/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/other/ZeroTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/other/TwoNumbersDiffence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/other/TestNoNameClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/other/TestNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/other/testIf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/other/TestLocalVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-653">
-          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/other/TestBytes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-394">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/other/SumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/other/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/other/Demo14Generic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/Demo1Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1856">
-          <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/Demo01MethodSame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/Demo2Operator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-768">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/constructor/FatherClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/datatype/Boxing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-526">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/utils/AddUserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/utils/Demo1GenertorOrderNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/utils/Demo2HideNameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/utils/Demo3StringUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1289,13 +1128,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/dobbo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/dobbo.java" />
     <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo11SaveStudentByList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -1354,8 +1187,169 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo06RandomSortArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state relative-caret-position="58">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/RemoveDulplicateChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo04/VarArgs/Demo01VarArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo1Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-671">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo01Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo01Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo2Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4586">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo02Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo03Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1136">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo04CollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo05Collection_And_Map_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1725">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo01Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1175">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo02KeySet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo03EntrySet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo04ForeachMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo05PropertiesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/Demo06Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo01/Map/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo02/Map/Demo01HashMapSavePerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-553">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo01LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo02Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo03MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo04ConcurrentHashMapDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
