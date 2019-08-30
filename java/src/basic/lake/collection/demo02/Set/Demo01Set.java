@@ -3,12 +3,13 @@ package basic.lake.collection.demo02.Set;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 /**
  * java.util.Set接口 extends Collection接口
  * Set接口的特点:
  * 1.不允许存储重复的元素
- * 2.没有索引,没有带索引的方法,也不能使用**普通的for循环**遍历
+ * 2.没有索引,没有带索引的方法,也不能使用普通的for循环遍历
  * java.util.HashSet集合 implements Set接口
  * HashSet特点:
  * 1.不允许存储重复的元素
@@ -36,6 +37,14 @@ public class Demo01Set {
         for (Integer i : set) {
             System.out.println(i);
         }
+        boolean empty = set.isEmpty();
+        boolean contains = set.contains(1);
+        boolean remove = set.remove(2);
+        int size = set.size();
+        Object[] objects = set.toArray();
+        Set<Integer> integerSet = set.stream().limit(2).collect(Collectors.toSet());
+        System.out.println(integerSet);
+
 
     }
 }
