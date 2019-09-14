@@ -37,7 +37,7 @@ public class CompileErrorTest {
      empID = id;
      }
      }
-     public class Test {
+     public class MainTest {
      public static void main(String args[]) {
      Employee e = new Employee("123");
      System.out.println(e.empID);

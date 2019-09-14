@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c506d30d-0dfa-4411-9a52-a1bda7775ee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/basic/pond/a_interface/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/pond/a_interface/CuteAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/pond/a_interface/CuteFeature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/basic/pond/a_interface/LandAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java--basic/basic/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java--basic/basic/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/cattle/pig/article/CompileErrorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/cattle/pig/article/CompileErrorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/pig/yihe/Simple01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/pig/yihe/Simple01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePig.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/MailUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/MailUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/TestClone.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePigTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/hutool/src/hutool/target/" />
@@ -82,10 +84,11 @@
     <session id="-1446250737">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
+          <entry key="project.closed" value="33" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.22" value="1" />
@@ -108,14 +111,14 @@
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.69" value="1" />
-          <entry key="project.opened" value="38" />
+          <entry key="project.opened" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="285" />
-          <entry key="md" value="8" />
+          <entry key="java" value="293" />
+          <entry key="md" value="10" />
           <entry key="txt" value="2" />
           <entry key="xml" value="2" />
         </counts>
@@ -123,25 +126,25 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="285" />
-          <entry key="Markdown" value="8" />
+          <entry key="JAVA" value="293" />
+          <entry key="Markdown" value="10" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="108" />
-          <entry key="java" value="4302" />
-          <entry key="md" value="62" />
-          <entry key="txt" value="348" />
+          <entry key="dummy" value="140" />
+          <entry key="java" value="4339" />
+          <entry key="md" value="302" />
+          <entry key="txt" value="355" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4302" />
-          <entry key="Markdown" value="62" />
-          <entry key="PLAIN_TEXT" value="456" />
+          <entry key="JAVA" value="4339" />
+          <entry key="Markdown" value="302" />
+          <entry key="PLAIN_TEXT" value="495" />
         </counts>
       </usages-collector>
     </session>
@@ -151,7 +154,38 @@
     <fileColor scope="Android Instrumented Tests" color="0c3118" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/prototype/MailUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/prototype/Mail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/prototype/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="237">
+                <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -159,6 +193,7 @@
         <option value="FxmlFile" />
         <option value="Class" />
         <option value="Interface" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -199,12 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/basic/cloudcode/Cat.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/cloudcode/Animal.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/cloudcode/ListTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/array/demo01/Demo01Array.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/array/demo01/Demo02Array.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/array/demo01/Demo03Array.java" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/array/demo01/Demo04ArrayUse.java" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/array/demo01/Demo05ArrayUse.java" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/array/demo03/Demo05ArrayMax.java" />
@@ -250,6 +279,12 @@
         <option value="$PROJECT_DIR$/java/src/basic/pond/a_interface/LandAnimal.java" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/a_interface/CuteFeature.java" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/a_interface/CuteAnimal.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/package-info.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/PigCloneTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/MailUtil.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePig.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePigTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/readme.md" />
       </list>
     </option>
   </component>
@@ -292,71 +327,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Unicom" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="basic" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="basic" type="1f31426a:PackageElementNode" />
-              <item name="pond" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="pig" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -407,6 +377,90 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="basic" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+              <item name="sea521" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+              <item name="sea521" type="1f31426a:PackageElementNode" />
+              <item name="design" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+              <item name="sea521" type="1f31426a:PackageElementNode" />
+              <item name="design" type="1f31426a:PackageElementNode" />
+              <item name="prototype" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="test" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Unicom" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -423,16 +477,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\AAiDEL\java--basic\java\src\basic\cloudcode" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\A--项目中心\java--basic\java\src\basic\latest\java8\streams" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="basic.utils" />
       <recent name="basic.latest.atguigu.lambda" />
       <recent name="basic.pond.array.core" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\A--项目中心\java--basic\java\src\basic\latest\java8\streams" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AAiDEL\java--basic\java\src\basic\cloudcode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -447,7 +501,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CuteAnimal">
+  <component name="RunManager" selected="Application.ClonePigTest">
+    <configuration name="ClonePigTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.sea521.design.prototype.ClonePigTest" />
+      <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.sea521.design.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CuteAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.pond.a_interface.CuteAnimal" />
       <module name="java--basic" />
@@ -462,34 +530,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.lake.collection.demo02.Set.Demo01Set" />
-      <module name="java--basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.lake.collection.demo02.Set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo12NPE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.lake.collection.demo01.List.Demo12NPE" />
-      <module name="java--basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.lake.collection.demo01.List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Demo2IntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pig.zhanshu.Demo2IntegerTest" />
       <module name="java--basic" />
@@ -497,6 +537,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pig.zhanshu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.sea521.design.prototype.MainTest" />
+      <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.sea521.design.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -539,19 +593,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo01Set" />
-      <item itemvalue="Application.Demo12NPE" />
       <item itemvalue="Application.UtilsTest" />
       <item itemvalue="Application.Demo2IntegerTest" />
       <item itemvalue="Application.CuteAnimal" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.ClonePigTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClonePigTest" />
+        <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.CuteAnimal" />
         <item itemvalue="Application.Demo2IntegerTest" />
         <item itemvalue="Application.UtilsTest" />
-        <item itemvalue="Application.Demo12NPE" />
-        <item itemvalue="Application.Demo01Set" />
       </list>
     </recent_temporary>
   </component>
@@ -627,7 +681,8 @@
       <workItem from="1567120332184" duration="3393000" />
       <workItem from="1567846808109" duration="1830000" />
       <workItem from="1568156254748" duration="1716000" />
-      <workItem from="1568289136969" duration="1631000" />
+      <workItem from="1568289136969" duration="2272000" />
+      <workItem from="1568419860917" duration="1887000" />
     </task>
     <task id="LOCAL-00001" summary="总算弄好啦git!">
       <created>1560003552299</created>
@@ -860,7 +915,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568157356596</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="中秋节快乐！">
+      <created>1568299959252</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1568299959253</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -881,12 +943,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187995000" />
+    <option name="totallyTimeSpent" value="190523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.2560423" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.25981873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -898,8 +961,8 @@
       <window_info id="Learn" order="9" />
       <window_info id="Alibaba Cloud Explorer" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49773413" weight="0.32874355" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8006042" visible="true" weight="0.11945392" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49697885" weight="0.32764506" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7998489" visible="true" weight="0.19453925" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49320242" weight="0.17576791" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -918,7 +981,7 @@
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="19" show_stripe_button="false" sideWeight="0.4969743" weight="0.0952381" />
       <window_info anchor="bottom" id="JRebel Executor" order="20" sideWeight="0.85779124" weight="0.47068965" />
-      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.19939578" side_tool="true" visible="true" weight="0.11945392" />
+      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.20015106" side_tool="true" visible="true" weight="0.19453925" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="22" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="23" />
       <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
@@ -984,7 +1047,6 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/java" />
     </ignored-roots>
-    <MESSAGE value="总算弄好啦git!" />
     <MESSAGE value="waiting a chance!" />
     <MESSAGE value="好久没提交了，假期过完啦，大学over了，遗憾...,不能改变那就坦然的接受！" />
     <MESSAGE value="坦然接受自己的平凡！" />
@@ -1009,52 +1071,10 @@
     <MESSAGE value="option!处理null;" />
     <MESSAGE value="集合截串测试" />
     <MESSAGE value="java基础复习，时刻要有危机意识，integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="java基础复习，时刻要有危机意识，integer" />
+    <MESSAGE value="中秋节快乐！" />
+    <option name="LAST_COMMIT_MESSAGE" value="中秋节快乐！" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo06PrintAndDeleteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1085">
-          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo07CountOneInList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo08DeleteStrInList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo09IndexInList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo10NoRealArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/dobbo.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Demo11SaveStudentByList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo01/List/Students.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1355,6 +1375,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/prototype/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/prototype/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/prototype/Mail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/prototype/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="237">
+            <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

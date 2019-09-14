@@ -7,7 +7,7 @@ package pig.yihe;
  * @Date：2019/2/21 0021 20:42
  */
 public class Simple01 {
-    //@Test
+    //@MainTest
     public void demo1(){
         //private String s="";不允许
     }

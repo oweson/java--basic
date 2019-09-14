@@ -21,7 +21,6 @@ public class ClonePig implements Cloneable {
         /**这样就不会浅的克隆了，只是更改修改的哪个*/
         ClonePig clone = (ClonePig) super.clone();
         clone.date = (Date) clone.date.clone();
-
         return clone;
     }
 

@@ -5,7 +5,7 @@ package top.sea521.design.prototype;
  *
  * @Date：2018/11/27 0027 20:19
  */
-public class Test {
+public class MainTest {
     public static void main(String[] args) throws CloneNotSupportedException {
         Mail mail = new Mail();
         mail.setContent("初始化模版");

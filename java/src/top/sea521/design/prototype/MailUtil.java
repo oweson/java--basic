@@ -17,7 +17,5 @@ public class MailUtil {
         System.out.println(mail.getContent() + "save");
     }
 
-    public static void main(String[] args) {
 
-    }
 }
