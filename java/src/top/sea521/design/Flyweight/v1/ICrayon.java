@@ -1,4 +1,4 @@
-package top.sea521.design.Flyweight;
+package top.sea521.design.Flyweight.v1;
 
 /**
  * the class is create by @Author:oweson

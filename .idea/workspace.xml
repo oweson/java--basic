@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c506d30d-0dfa-4411-9a52-a1bda7775ee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/basic/pond/usualapi/ComputerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/ConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/ConnectionPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/Crayon.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/Crayon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/CrayonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/CrayonFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/FlyWeightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/FlyWeightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/ICrayon.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/ICrayon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -113,8 +121,8 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="298" />
-          <entry key="md" value="11" />
+          <entry key="java" value="307" />
+          <entry key="md" value="12" />
           <entry key="txt" value="2" />
           <entry key="xml" value="2" />
         </counts>
@@ -122,8 +130,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="298" />
-          <entry key="Markdown" value="11" />
+          <entry key="JAVA" value="307" />
+          <entry key="Markdown" value="12" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="2" />
         </counts>
@@ -131,16 +139,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="140" />
-          <entry key="java" value="4597" />
-          <entry key="md" value="622" />
-          <entry key="txt" value="364" />
+          <entry key="java" value="4721" />
+          <entry key="md" value="678" />
+          <entry key="txt" value="370" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4597" />
-          <entry key="Markdown" value="622" />
-          <entry key="PLAIN_TEXT" value="504" />
+          <entry key="JAVA" value="4721" />
+          <entry key="Markdown" value="678" />
+          <entry key="PLAIN_TEXT" value="510" />
         </counts>
       </usages-collector>
     </session>
@@ -151,14 +159,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="417">
-                <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <first_editor relative-caret-position="395">
+                <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/ConnectionPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/Crayon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/CrayonFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/FlyWeightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/ICrayon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/EmployeeFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -212,9 +309,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/basic/pond/array/demo03/Demo05ArrayMax.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/array/demo03/Demo5FindMax.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/array/demo03/Demo01ArrayParam.java" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/array/demo03/ToStringTest.java" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/array/ArrayReverse.java" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/array/Demo3.java" />
@@ -263,6 +357,9 @@
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/readme.md" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/usualapi/ComputerNumber.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/readme.md" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Test.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Manager.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/EmployeeFactory.java" />
       </list>
     </option>
   </component>
@@ -408,6 +505,15 @@
             </path>
             <path>
               <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+              <item name="sea521" type="1f31426a:PackageElementNode" />
+              <item name="design" type="1f31426a:PackageElementNode" />
+              <item name="Flyweight" type="1f31426a:PackageElementNode" />
+              <item name="v2" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
               <item name="test" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
@@ -468,16 +574,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\A--项目中心\java--basic\java\src\basic\latest\java8\streams" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AAiDEL\java--basic\java\src\top\sea521\design\Flyweight\v2" />
+      <recent name="E:\AAiDEL\java--basic\java\src\basic\cloudcode" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="basic.utils" />
       <recent name="basic.latest.atguigu.lambda" />
       <recent name="basic.pond.array.core" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\AAiDEL\java--basic\java\src\basic\cloudcode" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\A--项目中心\java--basic\java\src\basic\latest\java8\streams" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -492,7 +599,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComputerNumber">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="ClonePigTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.sea521.design.prototype.ClonePigTest" />
       <module name="java--basic" />
@@ -514,20 +621,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="basic.pond.usualapi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CuteAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.pond.a_interface.CuteAnimal" />
-      <module name="java--basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.pond.a_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -563,6 +656,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.sea521.design.Flyweight.v2.Test" />
+      <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.sea521.design.Flyweight.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -584,19 +691,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CuteAnimal" />
       <item itemvalue="Application.MainTest" />
       <item itemvalue="Application.ClonePigTest" />
       <item itemvalue="Application.Demo1EnumMainTest" />
       <item itemvalue="Application.ComputerNumber" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ComputerNumber" />
         <item itemvalue="Application.Demo1EnumMainTest" />
         <item itemvalue="Application.ClonePigTest" />
         <item itemvalue="Application.MainTest" />
-        <item itemvalue="Application.CuteAnimal" />
       </list>
     </recent_temporary>
   </component>
@@ -675,7 +782,7 @@
       <workItem from="1568289136969" duration="2272000" />
       <workItem from="1568419860917" duration="2572000" />
       <workItem from="1568433381811" duration="3857000" />
-      <workItem from="1568641353119" duration="1194000" />
+      <workItem from="1568641353119" duration="3848000" />
     </task>
     <task id="LOCAL-00001" summary="总算弄好啦git!">
       <created>1560003552299</created>
@@ -922,7 +1029,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568422017859</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="享元模式，">
+      <created>1568644606559</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1568644606559</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -943,7 +1057,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196259000" />
+    <option name="totallyTimeSpent" value="198913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -962,7 +1076,7 @@
       <window_info id="Alibaba Cloud Explorer" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49697885" weight="0.32764506" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7975831" weight="0.062711865" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7968278" visible="true" weight="0.3322034" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49244714" weight="0.3327674" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -981,7 +1095,7 @@
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="19" show_stripe_button="false" sideWeight="0.4969743" weight="0.0952381" />
       <window_info anchor="bottom" id="JRebel Executor" order="20" sideWeight="0.85779124" weight="0.47068965" />
-      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.20241691" side_tool="true" visible="true" weight="0.062711865" />
+      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.2031722" side_tool="true" visible="true" weight="0.3322034" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="22" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="23" />
       <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
@@ -1047,7 +1161,6 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/java" />
     </ignored-roots>
-    <MESSAGE value="好久没提交了，假期过完啦，大学over了，遗憾...,不能改变那就坦然的接受！" />
     <MESSAGE value="坦然接受自己的平凡！" />
     <MESSAGE value="未来！" />
     <MESSAGE value="晚安" />
@@ -1072,72 +1185,10 @@
     <MESSAGE value="java基础复习，时刻要有危机意识，integer" />
     <MESSAGE value="中秋节快乐！" />
     <MESSAGE value="clone模式！" />
-    <option name="LAST_COMMIT_MESSAGE" value="clone模式！" />
+    <MESSAGE value="享元模式，" />
+    <option name="LAST_COMMIT_MESSAGE" value="享元模式，" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Demo06RandomSortArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo02/Set/RemoveDulplicateChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo04/VarArgs/Demo01VarArgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo1Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-671">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo01Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo01Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo2Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4586">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo02Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/lake/collection/demo05/Collections/Demo03Sort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1136">
@@ -1426,10 +1477,81 @@
     <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="417">
-            <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <first_editor relative-caret-position="395">
+            <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/Crayon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/CrayonFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/FlyWeightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/ICrayon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/EmployeeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
