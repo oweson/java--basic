@@ -13,6 +13,7 @@ public class Test {
             manager.report();
 
         }
+        // 不在范围里面，创建对象
         Integer a = Integer.valueOf(100);
         Integer b = 100;
 
@@ -24,6 +25,14 @@ public class Test {
 
         System.out.println("c==d:" + (c == d));
         // false
+        Integer j=1000;
+        Integer k=1000;
+        System.out.println(j==k);
+        // false
+        Integer x=100;
+        Integer y=100;
+        System.out.println(x==y);
+        // true
 
     }
 }

@@ -11,7 +11,7 @@ import java.util.Vector;
 public class TreeNode {
     private String name;
     private TreeNode parent;
-    private Vector<TreeNode> children = new Vector<TreeNode>();
+    private Vector<TreeNode> children = new Vector<>();
 
     public TreeNode(String name) {
         this.name = name;
