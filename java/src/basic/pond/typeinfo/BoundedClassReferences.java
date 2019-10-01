@@ -6,5 +6,7 @@ public class BoundedClassReferences {
         bounded = double.class;
         bounded = Number.class;
         // Or anything else derived from Number.
+        Class<?> intClass = int.class;
+        intClass = double.class;
     }
 }

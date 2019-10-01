@@ -10,7 +10,6 @@ import java.util.Scanner;
 
 public class Demo2Scanner {
     public static void main(String[] args) {
-        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         System.out.println("input float..................");
         float nextFloat = scanner.nextFloat();

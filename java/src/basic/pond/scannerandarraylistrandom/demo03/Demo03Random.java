@@ -19,7 +19,7 @@ public class Demo03Random {
         Random r = new Random();
 
         for (int i = 0; i < 100; i++) {
-            // 本来范围是[0,n)，整体+1之后变成了[1,n+1)，也就是[1,n]
+            // 本来范围是[0,n)，整体+1之后变成了[1,n+1)，也就是[1,n],因为前闭后开！！！
             int result = r.nextInt(n) + 1;
             System.out.println(result);
         }

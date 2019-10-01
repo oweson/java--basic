@@ -20,7 +20,8 @@ public class Demo1 {
                     //其他位置打印.
                 }
             }
-            System.out.println();//换行
+            System.out.println();
+            //换行
         }
     }
 

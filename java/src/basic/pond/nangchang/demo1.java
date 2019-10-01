@@ -9,7 +9,7 @@ package basic.pond.nangchang;
 public class demo1 {
     public int num = 0;
 
-    public void fun() {
+    public void fun01() {
         System.out.println("---A---");
     }
 
@@ -22,7 +22,7 @@ class SonOfDemo1 extends demo1 {
     public int num = 1;
 
     @Override
-    public void fun() {
+    public void fun01() {
         System.out.println("---SonOfDemo1---");
     }
 
@@ -31,7 +31,7 @@ class SonOfDemo1 extends demo1 {
         System.out.println(((SonOfDemo1) demo1).num);
         // 1 子类优先，又叫做覆盖！
         // SonOfDemo1  先在本地找，然后向上查找；
-        demo1.fun();
+        demo1.fun01();
         // 2 子类没有重写，向上找！
         demo1.fun02();
 
