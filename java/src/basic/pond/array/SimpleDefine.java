@@ -10,7 +10,7 @@ public class SimpleDefine {
         int b = 200;
         change(a, b);
         System.out.println(a + "\t" + b);
-        // 1 基本数据类型是汁饮用，会贪占；
+        // 1 基本数据类型是值用，会弹栈；
         String x = new String("hello");
         String y = new String("world");
         come(x, y);
