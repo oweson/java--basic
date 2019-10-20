@@ -5,6 +5,7 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
@@ -22,6 +23,11 @@ public class LambdaMapReflectTest {
         /** 1 通过map函数把集合中的每一个value都映射出来；l*/
         students.stream().map((s) -> s.getName()).forEach(System.out::println);
         /** 2 去除重复的时候student对象必须重写equal()和hashcode();*/
+        List<Integer> integerList = students.stream().map((s) -> s.getAge()).limit(100).collect(Collectors.toList());
+        for (Integer integer : integerList) {
+            System.out.println("oweson:"+integer);
+
+        }
 
     }
 

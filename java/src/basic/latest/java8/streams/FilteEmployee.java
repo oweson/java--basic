@@ -98,15 +98,15 @@ public class FilteEmployee {
     public static void main(String[] args) {
         System.out.println("y优化2-------------------------------");
 
-        /**过滤年龄大于等于22岁的学生*/
+        /* 1 过滤年龄大于等于22岁的学生*/
         List<FilteEmployee> list = Arrays.asList(new FilteEmployee(21, "ppx"),
                 new FilteEmployee(22, "ppg"));
-        /**最终版本的优化方式*/
+        /*2 最终版本的优化方式*/
         System.out.println("===============================================");
 
         list.stream().filter((e) -> e.getAge() >= 21).forEach(System.out::println);
         System.out.println("===============================================");
-/**提取员工名字*/
+        /*3 提取员工名字*/
         System.out.println("===============================================");
 
         list.stream().map(FilteEmployee::getName).forEach(System.out::println);
