@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c506d30d-0dfa-4411-9a52-a1bda7775ee2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/GenericArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/latest/java8/streams/FilteEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/latest/java8/streams/FilteEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/latest/java8/streams/FunctionRefrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/latest/java8/streams/FunctionRefrence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/latest/java8/streams/LambdaMapReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/latest/java8/streams/LambdaMapReflectTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/hutool/src/hutool/target/" />
@@ -79,7 +78,7 @@
     <session id="-1446250737">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="40" />
+          <entry key="project.closed" value="41" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -109,14 +108,15 @@
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.69" value="1" />
-          <entry key="project.opened" value="48" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="452" />
-          <entry key="md" value="17" />
+          <entry key="java" value="461" />
+          <entry key="md" value="18" />
           <entry key="txt" value="7" />
           <entry key="xml" value="2" />
         </counts>
@@ -124,8 +124,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="452" />
-          <entry key="Markdown" value="17" />
+          <entry key="JAVA" value="461" />
+          <entry key="Markdown" value="18" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="XML" value="2" />
         </counts>
@@ -133,16 +133,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="140" />
-          <entry key="java" value="5500" />
+          <entry key="java" value="5527" />
           <entry key="md" value="989" />
-          <entry key="txt" value="415" />
+          <entry key="txt" value="422" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5500" />
+          <entry key="JAVA" value="5527" />
           <entry key="Markdown" value="989" />
-          <entry key="PLAIN_TEXT" value="555" />
+          <entry key="PLAIN_TEXT" value="562" />
         </counts>
       </usages-collector>
     </session>
@@ -154,87 +154,46 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/latest/option/Demo1OptionTest.java">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/com/atguigu/bank/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-155">
+            <state relative-caret-position="133">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/FilteEmployee.java">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/GenericArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/FilterEmployee02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#1700#1701#0" expanded="true" />
+                <element signature="e#1725#1726#0" expanded="true" />
+                <element signature="e#1773#1774#0" expanded="true" />
+                <element signature="e#1801#1802#0" expanded="true" />
+                <element signature="e#2262#2263#0" expanded="true" />
+                <element signature="e#2294#2295#0" expanded="true" />
+                <element signature="e#2337#2338#0" expanded="true" />
+                <element signature="e#2376#2377#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/FourInterfaceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/FunctionRefrence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-242">
-              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/IEmployee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/LambdaMapReflectTest.java">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo1AddTwoNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            <state relative-caret-position="-280">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -246,8 +205,8 @@
       <list>
         <option value="FxmlFile" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -291,10 +250,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/basic/pond/a_interface/CuteAnimal.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/package-info.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/PigCloneTest.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/MailUtil.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePig.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePigTest.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/readme.md" />
@@ -342,6 +297,10 @@
         <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/FilteEmployee.java" />
         <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/FunctionRefrence.java" />
         <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/LambdaMapReflectTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/password.md" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/Array.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/GenericArray.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/GenericArray.java" />
       </list>
     </option>
   </component>
@@ -384,6 +343,81 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Unicom" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+              <item name="sea521" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+              <item name="sea521" type="1f31426a:PackageElementNode" />
+              <item name="algorithm" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+              <item name="sea521" type="1f31426a:PackageElementNode" />
+              <item name="algorithm" type="1f31426a:PackageElementNode" />
+              <item name="leetcode" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -429,81 +463,6 @@
               <item name="top" type="462c0819:PsiDirectoryNode" />
               <item name="sea521" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="basic" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="basic" type="1f31426a:PackageElementNode" />
-              <item name="latest" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="basic" type="1f31426a:PackageElementNode" />
-              <item name="latest" type="1f31426a:PackageElementNode" />
-              <item name="java8" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="basic" type="1f31426a:PackageElementNode" />
-              <item name="latest" type="1f31426a:PackageElementNode" />
-              <item name="java8" type="1f31426a:PackageElementNode" />
-              <item name="streams" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Unicom" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -746,7 +705,8 @@
       <workItem from="1569939104633" duration="2646000" />
       <workItem from="1570100831165" duration="1619000" />
       <workItem from="1570456166733" duration="780000" />
-      <workItem from="1571560057983" duration="445000" />
+      <workItem from="1571560057983" duration="713000" />
+      <workItem from="1571840181040" duration="1888000" />
     </task>
     <task id="LOCAL-00001" summary="总算弄好啦git!">
       <created>1560003552299</created>
@@ -1035,7 +995,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570456921118</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="重温经典！">
+      <created>1571560729258</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1571560729258</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1054,15 +1021,17 @@
     <history-entry file="PredicatTest_demo1 - 2019.08.03 at 23h 05m 44s.xml">
       <configuration name="PredicatTest.demo1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LambdaMapReflectTest_test1 - 2019.10.20 at 16h 35m 19s.xml">
+      <configuration name="LambdaMapReflectTest.test1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213472000" />
+    <option name="totallyTimeSpent" value="215628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.28776434" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.29229608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -1075,7 +1044,7 @@
       <window_info id="Alibaba Cloud Explorer" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49697885" weight="0.32764506" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7938067" weight="0.076271184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.79305136" weight="0.10677966" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49244714" weight="0.3327674" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1094,7 +1063,7 @@
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="19" show_stripe_button="false" sideWeight="0.4969743" weight="0.0952381" />
       <window_info anchor="bottom" id="JRebel Executor" order="20" sideWeight="0.85779124" weight="0.47068965" />
-      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.20619336" side_tool="true" visible="true" weight="0.07118644" />
+      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.20694864" side_tool="true" visible="true" weight="0.10338983" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="22" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="23" />
       <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
@@ -1160,7 +1129,6 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/java" />
     </ignored-roots>
-    <MESSAGE value="你真的开心吗？？？" />
     <MESSAGE value="给自己一次机会！！！" />
     <MESSAGE value="不知道我的选择是对还是错误；" />
     <MESSAGE value="了断！结束了！可能我是错的那有怎么样？算了！结束了！！！" />
@@ -1185,73 +1153,10 @@
     <MESSAGE value="国庆快乐！学习上瘾，停不下来！" />
     <MESSAGE value="好多都是无用的" />
     <MESSAGE value="国庆结束了！！！" />
-    <option name="LAST_COMMIT_MESSAGE" value="国庆结束了！！！" />
+    <MESSAGE value="重温经典！" />
+    <option name="LAST_COMMIT_MESSAGE" value="重温经典！" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/typeinfo/BoundedClassReferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/typeinfo/GenericClassReferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/usualapi/demo01/Object/Demo01ToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-245">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/usualapi/demo01/Object/Demo02Equals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-245">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/LengthOfArray.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/Demoyiwei.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/ErWeiArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/SimpleDefine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/SureDuiCheng.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/WeekGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/demo01/Demo01Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1493,10 +1398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-          <folding>
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1523,8 +1424,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/LambdaMapReflectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
+        <state relative-caret-position="235">
           <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/MyFunctionInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/password.md" />
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/MyFunctionLongDemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream/Demo1FilterList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-377">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream/Demo02Lambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream/Demo6ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/GenericArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#1700#1701#0" expanded="true" />
+            <element signature="e#1725#1726#0" expanded="true" />
+            <element signature="e#1773#1774#0" expanded="true" />
+            <element signature="e#1801#1802#0" expanded="true" />
+            <element signature="e#2262#2263#0" expanded="true" />
+            <element signature="e#2294#2295#0" expanded="true" />
+            <element signature="e#2337#2338#0" expanded="true" />
+            <element signature="e#2376#2377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo1AddTwoNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
