@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c506d30d-0dfa-4411-9a52-a1bda7775ee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/GenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo5ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -78,7 +78,7 @@
     <session id="-1446250737">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="42" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -98,6 +98,7 @@
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.44" value="1" />
@@ -109,13 +110,13 @@
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="49" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="461" />
+          <entry key="java" value="463" />
           <entry key="md" value="18" />
           <entry key="txt" value="7" />
           <entry key="xml" value="2" />
@@ -124,7 +125,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="461" />
+          <entry key="JAVA" value="463" />
           <entry key="Markdown" value="18" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="XML" value="2" />
@@ -133,14 +134,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="140" />
-          <entry key="java" value="5527" />
+          <entry key="java" value="5594" />
           <entry key="md" value="989" />
           <entry key="txt" value="422" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5527" />
+          <entry key="JAVA" value="5594" />
           <entry key="Markdown" value="989" />
           <entry key="PLAIN_TEXT" value="562" />
         </counts>
@@ -152,48 +153,21 @@
     <fileColor scope="Android Instrumented Tests" color="0c3118" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/Array.java">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo5ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/GenericArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#543#544#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-                <element signature="e#1700#1701#0" expanded="true" />
-                <element signature="e#1725#1726#0" expanded="true" />
-                <element signature="e#1773#1774#0" expanded="true" />
-                <element signature="e#1801#1802#0" expanded="true" />
-                <element signature="e#2262#2263#0" expanded="true" />
-                <element signature="e#2294#2295#0" expanded="true" />
-                <element signature="e#2337#2338#0" expanded="true" />
-                <element signature="e#2376#2377#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="158">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo1AddTwoNumber.java">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-280">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="278">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -250,8 +224,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePig.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePigTest.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/readme.md" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/usualapi/ComputerNumber.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Manager.java" />
@@ -301,6 +273,8 @@
         <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/Array.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/GenericArray.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/GenericArray.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo5ReverseString.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo6.java" />
       </list>
     </option>
   </component>
@@ -343,6 +317,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+              <item name="sea521" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+              <item name="sea521" type="1f31426a:PackageElementNode" />
+              <item name="algorithm" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="top" type="1f31426a:PackageElementNode" />
+              <item name="sea521" type="1f31426a:PackageElementNode" />
+              <item name="algorithm" type="1f31426a:PackageElementNode" />
+              <item name="leetcode" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -376,43 +387,6 @@
               <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="top" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="top" type="1f31426a:PackageElementNode" />
-              <item name="sea521" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="top" type="1f31426a:PackageElementNode" />
-              <item name="sea521" type="1f31426a:PackageElementNode" />
-              <item name="algorithm" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="top" type="1f31426a:PackageElementNode" />
-              <item name="sea521" type="1f31426a:PackageElementNode" />
-              <item name="algorithm" type="1f31426a:PackageElementNode" />
-              <item name="leetcode" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -512,7 +486,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LambdaMapReflectTest.test1">
+  <component name="RunManager" selected="Application.Demo6">
     <configuration name="Boxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.pond.datatype.Boxing" />
       <module name="java--basic" />
@@ -527,20 +501,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.pond.scannerandarraylistrandom.demo03.Demo01Random" />
-      <module name="java--basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.pond.scannerandarraylistrandom.demo03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Demo1StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.pond.eighttype.Demo1StringBuilder" />
       <module name="java--basic" />
@@ -548,6 +508,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="basic.pond.eighttype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.sea521.algorithm.leetcode.Demo6" />
+      <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.sea521.algorithm.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -607,19 +581,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo01Random" />
       <item itemvalue="Application.Demo1StringBuilder" />
       <item itemvalue="Application.Boxing" />
       <item itemvalue="Application.GenericClassReferences" />
       <item itemvalue="JUnit.LambdaMapReflectTest.test1" />
+      <item itemvalue="Application.Demo6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo6" />
         <item itemvalue="JUnit.LambdaMapReflectTest.test1" />
         <item itemvalue="Application.GenericClassReferences" />
         <item itemvalue="Application.Boxing" />
         <item itemvalue="Application.Demo1StringBuilder" />
-        <item itemvalue="Application.Demo01Random" />
       </list>
     </recent_temporary>
   </component>
@@ -706,7 +680,8 @@
       <workItem from="1570100831165" duration="1619000" />
       <workItem from="1570456166733" duration="780000" />
       <workItem from="1571560057983" duration="713000" />
-      <workItem from="1571840181040" duration="1888000" />
+      <workItem from="1571840181040" duration="2057000" />
+      <workItem from="1571927882723" duration="1291000" />
     </task>
     <task id="LOCAL-00001" summary="总算弄好啦git!">
       <created>1560003552299</created>
@@ -1002,7 +977,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571560729258</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="重温经典！">
+      <created>1571842741406</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1571842741407</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1026,12 +1008,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215628000" />
+    <option name="totallyTimeSpent" value="217088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.29229608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.2968278" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -1063,7 +1046,7 @@
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="19" show_stripe_button="false" sideWeight="0.4969743" weight="0.0952381" />
       <window_info anchor="bottom" id="JRebel Executor" order="20" sideWeight="0.85779124" weight="0.47068965" />
-      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.20694864" side_tool="true" visible="true" weight="0.10338983" />
+      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.20694864" side_tool="true" visible="true" weight="0.10169491" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="22" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="23" />
       <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
@@ -1157,20 +1140,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="重温经典！" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/array/demo01/Demo01Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/javase/abstract_class/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/javase/abstract_class/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1506,8 +1475,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo1AddTwoNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
+        <state relative-caret-position="19">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo5ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
