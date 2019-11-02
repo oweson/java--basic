@@ -1,6 +1,6 @@
 package basic.swimmingpool.enums;
 
-public class PracticeSeason {
+public class Demo2PracticeSeason {
     public static void main(String[] args) {
         Season season = Season.AUTM;
         // 1 遍历enum;

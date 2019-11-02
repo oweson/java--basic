@@ -1,10 +1,6 @@
-package basic.latest.option;
+package basic.latest.java8.option;
 
-import sun.plugin2.message.Message;
-
-import java.util.Date;
 import java.util.HashMap;
-import java.util.Map;
 import java.util.Optional;
 
 /**

@@ -7,8 +7,8 @@ package basic.swimmingpool.enums;
  */
 public class GenderEnumTest {
     public static void main(String[] args) {
-        System.out.println(Gender.CODE.getCode());
-        System.out.println(Gender.GENDER.getCode());
+        System.out.println(Demo4Gender.CODE.getCode());
+        System.out.println(Demo4Gender.GENDER.getCode());
 
     }
 

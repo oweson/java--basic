@@ -6,7 +6,7 @@ package basic.swimmingpool.enums;
  * 类说明：侵权必究。。。。。。。
  */
 
-public enum Gender {
+public enum Demo4Gender {
     GENDER(1), CODE(2), HAHA(3);
     private int code;
     /*因为只有get所以只能得到不能设置*/
@@ -15,7 +15,7 @@ public enum Gender {
         return code;
     }
 
-    private Gender(int code) {
+    Demo4Gender(int code) {
         this.code = code;
     }
 

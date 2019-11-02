@@ -6,6 +6,7 @@ public class Demo02GenericClass {
         GenericClass gc = new GenericClass();
         gc.setName(57034720);
         Object obj = gc.getName();
+        System.out.println(obj);
 
         // 2 创建GenericClass对象,泛型使用Integer类型
         GenericClass<Integer> gc2 = new GenericClass<>();

@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c506d30d-0dfa-4411-9a52-a1bda7775ee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo5ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/basic/latest/java8/math/MathsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/top/code/optimization/Demo1Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo01/Stream/Demo02StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo01/Stream/Demo02StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/latest/option/Demo1OptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/latest/java8/option/Demo1OptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/reflect/ReflectDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/reflect/ReflectDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/CompanyEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo1CompanyEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo2FourSeasonEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo3EnumCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo3EnumCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo4Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/GenderEnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/GenderEnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/PracticeSeason.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo2PracticeSeason.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/TestEnum03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo02/Iterator/Demo01Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo02/Iterator/Demo01Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo02/Iterator/Demo02Foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo02/Iterator/Demo02Foreach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo01Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo01Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo02GenericClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo02GenericClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo03GenericMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo03GenericMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo04GenericInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo04GenericInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericInterfaceImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericInterfaceImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java--basic/basic/latest/java8/streams/password.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/hutool/src/hutool/target/" />
@@ -78,24 +96,25 @@
     <session id="-1446250737">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="42" />
+          <entry key="project.closed" value="48" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="3" />
-          <entry key="project.open.time.26" value="2" />
-          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.27" value="3" />
           <entry key="project.open.time.29" value="4" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.34" value="3" />
           <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.39" value="1" />
@@ -110,13 +129,13 @@
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.opened" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="463" />
+          <entry key="java" value="517" />
           <entry key="md" value="18" />
           <entry key="txt" value="7" />
           <entry key="xml" value="2" />
@@ -125,7 +144,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="463" />
+          <entry key="JAVA" value="517" />
           <entry key="Markdown" value="18" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="XML" value="2" />
@@ -133,17 +152,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="140" />
-          <entry key="java" value="5594" />
+          <entry key="dummy" value="155" />
+          <entry key="java" value="6141" />
           <entry key="md" value="989" />
-          <entry key="txt" value="422" />
+          <entry key="txt" value="432" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5594" />
+          <entry key="JAVA" value="6141" />
           <entry key="Markdown" value="989" />
-          <entry key="PLAIN_TEXT" value="562" />
+          <entry key="PLAIN_TEXT" value="587" />
         </counts>
       </usages-collector>
     </session>
@@ -153,21 +172,74 @@
     <fileColor scope="Android Instrumented Tests" color="0c3118" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo5ReverseString.java">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo02GenericClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
+            <state relative-caret-position="168">
               <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo6.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo03GenericMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="358">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo04GenericInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericInterfaceImpl1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericInterfaceImpl2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+              <folding>
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -224,23 +296,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/readme.md" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/usualapi/ComputerNumber.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Manager.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/EmployeeFactory.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Test.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/readme.md" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Composite/TreeNode.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Composite/readme.md" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/builder/v2/Test.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/staticproxy/OrderServiceStaticProxy.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/beiwanglu/Article.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/design/beiwanglu/ArticleMoment.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/Calculator.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/reflect/ReflectDemo1.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/reflect/ReflectDemo2.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/reflect/ReflectDemo3.java" />
         <option value="$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/reflect/ReflectDemo4.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/dynamicproxy/Test.java" />
@@ -273,8 +328,25 @@
         <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/Array.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/GenericArray.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/GenericArray.java" />
-        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo5ReverseString.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo6.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo5ReverseString.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo01/Stream/Demo02StreamTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/latest/java8/math/MathsTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/code/optimization/Demo1Map.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/reflect/ReflectDemo1.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/CompanyEnum.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo1CompanyEnum.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Gender.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo4Gender.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/TestEnum03.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo3EnumCar.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo02/Iterator/Demo01Iterator.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo02/Iterator/Demo02Foreach.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo01Generic.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo02GenericClass.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo03GenericMethod.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo04GenericInterface.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericInterfaceImpl2.java" />
       </list>
     </option>
   </component>
@@ -317,81 +389,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="top" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="top" type="1f31426a:PackageElementNode" />
-              <item name="sea521" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="top" type="1f31426a:PackageElementNode" />
-              <item name="sea521" type="1f31426a:PackageElementNode" />
-              <item name="algorithm" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
-              <item name="top" type="1f31426a:PackageElementNode" />
-              <item name="sea521" type="1f31426a:PackageElementNode" />
-              <item name="algorithm" type="1f31426a:PackageElementNode" />
-              <item name="leetcode" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Unicom" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -442,6 +439,89 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="basic" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="basic" type="1f31426a:PackageElementNode" />
+              <item name="swimmingpool" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="basic" type="1f31426a:PackageElementNode" />
+              <item name="swimmingpool" type="1f31426a:PackageElementNode" />
+              <item name="fanxing" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="basic" type="1f31426a:PackageElementNode" />
+              <item name="swimmingpool" type="1f31426a:PackageElementNode" />
+              <item name="fanxing" type="1f31426a:PackageElementNode" />
+              <item name="demo02.Iterator" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java--basic" type="616d4139:PackageViewModuleNode" />
+              <item name="basic" type="1f31426a:PackageElementNode" />
+              <item name="swimmingpool" type="1f31426a:PackageElementNode" />
+              <item name="fanxing" type="1f31426a:PackageElementNode" />
+              <item name="demo03.Generic" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java--basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pig" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Unicom" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="main1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -449,7 +529,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/linuxshare/micproject/pig/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -458,20 +538,20 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\A--项目中心\java--basic\java\src\basic\latest\java8\streams" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="basic.utils" />
-      <recent name="basic.latest.atguigu.lambda" />
-      <recent name="basic.pond.array.core" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\AAiDEL\java--basic\java\src\basic\pond\a_basic_enhance\reflect" />
       <recent name="E:\AAiDEL\java--basic\java\src\basic\pond" />
       <recent name="E:\AAiDEL\java--basic\java\src\basic\pond\a_basic_enhance" />
       <recent name="E:\AAiDEL\java--basic\java" />
       <recent name="E:\AAiDEL\java--basic\java\src\top\sea521\design\tmp\stru" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic.utils" />
+      <recent name="basic.latest.atguigu.lambda" />
+      <recent name="basic.pond.array.core" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\A--项目中心\java--basic\java\src\basic\latest\java8\streams" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -486,14 +566,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo6">
-    <configuration name="Boxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.pond.datatype.Boxing" />
+  <component name="RunManager" selected="Application.GenericInterfaceImpl2">
+    <configuration name="Demo02GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.swimmingpool.fanxing.demo03.Generic.Demo02GenericClass" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.pond.datatype.*" />
+          <option name="PATTERN" value="basic.swimmingpool.fanxing.demo03.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -501,13 +581,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.pond.eighttype.Demo1StringBuilder" />
+    <configuration name="Demo04GenericInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.swimmingpool.fanxing.demo03.Generic.Demo04GenericInterface" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.pond.eighttype.*" />
+          <option name="PATTERN" value="basic.swimmingpool.fanxing.demo03.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -529,13 +609,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericClassReferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.pond.typeinfo.GenericClassReferences" />
+    <configuration name="GenericInterfaceImpl2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.swimmingpool.fanxing.demo03.Generic.GenericInterfaceImpl2" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.pond.typeinfo.*" />
+          <option name="PATTERN" value="basic.swimmingpool.fanxing.demo03.Generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.latest.java8.math.MathsTest" />
+      <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.latest.java8.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -545,23 +639,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaMapReflectTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java--basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.latest.java8.streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="basic.latest.java8.streams" />
-      <option name="MAIN_CLASS_NAME" value="basic.latest.java8.streams.LambdaMapReflectTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -581,21 +658,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo1StringBuilder" />
-      <item itemvalue="Application.Boxing" />
-      <item itemvalue="Application.GenericClassReferences" />
-      <item itemvalue="JUnit.LambdaMapReflectTest.test1" />
       <item itemvalue="Application.Demo6" />
+      <item itemvalue="Application.MathsTest" />
+      <item itemvalue="Application.Demo02GenericClass" />
+      <item itemvalue="Application.Demo04GenericInterface" />
+      <item itemvalue="Application.GenericInterfaceImpl2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericInterfaceImpl2" />
+        <item itemvalue="Application.Demo04GenericInterface" />
+        <item itemvalue="Application.Demo02GenericClass" />
+        <item itemvalue="Application.MathsTest" />
         <item itemvalue="Application.Demo6" />
-        <item itemvalue="JUnit.LambdaMapReflectTest.test1" />
-        <item itemvalue="Application.GenericClassReferences" />
-        <item itemvalue="Application.Boxing" />
-        <item itemvalue="Application.Demo1StringBuilder" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\57034\AppData\Roaming\Subversion</configuration>
@@ -681,7 +761,13 @@
       <workItem from="1570456166733" duration="780000" />
       <workItem from="1571560057983" duration="713000" />
       <workItem from="1571840181040" duration="2057000" />
-      <workItem from="1571927882723" duration="1291000" />
+      <workItem from="1571927882723" duration="1442000" />
+      <workItem from="1572063471578" duration="843000" />
+      <workItem from="1572064384842" duration="599000" />
+      <workItem from="1572086517612" duration="5843000" />
+      <workItem from="1572441109791" duration="2968000" />
+      <workItem from="1572525860003" duration="1232000" />
+      <workItem from="1572614334476" duration="4083000" />
     </task>
     <task id="LOCAL-00001" summary="总算弄好啦git!">
       <created>1560003552299</created>
@@ -984,7 +1070,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571842741407</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="算法很有意思！！！">
+      <created>1571929303237</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1571929303237</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1008,13 +1101,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217088000" />
+    <option name="totallyTimeSpent" value="232807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.2968278" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49713194" visible="true" weight="0.22163388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -1026,14 +1119,14 @@
       <window_info id="Learn" order="9" />
       <window_info id="Alibaba Cloud Explorer" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49697885" weight="0.32764506" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.79305136" weight="0.10677966" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49621785" weight="0.15187714" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.790469" visible="true" weight="0.08361775" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49244714" weight="0.3327674" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" sideWeight="0.49924356" weight="0.32931036" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4826284" weight="0.13921902" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4811178" weight="0.13993174" />
       <window_info anchor="bottom" id="Profiler" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.842145" weight="0.03533569" />
       <window_info anchor="bottom" id="CheckStyle" order="11" sideWeight="0.4977307" weight="0.0120689655" />
@@ -1046,7 +1139,7 @@
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="19" show_stripe_button="false" sideWeight="0.4969743" weight="0.0952381" />
       <window_info anchor="bottom" id="JRebel Executor" order="20" sideWeight="0.85779124" weight="0.47068965" />
-      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.20694864" side_tool="true" visible="true" weight="0.10169491" />
+      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.20953101" side_tool="true" visible="true" weight="0.08361775" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="22" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="23" />
       <window_info anchor="bottom" id="Application Servers" order="24" sideWeight="0.49962035" weight="0.3281787" />
@@ -1071,6 +1164,8 @@
       <window_info anchor="right" id="Redis Servers" order="12" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="13" side_tool="true" visible="true" weight="0.031013615" />
       <window_info anchor="right" id="Key Promoter X" order="14" weight="0.32980332" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="15" />
+      <window_info anchor="right" id="Alibaba Log Console" order="16" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1112,7 +1207,6 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/java" />
     </ignored-roots>
-    <MESSAGE value="给自己一次机会！！！" />
     <MESSAGE value="不知道我的选择是对还是错误；" />
     <MESSAGE value="了断！结束了！可能我是错的那有怎么样？算了！结束了！！！" />
     <MESSAGE value="温习lambda！jdk变化快，跟着潮流走，不要固步自封！" />
@@ -1137,339 +1231,14 @@
     <MESSAGE value="好多都是无用的" />
     <MESSAGE value="国庆结束了！！！" />
     <MESSAGE value="重温经典！" />
-    <option name="LAST_COMMIT_MESSAGE" value="重温经典！" />
+    <MESSAGE value="算法很有意思！！！" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法很有意思！！！" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/javase/abstract_class/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/javase/abstract_class/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/javase/function/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/javase/function/Demo2RoundTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/Demo04MethodNotice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/basic/Demo04OverloadPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/exceptiontest/Demo1Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/exceptiontest/ListOfNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/exceptiontest/ShopStateEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/exceptiontest/StringNullPointTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/fromgithub/io/BufferedInputFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/fromgithub/io/DirList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/fromgithub/io/Echo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/fromgithub/io/MemoryInput.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/fromgithub/io/TextFile.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/fromgithub/io/FileOutput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-529">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/FunctionalInterface/demo01/FunctionalInterface/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/FunctionalInterface/demo01/FunctionalInterface/MyFunctionalInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/FunctionalInterface/demo01/FunctionalInterface/MyFunctionalInterfaceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/FunctionalInterface/demo02/Lambda/Demo01Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/FunctionalInterface/demo04/Supplier/Demo01Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/interfaceandmanystate/demo01/Demo01Interface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/interfacetest01/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/interfacetest01/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/interfacetest01/Eaggle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/interfacetest01/SkyBird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/io/bytestream/CopyBytes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/anocation/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/anocation/Water.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="47" column="72" selection-start-line="47" selection-start-column="72" selection-end-line="47" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/resources/xanadu.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/option/Demo1OptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/com/atguigu/bank/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/FilteEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/FilterEmployee02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/FourInterfaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/FunctionRefrence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/IEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/LambdaMapReflectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/MyFunctionInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/password.md" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/MyFunctionLongDemo03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/streams/StreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream/Demo1FilterList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-377">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream/Demo02Lambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream/Demo6ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/algo/array/GenericArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#1700#1701#0" expanded="true" />
-            <element signature="e#1725#1726#0" expanded="true" />
-            <element signature="e#1773#1774#0" expanded="true" />
-            <element signature="e#1801#1802#0" expanded="true" />
-            <element signature="e#2262#2263#0" expanded="true" />
-            <element signature="e#2294#2295#0" expanded="true" />
-            <element signature="e#2337#2338#0" expanded="true" />
-            <element signature="e#2376#2377#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1482,15 +1251,352 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo5ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/top/sea521/algorithm/leetcode/Demo6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="272">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/atguigu/lambda/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/atguigu/lambda/FilterEmployeeForAge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/atguigu/lambda/FilterEmployeeForSalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/atguigu/lambda/TestLambda1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1520">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo01/Stream/Demo01List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/river/FunctionalInterface/demo04/Supplier/Demo02StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/river/FunctionalInterface/demo04/Supplier/Demo01Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo01/Stream/Demo02StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo01/Stream/StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream02/Demo1ConcatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/java8/math/MathsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="61" column="64" selection-start-line="61" selection-start-column="64" selection-end-line="61" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/code/optimization/Demo1Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/idea/sea/interface01/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/constructor/FatherClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/constructor/SonClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/datatype/Boxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/datatype/IntegerChanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/TemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/sea/reflect/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/sea/reflect/ReflectSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/sea/reflect/MyClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/sea/reflect/LoadDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/sea/jvm/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/sea/jvm/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/sea/jvm/Demo3MavMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/annotation/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/annotation/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/reflect/ReflectDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo1CompanyEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo4Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/enums/GenderEnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/enums/TestEnum03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo3EnumCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo2FourSeasonEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo2PracticeSeason.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Season.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/anocation/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo02/Iterator/Demo01Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo02/Iterator/Demo02Foreach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo01Generic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo02GenericClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo03GenericMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericInterfaceImpl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/GenericInterfaceImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/fanxing/demo03/Generic/Demo04GenericInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>

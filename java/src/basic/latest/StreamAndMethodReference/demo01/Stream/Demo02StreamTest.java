@@ -19,9 +19,7 @@ public class Demo02StreamTest {
         list.add("刘强");
         list.add("刘三丰");
 
-        //对list集合中的元素进行过滤,只要以刘开头的元素,存储到一个新的集合中
-        //对listA集合进行过滤,只要姓名长度为3的人,存储到一个新集合中
-        //遍历listB集合
+        // 1 对list集合中的元素进行过滤,只要以刘开头的元素,存储到一个新的集合中,对listA集合进行过滤,只要姓名长度为3的人,存储到一个新集合中,遍历listB集合
 
         list.stream().filter(name -> name.startsWith("刘"))
                 .filter(name -> name.length() == 3)

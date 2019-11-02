@@ -19,4 +19,10 @@ public enum Demo3EnumCar {
         return price;
     }
 
+    public static void main(String[] args) {
+        for (Demo3EnumCar c : Demo3EnumCar.values()) {
+            System.out.println(c.getPrice());
+        }
+    }
+
 }
