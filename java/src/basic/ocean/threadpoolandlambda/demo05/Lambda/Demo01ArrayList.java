@@ -1,4 +1,4 @@
-package basic.ocean.threadpoolandlambda.demo07.Lambda;
+package basic.ocean.threadpoolandlambda.demo05.Lambda;
 
 import java.util.ArrayList;
 

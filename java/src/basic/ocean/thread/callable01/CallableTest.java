@@ -20,5 +20,11 @@ public class CallableTest implements Callable {
         FutureTask futureTask = new FutureTask(callableTest);
         Object o = futureTask.get();
         System.out.println(o);
+        System.out.println("**********************************************");
+        FutureTask<String> futureTask1 = new FutureTask<String>(callableTest);
+        String s = futureTask1.get();
+        System.out.println(s);
+
+
     }
 }

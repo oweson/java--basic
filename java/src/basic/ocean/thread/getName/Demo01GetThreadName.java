@@ -18,5 +18,10 @@ public class Demo01GetThreadName {
         // 3 链式编程
         System.out.println("======================================================");
         System.out.println(Thread.currentThread().getName());
+        // ======================================================
+        //main
+        //Thread-0
+        //Thread-1
+        //Thread-2
     }
 }

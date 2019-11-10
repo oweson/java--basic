@@ -1,4 +1,4 @@
-package basic.ocean.threadpoolandlambda.demo06.Lambda;
+package basic.ocean.threadpoolandlambda.demo05.Lambda;
 
 /**
     Lambda表达式有参数有返回值的练习

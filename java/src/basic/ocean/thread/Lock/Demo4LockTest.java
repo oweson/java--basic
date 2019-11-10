@@ -22,7 +22,7 @@ public class Demo4LockTest {
     }
 
     public static void main(String[] args) {
-        /** 1 lock和synchronized的区别
+        /** 1 lock和synchronized的区别：
          * synchronized修饰的对象有四种：
          * （1）修饰代码块，作用于调用的对象；
          * （2）修饰方法，作用于调用的对象；

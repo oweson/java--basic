@@ -23,7 +23,7 @@ public class Demo01Fish {
 
     public void eat() {
         synchronized (d) {
-            System.out.print("洗");
+            System.out.print("喜");
             System.out.print("欢");
             System.out.print("喝");
             System.out.println("水");

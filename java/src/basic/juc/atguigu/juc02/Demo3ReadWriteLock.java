@@ -11,9 +11,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 public class Demo3ReadWriteLock {
 
     public static void main(String[] args) {
-        Integer integer = new Integer(100);
         ReadWriteLockDemo rw = new ReadWriteLockDemo();
-
         new Thread(new Runnable() {
 
             @Override

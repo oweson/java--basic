@@ -9,13 +9,10 @@ import java.util.Date;
  */
 public class Demo01LockFish {
     public static void main(String[] args) {
-        Date date = new Date();
         final Demo01Fish fish = new Demo01Fish();
         new Thread() {
             @Override
             public void run() {
-
-
                 while (true) {
                     fish.eat();
                 }
