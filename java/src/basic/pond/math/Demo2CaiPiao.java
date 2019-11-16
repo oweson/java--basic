@@ -3,7 +3,7 @@ package basic.pond.math;
 import java.util.Random;
 import java.util.Scanner;
 
-public class CaiPiao {
+public class Demo2CaiPiao {
     public static void demo1() {
         Random r = new Random();
         StringBuilder sb = new StringBuilder();

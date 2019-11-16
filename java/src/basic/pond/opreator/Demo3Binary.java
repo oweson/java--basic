@@ -23,6 +23,8 @@ public class Demo3Binary {
         int b = 7;
         System.out.println(a | b);
         System.out.println(a & b);
+        // 新特性！
+        System.out.println(100_000_000);
 
     }
 

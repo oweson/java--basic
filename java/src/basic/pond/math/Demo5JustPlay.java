@@ -9,7 +9,7 @@ import java.util.Vector;
  *
  * @Date：2019/1/29 0029 21:55
  */
-public class JustPlay {
+public class Demo5JustPlay {
     public static void main(String[] args) {
         List<Integer> list02 = new Vector<>(1000);
         List<Integer> list03 = new Vector<>(10000);

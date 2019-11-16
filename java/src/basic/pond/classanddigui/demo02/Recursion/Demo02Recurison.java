@@ -1,5 +1,5 @@
 package basic.pond.classanddigui.demo02.Recursion;
-/*
+/**
     练习:
         使用递归计算1-n之间的和
  */
@@ -9,7 +9,7 @@ public class Demo02Recurison {
         System.out.println(s);
     }
 
-    /*
+    /**
         定义一个方法,使用递归计算1-n之间的和
         1+2+3+...+n
         n+(n-1)+(n-2)+...+1

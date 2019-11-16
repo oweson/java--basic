@@ -9,7 +9,7 @@ import java.util.Random;
  *
  * @Date：2019/1/29 0029 22:07
  */
-public class GradeScore {
+public class Demo6GradeScore {
     public static void main(String[] args) {
         /** 1 模拟统计班级考试分数分布情况，分别统计100-80，79-60，59-40，39-0各个阶段的人数。
 

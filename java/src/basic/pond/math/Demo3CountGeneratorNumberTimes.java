@@ -9,7 +9,7 @@ import java.util.Random;
  *
  * @Date：2019/1/29 0029 21:38
  */
-public class CountGeneratorNumberTimes {
+public class Demo3CountGeneratorNumberTimes {
     public static void main(String[] args) {
         /** 1 统计数字出现次数。
 
@@ -22,7 +22,7 @@ public class CountGeneratorNumberTimes {
 
     }
 
-    // 对应保存数字出现的次数
+    // 对应保存数字出现的次数,1-10波动 ！！！
     private static void printList(List<Integer> numberList) {
         int count[] = new int[10];
         for (int i = 0; i < numberList.size(); i++) {

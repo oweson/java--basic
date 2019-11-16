@@ -1,5 +1,7 @@
 package basic;
 
+import java.util.Collection;
+
 /**
  * the class is create by @Author:oweson
  *
@@ -7,6 +9,7 @@ package basic;
  */
 public class JiechengTest {
     public static void main(String[] args) {
+
         int num=1;
         for (int i = 1; i <9 ; i++) {
             num*=i;

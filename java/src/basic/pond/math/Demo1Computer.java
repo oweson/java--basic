@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @Date：2019/4/29 0029 19:36
  */
-public class Computer {
+public class Demo1Computer {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
