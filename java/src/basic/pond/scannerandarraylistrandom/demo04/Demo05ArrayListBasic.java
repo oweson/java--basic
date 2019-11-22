@@ -26,13 +26,13 @@ public class Demo05ArrayListBasic {
         ArrayList<String> listA = new ArrayList<>();
         // 错误写法！泛型只能是引用类型，不能是基本类型
 //        ArrayList<int> listB = new ArrayList<>();
-
         ArrayList<Integer> listC = new ArrayList<>();
         listC.add(100);
         listC.add(200);
-        System.out.println(listC); // [100, 200]
-
+        System.out.println(listC);
+        // [100, 200]
         int num = listC.get(1);
+        // 0开始！！！
         System.out.println("第1号元素是：" + num);
     }
 

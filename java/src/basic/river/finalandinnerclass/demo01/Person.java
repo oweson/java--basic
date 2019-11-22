@@ -9,7 +9,8 @@ package basic.river.finalandinnerclass.demo01;
  */
 public class Person {
 
-    private final String name/* = "鹿晗"*/;
+    private final String name
+            /* = "鹿晗"*/;
 
     public Person() {
         name = "关晓彤";

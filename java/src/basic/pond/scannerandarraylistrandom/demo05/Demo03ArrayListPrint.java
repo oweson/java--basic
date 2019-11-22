@@ -20,7 +20,6 @@ public class Demo03ArrayListPrint {
         list.add("张翠山");
         System.out.println(list);
         // [张三丰, 宋远桥, 张无忌, 张翠山]
-
         printArrayList(list);
     }
 
