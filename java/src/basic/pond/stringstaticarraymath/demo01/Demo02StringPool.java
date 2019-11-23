@@ -2,7 +2,6 @@ package basic.pond.stringstaticarraymath.demo01;
 
 /**
  * 字符串常量池：程序当中直接写上的双引号字符串，就在字符串常量池中。
- * <p>
  * 对于基本类型来说，==是进行数值的比较。
  * 对于引用类型来说，==是进行【地址值】的比较。
  */
@@ -21,6 +20,10 @@ public class Demo02StringPool {
         // false
         System.out.println(str2 == str3);
         // false
+        // stringbuilder
+        StringBuilder sb = new StringBuilder("abcdefg");
+        sb.insert(2,"ppx");
+        System.out.println(sb);
     }
 
 }
