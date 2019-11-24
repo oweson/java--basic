@@ -29,7 +29,7 @@ import java.util.Date;
 public class Demo01Date {
     public static void main(String[] args) {
         System.out.println(System.currentTimeMillis());
-        System.out.println(new Date().getTime());
+        System.out.println(new Date().getTime()== System.currentTimeMillis());
         System.out.println(System.currentTimeMillis());
         //获取当前系统时间到1970 年 1 月 1 日 00:00:00经历了多少毫秒
     }
