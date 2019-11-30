@@ -29,6 +29,8 @@ public class Demo01ExtendsMethod {
         // 因为静态方法是在编译时确定了，不能多态，也就是不能运行时绑定
         Zi.demo1();
         Zi.demo2();
+        System.out.println("*************************************************************");
+        zi.methodFu();
 
     }
 

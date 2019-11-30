@@ -10,4 +10,11 @@ public class Zi extends Fu {
         System.out.println("子类重名方法执行！");
     }
 
+    @Override
+    public void methodFu() {
+        System.out.println("hi!");
+        super.methodFu();
+        System.out.println("hi!");
+
+    }
 }

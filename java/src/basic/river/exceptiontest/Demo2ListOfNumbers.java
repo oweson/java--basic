@@ -4,11 +4,11 @@ import java.io.*;
 import java.util.List;
 import java.util.ArrayList;
 
-public class ListOfNumbers {
+public class Demo2ListOfNumbers {
     private List<Integer> list;
     private static final int SIZE = 10;
 
-    public ListOfNumbers() {
+    public Demo2ListOfNumbers() {
         list = new ArrayList<Integer>(SIZE);
         for (int i = 0; i < SIZE; i++) {
             list.add(new Integer(i));
@@ -33,7 +33,7 @@ public class ListOfNumbers {
         } finally {
             if (out != null) {
                 System.out.println("Closing PrintWriter");
-                /**关流*/
+                /*关流*/
                 out.close();
             } else {
                 System.out.println("PrintWriter not open");

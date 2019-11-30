@@ -15,6 +15,7 @@ public class Zi extends Fu {
         // 10，父类的成员变量
         System.out.println(age);
         // 成员变量在普通的方法里面可以直接使用
+        System.out.println(age);
 
     }
 

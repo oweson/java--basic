@@ -14,7 +14,8 @@ public class Demo02StringBuilder {
         //StringBuilder bu2 = bu.append("abc");//把bu的地址赋值给了bu2
         //System.out.println(bu);//"abc"
         //System.out.println(bu2);//"abc"
-        //System.out.println(bu==bu2);//比较的是地址 true
+        //System.out.println(bu==bu2);
+        // 比较的是地址 true
 
         //使用append方法无需接收返回值
 //        bu.append("abc");
