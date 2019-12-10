@@ -16,7 +16,8 @@ public class Demo4Thread {
             }
         };
         Thread thread =  new Thread(runnable);
-        /** 调用的是自己没有重写的run()*/
+        /* 调用的是自己没有重写的run()*/
+        // todo 切记，唯有start才会开启线程！！！
         thread.run();
         System.out.println("bar");
         System.out.println("-----------------------");

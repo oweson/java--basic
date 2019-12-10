@@ -39,7 +39,6 @@ public class RunnableImpl implements Runnable {
         while (true) {
             //2.在可能会出现安全问题的代码前调用Lock接口中的方法lock获取锁
             l.lock();
-
             // 3 先判断票是否存在
             if (ticket <= 0) {
                 break;

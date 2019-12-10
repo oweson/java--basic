@@ -11,11 +11,11 @@ import java.util.concurrent.locks.ReentrantLock;
 public class Demo02LockTest {
     public static final int demo1(){
         synchronized (Demo02LockTest.class){
+            // 在有安全风险的地方用lock接口
             Lock lock = new ReentrantLock();
             lock.lock();
             for (int i = 0; i < 10; i++) {
-
-
+                System.out.println(i);
             }
             lock.unlock();
 

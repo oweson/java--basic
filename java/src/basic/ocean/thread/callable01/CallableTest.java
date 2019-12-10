@@ -21,6 +21,7 @@ public class CallableTest implements Callable {
         Object o = futureTask.get();
         System.out.println(o);
         System.out.println("**********************************************");
+        // 加了泛型
         FutureTask<String> futureTask1 = new FutureTask<String>(callableTest);
         String s = futureTask1.get();
         System.out.println(s);
