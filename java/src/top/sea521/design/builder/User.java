@@ -73,7 +73,7 @@ public class User {
         }
 
         public User build() {
-            /**由于Builder是非线程安全的，
+            /*由于Builder是非线程安全的，
              * 所以如果要在Builder内部类中检查一个参数的合法性，必需要在对象创建完成之后再检查。*/
             User user = new User(this);
             if (user.getAge() > 120) {

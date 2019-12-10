@@ -18,17 +18,23 @@ public class TreeNode {
     }
 
 
-    // 1 添加孩子节点
+    /**
+     * 1 添加孩子节点
+     */
     public void add(TreeNode node) {
         children.add(node);
     }
 
-    // 2 删除孩子节点
+    /**
+     * 2 删除孩子节点
+     */
     public void remove(TreeNode node) {
         children.remove(node);
     }
 
-    // 3 取得孩子节点
+    /**
+     * 3 取得孩子节点
+     */
     public Enumeration<TreeNode> getChildren() {
         return children.elements();
     }

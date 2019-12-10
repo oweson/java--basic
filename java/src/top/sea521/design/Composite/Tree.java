@@ -6,14 +6,8 @@ package top.sea521.design.Composite;
  * @Date：2019/6/1 0001 17:23
  */
 public class Tree {
-    TreeNode root = null;
+    private TreeNode root = null;
 
-    @Override
-    public String toString() {
-        return "Tree{" +
-                "root=" + root +
-                '}';
-    }
 
     public Tree(String name) {
         root = new TreeNode(name);
@@ -31,5 +25,12 @@ public class Tree {
         System.out.println("build the tree finished!");
         System.out.println(tree);
         // 树形结构！！！
+    }
+
+    @Override
+    public String toString() {
+        return "Tree{" +
+                "root=" + root +
+                '}';
     }
 }
