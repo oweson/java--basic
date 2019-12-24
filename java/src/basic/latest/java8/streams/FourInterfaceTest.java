@@ -32,8 +32,8 @@ public class FourInterfaceTest {
      */
     @Test
     public void testSupplier() {
-        /**重要的demo*/
-        /**生成随机数字的时候，math必须完毕后再用括号包括*/
+        /*重要的demo*/
+        /*生成随机数字的时候，math必须完毕后再用括号包括*/
         List<Integer> list = getList(15, () -> (int) (Math.random() * 100));
         for (Integer integer : list) {
             System.out.println(integer);
@@ -54,13 +54,17 @@ public class FourInterfaceTest {
         }
         return list;
     }
-    /**函数式接口的应用*/
-    public String funString(String str, Function<String,String> fun){
+
+    /**
+     * 函数式接口的应用
+     */
+    public String funString(String str, Function<String, String> fun) {
         /**注意apply核心的方法*/
         return fun.apply(str);
     }
+
     @Test
-    public void testFunInterface(){
+    public void testFunInterface() {
         String s = funString("   asa    sas book", (str) -> str.trim().toUpperCase());
         System.out.println(s);
         String s1 = funString("hello,world", (ppx) -> ppx.trim().substring(2));

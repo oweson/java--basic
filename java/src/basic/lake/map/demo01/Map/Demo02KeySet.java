@@ -27,6 +27,7 @@ public class Demo02KeySet {
         Set<String> set = map.keySet();
 
         //2.遍历set集合,获取Map集合中的每一个key
+
         // 1  使用迭代器遍历Set集合
         Iterator<String> it = set.iterator();
         while (it.hasNext()) {
@@ -35,7 +36,9 @@ public class Demo02KeySet {
             Integer value = map.get(key);
             System.out.println(key + "=" + value);
         }
-        System.out.println("-------------------");
+        System.out.println("-----------------------------------------------------------------------");
+
+
         //   2 使用增强for遍历Set集合
         for (String key : set) {
             //3.通过Map集合中的方法get(key),通过key找到value

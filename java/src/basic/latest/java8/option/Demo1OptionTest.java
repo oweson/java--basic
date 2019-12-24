@@ -11,7 +11,7 @@ import java.util.Optional;
 public class Demo1OptionTest {
 
     public static void main(String[] args) {
-        Object message =  Optional.ofNullable(null)
+        Object message = Optional.ofNullable(null)
                 .orElseGet(HashMap::new);
         System.out.println(message);
         String message2 = (String) Optional.ofNullable(null)

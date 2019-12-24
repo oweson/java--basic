@@ -21,20 +21,20 @@ public class Demo04ForeachMap {
             map.put(key, value);
 
         }
-        /** 1 遍历entryset*/
+        /* 1 遍历entryset*/
         Iterator<Map.Entry<String, String>> entryIterator = map.entrySet().iterator();
         while (entryIterator.hasNext()) {
             Map.Entry<String, String> next = entryIterator.next();
             System.out.println("key is :" + next.getKey() + "value is :" + next.getValue());
         }
         System.out.println("==============================================");
-        /** 2 遍历*/
+        /* 2 遍历*/
         Iterator<String> stringIterator = map.keySet().iterator();
         while (stringIterator.hasNext()) {
             String next = stringIterator.next();
             System.out.println("key is :" + next + "value is :" + map.get(next));
         }
-        /** 3 遍历*/
+        /* 3 遍历*/
         System.out.println("--------------------------------");
         map.forEach((k, v) -> {
             System.out.print(k + ":" + v);

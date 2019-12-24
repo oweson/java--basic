@@ -14,39 +14,39 @@ import java.util.stream.Stream;
 public class SelectLambdaAndSelectAndCutTest {
     @Test
     public void test1() {
-        /** 1 lambda的切片和筛选*/
+        /* 1 lambda的切片和筛选*/
         ArrayList<Student> students = new ArrayList<>(Arrays.asList(new Student(21, "ppx"), new Student(31, "op"),
                 new Student(12, "oweson"), new Student(15, "lo")));
         Stream<Student> studentStream = students.stream().filter((s) -> s.getAge() > 21);
         studentStream.forEach(System.out::println);
-        /** 2 是内部遍历的*/
+        /* 2 是内部遍历的*/
 
     }
 
     @Test
     public void test2() {
-        /**lambda的切片和筛选*/
+        /*lambda的切片和筛选*/
         ArrayList<Student> students = new ArrayList<>(Arrays.asList(new Student(21, "ppx"), new Student(31, "op"),
                 new Student(12, "oweson"), new Student(15, "lo")));
         Stream<Student> studentStream = students.stream().filter((s) -> s.getAge() > 2).limit(2);
-        /**limit就取两个*/
+        /*limit就取两个*/
         studentStream.forEach(System.out::println);
-        /**是内部遍历的*/
+        /*是内部遍历的*/
 
     }
 
     @Test
     public void test3() {
-        /**lambda的切片和筛选*/
+        /*lambda的切片和筛选*/
         ArrayList<Student> students = new ArrayList<>(Arrays.asList(new Student(21, "ppx"), new Student(31, "op"),
                 new Student(12, "oweson"), new Student(15, "lo")));
         Stream<Student> studentStream = students.stream().filter((s) -> {
             System.out.println("具有短路效果");
-            /**通过短路提高效率*/
+            /*通过短路提高效率*/
             return s.getAge() > 2;
         }).limit(2);
         studentStream.forEach(System.out::println);
-        /**是内部遍历的*/
+        /*是内部遍历的*/
 
     }
 

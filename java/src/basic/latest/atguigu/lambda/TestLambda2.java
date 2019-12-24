@@ -67,7 +67,7 @@ public class TestLambda2 {
     @Test
     public void test2() {
         Consumer<String> con = x -> System.out.println(x);
-        con.accept("我大尚硅谷威武！");
+        con.accept("我威武！");
     }
 
     @Test

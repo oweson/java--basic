@@ -46,7 +46,7 @@ public class FilteEmployee {
     }
 
     /**
-     * 优化方案二，采用匿名内部类，不用newl类去实现呢接口
+     * 优化方案二，采用匿名内部类，不用new类去实现呢接口
      */
     public static List<FilteEmployee> filterEmployee03(List<FilteEmployee> list, IEmployee<FilteEmployee> fuck) {
 
@@ -73,7 +73,7 @@ public class FilteEmployee {
 
         List<FilteEmployee> list1 = new ArrayList<>();
         for (FilteEmployee filteEmployee : list) {
-            /**优化方案*/
+            /*优化方案*/
             if (listSuper.testSth(filteEmployee)) {
                 list1.add(filteEmployee);
             }
