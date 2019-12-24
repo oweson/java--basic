@@ -9,6 +9,9 @@ import java.util.Map;
  * @Date：2019/6/4 0004 17:24
  */
 public class CrayonFactory {
+    /**
+     * 这里是核心！！！
+     */
     private static Map<String, ICrayon> data = new HashMap<>();
 
     public static ICrayon getCrayon(String color) {

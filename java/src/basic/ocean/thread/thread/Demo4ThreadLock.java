@@ -51,7 +51,7 @@ class Printer {
 
     public void print2() {
         //synchronized(new Demo()) {
-        // 锁对象不能用匿名对象,因为匿名对象不是同一个对象
+        // todo 锁对象不能用匿名对象,因为匿名对象不是同一个对象
         synchronized (d) {
             System.out.print("传");
             System.out.print("智");

@@ -18,6 +18,7 @@ public class Demo3Thread {
         for (int i = 0; i < 1000; i++) {
             Thread.sleep(1);
             System.out.println("hello");
+            System.out.println(Thread.currentThread().getName());
         }
 
     }
@@ -28,11 +29,12 @@ class Pig extends Thread {
     public void run() {
         for (int i = 0; i < 1000; i++) {
             try {
+                System.out.println("world");
+                System.out.println(Thread.currentThread().getName());
                 Thread.sleep(1);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            System.out.println("world");
         }
     }
 }

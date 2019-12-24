@@ -12,7 +12,7 @@ public class EasySynchronizedTest {
 
     public void testSth() {
         synchronized (date) {
-            /**那啥是任意的对象，但是匿名的对象不可以的；*/
+            /*那啥是任意的对象，但是匿名的对象不可以的；*/
             System.out.println(10);
         }
 
