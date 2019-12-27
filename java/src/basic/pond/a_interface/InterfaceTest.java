@@ -1,4 +1,4 @@
-package basic.pond.basic.other;
+package basic.pond.a_interface;
 
 /**
  * the class is create by @Author:oweson

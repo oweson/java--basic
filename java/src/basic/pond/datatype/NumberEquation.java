@@ -9,7 +9,7 @@ package basic.pond.datatype;
 public class NumberEquation {
     public static void main(String[] args) {
         Integer i = 42;
-        Long l = 42l;
+        Long l = 42L;
         Double d = 42.0;
 
         System.out.println(i.equals(d));

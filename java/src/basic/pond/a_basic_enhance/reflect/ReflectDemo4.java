@@ -72,7 +72,8 @@ public class ReflectDemo4 {
 
         //获取类名
         String className = personClass.getName();
-        System.out.println(className);//cn.itcast.domain.Person
+        System.out.println(className);
+        //cn.itcast.domain.Person
 
     }
 

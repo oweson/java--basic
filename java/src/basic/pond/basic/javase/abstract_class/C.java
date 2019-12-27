@@ -10,7 +10,7 @@ public class C extends B {
 
     @Override
     public void showA() {
-        /**继承过来的！！！*/
+        /*继承过来的！！！*/
         System.out.println("A类中numa:" + numa);
     }
 

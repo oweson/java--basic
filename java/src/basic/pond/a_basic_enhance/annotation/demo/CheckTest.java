@@ -11,7 +11,7 @@ import java.lang.reflect.Method;
  * <p>
  * 当主方法执行后，会自动自行被检测的所有方法(加了Check注解的方法)，判断方法是否有异常，记录到文件中
  */
-public class TestCheck {
+public class CheckTest {
 
 
     public static void main(String[] args) throws IOException {
@@ -35,7 +35,6 @@ public class TestCheck {
                     method.invoke(c);
                 } catch (Exception e) {
                     //6.捕获异常
-
                     //记录到文件中
                     number++;
 

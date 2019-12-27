@@ -16,8 +16,7 @@ public class GeneratotChar {
     }
 
     public static void main(String[] args) {
-        System.out.println(returnChar());
-        // System.err.println(randomChar());
+         System.err.println(randomChar());
     }
 
 }

@@ -1,20 +1,18 @@
 package basic.pond.a_basic_enhance.annotation;
 
-import java.io.InputStream;
 import java.lang.reflect.Method;
-import java.util.Properties;
 
 /**
  * 框架类
  */
 
 
-@Pro(className = "cn.itcast.annotation.Demo1",methodName = "show")
+@Pro(className = "cn.itcast.annotation.Demo1", methodName = "show")
 public class ReflectTest {
     public static void main(String[] args) throws Exception {
 
         /*
-            前提：不能改变该类的任何代码。可以创建任意类的对象，可以执行任意方法
+         前提：不能改变该类的任何代码。可以创建任意类的对象，可以执行任意方法
          */
 
 
@@ -42,9 +40,6 @@ public class ReflectTest {
         String methodName = an.methodName();
         System.out.println(className);
         System.out.println(methodName);
-
-
-
 
 
         //3.加载该类进内存

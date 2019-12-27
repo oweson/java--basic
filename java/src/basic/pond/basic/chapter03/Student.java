@@ -10,11 +10,11 @@ public class Student implements Comparable<Student> {
         student.setName("aaa");
         student1.setName("aaa");
         student2.setName("bbb");
-        /**true--0*/
+        /*true--0*/
         System.out.println(student.compareTo(student1));
-        /**false----  -1*/
+        /*false----  -1*/
         System.out.println(student.compareTo(student2));
-        /**true 0*/
+        /*true 0*/
         System.out.println(student.compareTo(student));
     }
 

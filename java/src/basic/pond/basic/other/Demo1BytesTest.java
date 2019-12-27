@@ -5,10 +5,10 @@ package basic.pond.basic.other;
  *
  * @Date：2018/6/14 0014 12:07
  */
-public class TestBytes {
+public class Demo1BytesTest {
     public static void testByte() {
         byte a = 1, b = 2, c;
-        /**声明三个byte类型的数据，c=a+b进行运算
+        /*声明三个byte类型的数据，c=a+b进行运算
          * ，换转化为int类型，会变异失败*/
         // c=a+b;
     }

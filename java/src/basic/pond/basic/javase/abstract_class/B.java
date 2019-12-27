@@ -8,4 +8,9 @@ package basic.pond.basic.javase.abstract_class;
 public abstract  class B extends A {
     int numb = 20;
     public abstract void showB();
+
+    @Override
+    public void showA() {
+        int a=100;
+    }
 }

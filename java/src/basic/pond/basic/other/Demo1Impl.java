@@ -1,8 +1,9 @@
 package basic.pond.basic.other;
 
 public class Demo1Impl implements Demo1 {
-     @Override
+    @Override
     public int add() {
+        // A是接口的变量；
         System.out.println(A);
         return 0;
     }
