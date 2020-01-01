@@ -1,7 +1,7 @@
 package basic.sea.jvm.jvm.gc;
 
 public class Finalization {
-    public static Finalization finalization;
+    public static Finalization finalization=null;
     @Override
     protected void finalize(){
         System.out.println("Finalized");

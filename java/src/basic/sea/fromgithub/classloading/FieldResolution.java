@@ -23,7 +23,8 @@ public class FieldResolution {
     }
 
     static class Sub extends Parent implements Interface2 {
-        public static int A = 4;// 注释此句试试
+        public static int A = 4;
+        // 注释此句试试
     }
 
     public static void main(String[] args) {

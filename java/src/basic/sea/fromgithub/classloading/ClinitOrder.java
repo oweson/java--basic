@@ -12,7 +12,12 @@ public class ClinitOrder {
             System.out.println("execute before A = 2, A now is " + A);
             A = 2;
         }
+
+        static {
+            System.out.println("hello,world!");
+        }
     }
+
 
     static class Sub extends Parent {
         public static int B = A;
