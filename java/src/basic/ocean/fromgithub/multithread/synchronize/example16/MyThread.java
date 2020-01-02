@@ -1,8 +1,6 @@
 package basic.ocean.fromgithub.multithread.synchronize.example16;
 
-/**
- * Created by Brian on 2016/4/13.
- */
+
 public class MyThread extends Thread {
     volatile public static int count;
 

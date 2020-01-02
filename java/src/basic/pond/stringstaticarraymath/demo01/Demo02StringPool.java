@@ -20,7 +20,7 @@ public class Demo02StringPool {
         // false
         System.out.println(str2 == str3);
         // false
-        // stringbuilder
+        // stringBuilder
         StringBuilder sb = new StringBuilder("abcdefg");
         sb.insert(2,"ppx");
         System.out.println(sb);

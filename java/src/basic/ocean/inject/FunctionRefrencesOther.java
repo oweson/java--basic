@@ -6,13 +6,13 @@ package basic.ocean.inject;
  */
 
 public class FunctionRefrencesOther {
-    public void tests() {
+    public void test() {
         System.out.print("hello");
     }
 
     public void testWorld() {
-        this.tests();
-        /**
+        this.test();
+        /*
          * 这个时候this可有可无,跨方法调用直接在方法内部调用就可以了*/
         System.out.println("  " + "world");
     }

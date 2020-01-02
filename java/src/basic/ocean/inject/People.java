@@ -21,7 +21,7 @@ public class People {
         Student student = new Student();
         student.setId(21);
         student.setName("ppx");
-        /**把student属性注入到people中；
+        /*把student属性注入到people中；
          * */
         people.setStudent(student);
         System.out.println(people.student.id);
