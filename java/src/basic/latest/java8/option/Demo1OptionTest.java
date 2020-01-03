@@ -22,7 +22,6 @@ public class Demo1OptionTest {
         String message1 = (String) Optional.ofNullable(null)
                 .orElseThrow(() -> new RuntimeException("消息不存在!"));
 
-
         System.out.println(message1);
 
     }

@@ -1,6 +1,8 @@
 package basic.river.extendsuperthisabstract.demo06;
 
-// 定义一个新手机，使用老手机作为父类
+/**
+ * 定义一个新手机，使用老手机作为父类
+ */
 public class NewPhone extends Phone {
 
     @Override
@@ -15,6 +17,6 @@ public class NewPhone extends Phone {
     }
 
     public static void main(String[] args) {
-        
+        new NewPhone().show();
     }
 }
