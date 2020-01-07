@@ -11,7 +11,7 @@ package basic.river.extendsuperthisabstract.demo09;
  */
 public class Zi extends Fu {
 
-    int num = 20;
+    private int num = 20;
 
     public Zi() {
         // super();这一行不再赠送

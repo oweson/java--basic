@@ -8,5 +8,5 @@ public abstract class Dog extends Animal {
         System.out.println("狗吃骨头");
     }
 
-    // public abstract void sleep();
+    public abstract void sleep();
 }

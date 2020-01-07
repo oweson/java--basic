@@ -20,6 +20,7 @@ public class Zi extends Fu {
         // 父类中的num
     }
 
+    @Override
     public void method() {
         super.method();
         // 访问父类中的method

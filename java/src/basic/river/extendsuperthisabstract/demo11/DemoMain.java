@@ -3,7 +3,7 @@ package basic.river.extendsuperthisabstract.demo11;
 public class DemoMain {
 
     public static void main(String[] args) {
-        /**什么是编译看左边？
+        /*什么是编译看左边？
          * 在多态中，向上转型和向下转型有很多的应用。
          * 例如： 1：  Animal c = new Cat();   //类型提升，向上转型
          *             在编译时：参阅引用型变量所属类中是否有调用的方法。如果有。编译通过，没有编译失败

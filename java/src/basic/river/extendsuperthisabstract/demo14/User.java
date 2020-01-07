@@ -2,8 +2,10 @@ package basic.river.extendsuperthisabstract.demo14;
 
 public class User {
 
-    private String name; // 姓名
-    private int money; // 余额，也就是当前用户拥有的钱数
+    private String name;
+    // 姓名
+    private int money;
+    // 余额，也就是当前用户拥有的钱数
 
     public User() {
     }
