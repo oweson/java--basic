@@ -46,7 +46,7 @@ public class FourInterfaceTest {
         List<Integer> list = new ArrayList();
 
         for (int i = 0; i < num; i++) {
-            /**返回Integer*/
+            /*返回Integer*/
             Integer integer = sup.get();
             list.add(integer);
 

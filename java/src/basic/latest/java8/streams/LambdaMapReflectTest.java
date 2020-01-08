@@ -20,12 +20,13 @@ public class LambdaMapReflectTest {
                 new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"),
                 new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"), new Student(12, "oweson"),
                 new Student(15, "lo")));
-        /** 1 通过map函数把集合中的每一个value都映射出来；l*/
+        /* 1 通过map函数把集合中的每一个value都映射出来；*/
         students.stream().map((s) -> s.getName()).forEach(System.out::println);
-        /** 2 去除重复的时候student对象必须重写equal()和hashcode();*/
-        List<Integer> integerList = students.stream().map((s) -> s.getAge()).limit(100).collect(Collectors.toList());
+        List<Student> studentList = students.stream().filter(x -> x.getAge() > 12).collect(Collectors.toList());
+        /* 2 去除重复的时候student对象必须重写equal()和hashcode();*/
+        List<Integer> integerList = students.stream().map(Student::getAge).limit(100).collect(Collectors.toList());
         for (Integer integer : integerList) {
-            System.out.println("oweson:"+integer);
+            System.out.println("oweson:" + integer);
 
         }
 

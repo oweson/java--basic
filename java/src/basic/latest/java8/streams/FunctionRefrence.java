@@ -40,22 +40,16 @@ public class FunctionRefrence {
     }
 
     @Test
-    /* 4 构造器引用*/
+    /* 4 构造器引用，得到对象*/
     public void testDemo4() {
         Supplier<Student> sup = Student::new;
         Student student = sup.get();
-        System.out.println(student);
+        System.out.println(student.getAge());
     }
 
-    @Test
-    public void testDemo5() {
-        Function<Integer, Student> fun = Student::new;
-        Student apply = fun.apply(101);
-        System.out.println(apply.getAge());
-    }
 
     /**
-     * 数组的引用
+     * 5 数组的引用
      */
     @Test
     public void testDemo6() {
@@ -65,7 +59,7 @@ public class FunctionRefrence {
     }
 
     /**
-     * 实例引用
+     * 6 实例引用
      */
     @Test
     public void testDemo7() {
