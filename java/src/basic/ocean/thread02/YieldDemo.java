@@ -7,7 +7,7 @@ public class YieldDemo {
             public void run() {
                 for (int i = 1; i <= 10; i++) {
                     System.out.println(Thread.currentThread().getName() + i);
-                    // a 线程运行到5的时候就让出线程给b运行
+                    // a线程运行到5的时候就让出线程给b运行
                     // 只是暗示不一定让出！；
                     if (i == 5) {
                         Thread.yield();
@@ -15,7 +15,7 @@ public class YieldDemo {
                 }
             }
         };
-        //thread有待参数的构造器和无参数的构造器
+        //thread有带参数的构造器和无参数的构造器
         Thread t1 = new Thread(yieldTask, "A");
         Thread t2 = new Thread(yieldTask, "B");
         t1.start();

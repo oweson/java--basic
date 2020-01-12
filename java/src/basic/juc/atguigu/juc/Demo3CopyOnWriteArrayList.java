@@ -12,7 +12,6 @@ public class Demo3CopyOnWriteArrayList {
 
     public static void main(String[] args) {
         HelloThread ht = new HelloThread();
-
         for (int i = 0; i < 10; i++) {
             new Thread(ht).start();
         }
@@ -36,10 +35,9 @@ class HelloThread implements Runnable {
     public void run() {
 
         Iterator<String> it = list.iterator();
-
         while (it.hasNext()) {
             String next = it.next();
-            System.out.println(next+"   "+Thread.currentThread().getName());
+            System.out.println(next + "   " + Thread.currentThread().getName());
             list.add("QQ");
         }
 

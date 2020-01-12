@@ -29,7 +29,7 @@ public class Demo02StringBuilder {
          * 链式编程:方法返回值是一个对象,可以继续调用方法
          */
         System.out.println("abc".toUpperCase().toLowerCase().toUpperCase().toLowerCase());
-        bu.append("abc").append(1).append(true).append(8.8).append('中');
+        bu.append("abc").append(1).append(true).append(8.8).append("china");
         System.out.println(bu);
         //abc1true8.8中
 

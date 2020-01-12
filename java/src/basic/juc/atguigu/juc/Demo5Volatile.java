@@ -15,7 +15,6 @@ public class Demo5Volatile {
         ThreadDemo td = new ThreadDemo();
         new Thread(td).start();
         // 两个线程
-
         while (true) {
             if (td.isFlag()) {
                 System.out.println("==============================================");
@@ -30,19 +29,14 @@ public class Demo5Volatile {
 
 class ThreadDemo implements Runnable {
     // 共享数据，一个读一个写；
-
     private volatile boolean flag = false;
-
     @Override
     public void run() {
-
         try {
             Thread.sleep(200);
         } catch (InterruptedException e) {
         }
-
         flag = true;
-
         System.out.println("flag=" + isFlag());
 
     }

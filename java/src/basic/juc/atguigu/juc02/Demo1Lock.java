@@ -16,7 +16,6 @@ public class Demo1Lock {
 
     public static void main(String[] args) {
         Ticket ticket = new Ticket();
-
         new Thread(ticket, "1号窗口").start();
         new Thread(ticket, "2号窗口").start();
         new Thread(ticket, "3号窗口").start();
@@ -27,7 +26,6 @@ public class Demo1Lock {
 class Ticket implements Runnable {
 
     private int tick = 1000;
-
     private Lock lock = new ReentrantLock();
 
     @Override
@@ -43,7 +41,6 @@ class Ticket implements Runnable {
                         Thread.sleep(15);
                     } catch (InterruptedException e) {
                     }
-
                     System.out.println(Thread.currentThread().getName() + " 完成售票，余票为：" + --tick);
                 }
             } finally {

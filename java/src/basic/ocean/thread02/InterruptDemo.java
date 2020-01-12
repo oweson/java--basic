@@ -23,7 +23,8 @@ public class InterruptDemo {
         Thread t1 = new Thread(interruptTask, "t1");
         System.out.println(t1.getName() +" ("+t1.getState()+") is new.");
 
-        t1.start();                      // 启动“线程t1”
+        t1.start();
+        // 启动“线程t1”
         System.out.println(t1.getName() +" ("+t1.getState()+") is started.");
 
         // 主线程休眠300ms，然后主线程给t1发“中断”指令。

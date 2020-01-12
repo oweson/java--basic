@@ -13,8 +13,8 @@ public class Demo4ThreadLock {
      */
     public static void main(String[] args) {
         final Printer p = new Printer();
-
         new Thread() {
+            @Override
             public void run() {
                 while (true) {
                     p.print1();
@@ -23,6 +23,7 @@ public class Demo4ThreadLock {
         }.start();
 
         new Thread() {
+            @Override
             public void run() {
                 while (true) {
                     p.print2();

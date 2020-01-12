@@ -21,7 +21,7 @@ class Ticket extends Thread {
     @Override
     public void run() {
         while (true) {
-            /**一个对象的字节码对象*/
+            /*一个对象的字节码对象*/
             synchronized (Ticket.class) {
                 if (ticket <= 0) {
                     break;
