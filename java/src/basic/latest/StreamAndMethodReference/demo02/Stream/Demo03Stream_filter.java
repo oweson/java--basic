@@ -1,22 +1,24 @@
 package basic.latest.StreamAndMethodReference.demo02.Stream;
 
+import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
-    Stream流中的常用方法_filter:用于对Stream流中的数据进行过滤
-    Stream<T> filter(Predicate<? super T> predicate);
-    filter方法的参数Predicate是一个函数式接口,所以可以传递Lambda表达式,对数据进行过滤
-    Predicate中的抽象方法:
-        boolean test(T t);
+ * Stream流中的常用方法_filter:用于对Stream流中的数据进行过滤
+ * Stream<T> filter(Predicate<? super T> predicate);
+ * filter方法的参数Predicate是一个函数式接口,所以可以传递Lambda表达式,对数据进行过滤
+ * Predicate中的抽象方法:
+ * boolean test(T t);
  */
 public class Demo03Stream_filter {
     public static void main(String[] args) {
-        //创建一个Stream流
+        // 1 创建一个Stream流
         Stream<String> stream = Stream.of("张三丰", "张翠山", "赵敏", "周芷若", "张无忌");
-        //对Stream流中的元素进行过滤,只要姓张的人
-        Stream<String> stream2 = stream.filter((String name)->{return name.startsWith("张");});
-        //遍历stream2流
-        stream2.forEach(System.out::println);
+        // 2 对Stream流中的元素进行过滤,只要姓张的人
+        Stream<String> stringStream = stream.filter((String name) -> name.contains("赵"));
+        List<String> stringList = stringStream.collect(Collectors.toList());
+        stringList.forEach(System.out::println);
 
         /*
             Stream流属于管道流,只能被消费(使用)一次
@@ -26,6 +28,5 @@ public class Demo03Stream_filter {
             IllegalStateException: stream has already been operated upon or closed
          */
         //遍历stream流
-        stream.forEach(System.out::println);
     }
 }

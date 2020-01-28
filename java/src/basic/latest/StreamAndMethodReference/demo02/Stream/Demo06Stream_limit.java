@@ -11,12 +11,12 @@ import java.util.stream.Stream;
  */
 public class Demo06Stream_limit {
     public static void main(String[] args) {
-        //获取一个Stream流
+        // 1 获取一个Stream流
         String[] arr = {"美羊羊","喜洋洋","懒洋洋","灰太狼","红太狼"};
         Stream<String> stream = Stream.of(arr);
-        //使用limit对Stream流中的元素进行截取,只要前3个元素
+        // 2 使用limit对Stream流中的元素进行截取,只要前3个元素
         Stream<String> stream2 = stream.limit(3);
-        //遍历stream2流
+        // 3 遍历stream2流
         stream2.forEach(System.out::println);
     }
 }

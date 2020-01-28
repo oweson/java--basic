@@ -9,10 +9,8 @@ public class Demo01Printable {
     }
 
     public static void main(String[] args) {
-        /**调用printString方法,方法的参数Printable是一个函数式接口,所以可以传递Lambda*/
-        printString((s) -> {
-            System.out.println(s);
-        });
+        /*调用printString方法,方法的参数Printable是一个函数式接口,所以可以传递Lambda*/
+        printString(System.out::println);
 
         /*
             分析:

@@ -15,10 +15,8 @@ public class Demo01StaticMethodReference {
 
     public static void main(String[] args) {
         //调用method方法,传递计算绝对值得整数,和Lambda表达式
-        int number = method(-10, (n) -> {
-            //对参数进行绝对值得计算并返回结果
-            return Math.abs(n);
-        });
+        //对参数进行绝对值得计算并返回结果
+        int number = method(-10, Math::abs);
         System.out.println(number);
 
         /*

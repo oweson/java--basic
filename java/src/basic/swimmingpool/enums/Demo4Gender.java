@@ -9,7 +9,7 @@ package basic.swimmingpool.enums;
 public enum Demo4Gender {
     GENDER(1), CODE(2), HAHA(3);
     private int code;
-    /*因为只有get所以只能得到不能设置*/
+    //因为只有get所以只能得到不能设置
 
     public int getCode() {
         return code;

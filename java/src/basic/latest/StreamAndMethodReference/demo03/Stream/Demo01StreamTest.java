@@ -36,7 +36,8 @@ public class Demo01StreamTest {
         //2. 第一个队伍筛选之后只要前3个人；存储到一个新集合中。
         ArrayList<String> one2 = new ArrayList<>();
         for (int i = 0; i <3 ; i++) {
-            one2.add(one1.get(i));//i = 0,1,2
+            one2.add(one1.get(i));
+            //i = 0,1,2
         }
 
         //第二支队伍
@@ -58,7 +59,8 @@ public class Demo01StreamTest {
         //4. 第二个队伍筛选之后不要前2个人；存储到一个新集合中。
         ArrayList<String> two2 = new ArrayList<>();
         for (int i = 2; i <two1.size() ; i++) {
-            two2.add(two1.get(i)); //i 不包含0 1
+            two2.add(two1.get(i));
+            //i 不包含0 1
         }
 
         //5. 将两个队伍合并为一个队伍；存储到一个新集合中。
