@@ -37,7 +37,7 @@ public class Demo02StaticMethod {
         // 完全等效
     }
 
-    public static void myMethod() {
+    private static void myMethod() {
         System.out.println("自己的方法！");
     }
 

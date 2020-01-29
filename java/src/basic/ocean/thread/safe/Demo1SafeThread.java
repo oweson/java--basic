@@ -21,9 +21,7 @@ public class Demo1SafeThread {
             map.put(i, i + 1);
 
         }
-        Iterator<Map.Entry<Integer, Integer>> iterator = map.entrySet().iterator();
-        while (iterator.hasNext()) {
-            Map.Entry<Integer, Integer> next = iterator.next();
+        for (Map.Entry<Integer, Integer> next : map.entrySet()) {
             System.out.println(next.getKey() + "    :" + next.getValue());
         }
     }

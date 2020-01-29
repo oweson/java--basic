@@ -245,14 +245,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo1ThreadPoolTest">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.latest.StreamAndMethodReference.demo09.ConstructorMethodReference.Demo" />
+  <component name="RunManager" selected="Application.Demo02PrintThreadNameAndMainThreadName">
+    <configuration name="Demo02PrintThreadNameAndMainThreadName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ocean.thread.getName.Demo02PrintThreadNameAndMainThreadName" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.latest.StreamAndMethodReference.demo09.ConstructorMethodReference.*" />
+          <option name="PATTERN" value="basic.ocean.thread.getName.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo02PrintThreadNameAndMainThreadName" />
         <item itemvalue="Application.Demo1ThreadPoolTest" />
         <item itemvalue="Application.Demo08Stream_concat" />
         <item itemvalue="Application.Demo07Stream_skip" />
         <item itemvalue="Application.Demo03Stream_filter" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>

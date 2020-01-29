@@ -13,7 +13,6 @@ public class Demo01GetThreadName {
         mt.start();
 
         new MyThread().start();
-        new MyThread().start();
 
         // 3 链式编程
         System.out.println("======================================================");

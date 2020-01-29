@@ -19,14 +19,10 @@ public class Demo02PrintThreadNameAndMainThreadName implements Runnable {
     public static void main(String[] args) {
         new Thread(new Demo02PrintThreadNameAndMainThreadName()).start();
         new Thread(new Demo02PrintThreadNameAndMainThreadName()).start();
-        new Thread(new Demo02PrintThreadNameAndMainThreadName()).start();
-        new Thread(new Demo02PrintThreadNameAndMainThreadName()).start();
-        new Thread(new Demo02PrintThreadNameAndMainThreadName()).start();
-        new Thread(new Demo02PrintThreadNameAndMainThreadName()).start();
         // 主线程！
         for (int i = 0; i < 100; i++) {
             if (i % 2 == 0) {
-                System.out.println(Thread.currentThread().getName() + "main");
+                System.out.println(Thread.currentThread().getName() + "             :main");
 
             }
 
