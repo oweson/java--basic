@@ -1,40 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa10090f-c85e-46c9-bffe-a5394c060244" name="Default Changelist" comment="">
+    <list default="true" id="c18bfb41-92cf-4a5a-982d-8c1ba72dd264" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/HasLocalNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/Run1_local.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/ThreadA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/ThreadB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example12/DealThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example12/Run12_deadLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example14/Run14_setNewStringTwoLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example14/Service.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example15/Run15_synchronized.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example15/Run15_volatile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example15/RunThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example15/RunThread2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example16/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example16/Run16_volatile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/MyObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/Run3_synchronized01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/ThreadA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/ThreadB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example4/MyObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example4/Run4_synchronized01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example4/ThreadA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example4/ThreadB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example5/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example5/Run5_lockRein.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example5/Sub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example6/Run6_exception.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example6/Service.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example6/ThreadA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example6/ThreadB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/src/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/java--basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java--basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/thread/synchronzied/Demo01Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/thread/synchronzied/RunnableImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/thread/synchronzied/SellTicket.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/java/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,95 +33,10 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/thread/FourThreadCreate/Demo1ThreadPoolTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding>
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#447#514#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindBugs-IDEA-Workspace">
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/java/src/basic/river/extendsuperthisabstract/demo14/User.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/river/extendsuperthisabstract/Son.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/river/nio/Charset01.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/river/nio/Demo1ByteBuffer.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/atguigu/lambda/TestLambda1.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/atguigu/lambda/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/FourInterfaceTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/FunctionRefrence.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/lambda/stream/Demo1FilterList.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/LambdaMapReflectTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc/Demo2CompareAndSwap.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc/Demo3CopyOnWriteArrayList.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/pond/usualapi/demo06StringBuilder/Demo02StringBuilder.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc/Demo4CountDownLatch.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc/Demo5Volatile.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc02/Demo1Lock.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread/synchronzied/RunnableImpl.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread/synchronzied/SellTicket.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc02/BigPig.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc02/BreakContinueTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread02/Demo1CASCase.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread02/Demo3CurrentThreadDemo.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread/setName/Demo01SetThreadName.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread/setName/MyThread.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread02/Demo4CycleWait.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread02/InterruptDemo.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread02/YieldDemo.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread/thread/Demo01Thread.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread/thread/Demo2Thread.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread/thread/Demo3Thread.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread/thread/Demo4ThreadLock.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/thread/volatile01/VolatileTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo06/StaticMethodReference/Demo01StaticMethodReference.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo07/SuperMethodReference/Greetable.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo07/SuperMethodReference/Human.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo09/ConstructorMethodReference/PersonBuilder.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo09/ConstructorMethodReference/Demo.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo10/ArrayMethodReference/ArrayBuilder.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo10/ArrayMethodReference/Demo.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo04/MethodReference/Demo01Printable.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo02Stream_forEach.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo03Stream_filter.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo04Stream_map.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo05Stream_count.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo06Stream_limit.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo07Stream_skip.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo08Stream_concat.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo01GetStream.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo03/Stream/Demo01StreamTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo03/Stream/Demo02StreamTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo4Gender.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -145,7 +48,7 @@
     </option>
   </component>
   <component name="MavenRunner">
-    <option name="jreName" value="1.8 (1)" />
+    <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -153,15 +56,12 @@
     <option name="width" value="1380" />
     <option name="height" value="693" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,67 +71,54 @@
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="ocean" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="ocean" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="ocean" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="FourThreadCreate" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="sync" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Course" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/src/utils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2019idea/idea/workspace" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="basic.swimmingpool.fanxing" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\AAiDEL\java--basic\java\src\utils" />
-    </key>
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,14 +132,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo02PrintThreadNameAndMainThreadName">
-    <configuration name="Demo02PrintThreadNameAndMainThreadName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.thread.getName.Demo02PrintThreadNameAndMainThreadName" />
+  <component name="RunManager" selected="Application.Demo01List">
+    <configuration name="CopyOnWriteArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.juc.atguigu.concollections.CopyOnWriteArrayList" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ocean.thread.getName.*" />
+          <option name="PATTERN" value="basic.juc.atguigu.concollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,13 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03Stream_filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.latest.StreamAndMethodReference.demo02.Stream.Demo03Stream_filter" />
+    <configuration name="Demo01List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.lake.collection.demo01.List.Demo01List" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.latest.StreamAndMethodReference.demo02.Stream.*" />
+          <option name="PATTERN" value="basic.lake.collection.demo01.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,41 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo07Stream_skip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.latest.StreamAndMethodReference.demo02.Stream.Demo07Stream_skip" />
+    <configuration name="ReflectDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.pond.a_basic_enhance.reflect.ReflectDemo3" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.latest.StreamAndMethodReference.demo02.Stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo08Stream_concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.latest.StreamAndMethodReference.demo02.Stream.Demo08Stream_concat" />
-      <module name="java--basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.latest.StreamAndMethodReference.demo02.Stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.thread.FourThreadCreate.Demo1ThreadPoolTest" />
-      <module name="java--basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.ocean.thread.FourThreadCreate.*" />
+          <option name="PATTERN" value="basic.pond.a_basic_enhance.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,604 +199,146 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo02PrintThreadNameAndMainThreadName" />
-        <item itemvalue="Application.Demo1ThreadPoolTest" />
-        <item itemvalue="Application.Demo08Stream_concat" />
-        <item itemvalue="Application.Demo07Stream_skip" />
-        <item itemvalue="Application.Demo03Stream_filter" />
+        <item itemvalue="Application.Demo01List" />
+        <item itemvalue="Application.ReflectDemo3" />
+        <item itemvalue="Application.CopyOnWriteArrayList" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SshConsoleOptionsProvider">
-    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aa10090f-c85e-46c9-bffe-a5394c060244" name="Default Changelist" comment="" />
-      <created>1577452576251</created>
+      <changelist id="c18bfb41-92cf-4a5a-982d-8c1ba72dd264" name="Default Changelist" comment="" />
+      <created>1581062650078</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1577452576251</updated>
-      <workItem from="1577452579828" duration="721000" />
-      <workItem from="1577453736119" duration="1426000" />
-      <workItem from="1577716718259" duration="4170000" />
-      <workItem from="1577805174364" duration="2367000" />
-      <workItem from="1577966360353" duration="2150000" />
-      <workItem from="1578057156145" duration="726000" />
-      <workItem from="1578058930144" duration="484000" />
-      <workItem from="1578396867380" duration="1345000" />
-      <workItem from="1578492643231" duration="2216000" />
-      <workItem from="1578707717670" duration="2812000" />
-      <workItem from="1578796064009" duration="1857000" />
-      <workItem from="1580188808300" duration="2491000" />
-      <workItem from="1580272081709" duration="330000" />
+      <updated>1581062650078</updated>
+      <workItem from="1581062654543" duration="206000" />
     </task>
-    <task id="LOCAL-00001" summary="可怜世间万物，没有四块五的妞">
-      <created>1577454507720</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1577454507720</updated>
-    </task>
-    <task id="LOCAL-00002" summary="2019pig再见！！！">
-      <created>1577802650766</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1577802650766</updated>
-    </task>
-    <task id="LOCAL-00003" summary="2020">
-      <created>1577856812485</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1577856812485</updated>
-    </task>
-    <task id="LOCAL-00004" summary="每一天，每一秒！">
-      <created>1577967377260</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1577967377260</updated>
-    </task>
-    <task id="LOCAL-00005" summary="无为而治">
-      <created>1578057844398</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1578057844398</updated>
-    </task>
-    <task id="LOCAL-00006" summary="无为而治，顺其自然">
-      <created>1578401201206</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1578401201207</updated>
-    </task>
-    <task id="LOCAL-00007" summary="我曾">
-      <created>1578494187654</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1578494187654</updated>
-    </task>
-    <task id="LOCAL-00008" summary="练习多线程">
-      <created>1578797250851</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1578797250851</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23095000" />
+    <option name="totallyTimeSpent" value="206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24924242" />
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="Alibaba Cloud Explorer" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Learn" order="3" />
-      <window_info id="JRebel" order="4" side_tool="true" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Alibaba Cloud Explorer" order="7" />
-      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.09289618" />
+      <window_info anchor="bottom" id="Run with VisualVM" />
+      <window_info anchor="bottom" id="Profiler" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="Sequence" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="Debug with VisualVM" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.05464481" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3460838" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Tail" order="8" />
-      <window_info anchor="bottom" id="Sequence" order="9" />
-      <window_info anchor="bottom" id="Profiler" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.05464481" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
-      <window_info anchor="bottom" id="CheckStyle" order="14" />
-      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" order="16" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="17" />
-      <window_info anchor="bottom" id="Database Changes" order="18" />
-      <window_info anchor="bottom" id="Version Control" order="19" />
-      <window_info anchor="bottom" id="Alibaba Cloud View" order="20" />
-      <window_info anchor="bottom" id="JRebel Executor" order="21" />
-      <window_info anchor="bottom" id="JRebel Console" order="22" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="23" weight="0.057361376" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="24" />
-      <window_info anchor="bottom" id="Java Enterprise" order="25" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="right" id="Redis Servers" />
+      <window_info anchor="right" id="Graphical Navigator" type="SLIDING" />
+      <window_info anchor="right" id="UML Diagrams" type="SLIDING" />
+      <window_info anchor="right" id="Alibaba Function Compute" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Alibaba Log Console" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="RestServices" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="UML Diagrams" order="6" type="SLIDING" />
-      <window_info anchor="right" id="Graphical Navigator" order="7" type="SLIDING" />
-      <window_info anchor="right" id="Word Book" order="8" side_tool="true" />
-      <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Alibaba Function Compute" order="10" />
-      <window_info anchor="right" id="Palette&#9;" order="11" />
-      <window_info anchor="right" id="Redis Servers" order="12" />
-      <window_info anchor="right" id="Alibaba Log Console" order="13" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="可怜世间万物，没有四块五的妞" />
-    <MESSAGE value="2019pig再见！！！" />
-    <MESSAGE value="2020" />
-    <MESSAGE value="每一天，每一秒！" />
-    <MESSAGE value="无为而治" />
-    <MESSAGE value="无为而治，顺其自然" />
-    <MESSAGE value="我曾" />
-    <MESSAGE value="练习多线程" />
-    <option name="LAST_COMMIT_MESSAGE" value="练习多线程" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo07/SuperMethodReference/Greetable.java">
+    <entry file="file://$PROJECT_DIR$/java/src/basic/juc/atguigu/concollections/CopyOnWriteArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo07/SuperMethodReference/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo07/SuperMethodReference/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo08/ThisMethodReference/Richable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo08/ThisMethodReference/Husband.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-          <folding>
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo09/ConstructorMethodReference/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo09/ConstructorMethodReference/PersonBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo09/ConstructorMethodReference/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-          <folding>
-            <element signature="e#256#295#1" expanded="true" />
-            <element signature="e#323#339#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo10/ArrayMethodReference/ArrayBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo10/ArrayMethodReference/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-284">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-          <folding>
-            <element signature="e#365#366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo02Stream_forEach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo03Stream_filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#416#484#1" expanded="true" />
-            <element signature="e#611#692#1" expanded="true" />
-            <element signature="e#760#828#1" expanded="true" />
-            <element signature="e#699#740#0" expanded="true" />
-            <element signature="e#699#740#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo04Stream_map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <element signature="e#552#654#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo05Stream_count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-          <folding>
-            <element signature="e#563#617#1" expanded="true" />
-            <element signature="e#662#701#1" expanded="true" />
-            <element signature="e#710#738#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo06Stream_limit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <element signature="e#479#518#1" expanded="true" />
-            <element signature="e#569#610#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo07Stream_skip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo08Stream_concat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="e#601#657#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo02/Stream/Demo01GetStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-313">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="e#529#567#1" expanded="true" />
-            <element signature="e#549#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo03/Stream/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo03/Stream/Demo01StreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-478">
-          <caret line="59" column="33" lean-forward="true" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
-          <folding>
-            <element signature="e#896#1011#0" expanded="true" />
-            <element signature="e#901#912#0" expanded="true" />
-            <element signature="e#896#1011#0" expanded="true" />
-            <element signature="e#934#1001#0" expanded="true" />
-            <element signature="e#934#1001#0" expanded="true" />
-            <element signature="e#972#986#0" expanded="true" />
-            <element signature="e#972#986#0" expanded="true" />
-            <element signature="e#1730#1747#0" expanded="true" />
-            <element signature="e#1770#1878#0" expanded="true" />
-            <element signature="e#1770#1878#0" expanded="true" />
-            <element signature="e#1770#1878#0" expanded="true" />
-            <element signature="e#1770#1878#0" expanded="true" />
-            <element signature="e#1770#1878#0" expanded="true" />
-            <element signature="e#1822#1843#0" expanded="true" />
-            <element signature="e#1831#1842#0" expanded="true" />
-            <element signature="e#1831#1842#0" expanded="true" />
-            <element signature="e#1822#1843#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo03/Stream/Demo02StreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo04/MethodReference/Printable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo04/MethodReference/Demo01Printable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo05/ObjectMethodReference/Printable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/nio/a.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/nio/Charset01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/river/nio/Demo1ByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-633">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/sea/batchRedis.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/anocation/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/anocation/Water.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Season.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/enums/Demo4Gender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/swimmingpool/generics/demo02/Iterator/Demo01Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-          <folding>
-            <element signature="e#1355#1456#0" expanded="true" />
-            <element signature="e#1355#1456#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example1/HasLocalNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/MyObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example3/Run3_synchronized01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-676">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example4/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example5/Sub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example6/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example12/DealThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example14/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example15/RunThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example15/Run15_volatile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/fromgithub/multithread/synchronize/example16/Run16_volatile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/asyc/Demo1BasicFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="70">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/thread/callable01/CallableTest.java">
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/a_basic_enhance/reflect/ReflectDemo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="99">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/thread/deadlock/DeadLock.java">
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/usualapi/demo01/Object/Demo02Equals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-346">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="68">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/thread/FourThreadCreate/Demo1ThreadPoolTest.java">
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/usualapi/demo01/Object/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#447#514#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/mmall/concurrency/example/sync/SynchronizedExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <last-edited>Python 3.6 interpreter library</last-edited>
@@ -962,6 +363,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -976,6 +390,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>hamcrest-core-1.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

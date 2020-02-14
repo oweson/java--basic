@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hutool/src/hutool/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/hutool/src/hutool/.mvn/.mvn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hutool/src/hutool/hutool.iml" filepath="$PROJECT_DIR$/hutool/src/hutool/hutool.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java--basic.iml" filepath="$PROJECT_DIR$/java/java--basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java/javase.iml" filepath="$PROJECT_DIR$/java/javase.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrency/src/main/main.iml" filepath="$PROJECT_DIR$/concurrency/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrency/src/test/test.iml" filepath="$PROJECT_DIR$/concurrency/src/test/test.iml" />
     </modules>
