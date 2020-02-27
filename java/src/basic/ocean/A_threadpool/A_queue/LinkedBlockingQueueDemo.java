@@ -21,7 +21,6 @@ public class LinkedBlockingQueueDemo {
 
 	public static void main(String[] args) {
 		final LinkedBlockingQueueDemo t = new LinkedBlockingQueueDemo();
-
 		new Thread(() -> {
 			while (true) {
 				try {
@@ -32,7 +31,7 @@ public class LinkedBlockingQueueDemo {
 				}
 			}
 		}, "producer").start();
-
+// 开启三个线程进行消费
 		for (int i = 0; i < 3; i++) {
 			new Thread(() -> {
 				while (true) {

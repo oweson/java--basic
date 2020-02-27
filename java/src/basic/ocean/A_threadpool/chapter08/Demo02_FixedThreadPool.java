@@ -8,8 +8,10 @@ import java.util.concurrent.TimeUnit;
  * 固定容量线程池<br>
  * FixedThreadPool - 固定容量线程池。创建线程池的时候，容量固定，构造的时候，提供线程池最大容量<br>
  * ExecutorService - 线程池服务接口。所有的线程池类型都实现这个接口，代表可以提供线程池能力。<br>
- * shutdown - 优雅关闭。 不是强行关闭线程池，回收线程池中的资源。而是不再处理新的任务，将已接收的任务处理完毕后 再关闭。<br>
- * Executors - Executor的工具类。类似Collection和Collections的关系， 可以更简单的创建若干种线程池。<br>
+ * shutdown - 优雅关闭。 不是强行关闭线程池，回收线程池中的资源。而是不再处理新的任务，
+ * 将已接收的任务处理完毕后 再关闭。<br>
+ * Executors - Executor的工具类。类似Collection和Collections的关系，
+ * 可以更简单的创建若干种线程池。<br>
  */
 public class Demo02_FixedThreadPool {
 

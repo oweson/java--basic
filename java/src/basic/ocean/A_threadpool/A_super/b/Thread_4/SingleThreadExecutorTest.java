@@ -6,7 +6,7 @@ import java.util.concurrent.Executors;
 public class SingleThreadExecutorTest {
 
 	public static void main(String[] args) {
-		//单例线程池，任务是按顺序执行的
+		//单例线程池，任务是按顺序执行的,串行化的执行
 		ExecutorService service = Executors.newSingleThreadExecutor();
 		for (int i = 0; i < 5; i++) {
 			final int l = i;

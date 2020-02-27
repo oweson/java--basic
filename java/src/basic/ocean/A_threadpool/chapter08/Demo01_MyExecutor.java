@@ -11,12 +11,7 @@ import java.util.concurrent.Executor;
  */
 public class Demo01_MyExecutor implements Executor {
 	public static void main(String[] args) {
-		new Demo01_MyExecutor().execute(new Runnable() {
-			@Override
-			public void run() {
-				System.out.println(Thread.currentThread().getName() + " - test executor");
-			}
-		});
+		new Demo01_MyExecutor().execute(() -> System.out.println(Thread.currentThread().getName() + " - test executor"));
 	}
 
 	@Override

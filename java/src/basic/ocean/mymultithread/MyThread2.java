@@ -1,4 +1,4 @@
-package main.mymultithread;
+package basic.ocean.mymultithread;
 
 /**
  * @author: ALWZ

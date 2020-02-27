@@ -16,16 +16,13 @@ public class Demo05_CachedThreadPool {
 		System.out.println(service);
 
 		for (int i = 0; i < 5; i++) {
-			service.execute(new Runnable() {
-				@Override
-				public void run() {
-					try {
-						TimeUnit.MILLISECONDS.sleep(500);
-					} catch (InterruptedException e) {
-						e.printStackTrace();
-					}
-					System.out.println(Thread.currentThread().getName() + " - test executor");
+			service.execute(() -> {
+				try {
+					TimeUnit.MILLISECONDS.sleep(500);
+				} catch (InterruptedException e) {
+					e.printStackTrace();
 				}
+				System.out.println(Thread.currentThread().getName() + " - test executor");
 			});
 		}
 

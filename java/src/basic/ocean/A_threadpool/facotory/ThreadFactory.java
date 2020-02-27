@@ -1,4 +1,4 @@
-package facotory;
+package basic.ocean.A_threadpool.facotory;
 
 
 public class ThreadFactory {

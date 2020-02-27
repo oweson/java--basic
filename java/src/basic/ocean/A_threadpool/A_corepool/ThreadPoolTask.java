@@ -26,7 +26,7 @@ public class ThreadPoolTask implements Runnable, Serializable {
 
             e.printStackTrace();
         }
-
+       // 执行完毕赋值为null
         attachData = null;
     }
 

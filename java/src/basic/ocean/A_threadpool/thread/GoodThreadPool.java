@@ -1,4 +1,4 @@
-package com.lp.thread;
+package basic.ocean.A_threadpool.thread;
 
 import java.util.Queue;
 

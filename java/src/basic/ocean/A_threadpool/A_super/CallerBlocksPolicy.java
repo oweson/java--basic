@@ -1,4 +1,4 @@
-package basic.ocean.A_threadpool.A_fourthread;/*package com.threadpool.demo01;
+package basic.ocean.A_threadpool.A_super;/*package com.threadpool.demo01;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.RejectedExecutionException;

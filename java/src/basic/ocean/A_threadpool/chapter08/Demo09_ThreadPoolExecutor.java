@@ -17,21 +17,17 @@ public class Demo09_ThreadPoolExecutor {
 		ExecutorService service = new ThreadPoolExecutor(5, 5, 0L, TimeUnit.MILLISECONDS, new LinkedBlockingQueue<Runnable>());
 
 		for (int i = 0; i < 6; i++) {
-			service.execute(new Runnable() {
-				@Override
-				public void run() {
-					try {
-						TimeUnit.MILLISECONDS.sleep(500);
-					} catch (InterruptedException e) {
-						e.printStackTrace();
-					}
-					System.out.println(Thread.currentThread().getName() + " - test executor");
+			service.execute(() -> {
+				try {
+					TimeUnit.MILLISECONDS.sleep(500);
+				} catch (InterruptedException e) {
+					e.printStackTrace();
 				}
+				System.out.println(Thread.currentThread().getName() + " - test executor");
 			});
 		}
 
 		System.out.println(service);
-
 		service.shutdown();
 		System.out.println(service.isTerminated());
 		System.out.println(service.isShutdown());

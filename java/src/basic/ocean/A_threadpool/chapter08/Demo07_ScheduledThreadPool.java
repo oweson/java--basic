@@ -17,16 +17,13 @@ public class Demo07_ScheduledThreadPool {
 
 		// 定时完成任务。 scheduleAtFixedRate(Runnable, start_limit, limit, timeunit)
 		// runnable - 要执行的任务。
-		service.scheduleAtFixedRate(new Runnable() {
-			@Override
-			public void run() {
-				try {
-					TimeUnit.MILLISECONDS.sleep(500);
-				} catch (InterruptedException e) {
-					e.printStackTrace();
-				}
-				System.out.println(Thread.currentThread().getName());
+		service.scheduleAtFixedRate(() -> {
+			try {
+				TimeUnit.MILLISECONDS.sleep(500);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
 			}
+			System.out.println(Thread.currentThread().getName());
 		}, 0, 300, TimeUnit.MILLISECONDS);
 
 	}

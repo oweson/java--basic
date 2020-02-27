@@ -1,4 +1,4 @@
-package chapter06;
+package basic.ocean.A_threadpool.A_queue;
 
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
@@ -25,6 +25,7 @@ public class ConcurrentLinkedQueueDemo {
 
 		// poll() -> 获取queue中的首数据
 		System.out.println(queue.poll());
+		// poll弹出数据
 		System.out.println(queue.size());
 	}
 

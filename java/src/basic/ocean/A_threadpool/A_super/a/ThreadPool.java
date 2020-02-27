@@ -1,4 +1,4 @@
-package com.guoxi;
+package basic.ocean.A_threadpool.A_super.a;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -26,15 +26,7 @@ public class ThreadPool {
 
             }
 
-            cachedThreadPool.execute(new Runnable() {
-
-                public void run() {
-
-                    System.out.println(index);
-
-                }
-
-            });
+            cachedThreadPool.execute(() -> System.out.println(index));
 
         }
 

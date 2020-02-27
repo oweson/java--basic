@@ -13,13 +13,16 @@ import java.util.concurrent.TimeUnit;
  * @date 20191211
  */
 public class ThreadPoolTest {
+    public static void main(String[] args) {
+        threadPoolExecutor();
 
-    @Test
-    public void threadPoolExecutor() {
+    }
+
+    public static void threadPoolExecutor() {
 
         long currentTimeMillis = System.currentTimeMillis();
 
-        /**
+        /*
          * 构造参数说明：
          * int corePoolSize 核心线程池大小
          * int maximumPoolSize 最大线程池大小
@@ -33,12 +36,12 @@ public class ThreadPoolTest {
         //构建一个线程池
         ThreadPoolExecutor threadPool = new ThreadPoolExecutor(2, 5, 3, TimeUnit.SECONDS, new ArrayBlockingQueue<>(3));
 
-        for (int i = 1; i <= 10; i++) {
+        for (int i = 1; i <= 100; i++) {
             try {
                 String task = "task=" + i;
                 System.out.println("创建任务并提交到线程池中：" + task);
                 threadPool.execute(new ThreadPoolTask(task));
-
+                threadPool.execute(()-> System.out.println("hello"));
                 Thread.sleep(100);
             } catch (Exception e) {
                 e.printStackTrace();
@@ -47,10 +50,8 @@ public class ThreadPoolTest {
 
         //关闭线程池
         try {
-
             //等待所有线程执行完毕当前任务。
             threadPool.shutdown();
-
             boolean loop = true;
             do {
                 //等待所有线程执行完毕当前任务结束

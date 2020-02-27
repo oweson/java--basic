@@ -1,21 +1,18 @@
 package basic.ocean.A_threadpool.C_super.executor;
 
-import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.FutureTask;
+import java.util.concurrent.*;
 
 /**
  * SingleThreadPool类型测试
  */
 public class SingleThreadPool {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ExecutionException, InterruptedException {
         ExecutorService executorService = Executors.newSingleThreadExecutor();
         for (int i = 0; i < 3; i++) {
-            FutureTask futureTask = new FutureTask(new MySingleThread());
+            FutureTask<String> futureTask = new FutureTask<String>(new MySingleThread());
             // 提交任务
-            executorService.submit(futureTask);
+            executorService.submit(new MySingleThread());
         }
         // 关闭线程池
         executorService.shutdown();
@@ -25,11 +22,11 @@ public class SingleThreadPool {
 class MySingleThread implements Callable {
 
     @Override
-    public Object call() throws Exception {
+    public String call() throws Exception {
         System.out.println("Thread: " + Thread.currentThread().getName() + " begin...");
         Thread.sleep(5 * 1000);
         System.out.println("Thread: " + Thread.currentThread().getName() + " end...");
-        return null;
+        return Thread.currentThread().getName();
     }
 }
 

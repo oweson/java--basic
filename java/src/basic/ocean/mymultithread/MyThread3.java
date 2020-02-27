@@ -1,6 +1,5 @@
-package main.mymultithread;
+package basic.ocean.mymultithread;
 
-import java.util.concurrent.Callable;
 import java.util.concurrent.FutureTask;
 
 /**

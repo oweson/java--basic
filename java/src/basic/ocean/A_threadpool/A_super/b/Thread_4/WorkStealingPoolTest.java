@@ -9,7 +9,8 @@ public class WorkStealingPoolTest {
 //工作窃取线程池
 	public static void main(String[] args) throws IOException {
 		//daemon  后台线程，当主线程执行完后，线程可能还没执行完，会在后台执行，但是不会输出
-		ExecutorService service = Executors.newWorkStealingPool();//底层是ForkJoinPool
+		ExecutorService service = Executors.newWorkStealingPool();
+		//底层是ForkJoinPool
 		System.out.println(Runtime.getRuntime().availableProcessors());
 
 		service.execute(new R(1000));

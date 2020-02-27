@@ -12,7 +12,8 @@ public class FutureTest_1 {
 		
 		new Thread(task).start();
 		
-		System.out.println(task.get());//阻塞方法，直到任务执行完成才执行
+		System.out.println(task.get());
+		//阻塞方法，直到任务执行完成才执行
 		
 		
 		ExecutorService service = Executors.newFixedThreadPool(5);
@@ -22,7 +23,8 @@ public class FutureTest_1 {
 			return 1;
 		});
 		
-		System.out.println(future.isDone());//判断任务是否执行完
+		System.out.println(future.isDone());
+		//判断任务是否执行完
 		System.out.println(future.get());
 		System.out.println(future.isDone());
 		service.shutdown();

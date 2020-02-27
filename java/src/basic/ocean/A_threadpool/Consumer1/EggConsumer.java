@@ -1,9 +1,8 @@
-package com.threadTest.Consumer1;
+package basic.ocean.A_threadpool.Consumer1;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * 多线程 放鸡蛋 取鸡蛋

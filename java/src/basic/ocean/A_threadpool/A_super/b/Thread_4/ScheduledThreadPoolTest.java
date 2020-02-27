@@ -9,7 +9,8 @@ public class ScheduledThreadPoolTest {
 //定时器线程池
 	public static void main(String[] args) {
 		ScheduledExecutorService service = Executors.newScheduledThreadPool(4);
-		service.scheduleAtFixedRate(()->{//以固定频率执行任务
+		service.scheduleAtFixedRate(()->{
+			//以固定频率执行任务
 			try {
 				TimeUnit.MILLISECONDS.sleep(new Random().nextInt(1000));
 			} catch (InterruptedException e) {

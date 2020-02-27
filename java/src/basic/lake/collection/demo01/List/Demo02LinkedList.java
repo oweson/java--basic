@@ -25,13 +25,14 @@ import java.util.List;
  */
 public class Demo02LinkedList {
     private static void deleteInLinkedList() {
-        /**1 大量的增加删除用linkedList会提高效率*/
+        /*1 大量的增加删除用linkedList会提高效率*/
         List<Integer> linkedList = new LinkedList();
         linkedList.add(21);
         linkedList.add(22);
         linkedList.remove(0);
         System.out.println(linkedList);
     }
+
     public static void main(String[] args) {
         deleteInLinkedList();
         show03();
