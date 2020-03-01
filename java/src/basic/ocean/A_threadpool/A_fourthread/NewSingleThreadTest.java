@@ -14,14 +14,16 @@ import java.util.concurrent.Executors;
 public class NewSingleThreadTest {
     public static void main(String[] args) {
         ExecutorService executorService = Executors.newSingleThreadExecutor();
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 5; i++) {
             final int finalI = i;
             executorService.execute(() ->
                     System.out.println(Thread.currentThread().getName() + "-----" + finalI));
-            if(i==0){
+            if (i == 0 || i == 1) {
                 try {
-                    System.out.println(1/0);
+                    System.out.println(1 / 0);
                 } catch (Exception e) {
+                    System.out.println("=============================" + Thread.currentThread().getName() + "-----" + finalI);
+
                 }
             }
         }

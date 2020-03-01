@@ -6,23 +6,17 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.concurrent.*;
-
-/**
- * Administrator 2016/10/13
- */
 public class Main {
     public static void main(String[] args) {
         ExecutorService cachedThreadPool = Executors.newCachedThreadPool();
         final List<String> list = new ArrayList<String>();
         final List<Future<String>> resultList = new ArrayList<Future<String>>();
         for (int i = 0; i < 5; i++) {
-            final Future<String> future=cachedThreadPool.submit(new Callable<String>() {
-                public String call() throws Exception {
-                    list.add(new Date()+Thread.currentThread().getName());
-                    System.out.println(Thread.currentThread().getName()+"   sleep");
-                    Thread.sleep(5*1000);
-                    return "";
-                }
+            final Future<String> future=cachedThreadPool.submit(() -> {
+                list.add(new Date()+Thread.currentThread().getName());
+                System.out.println(Thread.currentThread().getName()+"   sleep");
+                Thread.sleep(5*1000);
+                return "";
             });
             resultList.add(future);
         }

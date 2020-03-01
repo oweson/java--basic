@@ -24,7 +24,6 @@ public class NewCachedThreadTest {
          */
 
         ExecutorService executorService = Executors.newCachedThreadPool();
-
         for (int i=0; i<10; i++) {
             final int finalI = i;
             //执行execute 表示创建了线程  类似start
