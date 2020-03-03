@@ -5,9 +5,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 /**
  * 并发容器 - ConcurrentLinkedQueue 链表实现的队列。
- * 
- * @author Yicheng Wang
- */
+ **/
 public class ConcurrentLinkedQueueDemo {
 
 	public static void main(String[] args) {

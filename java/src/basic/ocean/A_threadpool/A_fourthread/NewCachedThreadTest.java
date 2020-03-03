@@ -20,7 +20,11 @@ public class NewCachedThreadTest {
          * 解释
          *
          * 线程池最大线程数为Integer.MAX_VALUE。
-         * 当某个线程空闲60s，则会自动销毁
+         * 当某个线程空闲60s，则会自动销毁;
+         *
+         *
+         * * 我们执行任务是用的execute方法，除了execute方法，还有一个submit方法也可以执行我们提交的任务。
+         *  execute适用于不需要关注返回值的场景，只需要将线程丢到线程池中去执行就可以了
          */
 
         ExecutorService executorService = Executors.newCachedThreadPool();
