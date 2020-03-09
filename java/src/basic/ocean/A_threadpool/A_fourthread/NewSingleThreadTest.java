@@ -10,6 +10,9 @@ import java.util.concurrent.Executors;
  * 一个单线程的线程池，这个线程池只有一个线程在工作，即相当于单线程串行执行所有任务。
  * * 如果这个唯一的线程因为异常结束，那么会有一个新的线程来替代它。
  * * 此线程池保证所有任务的执行顺序是按照任务的提交顺序执行的。
+ *
+ * //创建一个单线程化的线程池，它只会用唯一的工作线程来执行任务，
+ *   // 保证所有任务按照指定顺序(FIFO, LIFO, 优先级)执行
  */
 public class NewSingleThreadTest {
     public static void main(String[] args) {

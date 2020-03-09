@@ -15,7 +15,6 @@ public class Demo2SafeThread {
         List list = new CopyOnWriteArrayList();
         for (int i = 0; i < 100; i++) {
             list.add(i);
-
         }
         System.out.println(list.size());
         // 2 跳表

@@ -1,9 +1,8 @@
 package basic.ocean.thread.WaitAndNotify;
-/*
+/**
     进入到TimeWaiting(计时等待)有两种方式
     1.使用sleep(long m)方法,在毫秒值结束之后,线程睡醒进入到Runnable/Blocked状态
     2.使用wait(long m)方法,wait方法如果在毫秒值结束之后,还没有被notify唤醒,就会自动醒来,线程睡醒进入到Runnable/Blocked状态
-
     唤醒的方法:
          void notify() 唤醒在此对象监视器上等待的单个线程。
          void notifyAll() 唤醒在此对象监视器上等待的所有线程。
@@ -12,7 +11,7 @@ public class Demo02WaitAndNotify {
     public static void main(String[] args) {
         //创建锁对象,保证唯一
         Object obj = new Object();
-        // 创建一个顾客线程(消费者)
+        // 1 创建一个顾客线程(消费者)
         new Thread(){
             @Override
             public void run() {
@@ -35,7 +34,7 @@ public class Demo02WaitAndNotify {
             }
         }.start();
 
-        // 创建一个顾客线程(消费者)
+        // 2 创建一个顾客线程(消费者)
         new Thread(){
             @Override
             public void run() {

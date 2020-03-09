@@ -7,7 +7,6 @@ package basic.ocean.thread.safe;
  */
 public class Demo3ThreadSafeCache {
     int result;
-
     public int getResult() {
         return result;
     }
@@ -30,12 +29,11 @@ public class Demo3ThreadSafeCache {
      * 并且可以多个线程同时进行get操作，但是同一时间最多只能有一个set操作。
      * volatile可见性
      *
-     * 前面happens-before原则就提到：volatile 变量规则：对一个 volatile 域的写，happens-before 于任意后续对这个 volatile 域的读。
+     * 前面happens-before原则就提到：volatile 变量规则：
+     * 对一个 volatile 域的写，happens-before 于任意后续对这个 volatile 域的读。
      * volatile从而保证了多线程下的可见性！！！
      */
     public synchronized void setResult(int result) {
         this.result = result;
-
-
     }
 }

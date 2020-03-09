@@ -2,7 +2,6 @@ package basic.ocean.thread02;
 
 public class Demo4CycleWait implements Runnable {
     private String value;
-
     @Override
     public void run() {
         try {

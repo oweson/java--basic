@@ -5,7 +5,6 @@ import java.util.Date;
 
 public class SyncThread implements Runnable {
     // 修饰方法和同步代码快；
-
     @Override
     public void run() {
         String threadName = Thread.currentThread().getName();
@@ -24,7 +23,7 @@ public class SyncThread implements Runnable {
     }
 
     /**
-     * 异步方法
+     * 1 异步方法
      */
     private void async() {
         try {
@@ -37,7 +36,7 @@ public class SyncThread implements Runnable {
     }
 
     /**
-     * 方法中有 synchronized(this|object) {} 同步代码块
+     * 2 方法中有 synchronized(this|object) {} 同步代码块
      */
     private void syncObjectBlock1() {
         System.out.println(Thread.currentThread().getName() + "_SyncObjectBlock1: " + new SimpleDateFormat("HH:mm:ss").format(new Date()));
@@ -53,7 +52,7 @@ public class SyncThread implements Runnable {
     }
 
     /**
-     * synchronized 修饰非静态方法
+     * 3 synchronized 修饰非静态方法
      */
     private synchronized void syncObjectMethod1() {
         System.out.println(Thread.currentThread().getName() + "_SyncObjectMethod1: " + new SimpleDateFormat("HH:mm:ss").format(new Date()));
@@ -66,6 +65,9 @@ public class SyncThread implements Runnable {
         }
     }
 
+    /**
+     * 4 普通方法
+     */
     private void syncClassBlock1() {
         System.out.println(Thread.currentThread().getName() + "_SyncClassBlock1: " + new SimpleDateFormat("HH:mm:ss").format(new Date()));
         synchronized (SyncThread.class) {
@@ -79,6 +81,9 @@ public class SyncThread implements Runnable {
         }
     }
 
+    /**
+     * 5 修饰静态方法
+     */
     private synchronized static void syncClassMethod1() {
         System.out.println(Thread.currentThread().getName() + "_SyncClassMethod1: " + new SimpleDateFormat("HH:mm:ss").format(new Date()));
         try {

@@ -8,7 +8,8 @@ import java.util.concurrent.TimeUnit;
  * the class is create by @Author:oweson
  *
  * @Date：2020/2/26 11:26
- * 此线程池支持定时以及周期性执行任务的需求
+ * 此线程池支持定时以及周期性执行任务的需求;
+ **创建一个定长线程池，支持定时及周期性任务执行
  */
 public class NewScheduledThreadTest {
     public static void main(String[] args) {

@@ -26,6 +26,9 @@ public class NewCachedThreadTest {
          * * 我们执行任务是用的execute方法，除了execute方法，还有一个submit方法也可以执行我们提交的任务。
          *  execute适用于不需要关注返回值的场景，只需要将线程丢到线程池中去执行就可以了
          */
+        /*1.创建一个可缓存线程池，如果线程池长度超过处理需要，可灵活回收空闲线程，若无可回收，则新建线程
+         * 2.线程池为无限大，当执行第二个任务时第一个任务已经完成，会复用执行第一个任务的线程，而不用每次新建线程。
+         * */
 
         ExecutorService executorService = Executors.newCachedThreadPool();
         for (int i=0; i<10; i++) {
