@@ -16,12 +16,8 @@ public class Demo2ThreadPoolTest implements Runnable {
             Demo2ThreadPoolTest demo2ThreadPoolTest = new Demo2ThreadPoolTest();
             Future<?> submit = executorService.submit(demo2ThreadPoolTest);
             Thread.sleep(2);
-
         }
-
         executorService.shutdown();
-
-
     }
 
     @Override

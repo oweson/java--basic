@@ -10,15 +10,9 @@ import java.util.concurrent.Executors;
  */
 public class Demo02ThreadPoolTest {
     public static void main(String[] args) {
-        ExecutorService executorService = Executors.newFixedThreadPool(10);
+        ExecutorService executorService = Executors.newFixedThreadPool(1);
         for (int i = 0; i < 10; i++) {
-            executorService.submit(new Runnable() {
-                @Override
-                public void run() {
-                    System.out.println(Thread.currentThread().getName()+"ppx");
-                }
-            });
-
+            executorService.submit(() -> System.out.println(Thread.currentThread().getName()+"ppx"));
         }
         executorService.shutdown();
     }

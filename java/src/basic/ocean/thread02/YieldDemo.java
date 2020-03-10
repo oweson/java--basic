@@ -2,16 +2,13 @@ package basic.ocean.thread02;
 
 public class YieldDemo {
     public static void main(String[] args) {
-        Runnable yieldTask = new Runnable() {
-            @Override
-            public void run() {
-                for (int i = 1; i <= 10; i++) {
-                    System.out.println(Thread.currentThread().getName() + i);
-                    // a线程运行到5的时候就让出线程给b运行
-                    // 只是暗示不一定让出！；
-                    if (i == 5) {
-                        Thread.yield();
-                    }
+        Runnable yieldTask = () -> {
+            for (int i = 1; i <= 10; i++) {
+                System.out.println(Thread.currentThread().getName() + i);
+                // a线程运行到5的时候就让出线程给b运行
+                // 只是暗示不一定让出！；
+                if (i == 5) {
+                    Thread.yield();
                 }
             }
         };
