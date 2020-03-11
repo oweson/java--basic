@@ -3,9 +3,6 @@ package basic.ocean.A_threadpool.map;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
-/*
-https://blog.csdn.net/lijizhi19950123/article/details/78209278
- */
 public class ReMap {
 
     public static void main(String[] args) {

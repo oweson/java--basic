@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9afff1f7-2d69-4e81-9484-03ccdc078a96" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/thread02/YieldDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/ocean/thread02/YieldDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/threadpoolandlambda/demo02/ThreadPool/Demo01ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/ocean/threadpoolandlambda/demo02/ThreadPool/Demo01ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/threadpoolandlambda/demo02/ThreadPool/Demo02ThreadPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/ocean/threadpoolandlambda/demo02/ThreadPool/Demo02ThreadPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo1CreateThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo1CreateThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo2ThreadPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo2ThreadPoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo02_FixedThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo02_FixedThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo03_Future.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo03_Future.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/basic/ocean/asyc/Demo1BasicFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/basic/ocean/asyc/Demo1BasicFuture.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,39 +20,60 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo1CreateThread.java">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo01_MyExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+            <state relative-caret-position="446">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding>
-                <element signature="e#534#614#1" expanded="true" />
-                <element signature="e#640#725#1" expanded="true" />
-                <element signature="e#764#803#1" expanded="true" />
-                <element signature="e#827#887#0" expanded="true" />
-                <element signature="e#831#863#0" expanded="true" />
-                <element signature="e#827#887#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo02_FixedThreadPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="50" column="35" lean-forward="true" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+              <folding>
+                <element signature="e#556#614#1" expanded="true" />
+                <element signature="e#629#895#0" expanded="true" />
+                <element signature="e#629#895#0" expanded="true" />
+                <element signature="e#629#895#0" expanded="true" />
+                <element signature="e#629#895#0" expanded="true" />
+                <element signature="e#629#895#0" expanded="true" />
+                <element signature="e#741#805#0" expanded="true" />
+                <element signature="e#741#805#0" expanded="true" />
+                <element signature="e#829#882#0" expanded="true" />
+                <element signature="e#829#861#0" expanded="true" />
+                <element signature="e#829#882#0" expanded="true" />
+                <element signature="e#1042#1064#0" expanded="true" />
+                <element signature="e#1117#1137#0" expanded="true" />
+                <element signature="e#1167#1227#0" expanded="true" />
+                <element signature="e#1167#1227#0" expanded="true" />
+                <element signature="e#1322#1344#0" expanded="true" />
+                <element signature="e#1368#1388#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo2ThreadPoolTest.java">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo03_Future.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="725">
+              <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
               <folding>
-                <element signature="e#448#675#0" expanded="true" />
-                <element signature="e#453#463#1" expanded="true" />
-                <element signature="e#448#675#0" expanded="true" />
-                <element signature="e#448#675#0" expanded="true" />
-                <element signature="e#448#675#0" expanded="true" />
-                <element signature="e#448#675#0" expanded="true" />
-                <element signature="e#492#560#1" expanded="true" />
-                <element signature="e#573#636#1" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-                <element signature="e#788#820#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#533#591#1" expanded="true" />
+                <element signature="e#601#938#1" expanded="true" />
+                <element signature="e#455#538#0" expanded="true" />
+                <element signature="e#455#538#0" expanded="true" />
+                <element signature="e#558#611#0" expanded="true" />
+                <element signature="e#558#611#0" expanded="true" />
+                <element signature="e#1002#1017#0" expanded="true" />
+                <element signature="e#1157#1172#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,8 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/C_super/executor/SingleThreadPool.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/C_super/executor/FixedThreadPool.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_corepool/ThreadPoolTask.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_corepool/ThreadPoolTest.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_queue/LinkedBlockingQueueDemo.java" />
@@ -87,8 +104,6 @@
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/b/Thread_4/SingleThreadExecutorTest.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/b/Thread_4/WorkStealingPoolTest.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo01_MyExecutor.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo02_FixedThreadPool.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo03_Future.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo05_CachedThreadPool.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo06_SingleThreadExecutor.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo07_ScheduledThreadPool.java" />
@@ -126,6 +141,10 @@
         <option value="$PROJECT_DIR$/java/src/basic/ocean/threadpoolandlambda/demo04/Lambda/Demo01Cook.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo1CreateThread.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo2ThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo5LockTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/ocean/asyc/Demo1BasicFuture.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo02_FixedThreadPool.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo03_Future.java" />
       </list>
     </option>
   </component>
@@ -154,9 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Course" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,7 +204,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="ocean" type="462c0819:PsiDirectoryNode" />
-              <item name="threadpoolandlambda" type="462c0819:PsiDirectoryNode" />
+              <item name="A_threadpool" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
@@ -196,8 +212,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="ocean" type="462c0819:PsiDirectoryNode" />
-              <item name="threadpoolandlambda" type="462c0819:PsiDirectoryNode" />
-              <item name="WaitAndNotify" type="462c0819:PsiDirectoryNode" />
+              <item name="A_threadpool" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter08" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
@@ -205,7 +221,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="ocean" type="462c0819:PsiDirectoryNode" />
-              <item name="threadsafe" type="462c0819:PsiDirectoryNode" />
+              <item name="asyc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="ocean" type="462c0819:PsiDirectoryNode" />
+              <item name="inject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
@@ -274,6 +298,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,7 +313,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -319,14 +346,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo2ThreadPoolTest">
-    <configuration name="CreateThreadByPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.thread.ThreadPool.CreateThreadByPool" />
+  <component name="RunManager" selected="Application.Demo05_CachedThreadPool">
+    <configuration name="Demo03_Future" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ocean.A_threadpool.chapter08.Demo03_Future" />
       <module name="java--basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ocean.thread.ThreadPool.*" />
+          <option name="PATTERN" value="basic.ocean.A_threadpool.chapter08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo05_CachedThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ocean.A_threadpool.chapter08.Demo05_CachedThreadPool" />
+      <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.ocean.A_threadpool.chapter08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1BasicFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ocean.asyc.Demo1BasicFuture" />
+      <module name="java--basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.ocean.asyc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,34 +396,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="basic.ocean.threadsafe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterruptDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.thread02.InterruptDemo" />
-      <module name="java--basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.ocean.thread02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.thread.wait.MainTest" />
-      <module name="java--basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.ocean.thread.wait.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,11 +441,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo05_CachedThreadPool" />
+        <item itemvalue="Application.Demo03_Future" />
+        <item itemvalue="Application.Demo1BasicFuture" />
         <item itemvalue="Application.Demo2ThreadPoolTest" />
         <item itemvalue="Application.YieldDemo" />
-        <item itemvalue="Application.InterruptDemo" />
-        <item itemvalue="Application.CreateThreadByPool" />
-        <item itemvalue="Application.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +469,8 @@
       <workItem from="1583248230409" duration="1267000" />
       <workItem from="1583484880800" duration="727000" />
       <workItem from="1583767980827" duration="860000" />
-      <workItem from="1583849160922" duration="985000" />
+      <workItem from="1583849160922" duration="1149000" />
+      <workItem from="1583936254660" duration="735000" />
     </task>
     <servers />
   </component>
@@ -455,13 +483,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26854000" />
+    <option name="totallyTimeSpent" value="27753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24015151" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -471,7 +499,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.07285974" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12739965" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,7 +508,7 @@
       <window_info anchor="bottom" id="Tail" order="8" />
       <window_info anchor="bottom" id="Sequence" order="9" />
       <window_info anchor="bottom" id="Profiler" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38615665" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.05235602" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
       <window_info anchor="bottom" id="CheckStyle" order="14" />
@@ -514,86 +542,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/DiscardOldestPolicy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/DiscardPolicy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/ThreadPool_Execute.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/ThreadPool_Custom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-987">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/ThreadPool_ShutdownNow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/ThreadPool_Submit_Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_corepool/ThreadPoolTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_corepool/ThreadPoolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1452">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/a/ThreadPool.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_fourthread/NewFixedThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="e#552#974#0" expanded="true" />
-            <element signature="e#552#974#0" expanded="true" />
-            <element signature="e#552#974#0" expanded="true" />
-            <element signature="e#552#974#0" expanded="true" />
-            <element signature="e#552#974#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/a/ThreadPool1.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_fourthread/NewCachedThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_super/a/ThreadPool2.java" />
     <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/A_fourthread/NewScheduledThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -981,35 +929,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadpoolandlambda/demo02/ThreadPool/Demo01ThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
-          <folding>
-            <element signature="e#992#1045#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadpoolandlambda/demo02/ThreadPool/Demo02ThreadPoolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="14" column="101" selection-start-line="14" selection-start-column="101" selection-end-line="14" selection-end-column="101" />
-          <folding>
-            <element signature="e#315#382#1" expanded="true" />
-            <element signature="e#390#532#0" expanded="true" />
-            <element signature="e#396#406#1" expanded="true" />
-            <element signature="e#390#532#0" expanded="true" />
-            <element signature="e#390#532#0" expanded="true" />
-            <element signature="e#390#532#0" expanded="true" />
-            <element signature="e#390#532#0" expanded="true" />
-            <element signature="e#481#519#0" expanded="true" />
-            <element signature="e#482#514#0" expanded="true" />
-            <element signature="e#481#519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadpoolandlambda/demo02/ThreadPool/RunnableImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1094,7 +1013,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo2ThreadPoolTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
+        <state relative-caret-position="222">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="e#448#675#0" expanded="true" />
@@ -1108,6 +1027,194 @@
             <element signature="e#759#760#0" expanded="true" />
             <element signature="e#788#820#0" expanded="true" />
             <element signature="e#827#828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo3AtomicIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#256#310#1" expanded="true" />
+            <element signature="e#319#359#1" expanded="true" />
+            <element signature="e#453#504#1" expanded="true" />
+            <element signature="e#472#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo4HowThreadSafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo5LockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-499">
+          <caret line="43" column="34" lean-forward="true" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+          <folding>
+            <element signature="e#377#409#1" expanded="true" />
+            <element signature="e#439#518#0" expanded="true" />
+            <element signature="e#444#454#1" expanded="true" />
+            <element signature="e#439#518#0" expanded="true" />
+            <element signature="e#439#518#0" expanded="true" />
+            <element signature="e#439#518#0" expanded="true" />
+            <element signature="e#439#518#0" expanded="true" />
+            <element signature="e#1361#1393#1" expanded="true" />
+            <element signature="e#1446#1488#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadpoolandlambda/demo02/ThreadPool/Demo01ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <element signature="e#992#1045#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/threadpoolandlambda/demo02/ThreadPool/Demo02ThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="14" column="101" selection-start-line="14" selection-start-column="101" selection-end-line="14" selection-end-column="101" />
+          <folding>
+            <element signature="e#481#519#0" expanded="true" />
+            <element signature="e#481#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/mymultithread/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#230#331#0" expanded="true" />
+            <element signature="e#230#331#0" expanded="true" />
+            <element signature="e#393#537#0" expanded="true" />
+            <element signature="e#393#537#0" expanded="true" />
+            <element signature="e#393#537#0" expanded="true" />
+            <element signature="e#393#537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/mymultithread/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#238#357#0" expanded="true" />
+            <element signature="e#238#357#0" expanded="true" />
+            <element signature="e#527#558#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/mymultithread/MyThread3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="e#918#1084#0" expanded="true" />
+            <element signature="e#918#1084#0" expanded="true" />
+            <element signature="e#918#1084#0" expanded="true" />
+            <element signature="e#918#1084#0" expanded="true" />
+            <element signature="e#918#1084#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/asyc/Demo1BasicFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#329#383#1" expanded="true" />
+            <element signature="e#392#538#1" expanded="true" />
+            <element signature="e#547#573#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/apigson/Hate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#180#197#1" expanded="true" />
+            <element signature="e#206#218#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/apigson/HasMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo01_MyExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo02_FixedThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="50" column="35" lean-forward="true" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+          <folding>
+            <element signature="e#556#614#1" expanded="true" />
+            <element signature="e#629#895#0" expanded="true" />
+            <element signature="e#629#895#0" expanded="true" />
+            <element signature="e#629#895#0" expanded="true" />
+            <element signature="e#629#895#0" expanded="true" />
+            <element signature="e#629#895#0" expanded="true" />
+            <element signature="e#741#805#0" expanded="true" />
+            <element signature="e#741#805#0" expanded="true" />
+            <element signature="e#829#882#0" expanded="true" />
+            <element signature="e#829#861#0" expanded="true" />
+            <element signature="e#829#882#0" expanded="true" />
+            <element signature="e#1042#1064#0" expanded="true" />
+            <element signature="e#1117#1137#0" expanded="true" />
+            <element signature="e#1167#1227#0" expanded="true" />
+            <element signature="e#1167#1227#0" expanded="true" />
+            <element signature="e#1322#1344#0" expanded="true" />
+            <element signature="e#1368#1388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo03_Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="e#533#591#1" expanded="true" />
+            <element signature="e#601#938#1" expanded="true" />
+            <element signature="e#455#538#0" expanded="true" />
+            <element signature="e#455#538#0" expanded="true" />
+            <element signature="e#558#611#0" expanded="true" />
+            <element signature="e#558#611#0" expanded="true" />
+            <element signature="e#1002#1017#0" expanded="true" />
+            <element signature="e#1157#1172#0" expanded="true" />
           </folding>
         </state>
       </provider>

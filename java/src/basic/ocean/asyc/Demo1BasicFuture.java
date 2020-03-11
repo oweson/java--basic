@@ -15,8 +15,10 @@ public class Demo1BasicFuture {
             return 100+100;
         });
         Integer integer = f.get();
+        es.execute(()->System.out.println(100));
         f.cancel(true);
         System.out.println(integer);
+        es.shutdown();
 
     }
 

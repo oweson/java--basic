@@ -14,7 +14,6 @@ public class Demo05_CachedThreadPool {
 	public static void main(String[] args) {
 		ExecutorService service = Executors.newCachedThreadPool();
 		System.out.println(service);
-
 		for (int i = 0; i < 5; i++) {
 			service.execute(() -> {
 				try {

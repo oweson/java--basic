@@ -10,15 +10,6 @@ import java.util.concurrent.*;
 public class Demo03_Future {
 
     public static void main(String[] args) throws InterruptedException, ExecutionException {
-        /**FutureTask<String> task = new FutureTask<>(new Callable<String>() {
-        @Override public String call() throws Exception {
-        return "first future task";
-        }
-        });
-
-         new Thread(task).start();
-
-         System.out.println(task.get());*/
 
         ExecutorService service = Executors.newFixedThreadPool(1);
 
@@ -28,7 +19,6 @@ public class Demo03_Future {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            System.out.println("aaa");
             return Thread.currentThread().getName() + " - test executor";
         });
         System.out.println(future);

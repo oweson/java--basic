@@ -25,7 +25,8 @@ public class Demo08_ForkJoinPool {
 	}
 
 	@SuppressWarnings("serial")
-	static class AddTask extends RecursiveTask<Long> { // RecursiveAction
+	static class AddTask extends RecursiveTask<Long> {
+		// RecursiveAction
 		int begin, end;
 
 		public AddTask(int begin, int end) {
@@ -47,7 +48,8 @@ public class Demo08_ForkJoinPool {
 				int middle = begin + (end - begin) / 2;
 				AddTask task1 = new AddTask(begin, middle);
 				AddTask task2 = new AddTask(middle, end);
-				task1.fork();// 就是用于开启新的任务的。 就是分支工作的。 就是开启一个新的线程任务。
+				task1.fork();
+				// 就是用于开启新的任务的。 就是分支工作的。 就是开启一个新的线程任务。
 				task2.fork();
 				// join - 合并。将任务的结果获取。 这是一个阻塞方法。一定会得到结果数据。
 				return task1.join() + task2.join();

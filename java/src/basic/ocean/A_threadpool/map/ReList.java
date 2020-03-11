@@ -2,9 +2,7 @@ package basic.ocean.A_threadpool.map;
 
 import java.util.*;
 
-/*
-http://liuyuan418921673.iteye.com/blog/2256120
-
+/**
 Collection ：  表示一组数据的类
   List和Set都继承了Collection
          列表List: 有序的 Collection
