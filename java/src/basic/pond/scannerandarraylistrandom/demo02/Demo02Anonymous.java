@@ -31,8 +31,7 @@ public class Demo02Anonymous {
     }
 
     public static Scanner methodReturn() {
-//        Scanner sc = new Scanner(System.in);
-//        return sc;
+
         return new Scanner(System.in);
     }
 

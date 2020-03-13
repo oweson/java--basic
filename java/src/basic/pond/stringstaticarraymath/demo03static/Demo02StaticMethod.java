@@ -1,7 +1,8 @@
 package basic.pond.stringstaticarraymath.demo03static;
 
 /**
- * 一旦使用static修饰成员方法，那么这就成为了静态方法。静态方法不属于对象，而是属于类的。
+ * 一旦使用static修饰成员方法，那么这就成为了静态方法。静态方法不属于对象，
+ * 而是属于类的。
  * <p>
  * 如果没有static关键字，那么必须首先创建对象，然后通过对象才能使用它。
  * 如果有了static关键字，那么不需要创建对象，直接就能通过类名称来使用它。
@@ -41,4 +42,7 @@ public class Demo02StaticMethod {
         System.out.println("自己的方法！");
     }
 
+    public void demo() {
+        myMethod();
+    }
 }

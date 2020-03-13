@@ -22,6 +22,8 @@ public class Demo01String {
     public static void main(String[] args) {
         // 1 使用空参构造
         String str1 = new String();
+        System.out.println(str1.length());
+        // 0
         // 小括号留空，说明字符串什么内容都没有。
         System.out.println("第1个字符串：" + str1);
 

@@ -9,7 +9,8 @@ Random类用来生成随机数字。使用起来也是三个步骤：
 import java.util.Random;
 
 2. 创建
-Random r = new Random(); // 小括号当中留空即可
+Random r = new Random();
+ // 小括号当中留空即可
 
 3. 使用
 获取一个随机的int数字（范围是int所有范围，有正负两种）：int num = r.nextInt()

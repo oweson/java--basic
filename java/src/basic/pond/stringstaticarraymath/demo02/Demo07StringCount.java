@@ -22,7 +22,6 @@ public class Demo07StringCount {
         System.out.println("请输入一个字符串：");
         String input = sc.next();
         // 获取键盘输入的一个字符串
-
         int countUpper = 0;
         // 大写字母
         int countLower = 0;
@@ -31,7 +30,6 @@ public class Demo07StringCount {
         // 数字
         int countOther = 0;
         // 其他字符
-
         char[] charArray = input.toCharArray();
         for (int i = 0; i < charArray.length; i++) {
             char ch = charArray[i];
