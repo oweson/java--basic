@@ -13,7 +13,6 @@ public class Demo01PhoneOne {
         System.out.println(one.color);
         // null
         System.out.println("=========");
-
         one.brand = "苹果";
         one.price = 8388.0;
         one.color = "黑色";
@@ -24,7 +23,6 @@ public class Demo01PhoneOne {
         System.out.println(one.color);
         // 黑色
         System.out.println("=========");
-
         one.call("乔布斯");
         // 给乔布斯打电话
         one.sendMessage();

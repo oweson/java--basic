@@ -32,7 +32,7 @@ public class Demo03Array {
         int[] arrayC;
         arrayC = new int[5];
 
-        // 4 静态初始化的省略格式，不能拆分成为两个步骤。
+        // 4 todo 静态初始化的省略格式，不能拆分成为两个步骤。
 //        int[] arrayD;
 //        arrayD = { 10, 20, 30 };
     }

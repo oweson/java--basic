@@ -19,7 +19,6 @@ public class CuteAnimal extends LandAnimal implements CuteFeature {
 
     public static void main(String[] args) {
         CuteFeature cuteFeature = new CuteAnimal();
-
         cuteFeature.sleep();
     }
 }

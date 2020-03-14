@@ -1,6 +1,6 @@
 package basic.pond.threespecialofclass.demo02;
 
-/*
+/**
 定义一个类，用来模拟“手机”事物。
 属性：品牌、价格、颜色
 行为：打电话、发短信

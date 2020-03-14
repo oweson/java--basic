@@ -4,9 +4,12 @@ public class Demo05PhoneReturn {
 
     public static void main(String[] args) {
         Phone two = getPhone();
-        System.out.println(two.brand); // 苹果
-        System.out.println(two.price); // 8388.0
-        System.out.println(two.color); // 玫瑰金
+        System.out.println(two.brand);
+        // 苹果
+        System.out.println(two.price);
+        // 8388.0
+        System.out.println(two.color);
+        // 玫瑰金
     }
 
     public static Phone getPhone() {

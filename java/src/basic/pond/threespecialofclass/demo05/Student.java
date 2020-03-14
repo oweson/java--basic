@@ -1,8 +1,7 @@
 package basic.pond.threespecialofclass.demo05;
 
-/*
+/**
 一个标准的类通常要拥有下面四个组成部分：
-
 1. 所有的成员变量都要使用private关键字修饰
 2. 为每一个成员变量编写一对儿Getter/Setter方法
 3. 编写一个无参数的构造方法
@@ -12,8 +11,10 @@ package basic.pond.threespecialofclass.demo05;
  */
 public class Student {
 
-    private String name; // 姓名
-    private int age; // 年龄
+    private String name;
+    // 姓名
+    private int age;
+    // 年龄
 
     public Student() {
     }

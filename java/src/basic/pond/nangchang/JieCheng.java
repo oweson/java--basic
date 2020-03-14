@@ -11,7 +11,6 @@ public class JieCheng {
             return 1;
         }
         return n * demo1(n - 1);
-
     }
 
     public static void main(String[] args) {

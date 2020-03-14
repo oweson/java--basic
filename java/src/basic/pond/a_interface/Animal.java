@@ -7,6 +7,5 @@ package basic.pond.a_interface;
  */
 public interface Animal {
     void eat();
-
     void sleep();
 }
