@@ -7,7 +7,7 @@ public class Demo1Exception {
 		}
 		else{
 			if(age>0){
-				System.out.println("差几分家伙睡觉啊 is correct"+ Demo3ShopStateEnum.CHECK.toString());
+				System.out.println("haha is correct"+ Demo3ShopStateEnum.CHECK.toString());
 			}
 		}
 		

@@ -9,7 +9,6 @@ package basic.river.extendsuperthisabstract.demo08;
 public class Zi extends Fu {
 
     int num = 20;
-
     public Zi() {
         // 不写也是默认调用！
         super();

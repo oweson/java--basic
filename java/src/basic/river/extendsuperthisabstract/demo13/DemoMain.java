@@ -7,7 +7,8 @@ public class DemoMain {
 
 //        Dog dog = new Dog(); // 错误，这也是抽象类
 
-        Dog2Ha ha = new Dog2Ha(); // 这是普通类，可以直接new对象。
+        Dog2Ha ha = new Dog2Ha();
+        // 这是普通类，可以直接new对象。
         ha.eat();
         ha.sleep();
         System.out.println("==========");

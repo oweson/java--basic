@@ -12,7 +12,6 @@ package basic.river.extendsuperthisabstract.demo09;
 public class Zi extends Fu {
 
     private int num = 20;
-
     public Zi() {
         // super();这一行不再赠送
         this(123);
@@ -25,16 +24,17 @@ public class Zi extends Fu {
     }
 
     public Zi(int n, int m) {
+        System.out.println(n+"  "+m);
     }
 
     public void showNum() {
         int num = 10;
         System.out.println(num);
-        // 局部变量
+        // 1 局部变量
         System.out.println(this.num);
-        // 本类中的成员变量
+        // 2 本类中的成员变量
         System.out.println(super.num);
-        // 父类中的成员变量
+        // 3 父类中的成员变量
     }
 
     public void methodA() {
@@ -46,6 +46,12 @@ public class Zi extends Fu {
         methodA();
         this.methodA();
         System.out.println("BBB");
+        int num = this.num;
+        System.out.println(num);
+    }
+
+    public static void main(String[] args) {
+        new Zi();
     }
 
 }
