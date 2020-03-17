@@ -12,15 +12,12 @@ import java.util.concurrent.FutureTask;
  * FutureTask 是  Future 接口的实现类
  */
 public class Demo2Callable {
-
     public static void main(String[] args) {
         ThreadDemo td = new ThreadDemo();
-
         //1.执行 Callable 方式，需要 FutureTask 实现类的支持，用于接收运算结果。
         FutureTask<Integer> result = new FutureTask<>(td);
         // 2 开始运行
         new Thread(result).start();
-
         //3.接收线程运算后的结果
         try {
             Integer sum = result.get();
@@ -39,11 +36,9 @@ class ThreadDemo implements Callable<Integer> {
     @Override
     public Integer call() throws Exception {
         int sum = 0;
-
         for (int i = 0; i <= 100000; i++) {
             sum += i;
         }
-
         return sum;
     }
 

@@ -27,14 +27,11 @@ class Ticket implements Runnable {
 
     private int tick = 1000;
     private Lock lock = new ReentrantLock();
-
     @Override
     public void run() {
         while (true) {
-
             lock.lock();
             // 1 上锁
-
             try {
                 if (tick > 0) {
                     try {
