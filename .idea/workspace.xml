@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9afff1f7-2d69-4e81-9484-03ccdc078a96" name="Default Changelist" comment="" />
+    <list default="true" id="9afff1f7-2d69-4e81-9484-03ccdc078a96" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +30,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo1CreateThread.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo2ThreadPoolTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/threadsafe/Demo5LockTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/ocean/asyc/Demo1BasicFuture.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo02_FixedThreadPool.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo03_Future.java" />
         <option value="$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/chapter08/Demo05_CachedThreadPool.java" />
@@ -79,6 +77,10 @@
         <option value="$PROJECT_DIR$/java/src/basic/river/extendsuperthisabstract/demo12/MyAbstract.java" />
         <option value="$PROJECT_DIR$/java/src/basic/river/extendsuperthisabstract/demo12/Zi.java" />
         <option value="$PROJECT_DIR$/java/src/basic/river/extendsuperthisabstract/demo13/DemoMain.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc/Demo2CompareAndSwap.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc02/Demo1Lock.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc02/Demo2Callable.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/juc/atguigu/juc02/Demo3ReadWriteLock.java" />
       </list>
     </option>
   </component>
@@ -107,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,6 +126,56 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="concollections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="juc02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="juc02" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo1Lock.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="juc02" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo2Callable.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="juc02" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo3ReadWriteLock.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
@@ -193,8 +244,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Course" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -368,6 +420,8 @@
       <workItem from="1584105634111" duration="1083000" />
       <workItem from="1584169813482" duration="1380000" />
       <workItem from="1584245778798" duration="1837000" />
+      <workItem from="1584458762203" duration="491000" />
+      <workItem from="1584536490930" duration="1128000" />
     </task>
     <servers />
   </component>
@@ -380,12 +434,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32606000" />
+    <option name="totallyTimeSpent" value="34225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24015151" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24015151" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -404,7 +458,7 @@
       <window_info anchor="bottom" id="Tail" order="8" />
       <window_info anchor="bottom" id="Sequence" order="9" />
       <window_info anchor="bottom" id="Profiler" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.11293261" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.07832423" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
       <window_info anchor="bottom" id="CheckStyle" order="14" />
@@ -438,48 +492,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/threespecialofclass/demo02/Demo03PhoneSame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#133#157#1" expanded="true" />
-            <element signature="e#754#770#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/threespecialofclass/demo02/Demo04PhoneParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/threespecialofclass/demo02/Demo05PhoneReturn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding>
-            <element signature="e#351#375#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/threespecialofclass/demo02/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-429">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/threespecialofclass/demo03/Demo01VariableDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/pond/threespecialofclass/demo03/Demo02Method.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -982,6 +994,49 @@
             <element signature="e#548#564#0" expanded="true" />
             <element signature="e#597#626#0" expanded="true" />
             <element signature="e#597#626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/juc/atguigu/juc/Demo1AtomicDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/juc/atguigu/juc/Demo2CompareAndSwap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-363">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/juc/atguigu/juc02/Demo1Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/juc/atguigu/juc02/Demo2Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <element signature="e#413#446#1" expanded="true" />
+            <element signature="e#514#564#1" expanded="true" />
+            <element signature="e#669#696#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/juc/atguigu/juc02/Demo3ReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#292#339#1" expanded="true" />
           </folding>
         </state>
       </provider>
