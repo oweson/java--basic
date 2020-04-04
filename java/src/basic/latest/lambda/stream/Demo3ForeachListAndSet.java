@@ -16,12 +16,11 @@ public class Demo3ForeachListAndSet {
         List<String> asList = Arrays.asList("Lambdas", "Default Method", "Stream API");
 
         asList.forEach(System.out::println);
-        asList.forEach(n -> System.out.println(n));
         System.out.println("------------------------------------");
         Set<Integer> set = new HashSet<>(16);
         set.add(10);
         set.add(21);
-        /** 这两种方法都是一样的！！！*/
+        /* 这两种方法都是一样的！！！*/
         set.forEach(pp -> System.out.println(pp));
         set.forEach(System.out::println);
 

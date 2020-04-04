@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 public class Demo6ListTest {
     public static void main(String[] args) {
         System.out.println("猪年大吉");
-        /** 1 在这里，我们应该注意Collectors.toList()并不能保证返回的集合是准确的。
+        /* 1 在这里，我们应该注意Collectors.toList()并不能保证返回的集合是准确的。
          对于返回的实例的可变性、可序列化性或线程安全性，一般没有约定。因此，
          我们的代码不应该依赖于这些属性。
          一些人强调说，Stream.of(…).collect(…) 可能比Arrays.asList()

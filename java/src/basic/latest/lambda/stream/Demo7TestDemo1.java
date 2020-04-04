@@ -9,7 +9,7 @@ import java.util.List;
  * @author 作者程万里 E-mail1273919421@:
  * @version 创建时间：2018年5月16日 上午10:17:31 类说明：侵权必究。。。。。。。
  */
-/*
+/**
  * Java 8 新特性 Java 8 (又称为 jdk 1.8) 是 Java 语言开发的一个主要版本。
  * Oracle 公司于 2014 年 3 月 18
  * 日发布 Java 8 ，它支持函数式编程，新的 JavaScript 引擎，新的日期 API，新的Stream API 等。
@@ -19,18 +19,12 @@ import java.util.List;
  */
 public class Demo7TestDemo1 {
     public void sortJdk17(List<String> list) {
-        Collections.sort(list, new Comparator<String>() {
-
-            @Override
-            public int compare(String o1, String o2) {
-                return o1.compareTo(o2);
-            }
-        });
+        Collections.sort(list, String::compareTo);
 
     }
 
     public void sortJdk18(List<String> list) {
-        Collections.sort(list, (s1, s2) -> s1.compareTo(s2));
+        Collections.sort(list, String::compareTo);
     }
 
     public static void main(String[] args) {
@@ -41,7 +35,7 @@ public class Demo7TestDemo1 {
         names1.add("Baidu ");
         names1.add("Sina ");
 
-        List<String> names2 = new ArrayList<String>();
+        List<String> names2 = new ArrayList<>(16);
         names2.add("Google ");
         names2.add("Runoob ");
         names2.add("Taobao ");
