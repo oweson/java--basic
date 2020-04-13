@@ -1,5 +1,5 @@
 package basic.latest.StreamAndMethodReference.demo08.ThisMethodReference;
-/*
+/**
     使用this引用本类的成员方法
  */
 public class Husband {
@@ -21,7 +21,7 @@ public class Husband {
             this.buyHouse();
         });*/
 
-        /*
+        /**
             使用方法引用优化Lambda表达式
             this是已经存在的
             本类的成员方法buyHouse也是已经存在的

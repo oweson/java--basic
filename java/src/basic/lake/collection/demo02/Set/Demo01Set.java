@@ -25,6 +25,7 @@ public class Demo01Set {
         set.add(3);
         set.add(2);
         set.add(1);
+        boolean contains1 = set.contains(2);
         // 2  使用迭代器遍历set集合
         Iterator<Integer> it = set.iterator();
         while (it.hasNext()) {

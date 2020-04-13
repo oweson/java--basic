@@ -39,3 +39,7 @@ j
 :java/src/basic/latest/lambda/stream/Demo5ListSizeTest.java,7\a\7ae79a643566e92e1b12439ebdf6a88c34c7f846
 p
 @java/src/basic/geek/Performance/optimization/Demo1ArrayList.java,4\7\47ed54664d6cd7acea9bdbe30a58d0f14169680f
+h
+8java/src/basic/latest/lambda/stream/Demo1FilterTest.java,c\7\c7832160b0468f5bcdc973562b9c47c12753f824
+h
+8java/src/basic/lake/collection/demo02/Set/Demo01Set.java,0\0\0026d4d7d3c46b112c5fcfa454205663e27ef40c
