@@ -10,6 +10,9 @@ public class Demo3ThreadSafeCache {
     public int getResult() {
         return result;
     }
+    public synchronized void setResult(int result) {
+        this.result = result;
+    }
 
     /**
      * 多线程并发的同时进行set、get操作，A线程调用set方法，B线程并不一定能对这个改变可见！！！
@@ -33,7 +36,5 @@ public class Demo3ThreadSafeCache {
      * 对一个 volatile 域的写，happens-before 于任意后续对这个 volatile 域的读。
      * volatile从而保证了多线程下的可见性！！！
      */
-    public synchronized void setResult(int result) {
-        this.result = result;
-    }
+
 }

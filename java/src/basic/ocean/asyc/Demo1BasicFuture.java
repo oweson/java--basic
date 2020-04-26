@@ -16,6 +16,7 @@ public class Demo1BasicFuture {
         });
         Integer integer = f.get();
         es.execute(()->System.out.println(100));
+        // 取消
         f.cancel(true);
         System.out.println(integer);
         es.shutdown();

@@ -1,5 +1,8 @@
 package basic.ocean.mymultithread;
 
+import basic.latest.StreamAndMethodReference.demo06.StaticMethodReference.Calcable;
+
+import java.util.concurrent.Callable;
 import java.util.concurrent.FutureTask;
 
 /**
@@ -7,9 +10,14 @@ import java.util.concurrent.FutureTask;
  * @create: 2018-01-28 17:21
  * @description: 使用Callable和Future来创建线程
  **/
-public class MyThread3 {
+public class MyThread3 implements Calcable {
+    @Override
+    public int calsAbs(int number) {
+        return 0;
+    }
+
     public static void main(String[] args) {
-        /*Callable<Integer> callable=new Callable<Integer>() {
+        Callable<Integer> callable=new Callable<Integer>() {
             @Override
             public Integer call() throws Exception {
                 int i = 0;
@@ -18,7 +26,7 @@ public class MyThread3 {
                 }
                 return i;
             }
-        };*/
+        };
         FutureTask<Integer> task = new FutureTask<>(() -> {
             int a = (int) ((Math.random()) * 100);
             int b = (int) ((Math.random()) * 100);

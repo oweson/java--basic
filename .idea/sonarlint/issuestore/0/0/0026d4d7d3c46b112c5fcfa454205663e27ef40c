@@ -1,26 +1,0 @@
-
-]
-java:S1854-";Remove this useless assignment to local variable "objects".(°¦Ëøÿÿÿÿ8òÂ²´–.
-N
-java:S1481-",Remove this unused "objects" local variable.(°¦Ëøÿÿÿÿ8òÂ²´–.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ë®îûÿÿÿÿ
-N
-java:S1854,"8Remove this useless assignment to local variable "size".(ÑË †
-E
-java:S1481)"*Remove this unused "empty" local variable.(Ù®îıÿÿÿÿ
-F
-java:S1481+"+Remove this unused "remove" local variable.(úú£ûÿÿÿÿ
-H
-java:S1481*"-Remove this unused "contains" local variable.(şí¶¥şÿÿÿÿ
-U
-java:S1854+":Remove this useless assignment to local variable "remove".(úú£ûÿÿÿÿ
-W
-java:S1854*"<Remove this useless assignment to local variable "contains".(şí¶¥şÿÿÿÿ
-T
-java:S1854)"9Remove this useless assignment to local variable "empty".(Ù®îıÿÿÿÿ
-?
-java:S1481,")Remove this unused "size" local variable.(ÑË †
-_
-java:S1854"=Remove this useless assignment to local variable "contains1".(ŠÃîĞûÿÿÿÿ8Å³´–.
-P
-java:S1481".Remove this unused "contains1" local variable.(ŠÃîĞûÿÿÿÿ8Å³´–.

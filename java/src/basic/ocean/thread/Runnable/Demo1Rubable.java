@@ -1,5 +1,7 @@
 package basic.ocean.thread.Runnable;
 
+import basic.latest.StreamAndMethodReference.demo04.MethodReference.Printable;
+
 import java.util.function.DoubleBinaryOperator;
 
 /**
@@ -13,6 +15,8 @@ public class Demo1Rubable {
         new Thread(runnable).start();
         DoubleBinaryOperator uncaughtExceptionHandler = (x, y) -> Math.pow(x, y);
         System.out.println(uncaughtExceptionHandler);
+        Printable printable = (x) -> Math.abs(100);
+        System.out.println(printable);
 
     }
 }

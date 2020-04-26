@@ -1,9 +1,0 @@
-
-M
-java:S2589"7Remove this expression which always evaluates to "true"(†Α”έ
-S
-java:S1854"8Remove this useless assignment to local variable "list".(ΆΧ¤›ψÿÿÿÿ
->	java:S108 ")Either remove or fill this block of code.(ε¥‡
-D
-java:S1481")Remove this unused "list" local variable.(ΆΧ¤›ψÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(ες

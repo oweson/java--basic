@@ -21,6 +21,5 @@ public class Demo01GetThreadName {
         //main
         //Thread-0
         //Thread-1
-        //Thread-2
     }
 }

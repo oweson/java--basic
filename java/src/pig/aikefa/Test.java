@@ -1,5 +1,7 @@
 package pig.aikefa;
 
+import java.util.Date;
+
 /**
  * the class is create by @Author:oweson
  *

@@ -20,10 +20,10 @@ public class SellTicketByRunnable02 {
 
 class Train implements Runnable {
     static int ticket = 100;
-
     @Override
     public void run() {
         while (true) {
+            // 类锁
             synchronized (Train.class) {
                 if (ticket <= 0) {
                     break;
@@ -35,8 +35,6 @@ class Train implements Runnable {
                 }
                 System.out.println(Thread.currentThread().getName() + "这是第" + ticket + "票"
                         + "还有" + --ticket + ".............");
-
-
             }
         }
     }

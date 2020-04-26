@@ -6,11 +6,9 @@ package basic.ocean.mymultithread;
  * @description: 通过继承Thread来创建线程
  **/
 public class MyThread1 extends Thread {
-    private int i;
-
     @Override
     public void run() {
-        for (; i < 100; i++) {
+        for (int i = 0; i < 100; i++) {
             System.out.println(this.getName() + "------------" + i);
         }
 

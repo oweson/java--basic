@@ -9,6 +9,7 @@ public class Demo01SetThreadName {
 
         // 2 开启多线程
         new MyThread("旺财").start();
+        Thread.currentThread().setName("裴秀智");
         System.out.println("Current Thread: " + Thread.currentThread().getName());
 
     }
