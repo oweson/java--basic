@@ -11,7 +11,7 @@ import java.util.LinkedHashMap;
  */
 public class Demo01LinkedHashMap {
     public static void main(String[] args) {
-        HashMap<String, String> map = new HashMap<>();
+        HashMap<String, String> map = new HashMap<>(16);
         map.put("a", "a");
         map.put("c", "c");
         map.put("b", "b");

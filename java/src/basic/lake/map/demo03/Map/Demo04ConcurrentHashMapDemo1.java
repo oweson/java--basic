@@ -20,7 +20,6 @@ public class Demo04ConcurrentHashMapDemo1 {
         Set<String> strings = map.keySet();
         Iterator<String> iterator = strings.iterator();
         while (iterator.hasNext()) {
-            /**得到key*/
             String next = iterator.next();
             System.out.println("key is" + next + "value is" + map.get(next));
         }
