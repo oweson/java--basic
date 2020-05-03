@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1412804-7253-4a4f-b1f6-06d91bed98c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/basic/cloudcode/ObjectsUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/basic/lake/Demo2SkipMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,13 +18,44 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/basic/cloudcode/ObjectsUtilsTest.java">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/lake/Demo2SkipMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="368">
+              <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/ITsoftware/java/src.zip!/java/util/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-892">
+              <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/ITsoftware/java/src.zip!/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="683" column="13" selection-start-line="683" selection-start-column="13" selection-end-line="683" selection-end-column="13" />
+              <folding>
+                <element signature="e#20484#20485#0" expanded="true" />
+                <element signature="e#20520#20521#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/ITsoftware/java/src.zip!/java/util/Collection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-478">
+              <caret line="288" column="12" selection-start-line="288" selection-start-column="12" selection-end-line="288" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -63,6 +94,7 @@
         <option value="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo01LinkedHashMap.java" />
         <option value="$PROJECT_DIR$/java/src/basic/lake/map/demo03/Map/Demo04ConcurrentHashMapDemo1.java" />
         <option value="$PROJECT_DIR$/java/src/basic/cloudcode/ObjectsUtilsTest.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/lake/Demo2SkipMap.java" />
       </list>
     </option>
   </component>
@@ -73,11 +105,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="18" />
-    <option name="width" value="1742" />
-    <option name="height" value="987" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="84" />
+    <option name="y" value="17" />
+    <option name="width" value="1743" />
+    <option name="height" value="988" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -87,7 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,17 +144,27 @@
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="cloudcode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lake" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="MyBatis Logrunning" value="0" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cloud/ruoyi-cloud/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -141,20 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjectsUtilsTest">
-    <configuration name="Demo01SetThreadName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ocean.thread.setName.Demo01SetThreadName" />
-      <module name="java--basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.ocean.thread.setName.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo2SkipMap">
     <configuration name="Demo03MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.lake.map.demo03.Map.Demo03MapTest" />
       <module name="java--basic" />
@@ -170,6 +198,19 @@
     </configuration>
     <configuration name="Demo1ListsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.lake.Demo1ListsTest" />
+      <module name="java--basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.lake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2SkipMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.lake.Demo2SkipMap" />
       <module name="java--basic" />
       <extension name="coverage">
         <pattern>
@@ -209,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo2SkipMap" />
         <item itemvalue="Application.ObjectsUtilsTest" />
         <item itemvalue="Application.Demo03MapTest" />
         <item itemvalue="Application.Demo2efficenty" />
         <item itemvalue="Application.Demo1ListsTest" />
-        <item itemvalue="Application.Demo01SetThreadName" />
       </list>
     </recent_temporary>
   </component>
@@ -232,35 +273,37 @@
       <workItem from="1587996259563" duration="1506000" />
       <workItem from="1588078098671" duration="1624000" />
       <workItem from="1588242146621" duration="356000" />
-      <workItem from="1588384683964" duration="2150000" />
+      <workItem from="1588384683964" duration="2368000" />
+      <workItem from="1588463257513" duration="2072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8987000" />
+    <option name="totallyTimeSpent" value="11277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19800664" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20066445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29032257" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20897616" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.12464986" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.06451613" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32959327" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32959327" />
       <window_info anchor="bottom" id="Analysis" order="13" />
-      <window_info anchor="bottom" id="MyBatis Log" order="14" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" weight="0.32959327" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -275,28 +318,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/april.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/pig/aikefa/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/A_threadpool/april/Demo1_syn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/asyc/Demo1BasicFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/basic/ocean/inject/People.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -651,6 +672,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ITsoftware/java/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-478">
+          <caret line="288" column="12" selection-start-line="288" selection-start-column="12" selection-end-line="288" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ITsoftware/java/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-892">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ITsoftware/java/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="683" column="13" selection-start-line="683" selection-start-column="13" selection-end-line="683" selection-end-column="13" />
+          <folding>
+            <element signature="e#20484#20485#0" expanded="true" />
+            <element signature="e#20520#20521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/lake/Demo2SkipMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
