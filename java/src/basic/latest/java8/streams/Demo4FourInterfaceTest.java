@@ -13,7 +13,7 @@ import java.util.function.Supplier;
  *
  * @Date：2018/7/25 0025 20:58
  */
-public class FourInterfaceTest {
+public class Demo4FourInterfaceTest {
     /**
      * 1 consumer接口的测试
      */
@@ -44,13 +44,10 @@ public class FourInterfaceTest {
 
     public List<Integer> getList(int num, Supplier<Integer> sup) {
         List<Integer> list = new ArrayList();
-
         for (int i = 0; i < num; i++) {
             /*返回Integer*/
             Integer integer = sup.get();
             list.add(integer);
-
-
         }
         return list;
     }
@@ -65,7 +62,7 @@ public class FourInterfaceTest {
 
     @Test
     public void testFunInterface() {
-        String s = funString("   asa    sas book", (str) -> str.trim().toUpperCase());
+        String s = funString("   ppx like reading book", (str) -> str.trim().toUpperCase());
         System.out.println(s);
         String s1 = funString("hello,world", (ppx) -> ppx.trim().substring(2));
         System.out.println(s1);

@@ -9,9 +9,9 @@ package basic.latest.java8.streams;
 /**
  * 传入employee对象进行比较
  */
-public class FilterEmployee02 implements IEmployee<FilteEmployee> {
+public class Demo3FilterEmployee02 implements IEmployee<Demo2FilteEmployee> {
     @Override
-    public Boolean testSth(FilteEmployee filteEmployee) {
+    public Boolean testSth(Demo2FilteEmployee filteEmployee) {
         return filteEmployee.getAge() >= 21;
     }
 }

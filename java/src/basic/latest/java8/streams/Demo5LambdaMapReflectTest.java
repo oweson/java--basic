@@ -13,7 +13,7 @@ import java.util.stream.Stream;
  *
  * @Date：2018/7/29 0029 22:16
  */
-public class LambdaMapReflectTest {
+public class Demo5LambdaMapReflectTest {
     @Test
     public void test1() {
         ArrayList<Student> students = new ArrayList<>(Arrays.asList(new Student(21, "ppx"), new Student(31, "op"),
@@ -44,7 +44,7 @@ public class LambdaMapReflectTest {
     public void test2() {
         /** 1 集合中的str转换成character*/
         List<String> list = Arrays.asList("aaa", "bbb");
-        Stream<Character> characterStream = list.stream().flatMap(LambdaMapReflectTest::changeStrToCharcter);
+        Stream<Character> characterStream = list.stream().flatMap(Demo5LambdaMapReflectTest::changeStrToCharcter);
         characterStream.forEach(System.out::println);
     }
 
