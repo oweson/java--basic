@@ -1,6 +1,8 @@
 package basic.latest.StreamAndMethodReference.demo03.Stream;
 
 import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
@@ -10,7 +12,6 @@ import java.util.stream.Stream;
  */
 public class Demo02StreamTest {
     public static void main(String[] args) {
-        //todo
         //第一支队伍
         ArrayList<String> one = new ArrayList<>();
         one.add("迪丽热巴");
@@ -42,5 +43,6 @@ public class Demo02StreamTest {
         //6. 根据姓名创建Person对象；存储到一个新集合中。
         //7. 打印整个队伍的Person对象信息。
         Stream.concat(oneStream,twoStream).map(Person::new).forEach(System.out::println);
+        List<String> stringList = one.stream().filter(name -> name.length() == 3).limit(3).collect(Collectors.toList());
     }
 }

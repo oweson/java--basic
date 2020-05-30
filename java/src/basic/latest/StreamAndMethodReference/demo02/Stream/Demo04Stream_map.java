@@ -1,5 +1,7 @@
 package basic.latest.StreamAndMethodReference.demo02.Stream;
 
+import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
@@ -14,9 +16,14 @@ public class Demo04Stream_map {
     public static void main(String[] args) {
         // 1 获取一个String类型的Stream流
         Stream<String> stream = Stream.of("1", "2", "3", "4");
+        Stream<String> streamLatest = Stream.of("1", "2", "3", "4");
+
         // 2 使用map方法,把字符串类型的整数,转换(映射)为Integer类型的整数
         Stream<Integer> stream2 = stream.map(Integer::parseInt);
         // 3 遍历Stream2流
         stream2.forEach(System.out::println);
+        // map是转换
+        List<Double> doubleList = streamLatest.map(Double::new).limit(100).collect(Collectors.toList());
+        doubleList.forEach(System.out::println);
     }
 }

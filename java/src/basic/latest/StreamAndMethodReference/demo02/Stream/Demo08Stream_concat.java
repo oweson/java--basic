@@ -1,5 +1,7 @@
 package basic.latest.StreamAndMethodReference.demo02.Stream;
 
+import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
@@ -15,8 +17,11 @@ public class Demo08Stream_concat {
         String[] arr = {"美羊羊","喜洋洋","懒洋洋","灰太狼","红太狼"};
         Stream<String> stream2 = Stream.of(arr);
         // 3 把以上两个流组合为一个流
-        Stream<String> concat = Stream.concat(stream1, stream2);
+       // Stream<String> concat = Stream.concat(stream1, stream2);
         // 4 遍历concat流!!!
-        concat.forEach(System.out::println);
+        //concat.forEach(System.out::println);
+        // 测试
+        List<String> stringList = Stream.concat(stream1,stream2).map(e -> e.substring(0, 2)).limit(100).collect(Collectors.toList());
+        stringList.forEach(System.out::println);
     }
 }
