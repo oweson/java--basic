@@ -48,6 +48,7 @@ public class Demo8IInnerClassInstance {
     private Demo8IInnerClassInstance() {
     }
 
+    // 公共方法给外界使用
     public static final Demo8IInnerClassInstance getInstance() {
         return LazyPig.INSTANCE;
     }
