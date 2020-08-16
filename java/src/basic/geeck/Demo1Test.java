@@ -11,5 +11,6 @@ public class Demo1Test {
         System.out.println(String.valueOf(number));
         System.out.println(null==null);
         number.toString();
+        System.out.println("靓仔归来！");
     }
 }
