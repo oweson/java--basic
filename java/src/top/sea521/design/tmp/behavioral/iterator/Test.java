@@ -1,5 +1,7 @@
 package top.sea521.design.tmp.behavioral.iterator;
 
+import java.math.BigDecimal;
+
 /**
  * Created by geely.
  */
@@ -7,6 +9,8 @@ public class Test {
 
 
     public static void main(String[] args) {
+        BigDecimal g = new BigDecimal(0.1f);
+        System.out.println(g);
         Course course1 = new Course("Java电商一期");
         Course course2 = new Course("Java电商二期");
         Course course3 = new Course("Java设计模式精讲");

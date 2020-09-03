@@ -9,6 +9,7 @@ public class CourseIteratorImpl implements CourseIterator {
 
     private List courseList;
     private int position;
+    // init 0;
     private Course course;
     public CourseIteratorImpl(List courseList){
         this.courseList=courseList;

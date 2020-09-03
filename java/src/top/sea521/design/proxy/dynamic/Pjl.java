@@ -5,7 +5,6 @@ public class Pjl implements Girl {
     public void dosomething() {
         System.out.println("do sth heihei..............");
 
-
     }
 
     @Override
