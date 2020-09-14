@@ -7,7 +7,7 @@ import java.util.LinkedList;
  *
  * @Date：2019/6/10 21:11
  */
-public class HeadHunter implements  Subject {
+public class HeadHunter implements Subject {
     private LinkedList<Observer> userList;
     private LinkedList<String> jobs;
 
@@ -28,7 +28,7 @@ public class HeadHunter implements  Subject {
 
     @Override
     public void notifyAllObservers() {
-        for (Observer o: userList) {
+        for (Observer o : userList) {
             o.update(this);
         }
     }
@@ -43,6 +43,7 @@ public class HeadHunter implements  Subject {
         return jobs;
     }
 
+    @Override
     public String toString() {
         return jobs.toString();
     }

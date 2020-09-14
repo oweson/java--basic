@@ -6,5 +6,5 @@ package top.sea521.design.decorator.v3;
  * @Date：2019/6/1 0001 16:11
  */
 public interface Sourceable {
-    public void method();
+     void method();
 }

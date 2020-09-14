@@ -5,9 +5,10 @@ package top.sea521.design.Observer;
  *
  * @Date：2019/6/10 21:12
  */
-public class JobSeeker implements  Observer {
+public class JobSeeker implements Observer {
     private String name;
-     // 1 构造函数赋值
+
+    // 1 构造函数赋值
     public JobSeeker(String name) {
         this.name = name;
     }

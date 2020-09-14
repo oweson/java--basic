@@ -7,7 +7,7 @@ import java.util.List;
  * Created by geely
  */
 public class CourseCatalog extends CatalogComponent {
-    private List<CatalogComponent> items = new ArrayList<CatalogComponent>();
+    private List<CatalogComponent> items = new ArrayList<>();
     private String name;
     private Integer level;
 
