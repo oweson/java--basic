@@ -30,6 +30,7 @@ public class Demo5Volatile {
 class ThreadDemo implements Runnable {
     // 共享数据，一个读一个写；
     private volatile boolean flag = false;
+
     @Override
     public void run() {
         try {

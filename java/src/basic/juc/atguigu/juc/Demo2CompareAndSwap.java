@@ -24,10 +24,12 @@ public class Demo2CompareAndSwap {
 
 class CompareAndSwap {
     private int value;
+
     // 1  获取内存值
     public synchronized int get() {
         return value;
     }
+
     // 2 比较
     public synchronized int compareAndSwap(int expectedValue, int newValue) {
         int oldValue = value;

@@ -3,7 +3,7 @@ package basic.cloudcode;
 /**
  * the class is create by @Author:oweson
  *
- * @Date：2019/5/30 0030 18:12
+ * @Date：2018/5/30 0030 18:12
  */
 public class Demo2OddOrEven {
     // true is odd;
