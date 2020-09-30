@@ -2,72 +2,232 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1412804-7253-4a4f-b1f6-06d91bed98c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/basic/geeck/OptionOfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/basic/geeck/BasicTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v1/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v1/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/CatalogComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/CatalogComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/CourseCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/CourseCatalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Observer/HeadHunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Observer/HeadHunter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Observer/JobSeeker.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/Observer/JobSeeker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Sourceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/MainVideoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/MainVideoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/VideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/VideoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/strategy/AddStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v1/AddStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/strategy/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v1/Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/strategy/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v1/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/strategy/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v1/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/strategy/SubStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v1/SubStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/iterator/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/iterator/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/iterator/CourseAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/iterator/CourseAggregate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/iterator/CourseAggregateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/iterator/CourseAggregateImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/iterator/CourseIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/iterator/CourseIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/iterator/CourseIteratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/iterator/CourseIteratorImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/iterator/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/iterator/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/strategy/FanXianPromotionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/FanXianPromotionStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/strategy/LiJianPromotionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/LiJianPromotionStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/strategy/ManJianPromotionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/ManJianPromotionStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/strategy/PromotionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/PromotionActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/strategy/PromotionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/PromotionStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/strategy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/templatemethod/ACourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/ACourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/templatemethod/DesignPatternCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/DesignPatternCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/templatemethod/FECourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/FECourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/behavioral/templatemethod/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/abstractfactory/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/abstractfactory/CourseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/CourseFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/abstractfactory/JavaArticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/JavaArticle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/abstractfactory/JavaCourseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/JavaCourseFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/abstractfactory/JavaVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/JavaVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/abstractfactory/PythonArticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/PythonArticle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/abstractfactory/PythonCourseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/PythonCourseFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/abstractfactory/PythonVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/PythonVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/abstractfactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/abstractfactory/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/factorymethod/FEVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/factorymethod/FEVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/factorymethod/FEVideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/factorymethod/FEVideoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/factorymethod/JavaVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/factorymethod/JavaVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/factorymethod/JavaVideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/factorymethod/JavaVideoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/factorymethod/PythonVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/factorymethod/PythonVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/factorymethod/PythonVideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/factorymethod/PythonVideoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/factorymethod/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/factorymethod/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/factorymethod/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/factorymethod/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/factorymethod/VideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/factorymethod/VideoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/simplefactory/JavaVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/JavaVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/simplefactory/PythonVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/PythonVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/simplefactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/simplefactory/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/creational/simplefactory/VideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/VideoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/facade/GiftExchangeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/facade/PointsGift.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/facade/PointsPaymentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/facade/QualifyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/facade/ShippingService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/facade/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/temp/demo1/ArrayCopyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Composite/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v1/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Composite/v1/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v1/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Composite/v1/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/CatalogComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Composite/v2/CatalogComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Composite/v2/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/CourseCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Composite/v2/CourseCatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Composite/v2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/ConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/v1/ConnectionPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/Crayon.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/v1/Crayon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/CrayonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/v1/CrayonFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/FlyWeightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/v1/FlyWeightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v1/ICrayon.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/v1/ICrayon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/v2/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/EmployeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/v2/EmployeeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/v2/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/v2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/v2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/LazyProductLover01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/Article.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/CourseFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/JavaArticle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/JavaCourceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/JavaVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/PythonArticle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/PythonCourseFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/PythonVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/Adaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/Adaptee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/ConcreateTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/ConcreateTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/classadapter/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/AdapterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/classadapter/AdapterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/classadapter/Source.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/classadapter/Targetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/classadapter/Targetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/interfaceadapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/interfaceadapter/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/interfaceadapter/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/interfaceadapter/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/adapter/interfaceadapter/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/interfaceadapter/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/builder/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/builder/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/builder/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/builder/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/builder/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/builder/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/BatteCakeWithEggAndSausce.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v1/BatteCakeWithEggAndSausce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/BatterCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v1/BatterCake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/BatterCakeWithEge.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v1/BatterCakeWithEge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v2/ABatterCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v2/ABatterCake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v2/ABstractDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v2/ABstractDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v2/BatterCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v2/BatterCake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v3/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/DecoratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v3/DecoratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v3/Source.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/decorator/v3/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/decorator/v3/Sourceable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/GiftExchangeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v1/GiftExchangeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/PointGifts.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v1/PointGifts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/PointPayMentServvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v1/PointPayMentServvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/QulafyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v1/QulafyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/ShippingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v1/ShippingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v2/CPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v2/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v2/Disk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v2/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v2/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/facade/v2/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/factorymethod/FEVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/factorymethod/FEVideoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/factorymethod/JavaVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/factorymethod/JavaVideoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/factorymethod/PythonVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/factorymethod/PythonVideoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/factorymethod/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/factorymethod/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/factorymethod/VideoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePig.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/prototype/ClonePig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/ClonePigTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/prototype/ClonePigTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/prototype/Mail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/MailUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/prototype/MailUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/prototype/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/prototype/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/prototype/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/proxy/dynamic/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/proxy/dynamic/Girl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/proxy/dynamic/Mp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/proxy/dynamic/Mp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/proxy/dynamic/Pjl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/proxy/dynamic/Pjl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/proxy/dynamic/Xmq.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/proxy/dynamic/Xmq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/proxy/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/proxy/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/proxy/staticproxy/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/proxy/staticproxy/Girl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/proxy/staticproxy/Mp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/proxy/staticproxy/Mp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/proxy/staticproxy/Pjl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/proxy/staticproxy/Pjl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/proxy/staticproxy/Xmq.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/structural/proxy/staticproxy/Xmq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo1EnumMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/Demo1EnumMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo1EnumMainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/Demo1EnumMainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo2HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/Demo2HungrySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo3LazyDoubleCheckSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/Demo3LazyDoubleCheckSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo4StaticSingleClasss.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/Demo4StaticSingleClasss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo5ThreadLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/Demo5ThreadLocal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo6ContainerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/Demo6ContainerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo7ThreadLocalInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/Demo7ThreadLocalInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Demo8IInnerClassInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/Demo8IInnerClassInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/MyEnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/MyEnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/SingleFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/SingleFish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/ThreadLocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/singleton/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/creational/singleton/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v1/AbstractClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v1/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v1/CodeBicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v1/ScanBicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v2/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/v2/AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/v2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v2/CodeBicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/v2/CodeBicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v2/ScanBicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/v2/ScanBicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v3/AbstractCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/v3/AbstractCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v3/DesignPatternCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/v3/DesignPatternCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/v3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v3/WebCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/v3/WebCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/AC220.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/DC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/PowerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/classadapter/Adaptee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/classadapter/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/classadapter/ConcreteTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/classadapter/Target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/classadapter/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/objectadapter/Adaptee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/objectadapter/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/objectadapter/ConcreteTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/objectadapter/Target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/adapter/objectadapter/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/bridge/ABCBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/bridge/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/bridge/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/bridge/DepositAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/bridge/ICBCBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/bridge/SavingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/bridge/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/composite/CatalogComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/composite/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/composite/CourseCatalog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/composite/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/decorator/v1/Battercake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/decorator/v1/BattercakeWithEgg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/decorator/v1/BattercakeWithEggSausage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/decorator/v1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/decorator/v2/ABattercake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/decorator/v2/AbstractDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/decorator/v2/Battercake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/decorator/v2/EggDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/decorator/v2/SausageDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/decorator/v2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/flyweight/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/flyweight/EmployeeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/flyweight/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/flyweight/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/IOrderDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/IOrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/OrderDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/OrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/db/DataSourceContextHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/db/DynamicDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/dynamicproxy/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/staticproxy/OrderServiceStaticProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/staticproxy/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/AC220.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/DC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/PowerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/classadapter/Adaptee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/classadapter/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/classadapter/ConcreteTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/classadapter/Target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/classadapter/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/objectadapter/Adaptee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/objectadapter/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/objectadapter/ConcreteTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/objectadapter/Target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/adapter/objectadapter/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/bridge/ABCBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/bridge/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/bridge/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/bridge/DepositAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/bridge/ICBCBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/bridge/SavingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/bridge/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/composite/CatalogComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/composite/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/composite/CourseCatalog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/composite/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/decorator/v1/Battercake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/decorator/v1/BattercakeWithEgg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/decorator/v1/BattercakeWithEggSausage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/decorator/v1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/decorator/v2/ABattercake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/decorator/v2/AbstractDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/decorator/v2/Battercake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/decorator/v2/EggDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/decorator/v2/SausageDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/decorator/v2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/facade/GiftExchangeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/facade/PointsGift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/facade/PointsPaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/facade/QualifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/facade/ShippingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/facade/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/flyweight/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/flyweight/EmployeeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/flyweight/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/flyweight/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/IOrderDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/IOrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/OrderDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/OrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/db/DataSourceContextHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/db/DynamicDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/dynamicproxy/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/staticproxy/OrderServiceStaticProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/top/sea521/design/tmp/structural/proxy/staticproxy/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java--basic/top/sea521/design/Flyweight/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java--basic/top/sea521/design/Flyweight/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java--basic/top/sea521/design/prototype/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java--basic/top/sea521/design/prototype/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,18 +240,9 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/JavaVideo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/PythonVideo.java">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/BigBubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -100,37 +251,82 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/VideoFactory.java">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+            <state relative-caret-position="161">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/Test.java">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/BubbleSortNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="161">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/BubboleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/EnumOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/EnumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/Fish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/FishHungry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/tiger/Demo1HashSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/MainVideoTest.java">
+        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/utils/DateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/Video.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="207">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -150,9 +346,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/Demo3FilterEmployee02.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/FourInterfaceTest.java" />
-        <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/Demo4FourInterfaceTest.java" />
         <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/Demo5LambdaMapReflectTest.java" />
         <option value="$PROJECT_DIR$/java/src/basic/latest/java8/streams/SelectLambdaAndSelectAndCutTest.java" />
         <option value="$PROJECT_DIR$/java/src/basic/geeck/SumNumber.java" />
@@ -201,6 +394,9 @@
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/Test.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/VideoFactory.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/MainVideoTest.java" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/prototype/readme.md" />
+        <option value="$PROJECT_DIR$/java/src/top/sea521/design/Flyweight/readme.md" />
+        <option value="$PROJECT_DIR$/java/src/basic/geeck/BasicTest.java" />
       </list>
     </option>
   </component>
@@ -212,9 +408,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="54" />
-    <option name="width" value="1773" />
-    <option name="height" value="1018" />
+    <option name="x" value="52" />
+    <option name="width" value="1776" />
+    <option name="height" value="1021" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -224,7 +420,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,13 +443,6 @@
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="geeck" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pig" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -267,6 +456,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="optimization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
               <item name="sea521" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -283,8 +479,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="top" type="462c0819:PsiDirectoryNode" />
               <item name="sea521" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="tiger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
@@ -292,39 +487,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="top" type="462c0819:PsiDirectoryNode" />
               <item name="sea521" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="sea521" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,6 +509,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\git\basic\java--basic\java\src\top\sea521\design\structural\proxy" />
       <recent name="D:\BaiduNetdiskDownload\git\basic\java--basic\java\src\top\sea521\design\proxy" />
     </key>
   </component>
@@ -355,13 +525,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainVideoTest">
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.sea521.design.behavioral.strategy.v1.MainTest" />
+  <component name="RunManager" selected="Application.DateTest">
+    <configuration name="BasicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.geeck.BasicTest" />
       <module name="java--basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.sea521.design.behavioral.strategy.v1.*" />
+          <option name="PATTERN" value="basic.geeck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.sea521.utils.DateTest" />
+      <module name="java--basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.sea521.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,26 +591,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.sea521.design.facade.v1.Test" />
-      <module name="java--basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.sea521.design.facade.v1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateTest" />
+        <item itemvalue="Application.BasicTest" />
         <item itemvalue="Application.MainVideoTest" />
-        <item itemvalue="Application.MainTest (1)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.OneSb" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +641,9 @@
       <workItem from="1599126748536" duration="2217000" />
       <workItem from="1599138131644" duration="693000" />
       <workItem from="1599363481250" duration="4495000" />
-      <workItem from="1600055498988" duration="3477000" />
+      <workItem from="1600055498988" duration="3879000" />
+      <workItem from="1600784170118" duration="900000" />
+      <workItem from="1601435181934" duration="1082000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式复习。">
       <created>1599145041753</created>
@@ -487,7 +659,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599404436037</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="docs: 结构包修改整理">
+      <created>1600066579051</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600066579052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -496,19 +675,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49925000" />
+    <option name="totallyTimeSpent" value="52309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24518272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24850498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959327" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14165498" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16970547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.12762973" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -541,55 +720,277 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="设计模式复习。" />
     <MESSAGE value="走一步看一步" />
-    <option name="LAST_COMMIT_MESSAGE" value="走一步看一步" />
+    <MESSAGE value="docs: 结构包修改整理" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: 结构包修改整理" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/CatalogComponent.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/CourseCatalog.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/Video.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-321">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Composite/v2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/beiwanglu/Article.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/PythonVideo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/beiwanglu/ArticleMoment.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/Test.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/VideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/MainVideoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/JavaVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/creational/prototype/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/structural/Flyweight/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/math/Demo1Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/math/Demo4GeneratorNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/math/Demo5JustPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/math/Demo6GradeScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-670">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/opreator/Demo1Sanyuan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Observer/Subject.java">
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/opreator/Demo2Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/opreator/Demo3Binary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/random/CustomUUID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2064">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/scannerandarraylistrandom/demo01/Demo01Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/pond/scannerandarraylistrandom/demo01/Demo02ScannerSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github导航.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/geeck/Demo1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/geeck/BasicTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/code/optimization/Demo1Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/geeck/IntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/ConcreateTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/structural/adpater/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v1/AbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/templatemethod/v1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/v2/CodeBicycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/v3/AbstractCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/ACourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/LazyProductLover01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/annotation/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -601,107 +1002,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Observer/JobSeeker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Observer/HeadHunter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Observer/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/Composite/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v2/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/facade/v1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/iterator/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/iterator/CourseAggregate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/iterator/CourseIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/iterator/CourseIteratorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/LazyProductLover01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/ArrayCopyTest.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -715,194 +1016,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/RealHungry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/OneSb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/ACourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/DesignPatternCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/FECourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v1/AddStrategy.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/BigBubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v1/Calc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v1/MainTest.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v1/Strategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v1/SubStrategy.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/BubbleSortNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/FanXianPromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/LiJianPromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/ManJianPromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/PromotionActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/PromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/strategy/v2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/tmp/stru/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-430" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/creational/abstractfactory/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/PythonVideo.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/BubboleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/abstractfactory/Test.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/EnumOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/Video.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/JavaVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/PythonVideo.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/EnumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/creational/simplefactory/Test.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/Fish.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/temp/demo1/FishHungry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/tiger/Demo1HashSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/VideoFactory.java">
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/utils/DateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/simplefactory/MainVideoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
