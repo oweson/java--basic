@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1412804-7253-4a4f-b1f6-06d91bed98c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/compositionaggregation/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/compositionaggregation/MySQLConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/compositionaggregation/PostgreSQLConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/compositionaggregation/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/compositionaggregation/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/demeter/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/demeter/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/demeter/TeamLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/demeter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/dependenceinversion/FECourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/dependenceinversion/Geely.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/dependenceinversion/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/dependenceinversion/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/dependenceinversion/PythonCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/dependenceinversion/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/interfacesegregation/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/interfacesegregation/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/interfacesegregation/IAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/interfacesegregation/IEatAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/interfacesegregation/IFlyAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/interfacesegregation/ISwimAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/liskovsubstitution/Quadrangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/liskovsubstitution/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/liskovsubstitution/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/liskovsubstitution/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/liskovsubstitution/methodinput/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/liskovsubstitution/methodinput/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/liskovsubstitution/methodinput/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/liskovsubstitution/methodoutput/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/liskovsubstitution/methodoutput/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/liskovsubstitution/methodoutput/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/openclose/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/openclose/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/openclose/JavaDiscountCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/openclose/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/singleresponsibility/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/singleresponsibility/CourseImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/singleresponsibility/FlyBird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/singleresponsibility/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/singleresponsibility/ICourseContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/singleresponsibility/ICourseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/singleresponsibility/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/singleresponsibility/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/top/sea521/design/principle/singleresponsibility/WalkBird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/basic/latest/lambda/stream02/Demo7AddTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,7 +16,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream02/Demo6StreamFilterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream02/Demo7AddTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo09/ConstructorMethodReference/Person.java" />
         <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo09/ConstructorMethodReference/Demo.java" />
         <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo08/ThisMethodReference/Richable.java" />
         <option value="$PROJECT_DIR$/java/src/basic/latest/StreamAndMethodReference/demo08/ThisMethodReference/Husband.java" />
@@ -125,6 +100,7 @@
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/principle/demeter/Boss.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/principle/openclose/JavaCourse.java" />
         <option value="$PROJECT_DIR$/java/src/top/sea521/design/principle/openclose/JavaDiscountCourse.java" />
+        <option value="$PROJECT_DIR$/java/src/basic/latest/lambda/stream02/Demo7AddTest.java" />
       </list>
     </option>
   </component>
@@ -136,9 +112,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="50" />
-    <option name="width" value="1777" />
-    <option name="height" value="1022" />
+    <option name="x" value="49" />
+    <option name="width" value="1778" />
+    <option name="height" value="1023" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -148,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -165,67 +142,45 @@
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="sea521" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="latest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="sea521" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="latest" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="sea521" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="latest" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="sea521" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="compositionaggregation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="sea521" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="dependenceinversion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java--basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="sea521" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="openclose" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="latest" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="stream02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,20 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="BasicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.geeck.BasicTest" />
-      <module name="java--basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.geeck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo7AddTest">
     <configuration name="BigPig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.juc.atguigu.juc02.BigPig" />
       <module name="java--basic" />
@@ -293,6 +235,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top.sea521.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo7AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.latest.lambda.stream02.Demo7AddTest" />
+      <module name="java--basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.latest.lambda.stream02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo7AddTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.BigPig" />
         <item itemvalue="Application.DateTest" />
-        <item itemvalue="Application.BasicTest" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +333,8 @@
       <workItem from="1599363481250" duration="4495000" />
       <workItem from="1600055498988" duration="3879000" />
       <workItem from="1600784170118" duration="900000" />
-      <workItem from="1601435181934" duration="3565000" />
+      <workItem from="1601435181934" duration="3590000" />
+      <workItem from="1601773114913" duration="936000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式复习。">
       <created>1599145041753</created>
@@ -415,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601436698306</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: &#10;&#10;设计模式终结">
+      <created>1601451324219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601451324219</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -424,18 +387,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54792000" />
+    <option name="totallyTimeSpent" value="55753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24850498" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25182724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959327" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.07573633" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.08274895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.12762973" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -469,32 +433,11 @@
     <MESSAGE value="设计模式复习。" />
     <MESSAGE value="走一步看一步" />
     <MESSAGE value="docs: 结构包修改整理" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: 结构包修改整理" />
+    <MESSAGE value="feat: &#10;&#10;设计模式终结" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: &#10;&#10;设计模式终结" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/behavioral/templatemethod/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/LazyProductLover01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/LazyProductLover01.java" />
     <entry file="file://$PROJECT_DIR$/java/src/top/sea521/design/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -616,14 +559,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/github导航.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/github导航.md" />
     <entry file="file://$PROJECT_DIR$/java/src/top/sea521/utils/UtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
@@ -845,6 +781,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream02/Demo6StreamFilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/basic/latest/lambda/stream02/Demo7AddTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
