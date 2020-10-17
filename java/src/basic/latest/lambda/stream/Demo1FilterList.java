@@ -16,5 +16,6 @@ public class Demo1FilterList {
         collect.forEach(System.out::println);
 
 
+
     }
 }

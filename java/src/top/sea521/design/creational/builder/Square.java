@@ -17,6 +17,11 @@ public class Square {
     }
 
     public static class Builder {
+        @Override
+        public String toString() {
+            return super.toString();
+        }
+
         private int color;
         private int size;
 
@@ -50,7 +55,9 @@ public class Square {
             return this;
         }
 
-        public Builder setPadding(int left, int top, int right, int bottom) {
+        public Builder setPadding(int size,int borderColor) {
+            this.size=size;
+            this.borderColor=borderColor;
             return this;
         }
 
@@ -64,15 +71,12 @@ public class Square {
 
     @Override
     public String toString() {
-        return "Square{" +
-                "color=" + color +
-                ", borderSize=" + borderSize +
-                '}';
+        return super.toString();
     }
 
     public static void main(String[] args) {
         Square square = new Builder().setSize(50).setColor(210).setBorderSize(5).setBorderSize(210)
-                .setBorderColor(100).setPadding(1, 2, 3, 4).build();
+                .setBorderColor(100).setPadding(1,2).build();
         System.out.println(square);
     }
 }
