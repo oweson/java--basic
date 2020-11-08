@@ -12,13 +12,14 @@ public class ClonePigTest {
         /**不是一个对象，默认是浅的克隆；
          * 深的克隆原先的改变不会改变其他的对象；不同的引用指向不同的对象！！！*/
         Date date = new Date(0L);
-        ClonePig clonePig = new ClonePig("ppx", date);
-        ClonePig clone = (ClonePig) clonePig.clone();
-        System.out.println(clonePig);
-        System.out.println(clone);
-        clonePig.getDate().setTime(6666777666666L);
-        System.out.println(clonePig);
-        System.out.println(clone);
+        ClonePig clonePigOrigin = new ClonePig("ppx", date,"henan");
+        ClonePig clonePigLatest = (ClonePig) clonePigOrigin.clone();
+        System.out.println(clonePigOrigin);
+        System.out.println(clonePigLatest);
+        clonePigOrigin.getDate().setTime(6666777666666L);
+        System.out.println("--------------------------------------------------------------");
+        System.out.println(clonePigOrigin);
+        System.out.println(clonePigLatest);
 
 
     }

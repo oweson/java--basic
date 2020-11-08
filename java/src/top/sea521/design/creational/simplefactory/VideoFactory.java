@@ -36,6 +36,9 @@ public class VideoFactory {
         } else if ("python".equalsIgnoreCase(type)) {
             return new PythonVideo();
         }
+        else  if("go".equalsIgnoreCase(type)){
+            return new GoVideo();
+        }
         return null;
     }
 }

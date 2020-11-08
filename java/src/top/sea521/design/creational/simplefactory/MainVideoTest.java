@@ -22,6 +22,11 @@ public class MainVideoTest {
             return;
         }
         java.open();
+        Video go = VideoFactory.generator("go");
+        if (go == null) {
+            return;
+        }
+        go.open();
 
     }
 }

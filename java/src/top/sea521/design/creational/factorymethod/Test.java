@@ -10,6 +10,10 @@ public class Test {
         VideoFactory videoFactory3 = new FEVideoFactory();
         Video video = videoFactory.getVideo();
         video.produce();
+        Video factory2Video = videoFactory2.getVideo();
+        factory2Video.produce();
+        Video videoFactory3Video = videoFactory3.getVideo();
+        videoFactory3Video.produce();
 
     }
 
