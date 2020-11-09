@@ -45,6 +45,10 @@ public class User {
         return address;
     }
 
+    /**
+     * 静态内部类
+     */
+
     public static class UserBuilder {
         private final String firstName;
         private final String lastName;
