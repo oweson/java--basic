@@ -9,7 +9,6 @@ import java.util.Date;
  */
 public class Demo01Fish {
     Date d = new Date();
-
     public void say() {
         synchronized (d) {
             System.out.print("我");

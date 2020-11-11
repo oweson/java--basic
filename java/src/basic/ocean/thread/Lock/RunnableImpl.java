@@ -28,7 +28,7 @@ public class RunnableImpl implements Runnable {
      * 2.在成员位置创建一个ReentrantLock对象;
      * 接口指向实现类的对象！
      */
-    Lock l = new ReentrantLock();
+    Lock lock = new ReentrantLock();
 
     /**
      * 3 设置线程任务:卖票
@@ -38,7 +38,7 @@ public class RunnableImpl implements Runnable {
         //1 使用死循环,让卖票操作重复执行
         while (true) {
             //2.在可能会出现安全问题的代码前调用Lock接口中的方法lock获取锁
-            l.lock();
+            lock.lock();
             // 3 先判断票是否存在
             if (ticket <= 0) {
                 break;
@@ -53,8 +53,11 @@ public class RunnableImpl implements Runnable {
                 e.printStackTrace();
             } finally {
                 // 6 在可能会出现安全问题的代码后加锁后调用Lock接口中的方法unlock释放锁
-                l.unlock();
+                lock.unlock();
                 // 7 无论程序是否异常,都会把锁释放
+            }
+            if (ticket <= 0) {
+                break;
             }
         }
     }
