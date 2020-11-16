@@ -16,6 +16,9 @@ public class Test {
         // 3 加火腿和鸡蛋
         BatterCake batterCake2 = new BatteCakeWithEggAndSausce();
         System.out.println(batterCake2.getDesc() + "   需要支付:  " + batterCake2.cost());
+        // 4 加云南咖啡
+        BatterCake batterCake3 = new BatteCakeWithEggAndSausceAndCoffee();
+        System.out.println(batterCake3.getDesc()+"   需要支付：    "+batterCake3.cost());
 
     }
 }

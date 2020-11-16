@@ -7,7 +7,7 @@ package top.sea521.design.structural.decorator.v1;
  */
 public class BatterCake {
     protected String getDesc(){
-        return "卖脆饼搂";
+        return "卖脆饼喽";
 
     }
     protected int cost(){
