@@ -15,6 +15,8 @@ public class Demo1lambdaTest {
 //        }
 
         // 2 使用Lambda表达式的方式来遍历hashMap,k,v
-        hashMap.forEach((s, s2) -> System.out.println(s + ":" + s2));
+        hashMap.forEach((k,v)->{
+            System.out.println(k+" :"+v);
+        });
     }
 }

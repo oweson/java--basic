@@ -1,7 +1,7 @@
 package basic.pond.datatype;
 
 /**
- * Created by Brian on 2016/4/14.
+ * Created by oweson on 2016/4/14.
  * <p>
  * TODO 有些细节待理解
  * <p>
@@ -29,12 +29,10 @@ public class Boxing {
         System.out.println(g.equals(a + b));
         // false
         System.out.println(new Integer(2) == new Integer(2));
-
         Long y = 100L;
-
         int z = 100;
         System.out.println(y == z);
-        // true
+        // true  拆箱
 
     }
 }

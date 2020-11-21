@@ -23,4 +23,3 @@ public class NumberEquation {
     }
 }
 
-// (i == l),(i == d),(l == d)会出现编译错误

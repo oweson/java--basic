@@ -98,16 +98,16 @@ public class Demo2FilteEmployee {
     public static void main(String[] args) {
         System.out.println("y优化2-------------------------------");
 
-        /* 1 过滤年龄大于等于22岁的学生*/
+        // 1 过滤年龄大于等于22岁的学生*/
         List<Demo2FilteEmployee> list = Arrays.asList(new Demo2FilteEmployee(21, "ppx"),
                 new Demo2FilteEmployee(22, "ppg"));
-        /*2 最终版本的优化方式*/
+        // 2 最终版本的优化方式
         System.out.println("===============================================");
 
         list.stream().filter((e) -> e.getAge() >= 21).forEach(System.out::println);
         List<Demo2FilteEmployee> filteEmployeeList = list.stream().filter((e) -> e.getAge() > 0).collect(Collectors.toList());
         System.out.println("===============================================");
-        /*3 提取员工名字*/
+        // 3 提取员工名字
         System.out.println("===============================================");
 
         list.stream().map(Demo2FilteEmployee::getName).forEach(System.out::println);

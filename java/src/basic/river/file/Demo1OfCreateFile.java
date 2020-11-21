@@ -35,19 +35,6 @@ public class Demo1OfCreateFile {
             //File file = listRoots[i];
             System.out.println(listRoots[i]);
         }
-		/*System.out.println(file.isFile());
-		System.out.println(file.exists());
-		System.out.println(file.length());
-		System.out.println(file.getAbsolutePath());
-		System.out.println(file.lastModified());
-		Long time=file.lastModified();
-		Date date  =new Date(time);
-		//System.out.println(file.setLastModified(date);
-		//System.out.println(file.setLastModified(new Date(0)));
-		File file2 = new File("E:/ppa.txt");
-		System.out.println(file2.getAbsolutePath());
-		File file3 = new File(file, "tio.txt");
-		System.err.println(file3.getAbsolutePath());*/
 
     }
 

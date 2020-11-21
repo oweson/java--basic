@@ -27,7 +27,6 @@ public class TestMaxFile {
         }
         System.out.println("最大的文件是%s最长是" + maxFile.getAbsoluteFile());
         System.out.println(maxSize);
-        //System.out.println("%s,%","hhh",100);
 
     }
 

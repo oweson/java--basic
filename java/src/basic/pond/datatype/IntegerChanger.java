@@ -28,7 +28,6 @@ public class IntegerChanger {
         try {
             Field f = Integer.class.getDeclaredField("value");
             f.setAccessible(true);
-
             int tmp = i1;
             f.setInt(i1, i2);
             f.setInt(i2, tmp);
