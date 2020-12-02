@@ -14,9 +14,8 @@ import java.util.Set;
 public class Demo3ForeachListAndSet {
     public static void main(String[] args) {
         List<String> asList = Arrays.asList("Lambdas", "Default Method", "Stream API");
-
         asList.forEach(System.out::println);
-        System.out.println("------------------------------------");
+        System.out.println("----------------------------------------------------------");
         Set<Integer> set = new HashSet<>(16);
         set.add(10);
         set.add(21);

@@ -29,8 +29,6 @@ public class Demo07ArrayReverse {
             array[min] = array[max];
             array[max] = temp;
         }
-        //todo
-
         // 再次打印遍历输出数组后来的样子
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);

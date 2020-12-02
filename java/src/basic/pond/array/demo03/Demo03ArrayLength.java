@@ -11,7 +11,6 @@ package basic.pond.array.demo03;
 public class Demo03ArrayLength {
 
     public static void main(String[] args) {
-        int[] arrayA = new int[3];
 
         int[] arrayB = {10, 20, 30, 3, 5, 4, 6, 7, 8, 8, 65, 4, 44, 6, 10, 3, 5, 4, 6, 7, 8, 8, 65, 4};
         int len = arrayB.length;

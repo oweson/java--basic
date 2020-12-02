@@ -1,5 +1,6 @@
 package basic.latest.lambda.stream;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -15,6 +16,11 @@ public class Demo1FilterList {
         List<Double> collect = cost.stream().filter(x -> x > 21).collect(Collectors.toList());
         collect.forEach(System.out::println);
 
+        List<Integer> integerList = new ArrayList<>();
+        integerList.add(1);
+        integerList.add(2);
+        List<Integer> collectInteger = integerList.stream().filter(integer -> integer == 1).collect(Collectors.toList());
+        System.out.println(collectInteger);
 
 
     }
