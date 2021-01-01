@@ -28,8 +28,5 @@ public class AnnoDemo2 {
         // 2 替代show1方法
     }
 
-    public void demo(){
-        show1();
-        Date date = new Date();
-    }
+
 }

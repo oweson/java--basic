@@ -47,11 +47,11 @@ public class Person {
     }
 
 
-    public void eat(){
+    public void eat() {
         System.out.println("eat...");
     }
 
-    public void eat(String food){
-        System.out.println("eat..."+food);
+    public void eat(String food) {
+        System.out.println("eat..." + food);
     }
 }

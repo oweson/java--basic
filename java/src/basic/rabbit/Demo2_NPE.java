@@ -9,7 +9,6 @@ public class Demo2_NPE {
     public static void main(String[] args) {
         // Initializing String variable with null value
         String ptr = null;
-
         // Checking if ptr.equals null or works fine.
         try {
             // This line of code throws NullPointerException

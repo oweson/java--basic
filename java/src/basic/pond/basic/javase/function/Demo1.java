@@ -7,7 +7,6 @@ package basic.pond.basic.javase.function;
  */
 public class Demo1 {
     public static void printX(int m) {
-
         for (int x = 1; x <= m; x++) {
             //循环7行
             for (int y = 1; y <= m; y++) {

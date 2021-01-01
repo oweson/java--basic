@@ -38,13 +38,11 @@ public class ReflectDemo2 {
         //0.获取Person的Class对象
         Class personClass = Person.class;
         /*
-             1. 获取成员变量们
+               1. 获取成员变量们
                  * Field[] getFields()
                  * Field getField(String name)
-
                * Field[] getDeclaredFields()
                  * Field getDeclaredField(String name)
-
          */
         //1.Field[] getFields()获取所有public修饰的成员变量
         Field[] fields = personClass.getFields();
@@ -52,7 +50,7 @@ public class ReflectDemo2 {
             System.out.println(field);
         }
 
-        System.out.println("------------");
+        System.out.println("-------------------------------------------");
         //2.Field getField(String name)
         Field a = personClass.getField("a");
         //获取成员变量a 的值
@@ -63,7 +61,7 @@ public class ReflectDemo2 {
         a.set(p, "张三");
         System.out.println(p);
 
-        System.out.println("===================");
+        System.out.println("==============================================");
 
         //Field[] getDeclaredFields()：获取所有的成员变量，不考虑修饰符
         Field[] declaredFields = personClass.getDeclaredFields();

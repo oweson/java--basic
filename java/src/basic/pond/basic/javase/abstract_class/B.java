@@ -5,12 +5,13 @@ package basic.pond.basic.javase.abstract_class;
  *
  * @Date：2019/1/1 0001 15:39
  */
-public abstract  class B extends A {
+public abstract class B extends A {
     int numb = 20;
+
     public abstract void showB();
 
     @Override
     public void showA() {
-        int a=100;
+        int a = 100;
     }
 }

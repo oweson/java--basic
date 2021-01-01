@@ -10,16 +10,13 @@ import java.util.Scanner;
 
 public class Computer {
     public static void main(String[] args) {
-
         Scanner scan = new Scanner(System.in);
         int c;
         int d;
         int x = 1;
         while (x < 10000) {
-
             System.out.print("输入第一个数：");
             c = scan.nextInt();
-
             System.out.print("输入第二个数：");
             d = scan.nextInt();
             System.out.print("请选择算法：+ - * /");

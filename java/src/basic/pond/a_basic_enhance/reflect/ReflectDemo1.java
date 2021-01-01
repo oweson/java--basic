@@ -32,7 +32,6 @@ public class ReflectDemo1 {
         System.out.println(cls1 == cls3);
         //true
 
-
         Class c = Student.class;
         System.out.println(c == cls1);
 

@@ -45,13 +45,11 @@ public class SimpleDefine {
         a = b;
         a = a + b;
         System.out.println(a + "\t" + b);
-        // TODO Auto-generated method stub
 
     }
 
     private static void demo5() {
-        int[][] arr = {{22, 66, 44}, {77, 33, 88}, {25, 45, 65},
-                {11, 66, 99}};
+        int[][] arr = {{22, 66, 44}, {77, 33, 88}, {25, 45, 65},{11, 66, 99}};
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[i].length; j++) {

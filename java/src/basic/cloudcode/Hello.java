@@ -1,8 +1,5 @@
 package basic.cloudcode;
 
-import basic.pond.basic.HelloWorld;
-import com.sun.org.apache.xml.internal.security.utils.HelperNodeList;
-
 /**
  * the class is create by @Author:oweson
  *

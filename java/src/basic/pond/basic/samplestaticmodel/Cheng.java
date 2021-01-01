@@ -48,17 +48,13 @@ public class Cheng {
         this.looklike = looklike;
     }
 
-    @Test
-    public void demo1() {
-        System.out.println("hello,world!");
-    }
+
 
     /**
      * @param args
      */
     public static void main(String[] args) {
         System.out.println("hello,oweson");
-        // TODO Auto-generated method stub
 
     }
 

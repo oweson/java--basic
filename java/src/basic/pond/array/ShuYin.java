@@ -20,7 +20,7 @@ public class ShuYin {
             }
 
         }
-        return -100;
+        return -1;
     }
 
 }

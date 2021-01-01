@@ -36,7 +36,6 @@ public class PlayCard {
         }
         puke[52] = "小王";
         puke[53] = "大王";
-
         return puke;
 
     }

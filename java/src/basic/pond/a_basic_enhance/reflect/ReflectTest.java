@@ -12,7 +12,6 @@ import java.util.Properties;
 public class ReflectTest {
     public static void main(String[] args) throws Exception {
         //可以创建任意类的对象，可以执行任意方法
-
         /*
             前提：不能改变该类的任何代码。可以创建任意类的对象，可以执行任意方法
          */
@@ -30,12 +29,9 @@ public class ReflectTest {
         ClassLoader classLoader = ReflectTest.class.getClassLoader();
         InputStream is = classLoader.getResourceAsStream("classpath:E:\\AAiDEL\\java--basic\\java\\src\\basic\\pond\\a_basic_enhance\\pro.properties\\pro.properties");
         pro.load(is);
-
         //2.获取配置文件中定义的数据
         String className = pro.getProperty("className");
         String methodName = pro.getProperty("methodName");
-
-
         //3.加载该类进内存
         Class cls = Class.forName(className);
         //4.创建对象

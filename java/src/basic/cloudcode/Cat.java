@@ -6,8 +6,7 @@ package basic.cloudcode;
  * @Date：2019/8/22 20:35
  */
 public class Cat {
-    private int age
-            ;
+    private int age;
     private String name;
 
     public int getAge() {
