@@ -11,7 +11,6 @@ public class Test {
             String department = departments[(int) (Math.random() * departments.length)];
             Manager manager = (Manager) EmployeeFactory.getManager(department);
             manager.report();
-
         }
         // 不在范围里面，创建对象
         Integer a = Integer.valueOf(100);
@@ -25,13 +24,13 @@ public class Test {
 
         System.out.println("c==d:" + (c == d));
         // false
-        Integer j=1000;
-        Integer k=1000;
-        System.out.println(j==k);
+        Integer j = 1000;
+        Integer k = 1000;
+        System.out.println(j == k);
         // false
-        Integer x=100;
-        Integer y=100;
-        System.out.println(x==y);
+        Integer x = 100;
+        Integer y = 100;
+        System.out.println(x == y);
         // true
 
     }
