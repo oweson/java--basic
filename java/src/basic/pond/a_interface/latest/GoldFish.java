@@ -1,4 +1,4 @@
-package idea.sea.interface01;
+package basic.pond.a_interface.latest;
 
 /**
  * the class is create by @Author:oweson

@@ -1,4 +1,4 @@
-package idea.sea.interface01;
+package basic.pond.a_interface.latest;
 
 /**
  * the class is create by @Author:oweson
@@ -11,7 +11,7 @@ public interface Animal {
         System.out.println("eating");
     }
 
-    public static void sleeping() {
+    static void sleeping() {
         System.out.println("sleep");
     }
 
