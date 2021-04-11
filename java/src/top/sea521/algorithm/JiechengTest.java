@@ -1,6 +1,4 @@
-package basic;
-
-import java.util.Collection;
+package top.sea521.algorithm;
 
 /**
  * the class is create by @Author:oweson
@@ -9,12 +7,9 @@ import java.util.Collection;
  */
 public class JiechengTest {
     public static void main(String[] args) {
-
         int num=1;
         for (int i = 1; i <9 ; i++) {
             num*=i;
-
-            
         }
         System.out.println(num);
     }
