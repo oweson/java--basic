@@ -1,4 +1,4 @@
-package top.sea521.temp.demo1;
+package top.sea521.algorithm.algo.array;
 
 
 /**
