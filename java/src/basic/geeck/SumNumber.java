@@ -17,5 +17,6 @@ public class SumNumber {
         System.out.println(end);
         System.out.println(sum);
         System.out.println((long)(end-begin));
+        // int 溢出！
     }
 }

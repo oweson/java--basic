@@ -15,17 +15,19 @@ import java.util.stream.Stream;
 
 
 public class NpeTest {
-   /* static {
-        System.out.println(1/0);
-    }*/
-    public static int demo1(){
-        Integer integer=null;
+    /* static {
+         System.out.println(1/0);
+     }*/
+    public static int demo1() {
+        Integer integer = null;
         return integer;
     }
-    public static Integer demo2(){
-        Integer integer=null;
+
+    public static Integer demo2() {
+        Integer integer = null;
         return integer;
     }
+
     public static void main(String[] args) {
         //System.out.println(demo1());
         demo2();
@@ -36,7 +38,7 @@ public class NpeTest {
         System.out.println(collect);
         // 求总数
         System.out.println(collect.stream().collect(Collectors.summingInt(item -> item)));
-// 求平均值
+        // 求平均值
         System.out.println(collect.stream().collect(Collectors.averagingInt(Integer::intValue)));
         // 统计个数
         System.out.println(collect.stream().collect(Collectors.counting()));

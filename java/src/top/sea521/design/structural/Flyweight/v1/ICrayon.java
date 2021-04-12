@@ -7,7 +7,7 @@ package top.sea521.design.structural.Flyweight.v1;
  */
 public interface ICrayon {
     /**
-     *
+     * 1 画画
      * @param place
      */
     void draw(String place);

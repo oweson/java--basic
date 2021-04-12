@@ -11,6 +11,8 @@ public class Demo2 {
         Demo2 demo2 = new Demo2();
         System.out.println(o.getClass().getClassLoader());
         System.out.println(demo2.getClass().getClassLoader());
+        // null
+        //sun.misc.Launcher$AppClassLoader@18b4aac2
     }
 
 }
